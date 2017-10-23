@@ -1,6 +1,6 @@
 installdir = $(pkglibdir)/python/Plugins/SystemPlugins/NetworkBrowser
 
-SUBDIRS = local icons
+SUBDIRS = locale icons
 
 install_PYTHON =	\
 	*.pyo
