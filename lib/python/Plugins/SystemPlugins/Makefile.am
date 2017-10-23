@@ -5,7 +5,7 @@ SUBDIRS = PositionerSetup Satfinder \
 	DefaultServicesScanner CommonInterfaceAssignment \
 	HdmiCEC VideoClippingSetup \
 	VideoEnhancement WirelessLan NetworkWizard \
-	SABnzbdSetup FastScan SatelliteEquipmentControl DiseqcTester NetworkBrowser
+	SABnzbdSetup FastScan SatelliteEquipmentControl DiseqcTester 
 
 if VUSOLO2
 SUBDIRS += CableScan
