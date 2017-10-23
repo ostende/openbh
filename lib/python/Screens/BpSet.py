@@ -964,19 +964,30 @@ class BhSpeedUp(Screen, ConfigListScreen):
 		["DVDPlayer", "enigma2-plugin-extensions-dvdplayer"],
 		["Dlna Browser (Djmount Client)", "enigma2-plugin-extensions-dlnabrowser"],
 		["MiniDlna UPnP Server", "enigma2-plugin-extensions-dlnaserver"],
+<<<<<<< HEAD
 		["Iptv-Player", "enigma2-plugin-extensions-iptvplayer"],
 		["Ts-Media", "enigma2-plugin-extensions-tsmedia"],
 		["Kodi-Lite", "enigma2-plugin-extensions-kodilite"],
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 		]
 		
 		machine = self.nab_Detect_Machine()		
 		if machine != "vusolo" and not machine.endswith("4k"):
+<<<<<<< HEAD
 			self.pluglist.append(["Opera,Youtube & HbbTV", "enigma2-plugin-extensions-hbbtv"])
+=======
+			self.pluglist.append(["Opera browser & HbbTV", "enigma2-plugin-extensions-hbbtv"])
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 		elif machine.endswith("4k"):
 			self.pluglist.append(["Chromium Browser & HbbTV", "webkit-hbbtv-browser-"+ machine ])
 			
 		if machine not in ("vusolo", "vuduo", "vuultimo", "vuuno", "vuzero"): 
+<<<<<<< HEAD
 			self.pluglist.append(["Kodi Launcher", "enigma2-plugin-extensions-kodi"])	
+=======
+			self.pluglist.append(["Kodi", "enigma2-plugin-extensions-kodi"])	
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 					
 		self.activityTimer = eTimer()
 		self.activityTimer.timeout.get().append(self.updateFeed2)

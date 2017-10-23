@@ -4,7 +4,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
+<<<<<<< HEAD
 "POT-Creation-Date: 2016-07-23 19:30+0200\n"
+=======
+"POT-Creation-Date: 2014-01-30 22:11+0100\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "PO-Revision-Date: 2014-01-22 23:31+0100\n"
 "Last-Translator: Andy Blackburn <andyblac@icloud.com>\n"
 "Language-Team: Arabic <moustafagamal@hotmail.com>\n"
@@ -69,12 +73,15 @@ msgstr ""
 "\n"
 "أضغط موافق من الريموت للاستمرار"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid ""
 "\n"
 "Recording in progress."
 msgstr "درجة تطور التنفيذ:"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy, python-format
 msgid ""
 "\n"
@@ -122,6 +129,7 @@ msgstr ""
 "\n"
 "مشاهده،تنصيب أو إزالة الباقات."
 
+<<<<<<< HEAD
 #
 #, fuzzy, python-format
 msgid " (Channel %s)"
@@ -131,6 +139,8 @@ msgstr "قناه"
 msgid " (Partition %d)"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid " (PiP)"
 msgstr ""
 
@@ -140,6 +150,7 @@ msgstr ""
 msgid " (TV)"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid " (disabled)"
 msgstr "تم التعطيل"
@@ -153,6 +164,8 @@ msgstr ""
 msgid " (lower than any auto)"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid " and"
 msgstr ""
 
@@ -161,6 +174,7 @@ msgid "%-H:%M"
 msgstr "%H:%M"
 
 #, python-format
+<<<<<<< HEAD
 msgid "%.0f GB"
 msgstr ""
 
@@ -176,6 +190,11 @@ msgstr ""
 msgid "%02d:%02d"
 msgstr ""
 
+=======
+msgid "%02d.%02d - %02d.%02d (%s%d min)"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #. TRANSLATORS: short time representation hour:minute
 #, python-format
 msgid "%2d:%02d"
@@ -212,10 +231,13 @@ msgstr ""
 msgid "%a %e/%m  %-H:%M"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "%d %B %Y"
 msgstr "%d.%B %Y"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, python-format
 msgid "%d GB"
 msgstr ""
@@ -304,6 +326,7 @@ msgid "%d minutes"
 msgstr ""
 
 #, python-format
+<<<<<<< HEAD
 msgid "%d pixel wide"
 msgid_plural "%d pixels wide"
 msgstr[0] ""
@@ -314,6 +337,8 @@ msgstr[4] ""
 msgstr[5] ""
 
 #, python-format
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "%d second"
 msgid_plural "%d seconds"
 msgstr[0] ""
@@ -334,10 +359,13 @@ msgstr[3] "تم العثور على شبكه لاسلكيه"
 msgstr[4] "تم العثور على شبكه لاسلكيه"
 msgstr[5] "تم العثور على شبكه لاسلكيه"
 
+<<<<<<< HEAD
 #, python-format
 msgid "%d.%02d. %02d:%02d"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "%d.%B %Y"
 msgstr "%d.%B %Y"
 
@@ -404,10 +432,13 @@ msgid "%s/%s: %s"
 msgstr ""
 
 #, python-format
+<<<<<<< HEAD
 msgid "%s:%s"
 msgstr ""
 
 #, python-format
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "'%s' contains %d file(s) and %d sub-directories.\n"
 msgstr ""
 
@@ -432,10 +463,13 @@ msgstr ""
 msgid "* Only available if more than one interface is active."
 msgstr "*متاحه فقط عند وجود أكثر من واحهه نشطه"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "* current animation"
 msgstr "تنشيط التكوين الحالى"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "/s"
 msgstr ""
 
@@ -510,6 +544,7 @@ msgstr ""
 msgid "1st Infobar timeout"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "2160p 24Hz"
 msgstr ""
 
@@ -525,6 +560,8 @@ msgstr ""
 msgid "2160p 60Hz"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "23.976"
 msgstr ""
 
@@ -554,16 +591,23 @@ msgstr ""
 msgid "3D Surround"
 msgstr "صـوت"
 
+<<<<<<< HEAD
 msgid "3D Surround Speaker Position"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "3D setup"
 msgstr ""
 
 msgid "3X"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "480p 24Hz"
+=======
+msgid "3d mode"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "4:3"
@@ -586,6 +630,7 @@ msgstr ""
 msgid "720p 24Hz"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "< Default >"
 msgstr "الافتراضى"
@@ -595,6 +640,8 @@ msgstr "الافتراضى"
 msgid "< Default with Picon >"
 msgstr "<مكان الافلام الافتراضى>"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "<Current movielist location>"
 msgstr "<موقع قائمه الافلام الحاليه>"
@@ -617,6 +664,7 @@ msgstr "؟؟"
 msgid "A"
 msgstr "أ"
 
+<<<<<<< HEAD
 msgid ""
 "A background update check is in progress,\n"
 "please wait a few minutes and try again."
@@ -625,6 +673,8 @@ msgstr ""
 msgid "A background update check is in progress, please wait a few minutes and then try again."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "A background update check is in progress, please wait a few minutes and try again."
 msgstr ""
 
@@ -706,17 +756,34 @@ msgid ""
 "%s"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid ""
 "A recording is currently in progress.\n"
+=======
+msgid ""
+"A recording is currently running.\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "What do you want to do?"
 msgstr ""
 "هناك تسجيل جارى الان \n"
 "ماذا تريد أن تفعل ؟"
 
+<<<<<<< HEAD
 msgid "A recording is currently running. Please stop the recording before trying to scan."
 msgstr ""
 
+=======
+msgid "A recording is currently running. Please stop the recording before trying to configure the positioner."
+msgstr "هناك تسجيل جارى حاليا . من فضلك أوقف التسجيل قبل محاولة ضبط الموتور."
+
+msgid "A recording is currently running. Please stop the recording before trying to scan."
+msgstr ""
+
+msgid "A recording is currently running. Please stop the recording before trying to start the satfinder."
+msgstr "هناك تسجيل جارى حاليا . من فضلك أوقف التسجيل قبل محاولة بدأ مكتشف الأقمار."
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "A repeating timer or just once?"
 msgstr ""
 
@@ -741,7 +808,11 @@ msgstr ""
 #, fuzzy, python-format
 msgid ""
 "A sleep timer wants to set your\n"
+<<<<<<< HEAD
 "%s %s to standby. Proceed?"
+=======
+"%s %s to standby. Do that now?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 "مؤقت النوم يريد نقل\n"
 "الدريم بوكس الى وضع الاستعداد. هل توافق ؟"
@@ -750,7 +821,11 @@ msgstr ""
 #, fuzzy, python-format
 msgid ""
 "A sleep timer wants to shut down\n"
+<<<<<<< HEAD
 "your %s %s. Proceed?"
+=======
+"your %s %s. Shutdown now?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 "مؤقت النوم يريد إغلاف\n"
 "الدريم بوكس . هل توافق ؟"
@@ -766,6 +841,7 @@ msgstr ""
 "فشل عمليه التسجيل بالمؤقت\n"
 "قم بتعطيل التليفزيون وحاول مره ثانيه؟\n"
 
+<<<<<<< HEAD
 msgid "AAC downmix"
 msgstr ""
 
@@ -775,6 +851,22 @@ msgstr ""
 msgid "AC3"
 msgstr ""
 
+=======
+msgid "A/V settings"
+msgstr ""
+
+#
+msgid "AA"
+msgstr "أأ"
+
+msgid "AAC downmix"
+msgstr ""
+
+#
+msgid "AB"
+msgstr "أب"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "ACQUIRING TSID/ONID"
 msgstr ""
 
@@ -789,6 +881,7 @@ msgid "AV aspect is %s."
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "AV settings"
 msgstr "تحرير الاعدادات"
@@ -811,6 +904,11 @@ msgstr "الغاء تحرير الباقه"
 msgid "Abort favourites edit"
 msgstr "الغاء تحرير المفضله"
 
+=======
+msgid "Abort"
+msgstr "الغاء"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "About"
 msgstr "عن"
@@ -823,6 +921,7 @@ msgstr "عـن..."
 msgid "Accesspoint:"
 msgstr "نقطة وصول"
 
+<<<<<<< HEAD
 msgid "Activate"
 msgstr ""
 
@@ -833,6 +932,24 @@ msgstr ""
 msgid "Activate MAC address configuration"
 msgstr "تنشيط التكوين الحالى"
 
+=======
+msgid "Action on long power button press"
+msgstr ""
+
+msgid "Action on short power button press"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+#, fuzzy
+msgid "Activate MAC-address configuration"
+msgstr "تنشيط التكوين الحالى"
+
+msgid "Activate PiP"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Activate Picture in Picture"
 msgstr "صوره داخل صوره نشط"
@@ -841,10 +958,13 @@ msgstr "صوره داخل صوره نشط"
 msgid "Activate current configuration"
 msgstr "تنشيط التكوين الحالى"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Activate network adapter configuration"
 msgstr "تنشيط تكوين محول الشبكه"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Activate network settings"
 msgstr "تفعيل إعدادات الشبكه"
@@ -852,12 +972,15 @@ msgstr "تفعيل إعدادات الشبكه"
 msgid "Activate the configured network settings."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Activate timeshift end"
 msgstr ""
 
 msgid "Activate timeshift end and pause"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Active"
 msgstr "نشط"
@@ -910,14 +1033,18 @@ msgid "Add a zap timer for next event"
 msgstr "الانتقال لاسفل الى البند التالى"
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Add alternatives"
 msgstr "إضافة بدائل"
 
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Add bookmark"
 msgstr "إضافة مرجعيه"
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Add bouquet"
 msgstr "إضافة باقه"
 
@@ -926,6 +1053,8 @@ msgid "Add bouquet to parental protection"
 msgstr "أضف حمايه أبويه"
 
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Add directory to playlist"
 msgstr "إضافة دليل لقائمه الاغانى"
 
@@ -938,10 +1067,13 @@ msgid "Add files to playlist"
 msgstr "إضافة ملفات لقائمة الاغانى"
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Add marker"
 msgstr "إضافة علامه"
 
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Add provider"
 msgstr "إضافة مزود خدمه"
 
@@ -962,6 +1094,7 @@ msgid "Add service"
 msgstr "إضافة قماه"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Add service to bouquet"
 msgstr "إضافه القناه الى الباقه"
@@ -972,6 +1105,8 @@ msgid "Add service to favourites"
 msgstr "إضافه القناه الى المفضله"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Add timer"
 msgstr "أضف مؤقت"
 
@@ -986,10 +1121,13 @@ msgstr "إضافه الى الباقه"
 msgid "Add to favourites"
 msgstr "إضافه الى المفضله"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Add to parental protection"
 msgstr "أضف حمايه أبويه"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Add/Remove timer for current event"
 msgstr ""
 
@@ -1002,6 +1140,7 @@ msgstr ""
 msgid "Address"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Adjust the color settings so that all the color shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other test screens."
 msgstr "أضبط إعدادات الالوان بحيث يمكن تمييز أطياف اللون، لكن تبدو مشبعه قدر الامكان. إذا كانت النتيجه مرضيه أضغط موافقلاغلاق النافذه ، أو استخدم مفاتيح الارقام لاختيار شاشات اختبار أخرى"
 
@@ -1009,6 +1148,14 @@ msgstr "أضبط إعدادات الالوان بحيث يمكن تمييز أط
 msgid "Advanced"
 msgstr "متقدم"
 
+=======
+msgid "Adjust 3D settings"
+msgstr ""
+
+msgid "Adjust the color settings so that all the color shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other test screens."
+msgstr "أضبط إعدادات الالوان بحيث يمكن تمييز أطياف اللون، لكن تبدو مشبعه قدر الامكان. إذا كانت النتيجه مرضيه أضغط موافقلاغلاق النافذه ، أو استخدم مفاتيح الارقام لاختيار شاشات اختبار أخرى"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Advanced options"
@@ -1033,6 +1180,12 @@ msgstr "سوفت ويريلج إنز متقدمه"
 msgid "Advanced video enhancement setup"
 msgstr "إعدادات تحسين فيديو متقدمه"
 
+<<<<<<< HEAD
+=======
+msgid "Advanced video setup"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "After event"
 msgstr "بعد الحدث"
@@ -1053,6 +1206,7 @@ msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "All frequency"
 msgstr "التردد"
 
@@ -1071,6 +1225,12 @@ msgid "All satellites 3 (USALS)"
 msgstr ""
 
 msgid "All satellites 4 (USALS)"
+=======
+msgid "All resolutions"
+msgstr "بحث آلـى"
+
+msgid "All satellites"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Allocate"
@@ -1088,6 +1248,12 @@ msgstr ""
 msgid "Allow unstable (experimental) updates"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Allows more detailed information to be in the crash log"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Allows the %s %s to read the stored EPG data regularly."
 msgstr ""
 
@@ -1097,7 +1263,11 @@ msgstr ""
 msgid "Allows you to adjust the amount of time the resolution infomation display on screen."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Allows you to enable the debug logs. They contain very detailed information about everything the system does. Reboot required to enable this!"
+=======
+msgid "Allows you to enable the debug logs. They contain very detailed information about everything the system does."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Allows you to enable/disable displaying icons on the front panel."
@@ -1132,10 +1302,13 @@ msgid "Alphanumeric"
 msgstr ""
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Also on standby"
 msgstr "الذهاب لوضع الاستعداد"
 
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Alternative"
 msgstr "إضافة بدائل"
 
@@ -1168,6 +1341,7 @@ msgstr ""
 msgid "An unknown error occurred!"
 msgstr "حدث خطأ غير معروف !"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Animation Setup"
 msgstr "ضبط الموتور"
@@ -1180,12 +1354,15 @@ msgstr ""
 msgid "Animations"
 msgstr "معلومات"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Any activity"
 msgstr ""
 
 msgid "Arabic"
 msgstr "عـربى"
 
+<<<<<<< HEAD
 #, python-format
 msgid "Are you ready to install \"%s\" ?"
 msgstr ""
@@ -1194,6 +1371,8 @@ msgstr ""
 msgid "Are you ready to remove \"%s\" ?"
 msgstr "هل أنت متأكد أنك تريد الخروج من هذه النافذه ؟"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Are you sure to remove this entry?"
 msgstr "هل أنت متأكد أنك تريد الخروج من هذه النافذه ؟"
@@ -1210,6 +1389,7 @@ msgid ""
 "the following backup:\n"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Are you sure you want to delete all the selected logs:\n"
 msgstr "هل أنت متأكد أنك تريد الخروج من هذه النافذه ؟"
@@ -1217,6 +1397,10 @@ msgstr "هل أنت متأكد أنك تريد الخروج من هذه النا
 #, fuzzy
 msgid "Are you sure you want to delete the EPG data from:\n"
 msgstr "هل أنت متأكد أنك تريد الخروج من هذه النافذه ؟"
+=======
+msgid "Are you sure you want to delete all selected logs:\n"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Are you sure you want to delete this log:\n"
 msgstr ""
@@ -1230,6 +1414,7 @@ msgstr "هل أنت متأكد أنك تريد الخروج من هذه النا
 msgid "Are you sure you want to exit this wizard?"
 msgstr "هل أنت متأكد أنك تريد الخروج من هذه النافذه ؟"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Are you sure you want to purge all deleted user bouquets?"
 msgstr "هل أنت متأكد أنك تريد الخروج من هذه النافذه ؟"
@@ -1255,6 +1440,11 @@ msgstr ""
 msgid "Are you sure you want to remove this entry?"
 msgstr "هل أنت متأكد أنك تريد الخروج من هذه النافذه ؟"
 
+=======
+msgid "Are you sure you want to reload the EPG data from:\n"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Are you sure you want to restart your network interfaces?\n"
 "\n"
@@ -1294,12 +1484,15 @@ msgstr ""
 msgid "Ask user"
 msgstr "أسال المستخدم"
 
+<<<<<<< HEAD
 msgid "Ask user (with default as 'no')"
 msgstr ""
 
 msgid "Ask user (with default as 'yes')"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Aspect ratio"
 msgstr ""
 
@@ -1315,12 +1508,15 @@ msgstr ""
 msgid "Attach a file"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Attention, this is repeated timer!\n"
 msgstr ""
 
 msgid "Audio"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Audio PID"
 msgstr ""
 
@@ -1364,16 +1560,22 @@ msgstr "آلـى"
 msgid "Auto Deep Standby"
 msgstr "وضع الاستعداد العميق"
 
+<<<<<<< HEAD
 msgid "Auto EXIF Orientation rotation/flipping"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Auto Standby"
 msgstr "وضع الاستعداد"
 
+<<<<<<< HEAD
 msgid "Auto Volume Level"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Auto chapter split every ? minutes (0=never)"
 msgstr ""
@@ -1391,6 +1593,7 @@ msgstr ""
 msgid "Auto language selection"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Auto play blu-ray file"
 msgstr ""
 
@@ -1402,6 +1605,11 @@ msgstr "التحول الآلى الى السكارت"
 msgid "AutoTimer overview"
 msgstr "إدخال المؤقت"
 
+=======
+msgid "Auto scart switching"
+msgstr "التحول الآلى الى السكارت"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Automatic"
 msgstr "آلى"
 
@@ -1459,15 +1667,28 @@ msgstr ""
 msgid "B"
 msgstr "ب"
 
+<<<<<<< HEAD
 msgid "BER:"
 msgstr ""
+=======
+#
+msgid "BA"
+msgstr "ب أ"
+
+#
+msgid "BB"
+msgstr "ب ب"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Back"
 msgstr "خلف"
 
+<<<<<<< HEAD
 msgid "Back/Recall"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Background"
 msgstr "خلفيه"
 
@@ -1536,9 +1757,12 @@ msgstr "التصرف عند إيقاف الفيلم"
 msgid "Behavior when a movie reaches the end"
 msgstr "التصرف عندما يصل الفيلم للنهايه"
 
+<<<<<<< HEAD
 msgid "Big PiP"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Bitrate:"
 msgstr ""
@@ -1559,9 +1783,12 @@ msgstr "منع الحد من الضوضاء"
 msgid "Blue"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Blue long"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Bookmarks"
 msgstr "الاشارات المرجعيه"
 
@@ -1584,15 +1811,22 @@ msgstr ""
 msgid "Brightness (Standby)"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid "Buffering %d%%"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Buffers:"
 msgstr ""
 
 #, python-format
+<<<<<<< HEAD
 msgid "Build:\t%s.%s%s (%s)\n"
+=======
+msgid "Build:\t%s"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -1629,6 +1863,7 @@ msgstr ""
 msgid "Button setup"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Button setup for"
 msgstr ""
 
@@ -1637,6 +1872,9 @@ msgid "ButtonSetup"
 msgstr "ضبط الموتور"
 
 msgid "By Team ViX"
+=======
+msgid "By Team BH"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Bypass HDMI EDID Check"
@@ -1701,28 +1939,38 @@ msgstr ""
 msgid "CH"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid "CH%s"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "CHANGE BOUQUET"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "CI (Common Interface) Setup"
 msgstr "وحده النفاذ المشروط"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "CI assignment"
 msgstr ""
 
 #, python-format
+<<<<<<< HEAD
 msgid "CPU speed:\t%s\n"
 msgstr ""
 
 #, python-format
 msgid "CPU:\t%s\n"
+=======
+msgid "CPU:\t%s"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -1775,6 +2023,7 @@ msgstr ""
 msgid "Cannot find any signal ..., aborting !"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Cannot move to the trash can"
 msgstr "مسح قبل البحث"
@@ -1783,6 +2032,10 @@ msgstr "مسح قبل البحث"
 #, fuzzy
 msgid "Capabilities: "
 msgstr "السعه:"
+=======
+msgid "Cannot move to trash can"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Capacity: "
@@ -1803,18 +2056,24 @@ msgstr ""
 msgid "Cardserial"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Cascade PiP"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Center DVB subtitles"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Change PIN"
 msgstr "تغيير مقاس الخطوه"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Change bouquets in quickzap"
 msgstr ""
 
@@ -1823,20 +2082,43 @@ msgstr ""
 msgid "Change next timer"
 msgstr "تغيير مقاس الخطوه"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Change recording (add time)"
 msgstr "من فضلك قم بتغيير وقت إنتهاء التسجيل"
+=======
+#
+msgid "Change pin code"
+msgstr "تغيير الرقم السرى"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Change recording (duration)"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Change recording (end time)"
 msgstr "من فضلك قم بتغيير وقت إنتهاء التسجيل"
+=======
+msgid "Change recording (endtime)"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Change repeat and delay settings?"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Change service PIN"
+msgstr ""
+
+msgid "Change service PINs"
+msgstr ""
+
+msgid "Change setup PIN"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Change step size"
 msgstr "تغيير مقاس الخطوه"
@@ -1851,10 +2133,22 @@ msgstr "تغيير مقاس الخطوه"
 msgid "Change to bouquet"
 msgstr "إضافه الى الباقه"
 
+<<<<<<< HEAD
+=======
+msgid "Changelog"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Channel"
 msgstr "قناه"
 
+<<<<<<< HEAD
+=======
+msgid "Channel +/- button mode"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Channel 1 at start"
 msgstr ""
 
@@ -1864,6 +2158,7 @@ msgstr ""
 msgid "Channel List"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Channel down"
@@ -1874,6 +2169,8 @@ msgstr "قناه"
 msgid "Channel info"
 msgstr "قناه"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Channel list context menu"
 msgstr ""
 
@@ -1909,11 +2206,14 @@ msgid "Channel selection settings"
 msgstr "إعدادات المجموعه"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Channel up"
 msgstr "قناه"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Channel:"
 msgstr "قناه:"
 
@@ -1943,6 +2243,12 @@ msgstr ""
 msgid "Check the internet connection again"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Checking Feeds"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Checking Logs..."
 msgstr ""
 
@@ -1958,7 +2264,11 @@ msgstr ""
 
 #, python-format
 msgid ""
+<<<<<<< HEAD
 "Checking tuner %s\n"
+=======
+"Checking tuner %d\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "DiSEqC port %s for %s"
 msgstr ""
 
@@ -1966,7 +2276,11 @@ msgid "Children/Youth"
 msgstr ""
 
 #, python-format
+<<<<<<< HEAD
 msgid "Chipset:\tBCM%s\n"
+=======
+msgid "Chipset:\tBCM%s"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -1982,7 +2296,11 @@ msgstr ""
 msgid "Choose between Daily, Weekly, Weekdays or user defined."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Choose the location for crash and debug logs folder."
+=======
+msgid "Choose the location for crash and debug logs."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Choose the location where the EPG data will be stored when the %s %s is shut down. The location must be available at boot time."
@@ -1997,6 +2315,7 @@ msgstr ""
 msgid "Choose what you want the '0' button to do when PIP is active."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Choose whether AAC sound tracks should be transcoded."
 msgstr ""
 
@@ -2006,6 +2325,11 @@ msgstr ""
 msgid "Choose whether multi channel sound tracks should be output as PCM."
 msgstr ""
 
+=======
+msgid "Choose whether multi channel sound tracks should be downmixed to stereo."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Choose whether or not to show an icon when a motorised dish is moving."
 msgstr ""
 
@@ -2018,10 +2342,13 @@ msgstr ""
 msgid "Chose between record and ZAP."
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Circular LNB"
 msgstr "يسار دائرى"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Circular left"
 msgstr "يسار دائرى"
 
@@ -2060,9 +2387,12 @@ msgstr "مسح قائمة العرض"
 msgid "Clients"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Clone TV screen to LCD"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Close"
 msgstr "أغلاق"
 
@@ -2117,6 +2447,13 @@ msgid "Command type"
 msgstr "ترتيب الأوامر"
 
 #
+<<<<<<< HEAD
+=======
+msgid "Committed DiSEqC command"
+msgstr ""
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Common Interface"
 msgstr "وحده النفاذ المشروط"
 
@@ -2168,6 +2505,7 @@ msgstr ""
 msgid "Configure how recording filenames are constructed."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Configure if and how crypto icons will be shown in the channel selection list."
 msgstr ""
 
@@ -2189,6 +2527,14 @@ msgstr ""
 msgid "Configure if the subtitle should switch between normal, italic, bold and bolditalic"
 msgstr ""
 
+=======
+msgid "Configure if and how service type icons will be shown."
+msgstr ""
+
+msgid "Configure if picons will be shown in the service list."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Configure interface"
 msgstr "تكوين الواجهه"
 
@@ -2264,6 +2610,15 @@ msgstr ""
 msgid "Configure the fourth subtitle language."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Configure the function of a long press of the power button."
+msgstr ""
+
+msgid "Configure the function of a short press of the power button."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Configure the function of the <  > buttons."
 msgstr ""
 
@@ -2273,10 +2628,13 @@ msgstr ""
 msgid "Configure the horizontal alignment of the subtitles."
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Configure the infobar fading speed"
 msgstr "تكوين الواجهه"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Configure the initial fast forward speed. When you press the fast forward button, winding will start at this speed."
 msgstr ""
 
@@ -2292,18 +2650,25 @@ msgstr ""
 msgid "Configure the minimum amount of disk space to be available for recordings. When the amount of space drops below this value, deleted items will be removed from the trash can."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Configure the minimum width before showing the 'i' icon, '0' is equal to not showing the icon at all."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Configure the nameserver (DNS)."
 msgstr ""
 
 msgid "Configure the netmask."
 msgstr ""
 
+<<<<<<< HEAD
 msgid ""
 "Configure the number of days after which items are automatically removed from the trash can.\n"
 "A setting of 0 disables this."
+=======
+msgid "Configure the number of days after which items are automatically removed from the trash can."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Configure the number of days old timers are kept before they are automatically removed from the timer list."
@@ -2324,7 +2689,11 @@ msgstr ""
 msgid "Configure the primary EPG language."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Configure the refresh rate of the screen. Multi means refresh rate depends on the source 24/50/60Hz"
+=======
+msgid "Configure the refresh rate of the screen."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Configure the second audio language."
@@ -2348,9 +2717,12 @@ msgstr ""
 msgid "Configure the slow motion speeds."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Configure the source of the frontend data as shown on the infobars. 'Settings' is as stored on the settings. 'Tuner' is as reported by the tuner."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Configure the speed of the background deletion process. Lower speed will consume less hard disk drive performance."
 msgstr ""
 
@@ -2387,6 +2759,7 @@ msgstr ""
 msgid "Configure whether (and for how long) a second infobar will be shown when OK is pressed twice. The second infobar contains additional information about the current channel."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Configure whether or not an rotor position will be displayed on infobar"
 msgstr ""
 
@@ -2396,6 +2769,11 @@ msgstr ""
 msgid "Configure which tuner for recordings will be preferred, when more than one tuner is available."
 msgstr ""
 
+=======
+msgid "Configure which color format should be used on the SCART output."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Configure which tuner type will be preferred, when the same service is available on different types of tuners."
 msgstr ""
 
@@ -2437,6 +2815,7 @@ msgstr "متصل بشبكه لاسلكيه"
 msgid "Connected clients"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Connected satellites"
 msgstr "حذف القمر المختار"
@@ -2444,6 +2823,14 @@ msgstr "حذف القمر المختار"
 msgid "Connected to"
 msgstr "متصل بـ"
 
+=======
+msgid "Connected to"
+msgstr "متصل بـ"
+
+msgid "Connected!"
+msgstr "تم الاتصال !"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Connected: "
 msgstr ""
 
@@ -2456,10 +2843,13 @@ msgstr ""
 msgid "Content does not fit on DVD!"
 msgstr "المحتوى لا يناسب دى فى دى !"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Context"
 msgstr "تباين"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Continue"
 msgstr ""
 
@@ -2500,6 +2890,7 @@ msgid "Copy"
 msgstr ""
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Copy to bouquets"
 msgstr "نسخ الى الباقات"
 
@@ -2511,6 +2902,19 @@ msgstr "فحص ملفات النظام...."
 #, fuzzy, python-format
 msgid "Cores:\t%s\n"
 msgstr "موديل :"
+=======
+msgid "Copying files"
+msgstr "فحص ملفات النظام...."
+
+#, python-format
+msgid "Cores:\t%s"
+msgstr ""
+
+#
+#, fuzzy, python-format
+msgid "Could not connect to %s %s .NFI image feed server:"
+msgstr "NFIتعذر إتصال الدريم بوكس بخادم تغذية صور "
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Could not find installed channel list."
 msgstr ""
@@ -2527,6 +2931,7 @@ msgstr "لا يمكن فتح صوره داخل صوره"
 msgid "Could not open the file %s!"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy, python-format
 msgid "Could not record due to a conflicting timer %s"
@@ -2534,6 +2939,14 @@ msgstr "وقت تسجيل محدود لوجود مؤقت متعارض %s"
 
 #, python-format
 msgid "Could not record due to an invalid service %s"
+=======
+#, python-format
+msgid "Could not record due to conflicting timer %s"
+msgstr ""
+
+#, python-format
+msgid "Could not record due to invalid service %s"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -2551,6 +2964,12 @@ msgstr "تكوين دى فى دى إيزو"
 msgid "Create directory"
 msgstr "إنشاء دليل"
 
+<<<<<<< HEAD
+=======
+msgid "Create more detailed crash log"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Creating AP and SC Files"
 msgstr ""
 
@@ -2590,6 +3009,7 @@ msgstr ""
 msgid "Current device: "
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy, python-format
 msgid "Current mode: %s \n"
 msgstr "القيمه الحاليه:"
@@ -2598,6 +3018,8 @@ msgstr "القيمه الحاليه:"
 msgid "Current rotor position: "
 msgstr "الاصدار الحالى:"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Current settings:"
 msgstr "الاعدادات الحاليه:"
 
@@ -2614,6 +3036,12 @@ msgstr "القيمه الحاليه:"
 msgid "Current version:"
 msgstr "الاصدار الحالى:"
 
+<<<<<<< HEAD
+=======
+msgid "Currently installed image"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Custom"
 msgstr "تخصيص"
@@ -2657,9 +3085,12 @@ msgstr ""
 msgid "DMM normal"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "DTS"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "DUAL LAYER DVD"
 msgstr "دى فى بى ثنائى الطبقه"
 
@@ -2714,10 +3145,13 @@ msgstr "دنماركى"
 msgid "Date"
 msgstr "تاريخ"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "De-select"
 msgstr "إلغاء الاختيار"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Debug Logs"
 msgstr ""
 
@@ -2744,6 +3178,7 @@ msgstr "الاعدادات الافتراضيه"
 msgid "Defaults"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Delay after change voltage before switch command"
 msgstr ""
 
@@ -2805,6 +3240,14 @@ msgstr ""
 msgid "Delay in miliseconds before start of scrolling text on display."
 msgstr ""
 
+=======
+msgid "Delay before key repeat starts:"
+msgstr ""
+
+msgid "Delay for external subtitles"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Delay time"
@@ -2824,11 +3267,14 @@ msgstr ""
 msgid "Delete Confirmation"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Delete EPG"
 msgstr "أمسح"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Delete entry"
 msgstr "مسح البند"
 
@@ -2853,6 +3299,14 @@ msgstr "مسح قائمة العرض المحفوظه"
 msgid "Delete timer"
 msgstr "حذف الملف"
 
+<<<<<<< HEAD
+=======
+#
+#, fuzzy
+msgid "Delete..."
+msgstr "مسح ..."
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Deleted"
 msgstr ""
 
@@ -2873,10 +3327,14 @@ msgstr ""
 msgid "Descramble & record ECM' gives the option to descramble afterwards if descrambling on recording failed. 'Don't descramble, record ECM' save a scramble recording that can be descrambled on playback. 'Normal' means descramble the recording and don't record ECM."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Descramble receiving http streams"
 msgstr ""
 
 msgid "Descramble sending http streams"
+=======
+msgid "Descramble http streams"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -2889,6 +3347,7 @@ msgstr "إلغاء الاختيار"
 msgid "Details for plugin: "
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Detected devices:"
@@ -2899,6 +3358,18 @@ msgstr "موجود موالف:"
 msgid "Detected tuners:"
 msgstr "موجود موالف:"
 
+=======
+msgid "Detected Devices:"
+msgstr ""
+
+#
+msgid "Detected NIMs:"
+msgstr "موجود موالف:"
+
+msgid "Device Information"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Device mounts"
 msgstr ""
 
@@ -2915,6 +3386,7 @@ msgid "DiSEqC"
 msgstr "دايزك"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "DiSEqC 1.0 command"
 msgstr "وضعيـه الدايزك"
@@ -2929,6 +3401,8 @@ msgid "DiSEqC 1.1 repeats"
 msgstr "تكرار الدايزك"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "DiSEqC A/B"
 msgstr "دايزك أ/ب"
 
@@ -2944,14 +3418,25 @@ msgstr "وضعيـه الدايزك"
 msgid "DiSEqC port %s: %s"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "DiSEqC repeats"
+msgstr "تكرار الدايزك"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "DiSEqC-tester settings"
 msgstr "إختبار إعدادات الدايزك"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Diction"
 msgstr "الوصـف"
+=======
+msgid "Dialing:"
+msgstr "جاري الاتصال:"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Digital contour removal"
 msgstr "حذف الكفاف الرقمى"
@@ -2976,10 +3461,13 @@ msgstr "متصفح الدليل"
 msgid "Disable"
 msgstr "تعطيل"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Disable Animations"
 msgstr "حذف الملف"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Disable Picture in Picture"
 msgstr "تعطيل صوره داخل صوره"
@@ -2988,10 +3476,13 @@ msgid "Disable background scanning"
 msgstr ""
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Disable move mode"
 msgstr "تعطيل وضع التحريك"
 
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Disable timer"
 msgstr "حذف الملف"
 
@@ -2999,9 +3490,22 @@ msgstr "حذف الملف"
 msgid "Disabled"
 msgstr "تم التعطيل"
 
+<<<<<<< HEAD
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr ""
 
+=======
+#
+msgid "Disconnect"
+msgstr "قطع الاتصال"
+
+msgid "Disk space to reserve for recordings (in GB)"
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Display 16:9 content as"
 msgstr "عرض محتويات 16:9 كـ"
 
@@ -3030,10 +3534,13 @@ msgstr "لا تغيير"
 msgid "Do not record"
 msgstr "تسجيل"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Do nothing"
 msgstr "                                                                                                       لا تفعل شيئ"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Do you really want to check the filesystem?\n"
 "This could take a long time!"
@@ -3069,6 +3576,7 @@ msgid "Do you really want to exit?"
 msgstr "هل تريد فعلا الخروج ؟"
 
 msgid ""
+<<<<<<< HEAD
 "Do you really want to initialize this device?\n"
 "All the data on the device will be lost!"
 msgstr ""
@@ -3084,6 +3592,18 @@ msgstr "هل تريد فعلا حذف الدليل %s من القرص؟"
 #, fuzzy
 msgid "Do you really want to permanently remove from the trash can ?"
 msgstr "هل تريد فعلا مسح البلج إن \"%s\" ؟"
+=======
+"Do you really want to initialize the device?\n"
+"All data on the disk will be lost!"
+msgstr ""
+
+#, python-format
+msgid "Do you really want to permamently remove '%s' from trash can ?"
+msgstr ""
+
+msgid "Do you really want to permanently remove from trash can ?"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #, python-format
 msgid "Do you really want to remove directory %s from the disk?"
@@ -3105,6 +3625,14 @@ msgid "Do you want to add any additional information ?"
 msgstr ""
 
 msgid ""
+<<<<<<< HEAD
+=======
+"Do you want to also install samba client ?\n"
+"This allows you to mount your windows shares on this device."
+msgstr ""
+
+msgid ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "Do you want to attach a text file to explain the log ?\n"
 "(choose 'No' to type message using virtual keyboard.)"
 msgstr ""
@@ -3113,6 +3641,7 @@ msgstr ""
 msgid "Do you want to burn this collection to DVD medium?"
 msgstr "هل تريد حرق هذه المجموعه فى وسيط دى فى دى ؟"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Do you want to continue?"
@@ -3120,6 +3649,10 @@ msgstr "ماذا تريد ان تبحث ؟"
 
 msgid ""
 "Do you want to delete all the selected files:\n"
+=======
+msgid ""
+"Do you want to delete all selected files:\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "(choose 'No' to only delete the currently selected file.)"
 msgstr ""
 
@@ -3130,6 +3663,7 @@ msgstr "هل تريد عمل بحث"
 msgid "Do you want to do another manual service scan?"
 msgstr "هل تريد عمل بحث يدوى جديد ؟"
 
+<<<<<<< HEAD
 msgid "Do you want to install the package:\n"
 msgstr "هل تريد فعلا تثبيت الرزمه:\n"
 
@@ -3138,6 +3672,15 @@ msgid ""
 "This will allow you to mount your windows shares on this device."
 msgstr ""
 
+=======
+#, python-format
+msgid "Do you want to download the image to %s ?"
+msgstr ""
+
+msgid "Do you want to install the package:\n"
+msgstr "هل تريد فعلا تثبيت الرزمه:\n"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Do you want to play DVD in drive?"
 msgstr "هل تريد تشغيل الدى فى دى الموجود فى السواقه"
@@ -3160,12 +3703,20 @@ msgid "Do you want to restore your settings?"
 msgstr "هل تريد إستعادة الاعدادات ؟"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Do you want to resume playback?"
 msgstr "هل تريد إستئناف هذا العرض؟"
 
 msgid ""
 "Do you want to send all the selected files:\n"
+=======
+msgid "Do you want to resume this playback?"
+msgstr "هل تريد إستئناف هذا العرض؟"
+
+msgid ""
+"Do you want to send all selected files:\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "(choose 'No' to only send the currently selected file.)"
 msgstr ""
 
@@ -3176,15 +3727,19 @@ msgstr "هل تريد إستعادة الاعدادات ؟"
 msgid "Do you want to upgrade the package:\n"
 msgstr "هل تريد ترقية الحزمه \n"
 
+<<<<<<< HEAD
 msgid "Dobly Digital downmix is now"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Dolby Digital / DTS downmix"
 msgstr ""
 
 msgid "Don't save"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Don't stop current event but disable future events"
 msgstr "لا توقف الحدث الحالى لكن قم بتعطيل الاحداث القادمه"
@@ -3200,6 +3755,11 @@ msgstr "حذف الملف"
 msgid "Don't zap and remove timer"
 msgstr "تسجيل"
 
+=======
+msgid "Don't stop current event but disable coming events"
+msgstr "لا توقف الحدث الحالى لكن قم بتعطيل الاحداث القادمه"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy, python-format
 msgid "Done - Installed, upgraded or removed %d package (%s)"
 msgid_plural "Done - Installed, upgraded or removed %d packages (%s)"
@@ -3210,10 +3770,23 @@ msgstr[3] "تم - تثبيت ، تحديث أو حذف %d الرزم والاخ�
 msgstr[4] "تم - تثبيت ، تحديث أو حذف %d الرزم والاخطاء%d "
 msgstr[5] "تم - تثبيت ، تحديث أو حذف %d الرزم والاخطاء%d "
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Down"
 msgstr "تحميل"
 
+=======
+msgid "Download"
+msgstr "تحميل"
+
+#, python-format
+msgid "Download %s from server"
+msgstr ""
+
+msgid "Download .NFI-files for USB-flasher"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Download plugins"
 msgstr ""
 
@@ -3223,10 +3796,16 @@ msgstr "جارى التحميل"
 msgid "Downloading plugin information. Please wait..."
 msgstr "جارى تحميل معلومات عن البلج إن. رجاء الانتظار.."
 
+<<<<<<< HEAD
 #
 #, fuzzy, python-format
 msgid "Drivers:\t%s\n"
 msgstr "إصدار جديد:"
+=======
+#, python-format
+msgid "Drivers:\t%s"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #, python-format
 msgid "Drivers: %s"
@@ -3289,6 +3868,7 @@ msgstr ""
 msgid "ERROR - failed to scan (%s)!"
 msgstr "خطأ - فشل البحث (%s)!"
 
+<<<<<<< HEAD
 msgid "ERROR:   Check is already running in background, please wait a few minutes and try again"
 msgstr ""
 
@@ -3305,6 +3885,8 @@ msgstr "لم يتم العثور على شبكه"
 msgid "ERROR: Check is already running in background"
 msgstr "%d وظائف تعمل فى الخلفيه"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "East"
 msgstr "شرق"
@@ -3324,17 +3906,27 @@ msgstr "تحرير"
 msgid "Edit DNS"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Edit alternatives"
 msgstr "تحرير البدائل"
+=======
+msgid "Edit bouquets list"
+msgstr "تحرير قائمة الباقات"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Edit chapters of current title"
 msgstr "تحرير الفصول والعنوان الحالى"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Edit new entry"
 msgstr "إدخال المؤقت"
+=======
+msgid "Edit services list"
+msgstr "تحرير قائمة القنوات"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Edit settings"
@@ -3395,6 +3987,7 @@ msgstr ""
 msgid "Enable ViaSat EPG"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Enable Virgin EPG"
 msgstr ""
 
@@ -3451,12 +4044,35 @@ msgid "Enable the use of the tuners of a remote enigma2 receiver when no local t
 msgstr ""
 
 msgid "Enable timer conflict detection"
+=======
+msgid "Enable debug logs"
+msgstr ""
+
+#
+msgid "Enable multiple bouquets"
+msgstr "تفعيل باقات متعدده"
+
+msgid "Enable panic button"
+msgstr ""
+
+#
+msgid "Enable parental control"
+msgstr "تفعيل التحكم الابوى"
+
+msgid "Enable teletext caching"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
 msgid "Enabled"
 msgstr "تم التفعيل"
 
+<<<<<<< HEAD
+=======
+msgid "Enables a feature so that the receiver can decrypt streams (if the ECM data is included in the stream and a valid card is available)."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Encrypted: "
 msgstr "مشفر"
@@ -3476,6 +4092,7 @@ msgid "Encryption:"
 msgstr "التشفير:"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "End"
 msgstr "تم التفعيل"
@@ -3495,6 +4112,8 @@ msgid "End favourites edit"
 msgstr "إنتهاء تحرير المفضله"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "End time"
 msgstr "وقت النهايه"
 
@@ -3502,10 +4121,17 @@ msgstr "وقت النهايه"
 msgid "English"
 msgstr "إنجليزى"
 
+<<<<<<< HEAD
 msgid "Enigma2 Changes"
 msgstr ""
 
 msgid "Enigma2 skin selector"
+=======
+msgid "Enigma2 skin selector"
+msgstr ""
+
+msgid "Enimga2 Changes"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Enter main menu..."
@@ -3526,6 +4152,7 @@ msgstr ""
 msgid "Entitlements"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Epg/Guide"
 msgstr ""
 
@@ -3536,13 +4163,19 @@ msgstr ""
 msgid "Equal to"
 msgstr "مساوى لـــ"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Error"
 msgstr "خطأ"
 
 msgid "Error code"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Error downloading the change log."
+=======
+msgid "Error downloading change log."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Error executing plugin"
@@ -3577,6 +4210,7 @@ msgstr ""
 msgid "Event font size"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Event name first"
 msgstr ""
 
@@ -3590,6 +4224,11 @@ msgstr "معاينة القائمه"
 msgid "Everyday"
 msgstr ""
 
+=======
+msgid "Event view"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Everywhere"
 msgstr ""
 
@@ -3614,7 +4253,11 @@ msgid "Exit EPG"
 msgstr ""
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Exit MAC address configuration"
+=======
+msgid "Exit MAC-address configuration"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "الخروج من تكوين أسم الخادم"
 
 msgid "Exit editor"
@@ -3632,18 +4275,24 @@ msgid "Exit mediaplayer"
 msgstr "الخروج من مشغل الوسائط"
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Exit mounts setup menu"
 msgstr "الخروج من قائمه إعداد الشبكه"
 
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Exit movie list"
 msgstr "الخروج من قائمة الافلام"
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Exit movie player..."
 msgstr "الخروج من مشغل الوسائط"
 
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Exit movie player?"
 msgstr "الخروج من مشغل الوسائط"
 
@@ -3652,6 +4301,7 @@ msgid "Exit nameserver configuration"
 msgstr "الخروج من تكوين أسم الخادم"
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Exit network adapter configuration"
 msgstr "الخروج من تهيئة محول الشبكه"
 
@@ -3660,12 +4310,15 @@ msgid "Exit network adapter setup menu"
 msgstr "الخروج من قائمه إعداد الشبكه"
 
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Exit network interface list"
 msgstr "الخروج من قائمة واجهة الشبكه"
 
 msgid "Exit network wizard"
 msgstr "خروج من نافذة إعدادات الشبكه"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Exit networkadapter setup menu"
 msgstr "الخروج من قائمه إعداد الشبكه"
@@ -3684,6 +4337,14 @@ msgstr "خبير"
 msgid "Extended"
 msgstr "إعدادات متقدمه"
 
+=======
+msgid "Exit the wizard"
+msgstr "خروج من نافذة الاعدادات"
+
+msgid "Expert"
+msgstr "خبير"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Extended Networksetup Plugin..."
 msgstr "بلج إن إعدادات الشبكه المتقدمه"
 
@@ -3716,6 +4377,7 @@ msgstr "التحكم فى الاضافات"
 msgid "External"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "External PiP"
@@ -3723,11 +4385,15 @@ msgstr "الفلاش الداخلى"
 
 #, python-format
 msgid "External Storage %s"
+=======
+msgid "External (CF)"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "External subtitle color"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "External subtitle dialog colorisation"
 msgstr ""
 
@@ -3790,6 +4456,14 @@ msgstr "FEC"
 msgid "FEC:"
 msgstr ""
 
+=======
+msgid "FAILED"
+msgstr ""
+
+msgid "FEC"
+msgstr "FEC"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "FLASH"
 msgstr ""
 
@@ -3802,21 +4476,27 @@ msgstr ""
 msgid "Factory reset"
 msgstr "العوده الى إعدادات المصنع"
 
+<<<<<<< HEAD
 msgid "Fade the infobar when hiding"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Failed"
 msgstr "فشل"
 
 msgid "Failed to write /tmp/positionersetup.log: "
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Fallback remote receiver URL"
 msgstr ""
 
 msgid "Fallback remote receiver streaming port"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, python-format
 msgid "Fan %d"
@@ -3840,14 +4520,18 @@ msgstr ""
 msgid "Fast forward speeds"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Fastforward"
 msgstr "تخطى للأمام"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Favourites"
 msgstr "المفضله"
 
+<<<<<<< HEAD
 msgid "Feeds status:   Stable"
 msgstr ""
 
@@ -3860,6 +4544,8 @@ msgstr ""
 msgid "Feeds status:   Updating"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "File appears to be busy.\n"
 msgstr ""
 
@@ -3881,12 +4567,15 @@ msgstr "إستعادة الوضع الى%s"
 msgid "Final position at index"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Final scroll delay"
 msgstr ""
 
 msgid "Find currently played service"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Fine movement"
 msgstr "تحريك الموتور"
@@ -3901,12 +4590,19 @@ msgstr "تم الانتهاء"
 msgid "Finished configuring your network"
 msgstr "تم الانتهاء من تكوين شبكتك"
 
+<<<<<<< HEAD
+=======
+msgid "Finished restarting your network"
+msgstr "تم النتهاء من إعادة تشغيل الشبكه"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Finnish"
 msgstr "إنتهاء"
 
 msgid "Fixed"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Flashing"
 msgstr ""
 
@@ -3926,6 +4622,23 @@ msgstr ""
 msgid "Force ToneBurst"
 msgstr "نغمة إنفجار"
 
+=======
+msgid "Flash"
+msgstr "شحن"
+
+msgid "Flashing"
+msgstr ""
+
+msgid "Flashing failed"
+msgstr "فشل الشحن"
+
+msgid "Following tasks will be done after you press OK!"
+msgstr "سيتم تنفيذ الاعمال الاتيه بعد أن تضغط على موافق !"
+
+msgid "Fontsize"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Force de-interlace"
 msgstr "تكوين الواجهه"
@@ -3940,6 +4653,15 @@ msgstr ""
 msgid "Frame size in full view"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Free Memory:"
+msgstr ""
+
+msgid "Free Swap:"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Free To Air"
 msgstr ""
 
@@ -3949,9 +4671,12 @@ msgstr ""
 msgid "Free memory:"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Free swap:"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Free:"
 msgstr ""
 
@@ -3978,11 +4703,14 @@ msgid "Frequency steps"
 msgstr "خطوات التردد"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Frequency:"
 msgstr "التردد"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Fri"
 msgstr "الجمعه"
 
@@ -3993,14 +4721,23 @@ msgstr "الجمعه"
 msgid "From :"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Front Display Panel"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, python-format
 msgid "Frontprocessor version: %d"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Ftpd service type: Vsftpd server"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Full screen"
 msgstr ""
 
@@ -4008,16 +4745,23 @@ msgid "Full transparency"
 msgstr ""
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Fulview resulution"
+=======
+msgid "Fullview resolution"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "مكان الفيلم"
 
 msgid "GB"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid "GStreamer:\t%s\n"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid ""
@@ -4048,6 +4792,15 @@ msgstr ""
 msgid "German"
 msgstr "المانـى"
 
+<<<<<<< HEAD
+=======
+msgid "Get latest experimental image"
+msgstr ""
+
+msgid "Get latest release image"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Getting Event Info failed!"
 msgstr ""
 
@@ -4064,6 +4817,7 @@ msgstr ""
 msgid "Go to first movie or top of list"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Go to next bouquet"
 msgstr "نسخ الى الباقات"
@@ -4091,6 +4845,8 @@ msgstr "الانتقال لاعلى الى البند السابق"
 msgid "Go to specific data/time"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Go up the list"
 msgstr ""
 
@@ -4113,9 +4869,36 @@ msgstr "الذهاب الى 0"
 msgid "Goto index position"
 msgstr "الذهل للموضع"
 
+<<<<<<< HEAD
 msgid "Goto position"
 msgstr "الذهل للموضع"
 
+=======
+msgid "Goto next bouquet"
+msgstr ""
+
+msgid "Goto next channel"
+msgstr ""
+
+msgid "Goto next event"
+msgstr ""
+
+msgid "Goto position"
+msgstr "الذهل للموضع"
+
+msgid "Goto previous bouquet"
+msgstr ""
+
+msgid "Goto previous channel"
+msgstr ""
+
+msgid "Goto previous event"
+msgstr ""
+
+msgid "Goto specific data/time"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "GotoX calibration"
 msgstr "الذهل للموضع"
@@ -4139,6 +4922,7 @@ msgstr ""
 msgid "Greek"
 msgstr "اليونان"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Green"
 msgstr "اليونان"
@@ -4155,6 +4939,11 @@ msgstr ""
 msgid "Grow from left"
 msgstr ""
 
+=======
+msgid "Grey"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Guard interval"
 msgstr ""
 
@@ -4164,12 +4953,15 @@ msgstr ""
 msgid "HD list"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "HD1100/et7x00/et8500"
 msgstr ""
 
 msgid "HD2400"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "HDMI"
 msgstr ""
 
@@ -4179,6 +4971,7 @@ msgstr ""
 msgid "HDMI CEC Setup"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "HDMI Colorspace"
 msgstr "نسق الالـوان"
@@ -4186,6 +4979,8 @@ msgstr "نسق الالـوان"
 msgid "HDMIin"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Handle standby from TV"
 msgstr ""
 
@@ -4200,16 +4995,20 @@ msgstr "ضبط القرص الصلب"
 msgid "Hard disk standby after"
 msgstr "القرص الصلب فى وضع الاستعداد بعد"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Harddisk setup"
 msgstr "ضبط القرص الصلب"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Hebrew"
 msgstr ""
 
 msgid "Height"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Help"
 msgstr ""
 
@@ -4217,6 +5016,9 @@ msgid "Help long"
 msgstr ""
 
 msgid "Helps setting up your antenna"
+=======
+msgid "Helps setting up your dish"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Hidden network"
@@ -4235,9 +5037,12 @@ msgstr ""
 msgid "Hide known extensions"
 msgstr "مشاهدة الاضافات..."
 
+<<<<<<< HEAD
 msgid "Hide parental locked services"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Hide player"
 msgstr "إخفاء المشغل"
@@ -4255,6 +5060,7 @@ msgstr "معلومات التسلسل الهرمى"
 msgid "High bitrate support"
 msgstr "دعم معدل البث العالى"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "History back"
 msgstr "إستعادة النسخه الإحتياطيه "
@@ -4267,6 +5073,11 @@ msgstr ""
 msgid "History next"
 msgstr "تسجيل"
 
+=======
+msgid "History buttons mode"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "History zap..."
 msgstr ""
 
@@ -4306,12 +5117,16 @@ msgstr ""
 msgid "Hours Mins Secs"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "How many minutes do you want add to the recording?"
 msgstr "كم دقيقه تريد أن تسجل ؟"
 
 #, fuzzy
 msgid "How many minutes do you want to record for?"
+=======
+msgid "How many minutes do you want to record?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "كم دقيقه تريد أن تسجل ؟"
 
 msgid "Hue"
@@ -4350,7 +5165,11 @@ msgstr ""
 msgid "Idle Time: "
 msgstr ""
 
+<<<<<<< HEAD
 msgid "If enabled the output resolution of the box will try to match the resolution of the video content"
+=======
+msgid "If enabled the output resolution of the box will try to match the resolution of the video contents resolution"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "If enabled the video will always be de-interlaced."
@@ -4401,9 +5220,14 @@ msgstr ""
 msgid "If the text is too long to be displayed on the front panel, it will be repeated (number of times):"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid ""
 "If you can see this, something is wrong with\n"
+=======
+msgid ""
+"If you see this, something is wrong with\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "your scart connection. Press OK to return."
 msgstr ""
 "إذا كنت تشاهد هذا، فهناك شيئ خطا فى \n"
@@ -4420,6 +5244,12 @@ msgstr ""
 "لا تهتم بظلال الاضاءه الان . سيتم عمل الاعادادت لها فى الخطوه القادمه \n"
 "إذا كنت تتقبل النتيجه ، أضغط موافق"
 
+<<<<<<< HEAD
+=======
+msgid "Image Information"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Image Manager"
 msgstr ""
 
@@ -4436,6 +5266,12 @@ msgstr "لكى تسجل مؤقت ، يجب تحويل التليفزيون ال�
 msgid "In progress"
 msgstr "جارى التقدم"
 
+<<<<<<< HEAD
+=======
+msgid "Inadyn Log"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Inadyn Setup"
 msgstr ""
 
@@ -4451,7 +5287,11 @@ msgstr ""
 msgid "Include EIT in http streams"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Incorrect service type for PiP!"
+=======
+msgid "Incorrect type service for PiP!"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Increase time scale"
@@ -4462,6 +5302,7 @@ msgid "Increased voltage"
 msgstr "فولت زائد"
 
 msgid "Index allocated:"
+<<<<<<< HEAD
 msgstr ""
 
 #
@@ -4477,6 +5318,13 @@ msgstr "شريط المعلومات"
 #, fuzzy
 msgid "Info (EPG) Long"
 msgstr "شريط المعلومات"
+=======
+msgstr ""
+
+#
+msgid "Info"
+msgstr "معلومات"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Info button (long)"
 msgstr ""
@@ -4484,9 +5332,12 @@ msgstr ""
 msgid "Info button (short)"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Info icon width"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "InfoBar EPG"
@@ -4500,12 +5351,15 @@ msgstr "شريط المعلومات"
 msgid "Infobar EPG"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Infobar fade-out speed"
 msgstr ""
 
 msgid "Infobar frontend data source"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "InfobarEPG settings"
@@ -4529,9 +5383,12 @@ msgstr "موقع غير صالح"
 msgid "Initial rewind speed"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Initial scroll delay"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Initial signal quality"
 msgstr ""
 
@@ -4551,9 +5408,12 @@ msgstr ""
 msgid "Inotify Monitoring"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Inotify monitoring"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Input"
 msgstr "مدخل"
 
@@ -4577,10 +5437,13 @@ msgstr "تثبيت صوره جديد بواسطه متصفح الشبكه"
 msgid "Install channel list"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Install extensions"
 msgstr "تثبيت إضافات"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Install extensions."
 msgstr "تثبيت إضافات"
 
@@ -4602,17 +5465,21 @@ msgstr ""
 msgid "Installation finished."
 msgstr "إنتهاء التثبيت."
 
+<<<<<<< HEAD
 #
 #, fuzzy, python-format
 msgid "Installed:\t%s\n"
 msgstr "تثبيت"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Installing"
 msgstr "جارى التثبيت"
 
 msgid "Installing Service"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Installing service"
 msgstr "جارى التثبيت"
@@ -4621,6 +5488,8 @@ msgstr "جارى التثبيت"
 msgid "Instant record"
 msgstr "تسجيل سريع"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Instant record location"
 msgstr "مكان التسجيل السريع"
 
@@ -4657,11 +5526,14 @@ msgstr "الفلاش الداخلى"
 msgid "Internal hdd only"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Internet"
 msgstr "الفلاش الداخلى"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Interval between keys when repeating:"
 msgstr ""
 
@@ -4708,7 +5580,11 @@ msgstr ""
 msgid "Jump back 24 hours"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Jump first press in channel selection"
+=======
+msgid "Jump first press in channel selection*"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Jump forward 24 hours"
@@ -4724,6 +5600,7 @@ msgstr ""
 msgid "Jump to end of list"
 msgstr "الوصول الى نهاية القائمه"
 
+<<<<<<< HEAD
 msgid "Jump to prime time"
 msgstr ""
 
@@ -4733,6 +5610,16 @@ msgstr ""
 #, fuzzy
 msgid "Jump to the previous marked position"
 msgstr "الانتقال خلفا للعنوان السابق"
+=======
+msgid "Jump to next marked position"
+msgstr ""
+
+msgid "Jump to previous marked position"
+msgstr ""
+
+msgid "Jump to prime time"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Just change channels"
 msgstr ""
@@ -4754,6 +5641,7 @@ msgstr "KA-SAT (9°E)"
 msgid "Keep service"
 msgstr "إضافة قماه"
 
+<<<<<<< HEAD
 msgid "Keeps the movie list open whilst playing audio files."
 msgstr ""
 
@@ -4761,6 +5649,14 @@ msgstr ""
 #, fuzzy, python-format
 msgid "Kernel:\t%s\n"
 msgstr "إصدار جديد:"
+=======
+msgid "Keeps MovieList open whilst playing audio files."
+msgstr ""
+
+#, python-format
+msgid "Kernel:\t%s"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #, python-format
 msgid "Kernel: %s"
@@ -4788,9 +5684,12 @@ msgstr "أتصال شبكه محليه"
 msgid "LED Deep Standby"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "LED Display Panel"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "LED Normal"
 msgstr ""
 
@@ -4821,9 +5720,12 @@ msgstr "اللغـه "
 msgid "Language selection"
 msgstr "إختيار اللغـه"
 
+<<<<<<< HEAD
 msgid "Large"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Last Req."
 msgstr ""
 
@@ -4837,9 +5739,13 @@ msgstr "السرعه السابقه"
 
 #
 #, fuzzy, python-format
+<<<<<<< HEAD
 msgid ""
 "Last update:\t%s\n"
 "\n"
+=======
+msgid "Last update:\t%s"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "تحديث قائمة الباقات"
 
 #
@@ -4958,16 +5864,22 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
+<<<<<<< HEAD
 msgid "List/Fav/PVR"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Listen to the radio..."
 msgstr "استمع للراديو......"
 
+<<<<<<< HEAD
 msgid "Lists reloaded!"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Lithuanian"
 msgstr "ليتوانى"
@@ -4983,12 +5895,16 @@ msgstr ""
 msgid "Load playlist"
 msgstr "تحميل قائمة العرض"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Load unlinked userbouquets"
 msgstr "تفعيل باقات متعدده"
 
 msgid "Load-Save-Delete"
+=======
+msgid "Load/Save"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Local box"
@@ -5005,12 +5921,15 @@ msgstr "مكان"
 msgid "Lock ratio"
 msgstr "مكان"
 
+<<<<<<< HEAD
 msgid "Lock:"
 msgstr ""
 
 msgid "Log"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Log Manager"
 msgstr ""
 
@@ -5024,15 +5943,24 @@ msgstr ""
 msgid "Logs"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Logs folder location"
 msgstr "<مكان المؤقت الاخير>"
+=======
+msgid "Logs location"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Logs manager"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Logs older than the specified number of days will be deleted."
+=======
+msgid "Logs older than the specified no of days will be deleted."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Logs settings"
@@ -5056,23 +5984,34 @@ msgstr "ضغط مستمر على مفتاح"
 msgid "Longitude"
 msgstr "خط الطول"
 
+<<<<<<< HEAD
 msgid "Loop through to"
 msgstr ""
 
 msgid "Lower Framerate save CPU Time"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Luxembourgish"
 msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "MAC address"
+=======
+msgid "MAC-address"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "عنوان IP"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "MAC address settings"
+=======
+msgid "MAC-address settings"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "إعدادات المحول"
 
 msgid "MAC:"
@@ -5114,11 +6053,14 @@ msgid "Manage your %s %s's software"
 msgstr "تحكم فى البرنامج التشغيلى للرسيفر"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Manual"
 msgstr "يدوى"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Manual Scan"
 msgstr "بحـث يدوى"
 
@@ -5142,6 +6084,7 @@ msgstr "الهامش قبل التسجيل (بالدقائق)"
 msgid "Margin before recording (minutes)"
 msgstr "الهامش قبل التسجيل (بالدقائق)"
 
+<<<<<<< HEAD
 msgid "Mark service as a dedicated 3D service"
 msgstr ""
 
@@ -5152,6 +6095,8 @@ msgstr ""
 msgid "Max memory positions"
 msgstr "تخزين الموقع"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Max. bitrate: "
 msgstr ""
 
@@ -5164,16 +6109,23 @@ msgstr ""
 msgid "Maxdown: "
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Maximum number of days"
+=======
+msgid "Maximum no of days"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Maximum total space used (MB)"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Maybe the reason that recording is currently running. Please stop the recording before trying to configure the positioner."
 msgstr "هناك تسجيل جارى حاليا . من فضلك أوقف التسجيل قبل محاولة ضبط الموتور."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Media playback Remaining/Elapsed as"
 msgstr ""
 
@@ -5196,9 +6148,22 @@ msgstr "الوسيط غير فارغ"
 msgid "Memory"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Memory index"
 msgstr ""
 
+=======
+msgid "Memory Information"
+msgstr ""
+
+msgid "Memory index"
+msgstr ""
+
+#, fuzzy
+msgid "Memory positions"
+msgstr "تخزين الموقع"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Menu"
 msgstr "قائمه"
@@ -5209,6 +6174,7 @@ msgstr ""
 msgid "Merging Timeshift files"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "MiniDLNA Setup"
 msgstr ""
 
@@ -5219,6 +6185,15 @@ msgid "MiniTV"
 msgstr ""
 
 msgid "MiniTV with OSD"
+=======
+msgid "MiniDLNA Log"
+msgstr ""
+
+msgid "MiniDLNA Setup"
+msgstr ""
+
+msgid "MiniDLNA setup"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -5234,12 +6209,15 @@ msgstr ""
 msgid "Mins Secs"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid ""
 "Misconfigured unicable connection from tuner %s to tuner %s!\n"
 "Tuner %s option \"connected to\" are disabled now"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Missing "
 msgstr ""
 
@@ -5261,11 +6239,14 @@ msgid "Model: "
 msgstr "موديل :"
 
 #
+<<<<<<< HEAD
 #, fuzzy, python-format
 msgid "Model: %s %s\n"
 msgstr "موديل :"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Modulation"
 msgstr "تعديل"
 
@@ -5293,6 +6274,7 @@ msgstr "شهر"
 msgid "Mosquito noise reduction"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Motor command retries"
 msgstr ""
 
@@ -5301,6 +6283,8 @@ msgstr ""
 msgid "Motor running timeout"
 msgstr "سرعة توليف الموتور"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Mount"
 msgstr ""
 
@@ -5316,9 +6300,12 @@ msgstr ""
 msgid "Move Left/Right"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Move PIP"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Move PiP to main picture"
 msgstr "تحريك صوره داخل صوره الى الصوره الرئيسيه"
@@ -5332,6 +6319,7 @@ msgstr ""
 msgid "Move down a page"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Move down to last entry"
 msgstr "الانتقال لأسفل الى البند الاخير"
@@ -5340,12 +6328,20 @@ msgstr "الانتقال لأسفل الى البند الاخير"
 msgid "Move down to next entry"
 msgstr "الانتقال لاسفل الى البند التالى"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Move east"
 msgstr "تحرك شرقا"
 
 msgid "Move to home of list"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Move to other directory"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Move to position X"
 msgstr "الذهل للموضع"
@@ -5353,6 +6349,7 @@ msgstr "الذهل للموضع"
 msgid "Move up a page"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Move up to first entry"
 msgstr "الانتقال لاعلى الى البند الاول"
@@ -5361,6 +6358,8 @@ msgstr "الانتقال لاعلى الى البند الاول"
 msgid "Move up to previous entry"
 msgstr "الانتقال لاعلى الى البند السابق"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Move west"
 msgstr "تحرك للغرب"
 
@@ -5432,15 +6431,19 @@ msgstr ""
 msgid "Multisat"
 msgstr "عدة أقمار"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Multisat all select"
 msgstr "إختيار العناوين الفرعيه"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Music/Ballet/Dance"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "N"
 msgstr "لا"
@@ -5448,6 +6451,19 @@ msgstr "لا"
 #
 msgid "N/A"
 msgstr "غير موجود"
+=======
+msgid "N/A"
+msgstr "غير موجود"
+
+#
+#, fuzzy
+msgid "NFI image flashing"
+msgstr "شحن صوره NFI"
+
+#
+msgid "NFI image flashing completed. Press Yellow to Reboot!"
+msgstr "تم النتهاء من شحن صوره NFI، رجاء الضغط على الذر الاصفر لاعادة التشغيل !"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "NFS Setup"
 msgstr ""
@@ -5458,9 +6474,12 @@ msgstr ""
 msgid "NIM"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "NO"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "NTP"
 msgstr ""
 
@@ -5504,11 +6523,23 @@ msgstr "الشبكه"
 msgid "Network ID"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Network Information"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Network MAC settings"
 msgstr "تفعيل إعدادات الشبكه"
 
+<<<<<<< HEAD
+=======
+msgid "Network Servers:"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Network Setup"
 msgstr "ضبط الشبـكة"
@@ -5516,11 +6547,14 @@ msgstr "ضبط الشبـكة"
 msgid "Network Test"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Network menu"
 msgstr "ضبط الشبـكة"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Network mounts"
 msgstr "أختبار الشبكه"
@@ -5532,10 +6566,13 @@ msgstr "إختبار الشبكه:"
 msgid "Network scan"
 msgstr "بحث عن الشبكه"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Network servers:"
 msgstr "إختبار الشبكه:"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Network setup"
 msgstr "ضبط الشبكه"
 
@@ -5556,6 +6593,12 @@ msgstr "الشبكه:"
 msgid "New"
 msgstr "جديد"
 
+<<<<<<< HEAD
+=======
+msgid "New PIN"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "New profile: "
 msgstr ""
 
@@ -5569,9 +6612,12 @@ msgstr "إصدار جديد:"
 msgid "News Current Affairs"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Next"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgctxt "now/next: 'next' event label"
 msgid "Next"
 msgstr ""
@@ -5597,6 +6643,7 @@ msgid "No Timeshift found to save as recording!"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "No active channel found."
 msgstr "%d تم العثور على"
@@ -5605,6 +6652,8 @@ msgid "No age block"
 msgstr ""
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "No backup needed"
 msgstr "لا حاجه الى نسخه إحتياطيه "
 
@@ -5614,10 +6663,13 @@ msgstr ""
 msgid "No card inserted!"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "No connection"
 msgstr "لا يوجد إتصال"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid ""
 "No data on transponder!\n"
@@ -5632,6 +6684,13 @@ msgid "No description available."
 msgstr "لا يوجد وصف"
 
 #
+<<<<<<< HEAD
+=======
+msgid "No details for this image file"
+msgstr "لا يوجد تفاصيل لملف الصوره هذا"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "No displayable files on this medium found!"
 msgstr "لا يوجد ملفات للعرض على هذا الوسيط !"
 
@@ -5648,11 +6707,14 @@ msgstr ""
 msgid "No free index available"
 msgstr "لا يوجد وصف"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "No free tuner available!"
 msgstr "لا يوجد وصف"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "No free tuner!"
 msgstr "لا يوجد موالف حر !"
 
@@ -5685,11 +6747,15 @@ msgstr ""
 msgid "No positioner capable frontend found."
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "No priority"
 msgstr "أولويه"
 
 msgid "No satellite, terrestrial or cable tuner is configured. Please check your tuner setup."
+=======
+msgid "No satellites configured. Plese check your tuner setup."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, fuzzy
@@ -5703,9 +6769,12 @@ msgstr ""
 msgid "No standby"
 msgstr "الذهاب لوضع الاستعداد"
 
+<<<<<<< HEAD
 msgid "No stream clients"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "No suitable sat tuner found!"
 msgstr ""
 
@@ -5733,6 +6802,26 @@ msgstr ""
 "لا يوجد موالف مفعل \n"
 "من فضلك أضبط إعدادات الموالف قبل البحث عن القنوات ."
 
+<<<<<<< HEAD
+=======
+msgid "No updates available. Please try again later."
+msgstr ""
+
+#
+msgid ""
+"No valid service PIN found!\n"
+"Do you like to change the service PIN now?\n"
+"When you say 'No' here the service protection stay disabled!"
+msgstr ""
+
+#
+msgid ""
+"No valid setup PIN found!\n"
+"Do you like to change the setup PIN now?\n"
+"When you say 'No' here the setup protection stay disabled!"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "No wireless networks found! Searching..."
 msgstr ""
 
@@ -5757,8 +6846,12 @@ msgstr ""
 "لم يتم العثور على واحهة شبكه عامله.\n"
 "رجاء التأكد من توصيل محول شبكه مناسب أو قم بتشغيل واحهة الشبكه المحليه."
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "No, but restart from the beginning"
+=======
+msgid "No, but restart from begin"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "لا، لكن أعد التشغيل من البدايه"
 
 msgid "No, do nothing."
@@ -5793,11 +6886,14 @@ msgstr "شمال"
 msgid "Norwegian"
 msgstr "نرويجى"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Not Defined"
 msgstr "يحددها المستخدم"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Not Flashing"
 msgstr ""
 
@@ -5807,10 +6903,13 @@ msgstr ""
 msgid "Not associated"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Not configured"
 msgstr "غير مكونه"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%d MB required, %d MB available)"
@@ -5835,6 +6934,7 @@ msgstr ""
 msgid "Nothing"
 msgstr "                                                                                                       لا تفعل شيئ"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Nothing connected"
 msgstr "لا شيئ متصل"
@@ -5847,6 +6947,8 @@ msgstr ""
 "لا يوجد شيئ للبحث ! \n"
 "من فضلك قم بضبط الموالف قبل بدأ البحث"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Nothing to scan!\n"
 "Please setup your tuner settings before you start a service scan."
@@ -5874,6 +6976,7 @@ msgstr ""
 msgid "Number of rows"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Number of rows to display"
 msgstr ""
 
@@ -5883,6 +6986,11 @@ msgstr ""
 msgid "OE-A Changes"
 msgstr ""
 
+=======
+msgid "OE Changes"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "OK"
 msgstr "موافق"
@@ -5899,9 +7007,12 @@ msgstr "موافق، أرشدنى أثناء عملية الترقيه"
 msgid "ONID"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "OSD"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "OSD 3D Setup"
 msgstr ""
 
@@ -5931,6 +7042,7 @@ msgstr "يعمل"
 msgid "On end of movie"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "On end of movie (as menu)"
 msgstr ""
 
@@ -5940,6 +7052,11 @@ msgstr ""
 msgid "On your remote, click on the button you want to change"
 msgstr ""
 
+=======
+msgid "On reaching the end of a file during playback, you can choose the box's behavior."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Once per day"
 msgstr ""
 
@@ -5964,6 +7081,7 @@ msgstr "إضافات فقط"
 msgid "Only free scan"
 msgstr "فقط بحث عن القنوات المفتوحه"
 
+<<<<<<< HEAD
 msgid "Only on startup"
 msgstr ""
 
@@ -6013,6 +7131,29 @@ msgstr "تحرير قائمة القنوات"
 msgid "OpenVPN setup"
 msgstr ""
 
+=======
+msgid "Open satellites list"
+msgstr ""
+
+msgid "Open service list"
+msgstr ""
+
+msgid "Open service list and select next channel"
+msgstr ""
+
+msgid "Open service list and select previous channel"
+msgstr ""
+
+msgid "Open the movie list"
+msgstr ""
+
+msgid "OpenVPN setup"
+msgstr ""
+
+msgid "OpenVpn Log"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "OpenVpn Setup"
 msgstr ""
 
@@ -6047,6 +7188,7 @@ msgstr ""
 msgid "PAL"
 msgstr "بال"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "PCM Multichannel"
@@ -6067,6 +7209,14 @@ msgstr ""
 msgid "PIP with OSD"
 msgstr ""
 
+=======
+msgid "PCR PID"
+msgstr ""
+
+msgid "PIDs"
+msgstr "PIDs"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "PLP ID"
 msgstr ""
 
@@ -6102,9 +7252,12 @@ msgstr ""
 msgid "Pan&scan"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Panic to"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Parent directory"
@@ -6114,6 +7267,20 @@ msgstr "الدليل الرئيسى"
 msgid "Parental control"
 msgstr "التحكم الابوى"
 
+<<<<<<< HEAD
+=======
+msgid "Parental control editor"
+msgstr ""
+
+#
+msgid "Parental control setup"
+msgstr "اعداد التحكم الابوى"
+
+#
+msgid "Parental control type"
+msgstr "نوع التحكم الابوى"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Password"
 msgstr "كلمة المرور"
@@ -6134,10 +7301,13 @@ msgstr "إيقاف الفيلم عند النهايه"
 msgid "Pause playback"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Pause/Continue playback"
 msgstr "استمرار العرض"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Peak load (max queued requests per workerthread)"
 msgstr ""
 
@@ -6178,6 +7348,13 @@ msgstr ""
 msgid "Persian"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+msgid "Phone number"
+msgstr "رقم التليفون"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "PiP"
 msgstr ""
 
@@ -6222,10 +7399,13 @@ msgstr "تشغيل دى فى دى"
 msgid "Play Music..."
 msgstr "تشغيل موسيقى"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Play as picture in picture"
 msgstr "تحريك صوره داخل صوره"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Play audio in background"
 msgstr ""
 
@@ -6251,9 +7431,12 @@ msgstr "أعرض من العلامه التاليه أو من قائمة الع�
 msgid "Play from previous mark or playlist entry"
 msgstr "عرض من العلامه السابقه أو من مدخل قائمة العرض"
 
+<<<<<<< HEAD
 msgid "Play in main window"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Play music..."
@@ -6275,6 +7458,7 @@ msgstr ""
 msgid "Play recorded movies..."
 msgstr "عرض الافلام المسجله"
 
+<<<<<<< HEAD
 msgid ""
 "Playback information missing\n"
 "Playback aborted to avoid crash\n"
@@ -6299,6 +7483,19 @@ msgstr "من فضلك قم بتغيير وقت إنتهاء التسجيل"
 #, fuzzy
 msgid "Please choose CCcam reader"
 msgstr "من فضلك أختار إضافه..."
+=======
+msgid "Please add titles to the compilation."
+msgstr "من فضلك أدخل عناوين للتأليف"
+
+msgid "Please change recording endtime"
+msgstr "من فضلك قم بتغيير وقت إنتهاء التسجيل"
+
+msgid "Please check your network settings!"
+msgstr "من فضلك أفحص إعدادات الشبكه!"
+
+msgid "Please choose CCcam-Reader"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Please choose an extension..."
 msgstr "من فضلك أختار إضافه..."
@@ -6335,6 +7532,7 @@ msgstr "من فضلك أدخل أسم للعلامه الجديده"
 msgid "Please enter a new filename"
 msgstr "من فضلك أدخل اسم جديد للملف"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please enter a new name:"
 msgstr "من فضلك أدخل اسم جديد للملف"
@@ -6345,6 +7543,13 @@ msgstr "من فضلك أدخل اسم ملف (فارغ= استخدم التار�
 #, fuzzy
 msgid "Please enter new description:"
 msgstr "من فضلك أدخل اسم جديد للملف"
+=======
+msgid "Please enter filename (empty = use current date)"
+msgstr "من فضلك أدخل اسم ملف (فارغ= استخدم التارخ الحالى)"
+
+msgid "Please enter name of the new directory"
+msgstr "من فضلك أدخل أسم الدليل الجديد"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #, fuzzy
 msgid "Please enter new name:"
@@ -6353,6 +7558,7 @@ msgstr "من فضلك أدخل اسم جديد للملف"
 msgid "Please enter the correct pin code"
 msgstr "من فضلك أدخل الرقم السرى الصحيح"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please enter the name of the new directory"
 msgstr "من فضلك أدخل أسم الدليل الجديد"
@@ -6361,6 +7567,8 @@ msgstr "من فضلك أدخل أسم الدليل الجديد"
 msgid "Please enter the new PIN code"
 msgstr "من فضلك أدخل الرقم السرى الصحيح"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Please enter the old PIN code"
 msgstr ""
 
@@ -6370,6 +7578,7 @@ msgstr "من فضلك اتبع التعليمات على التليفزيون"
 msgid "Please note that the previously selected media could not be accessed and therefore the default directory is being used instead."
 msgstr "من فضلك أعلم ان الوسيط المختار لا يمكن الدخول اليه ، ولهذا سيتم استخدام الدليل الافتراضى بدلا منه ."
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please open Picture in Picture first"
 msgstr "لا يمكن فتح صوره داخل صوره"
@@ -6381,6 +7590,11 @@ msgstr "من فضلك أضغط موافق للاستمرار"
 msgid "Please re-enter the new PIN code"
 msgstr "من فضلك أدخل الرقم السرى الصحيح"
 
+=======
+msgid "Please press OK to continue."
+msgstr "من فضلك أضغط موافق للاستمرار"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Please select a default EPG type..."
 msgstr ""
 
@@ -6402,6 +7616,12 @@ msgstr "من فضلك أختار الخدمه الفرعيه المطلوب تس
 msgid "Please select a subservice..."
 msgstr "من فضلك أختار الخدمه الفرعيه"
 
+<<<<<<< HEAD
+=======
+msgid "Please select an NFI file and press green key to flash!"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Please select medium to be scanned"
 msgstr "من فضلك أختار الوسيط المطلوب فحصه"
@@ -6409,6 +7629,13 @@ msgstr "من فضلك أختار الوسيط المطلوب فحصه"
 msgid "Please select medium to use as backup location"
 msgstr "من فضلك أختار الوسيط الذى سييستخدم كمكان للنسخه الإحتياطيه "
 
+<<<<<<< HEAD
+=======
+#
+msgid "Please select tag to filter..."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Please select the movie path..."
 msgstr "من فضلك أختار مسار الفيلم..."
 
@@ -6421,10 +7648,13 @@ msgstr ""
 "\n"
 "أضغط موافق للاستمرار."
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please select the tag to filter..."
 msgstr "من فضلك أختار مسار الفيلم..."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Please select the wireless network that you want to connect to.\n"
 "\n"
@@ -6447,6 +7677,7 @@ msgid "Please set up tuner D"
 msgstr "من فضلك أضبط الموالف D"
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Please set up tuner E"
 msgstr "من فضلك أضبط الموالف B"
 
@@ -6475,6 +7706,8 @@ msgid "Please set up tuner K"
 msgstr "من فضلك أضبط الموالف B"
 
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Please setup your user interface by adjusting the values till the edges of the blue box are touching the edges of your TV.\n"
 "When you are ready press OK to continue."
@@ -6482,6 +7715,7 @@ msgstr ""
 "من فضلك قم بتكوين التصال بالنترنت بملأ القيم المطلوبه \n"
 "عندما تكون مستعد أضغط موافق للاستمرار"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please use the UP/DOWN keys to select your language. Then press the OK button to select it."
 msgstr "من فضلك أستخدم ذر السهم العلوى أو السفلى لإختيار اللغه. ثم أضغط موافق ."
@@ -6489,6 +7723,10 @@ msgstr "من فضلك أستخدم ذر السهم العلوى أو السفل�
 #, fuzzy
 msgid ""
 "Please use the direction keys to move the PiP window.\n"
+=======
+msgid ""
+"Please use direction keys to move the PiP window.\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "Press Bouquet +/- to resize the window.\n"
 "Press OK to go back to the TV mode or EXIT to cancel the moving."
 msgstr ""
@@ -6496,12 +7734,19 @@ msgstr ""
 "أضغط ذر الباقات +/- لتغير مقاس النافذه \n"
 "أضغط موافق للعوده لوضع التليفزيون أو خروج لألغاء التحريك"
 
+<<<<<<< HEAD
+=======
+msgid "Please use the UP and DOWN keys to select your language. Afterwards press the OK button."
+msgstr "من فضلك أستخدم ذر السهم العلوى أو السفلى لإختيار اللغه. ثم أضغط موافق ."
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Please wait (downloading channel list)"
 msgstr ""
 
 msgid "Please wait (updating packages)"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please wait while gathering EPG data..."
 msgstr "رجاء الانتظار.... جارى إختبار الشبكه"
@@ -6509,6 +7754,14 @@ msgstr "رجاء الانتظار.... جارى إختبار الشبكه"
 #, fuzzy
 msgid "Please wait while scanning for devices..."
 msgstr "رجاء الانتظار حيث جارى البحث..."
+=======
+msgid "Please wait for activation of your network configuration..."
+msgstr "رجاء الانتظار حتى يتم تنشيط تكوينات الشبكه"
+
+#, fuzzy
+msgid "Please wait while gathering data..."
+msgstr "رجاء الانتظار.... جارى إختبار الشبكه"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Please wait while scanning is in progress..."
 msgstr "رجاء الانتظار حيث جارى البحث..."
@@ -6522,10 +7775,19 @@ msgstr "رجاء الانتظار.... جارى تحضير واجهات الشب�
 msgid "Please wait while we test your network..."
 msgstr "رجاء الانتظار.... جارى إختبار الشبكه"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please wait while your network configuration is activated..."
 msgstr "رجاء الانتظار.... جارى إعادة تشغيل الشبكه"
 
+=======
+msgid "Please wait while your network is restarting..."
+msgstr "رجاء الانتظار.... جارى إعادة تشغيل الشبكه"
+
+msgid "Please wait whilst feeds state is checked."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Please wait..."
 msgstr "رجاء الانتظار...."
 
@@ -6535,11 +7797,14 @@ msgstr "انتظر من فضلك ...يتم تحميل القائمه..."
 msgid "Plugin Browser"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Plugin browser"
 msgstr "بلج إنز"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Plugin details"
 msgstr ""
 
@@ -6560,11 +7825,14 @@ msgid "Polarisation"
 msgstr "الاستقطاب"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Polarisation:"
 msgstr "الاستقطاب"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Polarization"
 msgstr "الاستقطاب"
 
@@ -6572,9 +7840,12 @@ msgstr "الاستقطاب"
 msgid "Polish"
 msgstr "بولندى"
 
+<<<<<<< HEAD
 msgid "Popup"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Port"
 msgstr ""
 
@@ -6619,6 +7890,7 @@ msgstr "ضبط الموتور"
 msgid "Positioner"
 msgstr "الموتور"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Positioner (selecting satellites)"
 msgstr "حذف القمر المختار"
@@ -6640,6 +7912,11 @@ msgstr ""
 msgid "Power long"
 msgstr "سجل المؤقت"
 
+=======
+msgid "Positioner setup"
+msgstr "ضبط الموتور"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Power threshold in mA"
 msgstr ""
@@ -6649,16 +7926,27 @@ msgstr ""
 msgid "PowerManager entry"
 msgstr "حذف مدخلأسم الخادم"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "PowerMenu"
 msgstr "قائمه"
+=======
+msgid "PowerManager log"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 #, fuzzy
 msgid "PowerTimer List"
 msgstr "تحرير المؤقت"
 
+<<<<<<< HEAD
+=======
+msgid "PowerTimer Overview"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "PowerTimers"
 msgstr ""
 
@@ -6674,9 +7962,12 @@ msgstr ""
 msgid "Prefer AC3 track"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Prefer AC3+ track"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Prefer audio track stored by service"
 msgstr ""
 
@@ -6692,6 +7983,7 @@ msgstr ""
 msgid "Preferred tuner"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Preferred tuner DVB-C"
 msgstr ""
 
@@ -6711,15 +8003,23 @@ msgid "Preferred tuner DVB-T for recordings"
 msgstr ""
 
 msgid "Preferred tuner for recordings"
+=======
+msgid "Prepare another USB stick for image flashing"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
 msgid "Preparing... Please wait"
 msgstr "جارى التجهيز ... رجاء الانتظار"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Press '0' to toggle PiP mode"
 msgstr "أضغط موافق لتبدل الأختيار"
+=======
+msgid "Press '0' to toggle internal/external PiP."
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Press INFO on your remote control for additional information."
 msgstr ""
@@ -6753,21 +8053,29 @@ msgstr "اضغط موافق للبحث"
 msgid "Press OK to select a provider."
 msgstr "أضغط موافق لتختار مزود"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Press OK to select satellites"
 msgstr "أضغط موافق لتختار مزود"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Press OK to select/deselect a CAId."
 msgstr "إضغط موافق لاختيار/الغاء اختيار CAId"
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Press OK to set the MAC address."
+=======
+msgid "Press OK to set the MAC-address."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "أضغط موافق لتحرير الاعدادات"
 
 #
 msgid "Press OK to start the scan"
 msgstr "اضغط موافق لبدأ البحث"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Press OK to toggle the selection"
 msgstr "أضغط موافق لتبدل الأختيار"
@@ -6780,6 +8088,12 @@ msgstr ""
 
 #, fuzzy
 msgid "Press yellow to set this interface as the default interface."
+=======
+msgid "Press OK to toggle the selection."
+msgstr "أضغط موافق لتبدل الأختيار"
+
+msgid "Press yellow to set this interface as default interface."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "أضغط الذر الأصفر لتجعل هذه الواجهه هى الواجهه الأفتراضيه"
 
 msgid "Preview"
@@ -6788,10 +8102,13 @@ msgstr "معاينه"
 msgid "Preview menu"
 msgstr "معاينة القائمه"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Previous"
 msgstr "معاينه"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Primary DNS"
 msgstr "دى إن اس أبتدائى"
 
@@ -6825,6 +8142,7 @@ msgstr ""
 msgid "Properties of current title"
 msgstr "خصائص العنوان الحالى"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Protect configuration"
 msgstr "تهيئة الموالف"
@@ -6876,6 +8194,14 @@ msgstr "معاينة القائمه"
 msgid "Protect vix menu"
 msgstr "معاينة القائمه"
 
+=======
+msgid "Protect services"
+msgstr "إحمى القنوات"
+
+msgid "Protect setup"
+msgstr "إحمى الضبط"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Protocol"
 msgstr ""
 
@@ -6904,9 +8230,12 @@ msgstr ""
 msgid "Providers: "
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Purge deleted user bouquets"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Put TV in standby"
 msgstr ""
 
@@ -6918,6 +8247,7 @@ msgstr ""
 msgid "Python frontend for /tmp/mmi.socket"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid "Python:\t%s\n"
 msgstr ""
@@ -6933,6 +8263,11 @@ msgstr "سريع"
 msgid "Quick Actions"
 msgstr ""
 
+=======
+msgid "Quick"
+msgstr "سريع"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Quick zap"
 msgstr "انتقال سريع"
@@ -6949,9 +8284,12 @@ msgstr "مخرج RF"
 msgid "RGB"
 msgstr "RGB"
 
+<<<<<<< HEAD
 msgid "Radio"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Random"
 msgstr "عشوائى"
 
@@ -6962,7 +8300,11 @@ msgstr ""
 msgid "Rating undefined"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Read user data from oscam.conf"
+=======
+msgid "Read Userdata from oscam.conf"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Reader"
@@ -6982,8 +8324,12 @@ msgstr ""
 msgid "Really close without saving settings?"
 msgstr "هل تريد فعلا الغلق بدون حفظ الاعدادات ؟"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Really delete completed timers?"
+=======
+msgid "Really delete done timers?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "هل تريد فعلا مسح المؤقتات المعموله ؟"
 
 #
@@ -7003,10 +8349,13 @@ msgstr "هل تريد فعلا إعـادة التشغـيل الان ؟"
 msgid "Really shutdown now?"
 msgstr "هل تريد فعلا الاغلاق الان ؟"
 
+<<<<<<< HEAD
 #, python-format
 msgid "Really store at index %2d for current position?"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Really upgrade the frontprocessor and reboot now?"
 msgstr ""
 
@@ -7018,6 +8367,7 @@ msgid "Reboot"
 msgstr "إعادة التشغيل"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Rec"
 msgstr "تسجيل"
@@ -7027,6 +8377,8 @@ msgid "Reception Settings"
 msgstr "إعدادات المجموعه"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Record"
 msgstr "تسجيل"
 
@@ -7052,10 +8404,17 @@ msgstr "وقت تسجيل محدود لوجود مؤقت متعارض %s"
 msgid "Recording"
 msgstr "تسجيل"
 
+<<<<<<< HEAD
 msgid "Recording and playback settings"
 msgstr ""
 
 msgid "Recording in progress"
+=======
+msgid "Recording in progress"
+msgstr ""
+
+msgid "Recording settings"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Recording type"
@@ -7076,6 +8435,7 @@ msgstr ""
 msgid "Red button..."
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Red colored"
 msgstr "لون النص"
@@ -7084,6 +8444,12 @@ msgid "Red long"
 msgstr ""
 
 msgid "Reduce time scale"
+=======
+msgid "Reduce time scale"
+msgstr ""
+
+msgid "Reenter new PIN"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -7093,9 +8459,12 @@ msgid ""
 "This may take a few minutes"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Reflash recommended!"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Refresh every (in hours)"
 msgstr ""
 
@@ -7108,9 +8477,12 @@ msgstr "إختيار معدل الأنعاش"
 msgid "Regard deep standby as standby"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Region"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Relative"
 msgstr ""
 
@@ -7119,7 +8491,11 @@ msgstr "إعادة تحميل"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Reload blacklists"
+=======
+msgid "Reload black-/white lists"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "إعادة تحميل القائمه السوداء/البيضاء"
 
 msgid "Reloading EPG Cache..."
@@ -7137,9 +8513,12 @@ msgstr ""
 msgid "Remember service PIN"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Reminder, you have chosen to save timeshift file."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Remote box"
 msgstr ""
 
@@ -7164,6 +8543,7 @@ msgstr "حذف علامه"
 msgid "Remove a nameserver entry"
 msgstr "حذف مدخلأسم الخادم"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Remove all alternatives"
 msgstr "حذف كل البدائل"
@@ -7172,11 +8552,14 @@ msgstr "حذف كل البدائل"
 msgid "Remove all new found flags"
 msgstr "أحذف كل علامات وجد حديثا"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Remove bookmark"
 msgstr "حذف المرجعيه"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Remove bouquet from parental protection"
 msgstr "حذف من الحمايه الابويه"
@@ -7185,12 +8568,15 @@ msgstr "حذف من الحمايه الابويه"
 msgid "Remove cable services"
 msgstr "إحمى القنوات"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Remove completed timers after (days)"
 msgstr ""
 
 msgid "Remove currently selected title"
 msgstr "حذف العنوان الحالى المختار"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Remove entry"
 msgstr "حذف"
@@ -7221,6 +8607,17 @@ msgstr "حذف القمر المختار"
 msgid "Remove terrestrial services"
 msgstr "مزود أرضى"
 
+=======
+msgid "Remove finished."
+msgstr "إنتهاء الحذف"
+
+msgid "Remove items from trash can after (days)"
+msgstr ""
+
+msgid "Remove plugins"
+msgstr "حذف البلج إنز"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Remove timer"
 msgstr "حذف المؤقت"
 
@@ -7241,6 +8638,7 @@ msgstr "فشل حذف الدليل%s .قد يكون فارغ ."
 msgid "Removing partition table"
 msgstr "حذف عنوان"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Removing service"
 msgstr "إضافة قماه"
@@ -7258,6 +8656,14 @@ msgstr ""
 msgid "Rename name and description for new events"
 msgstr ""
 
+=======
+msgid "Rename"
+msgstr "إعادة التسميه"
+
+msgid "Rename failed!"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Rename to:"
 msgstr ""
 
@@ -7280,6 +8686,7 @@ msgstr "نوع الإعاده"
 msgid "Repeating event currently recording... What do you want to do?"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr ""
@@ -7294,6 +8701,10 @@ msgstr ""
 
 msgid "Require authentication for http streams"
 msgstr ""
+=======
+msgid "Repeats"
+msgstr "إعادات"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Required medium type:"
 msgstr "نوع الوسيط المطلوب"
@@ -7339,6 +8750,12 @@ msgstr "هل تريد إعادة تشغيل الاينجما2 الان ؟"
 msgid "Restart GUI now?"
 msgstr "هل تريد إعادة تشغيل الاينجما2 الان ؟"
 
+<<<<<<< HEAD
+=======
+msgid "Restart enigma"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Restart network"
 msgstr "إعادة تشغيل الشبكه"
 
@@ -7354,8 +8771,13 @@ msgstr "إستعاده"
 msgid "Restore backups"
 msgstr "إستعادة النسخه الإحتياطيه "
 
+<<<<<<< HEAD
 msgid "Restore deleted user bouquets"
 msgstr ""
+=======
+msgid "Restore is running..."
+msgstr "الاستعاده قيد التنفيذ"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Restore system settings"
 msgstr "إستعادة إعدادات النظام"
@@ -7383,6 +8805,7 @@ msgstr "العوده الى الخدمه القناه السابقه"
 msgid "Reverse bouquet buttons"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Reverse list"
 msgstr "تحرير قائمة القنوات"
@@ -7398,6 +8821,13 @@ msgstr "سرعة العوده للخلف"
 #, fuzzy
 msgid "Rewrap subtitles"
 msgstr "العناوين الفرعيه"
+=======
+msgid "Rewind speeds"
+msgstr "سرعة العوده للخلف"
+
+msgid "Rewrap teletext subtitles"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Right"
 msgstr "يمين"
@@ -7422,10 +8852,13 @@ msgstr "تخزين الموقع"
 msgid "Rotor turning speed"
 msgstr "سرعة توليف الموتور"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Rotor: "
 msgstr "المؤلف:"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Run how often ?"
 msgstr ""
 
@@ -7436,9 +8869,12 @@ msgstr ""
 msgid "Russian"
 msgstr "روسى"
 
+<<<<<<< HEAD
 msgid "S"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "S-Video"
 msgstr "S-Video"
 
@@ -7455,9 +8891,12 @@ msgstr ""
 msgid "SINGLE LAYER DVD"
 msgstr "دى فى دى أحادى الطبقه"
 
+<<<<<<< HEAD
 msgid "SNR:"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "SPDIF"
 msgstr ""
 
@@ -7465,6 +8904,12 @@ msgstr ""
 msgid "SSID:"
 msgstr "SSID:"
 
+<<<<<<< HEAD
+=======
+msgid "Samba Log"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Samba Setup"
 msgstr ""
 
@@ -7504,6 +8949,12 @@ msgstr "ضبط معدات القمر"
 msgid "Satellites"
 msgstr "اقمار صناعيه"
 
+<<<<<<< HEAD
+=======
+msgid "Satfinder"
+msgstr "الباحث عن الأقمار"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Sats"
 msgstr "أقمار"
@@ -7534,18 +8985,24 @@ msgstr ""
 msgid "Save playlist"
 msgstr "حفظ قائمة العرض"
 
+<<<<<<< HEAD
 msgid "Save timeshift and zap"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Save timeshift as movie and continue recording"
 msgstr ""
 
 msgid "Save timeshift as movie and stop recording"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Save timeshift in movie dir and zap"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Saving EPG Cache..."
 msgstr ""
 
@@ -7559,9 +9016,12 @@ msgstr ""
 msgid "Scaler sharpness"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Scaler vertical dejagging"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Scaling mode"
 msgstr "وضع التدريج"
@@ -7591,11 +9051,14 @@ msgstr "البحث عن SR إضافى"
 msgid "Scan files..."
 msgstr "فحص الملفات..."
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Scan options"
 msgstr "إختيارات متقدمه"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Scan wireless networks"
 msgstr "البحث عن شبكات لاسلكيه"
@@ -7650,7 +9113,11 @@ msgstr ""
 msgid "Search"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Search IMDb for information about the current event."
+=======
+msgid "Search IMDb for information about current event."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Search east"
@@ -7659,17 +9126,24 @@ msgstr "البحث شرقا"
 msgid "Search for similar events"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Search the epg for the current event."
+=======
+msgid "Search the epg for current event."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Search west"
 msgstr "بحث غربا"
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Search/WEB"
 msgstr "البحث شرقا"
 
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Searching"
 msgstr "البحث شرقا"
 
@@ -7687,9 +9161,12 @@ msgstr "جارى البحث عن حزم جديده تم تثبيتها أو حذ
 msgid "Searching west ..."
 msgstr "بحث غربا"
 
+<<<<<<< HEAD
 msgid "Second cable of motorized LNB"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Secondary DNS"
 msgstr "DNS ثانوى"
 
@@ -7726,17 +9203,25 @@ msgstr "أختار"
 msgid "Select a wireless network"
 msgstr "اختار الشبكه اللاسلكيه"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Select action"
 msgstr "أختار الموقع"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy, python-format
 msgid "Select action for timer %s:"
 msgstr "اختار ملفات النسخه الإحتياطيه "
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Select all"
 msgstr "أختار"
+=======
+msgid "Select an image to be downloaded"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Select audio track"
 msgstr "أختار مسار الصوت"
@@ -7756,6 +9241,15 @@ msgstr "اختار القناه التى تريد ان تسجل منها"
 msgid "Select copy destination for:"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Select default EPG type..."
+msgstr ""
+
+msgid "Select desired image from feed list"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Select destination for:"
 msgstr ""
 
@@ -7774,6 +9268,15 @@ msgstr ""
 msgid "Select if timeshift should continue when set to record."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Select if you want the Subservice mode to be activated."
+msgstr ""
+
+msgid "Select if you want to use the Obh colored buttons (set to 'no' if you want to use (Multi Quick Button)."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Select input device"
 msgstr ""
 
@@ -7789,11 +9292,14 @@ msgstr "أختار الموقع"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Select menu entry"
 msgstr "أختار مدخل قائمه"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Select movie"
 msgstr "اختار الفيلم"
 
@@ -7803,17 +9309,21 @@ msgstr "أختار مزود ليتم إضافته..."
 msgid "Select refresh rate"
 msgstr "أختار معدل الأنعاش"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Select satellites"
 msgstr "قمر واحد"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Select seekbar to be activated by arrow L/R (long) or << >> (long)."
 msgstr ""
 
 msgid "Select service to add..."
 msgstr "اختار قناه ليتم إضافتها"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Select slot"
 msgstr "أختار الموقع"
@@ -7822,14 +9332,19 @@ msgstr "أختار الموقع"
 msgid "Select sort method:"
 msgstr "أختار اسلوب الفيديو"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Select target folder"
 msgstr "أختار المجلد الهدف"
 
+<<<<<<< HEAD
 msgid "Select the desired function and click on \"OK\" to assign it. Use \"CH+/-\" to toggle between the lists. Select an assigned function and click on \"OK\" to de-assign it. Use \"Next/Previous\" to change the order of the assigned functions."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Select the movie path"
 msgstr "أختار مسار الفيلم"
@@ -7848,12 +9363,22 @@ msgstr "أختار مدخل الفيديو بأزرار أعلى/أسفا"
 msgid "Select video mode"
 msgstr "أختار اسلوب الفيديو"
 
+<<<<<<< HEAD
+=======
+msgid "Select what you want the Channel +/- buttons to activate."
+msgstr ""
+
+msgid "Select what you want the TV button to activate."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Select wireless network"
 msgstr "اختار الشبكه اللاسلكيه"
 
 msgid "Select your provider, and press OK to start the scan"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Selecting satellites 1 (USALS)"
@@ -7864,6 +9389,8 @@ msgstr "قمر واحد"
 msgid "Selecting satellites 2 (USALS)"
 msgstr "قمر واحد"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Send"
 msgstr ""
 
@@ -7892,9 +9419,12 @@ msgstr "صريى"
 msgid "Serial No"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Serial no"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Serv.Name"
 msgstr ""
 
@@ -7925,6 +9455,16 @@ msgstr ""
 msgid "Service font size"
 msgstr "معلومات القناه"
 
+<<<<<<< HEAD
+=======
+#
+msgid "Service has been added to the favourites."
+msgstr "تم إضافة القناه الى المفضله"
+
+msgid "Service has been added to the selected bouquet."
+msgstr "تم إضافة القناه الى الباقه المختاره."
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Service info font size"
 msgstr ""
 
@@ -7973,11 +9513,16 @@ msgstr "القنوات/الخدمات"
 msgid "Services may be grouped in bouquets. When enabled, you can use more than one bouquet."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Set Framerate for MiniTV"
+=======
+msgid "Set System"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Set as startup service"
 msgstr "من فضلك أختار الخدمه الفرعيه"
 
@@ -7987,6 +9532,8 @@ msgstr "الافتراضى"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Set end time"
 msgstr "أضبط وقت النتهاء"
 
@@ -7997,14 +9544,19 @@ msgid "Set fps for external subtitles"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Set interface as the default Interface"
+=======
+msgid "Set interface as default Interface"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "أبط واجهه لتكون واجهه إفتراضيه"
 
 #
 msgid "Set limits"
 msgstr "ضبط الحدود"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Set startup service"
 msgstr "إضافة قماه"
@@ -8017,6 +9569,11 @@ msgstr "النـظام"
 #
 #, fuzzy, python-format
 msgid "Set the MAC address of your %s %s.\n"
+=======
+#
+#, fuzzy, python-format
+msgid "Set the MAC-address of your %s %s.\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "تحرير تهيئة اسم الخادم للدريم بوكس. \n"
 
 msgid "Set the channel for this timer."
@@ -8064,7 +9621,11 @@ msgstr ""
 msgid "Set the scrolling speed of text on the front display."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Set the time before checking video source for resolution/refresh rate infomation."
+=======
+msgid "Set the time before checking video source for resolution infomation."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Set the time delay before hiding the infobar."
@@ -8091,7 +9652,11 @@ msgstr ""
 msgid "Set voltage and 22KHz"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Sets the root folder of movie list, to remove the '..' from being shown in that folder."
+=======
+msgid "Sets the root folder of movie list, to remove the '..' from benign shown in that folder."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Settings"
@@ -8130,6 +9695,14 @@ msgstr "معدات القمر"
 msgid "Setup your timezone."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+#, python-format
+msgid "Shall the USB stick wizard proceed and program the image file %s into flash memory?"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Share Folder's"
 msgstr ""
 
@@ -8157,6 +9730,7 @@ msgstr ""
 msgid "Show 1080p 30fps as"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Show 2160p 24fps as"
 msgstr ""
 
@@ -8169,6 +9743,8 @@ msgstr ""
 msgid "Show 480/576p 24fps as"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show 720p 24fps as"
 msgstr ""
 
@@ -8194,12 +9770,15 @@ msgstr ""
 msgid "Show EPG for current channel..."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Show EPG for current service"
 msgstr ""
 
 msgid "Show EPG..."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show Games show"
 msgstr ""
 
@@ -8213,9 +9792,12 @@ msgstr "مشاهدة الاضافات..."
 msgid "Show Media playback Remaining/Elapsed as"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Show MiniTV in the Front Display"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show OE Log"
 msgstr ""
 
@@ -8223,6 +9805,7 @@ msgstr ""
 msgid "Show OScam Info in extensions?"
 msgstr "مشاهدة الاضافات..."
 
+<<<<<<< HEAD
 msgid "Show PIP"
 msgstr ""
 
@@ -8231,6 +9814,8 @@ msgstr ""
 msgid "Show PIP in the Front Display"
 msgstr "إظهار مشغل الراديو..."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show PVR status in Movie Player infobar"
 msgstr ""
 
@@ -8259,7 +9844,11 @@ msgstr ""
 msgid "Show VCR scart on main menu"
 msgstr "أعرض قائمة دى فى دى الرئيسيه"
 
+<<<<<<< HEAD
 msgid "Show ViX spinning logo when the system is busy."
+=======
+msgid "Show Obh spinning logo when the system is busy."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -8267,18 +9856,24 @@ msgstr ""
 msgid "Show WLAN status"
 msgstr "أظهر حالة الشبكه الواسعه"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Show alternatives"
 msgstr "إظهار البدائل"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show animation while busy"
 msgstr ""
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Show background behind subtitles"
 msgstr "صورة الخلفيه"
 
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show background in Radio mode"
 msgstr "صورة الخلفيه"
 
@@ -8295,6 +9890,7 @@ msgstr "إظهار بيانات التردد"
 msgid "Show channel numbers in channel selection"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Show columns"
@@ -8305,6 +9901,8 @@ msgstr "أعرض قائمة دى فى دى الرئيسيه"
 msgid "Show crypto icons"
 msgstr "إظهر القنوات التى تبدأ بـ"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show crypto info in infobar"
 msgstr ""
 
@@ -8321,10 +9919,13 @@ msgstr ""
 msgid "Show event details"
 msgstr "إظهار تفاصيل الحدث"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Show event info plugins"
 msgstr "إظهار شريط المعلومات"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Show event-progress in channel selection"
 msgstr ""
@@ -8333,6 +9934,7 @@ msgstr ""
 msgid "Show extended description"
 msgstr "إظهار وصف متقدم"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Show extension selection"
 msgstr "إظهار وصف متقدم"
@@ -8358,6 +9960,11 @@ msgstr ""
 msgid "Show help"
 msgstr "أعرض قائمة دى فى دى الرئيسيه"
 
+=======
+msgid "Show extensions..."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show icon for new/unseen items"
 msgstr ""
 
@@ -8399,6 +10006,7 @@ msgstr ""
 msgid "Show movie lengths in movielist"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Show movies"
@@ -8415,11 +10023,19 @@ msgstr ""
 #, fuzzy
 msgid "Show or hide the extended description, (skin dependant)."
 msgstr "إظهار وصف متقدم"
+=======
+msgid "Show network mounts ..."
+msgstr ""
+
+msgid "Show or hide the extended description, (skin dependent)."
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #, fuzzy
 msgid "Show picon background color"
 msgstr "لون الخلفيه"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Show picons in service list"
@@ -8439,6 +10055,11 @@ msgstr ""
 msgid "Show record indicator"
 msgstr "إظهار بيانات التردد"
 
+=======
+msgid "Show positioner movement"
+msgstr "شاهد حركة الموتور"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show screensaver"
 msgstr ""
 
@@ -8446,6 +10067,7 @@ msgstr ""
 msgid "Show second infobar"
 msgstr "إظهار بيانات التردد"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Show select audio track"
 msgstr "أختار مسار الصوت"
@@ -8463,6 +10085,15 @@ msgstr "إظهر القنوات التى تبدأ بـ"
 #
 #, fuzzy
 msgid "Show service type icons"
+=======
+#
+#, fuzzy
+msgid "Show service type icons"
+msgstr "إظهر القنوات التى تبدأ بـ"
+
+#
+msgid "Show services beginning with"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "إظهر القنوات التى تبدأ بـ"
 
 #, fuzzy
@@ -8480,6 +10111,7 @@ msgstr ""
 msgid "Show status icons in movie list"
 msgstr "قناه غير موجوده فى قائمة الخدمات"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Show subservice selection"
@@ -8499,10 +10131,28 @@ msgstr "إظهار مشغل الراديو..."
 #, fuzzy
 msgid "Show the list of autotimers."
 msgstr "إظهار مشغل الراديو..."
+=======
+msgid "Show status icons in movielist"
+msgstr ""
+
+#
+#, fuzzy
+msgid "Show tag menu"
+msgstr "أعرض قائمة دى فى دى الرئيسيه"
+
+msgid "Show the list of AutoTimers."
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Show the list of timers."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Show the media player..."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show the plugin browser.."
 msgstr ""
 
@@ -8517,24 +10167,31 @@ msgstr "إظهار مشغل التليفزيون"
 msgid "Show time elapsed as positive"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Show time in 24 hour clock format."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show time remaining/elapsed"
 msgstr ""
 
 msgid "Show translation packages"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Show transponder info"
 msgstr "إظهار بيانات التردد"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show transponder remaining/elapsed as"
 msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Show warning when in a stream"
 msgstr "التصرف عند إيقاف الفيلم"
 
@@ -8547,6 +10204,12 @@ msgid "Shows live tv or informations on LCD."
 msgstr ""
 
 msgid "Shows the icons when new/unseen, otherwise it will not show an icon."
+=======
+msgid "Show warning when timeshift is stopped"
+msgstr "التصرف عند إيقاف الفيلم"
+
+msgid "Shows the icons when new/unseen, else will not show an icon."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -8570,11 +10233,14 @@ msgstr ""
 msgid "Side by side"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Signal Finder"
 msgstr "الاشاره"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Signal OK, proceeding"
 msgstr ""
 
@@ -8582,10 +10248,13 @@ msgstr ""
 msgid "Signal Strength:"
 msgstr "قوة الاشاره"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Signal finder"
 msgstr "الباحث عن الأقمار"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Signal quality"
@@ -8612,20 +10281,26 @@ msgid "Simple"
 msgstr "بسيطه"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Simple fade"
 msgstr "بسيطه"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Simple titleset (compatibility for legacy players)"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Simple zoom"
 msgstr "بسيطه"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Single"
 msgstr "مفرد"
 
@@ -8642,6 +10317,13 @@ msgid "Single step (GOP)"
 msgstr "قمر واحد"
 
 #
+<<<<<<< HEAD
+=======
+msgid "Single transponder"
+msgstr "تردد واحد"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "SingleEPG settings"
 msgstr "تحرير الاعدادات"
@@ -8662,10 +10344,13 @@ msgstr ""
 msgid "Skin Setting"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid "Skin name:\t%s\n"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Skin setup"
 msgstr ""
 
@@ -8674,6 +10359,7 @@ msgid "Skins"
 msgstr "الجلود"
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Skip back"
 msgstr "تخطى للخلف"
 
@@ -8693,11 +10379,20 @@ msgstr ""
 msgid "Sleep"
 msgstr "مؤقت النوم"
 
+=======
+msgid "Skip empty services"
+msgstr "إحمى القنوات"
+
+msgid "Skip internet connection check (disables automatic package installation)"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Sleep delay"
 msgstr "مؤقت النوم"
 
+<<<<<<< HEAD
 msgid "Slide drop"
 msgstr ""
 
@@ -8707,20 +10402,28 @@ msgstr ""
 msgid "Slide left to right"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Slide picture in loop"
 msgstr "صورة الشريحة في حلقة"
 
+<<<<<<< HEAD
 msgid "Slide right to left"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Slide show interval (sec.)"
 msgstr "الفاصل الزمنى بين عرض الرائح(ثانيه)"
 
+<<<<<<< HEAD
 msgid "Slide top to bottom"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, python-format
 msgid "Slot %d"
 msgstr "فتحة %d"
@@ -8738,14 +10441,18 @@ msgstr "بطيئ"
 msgid "Slow motion speeds"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Small"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Small progress"
 msgstr "جارى التقدم"
 
+<<<<<<< HEAD
 msgid "Smooth"
 msgstr ""
 
@@ -8753,6 +10460,12 @@ msgid "Social/Political/Economics"
 msgstr ""
 
 msgid "SoftCam and CI"
+=======
+msgid "Social/Political/Economics"
+msgstr ""
+
+msgid "SoftCam / CI"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Softcam setings"
@@ -8793,6 +10506,7 @@ msgstr ""
 msgid "Some plugins are not available:\n"
 msgstr "بعض البلج إنز غير متوفر : \n"
 
+<<<<<<< HEAD
 msgid "Sorry feeds are down for maintenance, please try again later. If this issue persists please check openvix.co.uk or world-of-satellite.com."
 msgstr ""
 
@@ -8812,6 +10526,24 @@ msgid "Sorry your MiniDLNA config is missing"
 msgstr ""
 
 msgid "Sorry your uShare config is missing"
+=======
+msgid "Sorry Inadyn Config is Missing"
+msgstr ""
+
+msgid "Sorry MiniDLNA Config is Missing"
+msgstr ""
+
+msgid "Sorry feeds are down for maintenance"
+msgstr ""
+
+msgid "Sorry feeds are down for maintenance, please try again later."
+msgstr ""
+
+msgid "Sorry feeds seem be in an unstable state, if you wish to use them please enable 'Allow unstable updates' in \"software update setup\"."
+msgstr ""
+
+msgid "Sorry uShare Config is Missing"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -8824,9 +10556,12 @@ msgstr ""
 msgid "Sorry, no details available!"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Sorry, this tuner is in use."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Sorry, your backup destination is not writeable.\n"
 "Please select a different one."
@@ -8838,6 +10573,7 @@ msgstr ""
 msgid "Sort EPG List"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Sort Trash by deletion time"
 msgstr ""
 
@@ -8860,15 +10596,23 @@ msgstr ""
 msgid "Sort list:"
 msgstr "ضبط الحدود"
 
+=======
+msgid "Sort list by"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Sort menu screens alphabetically"
 msgstr ""
 
 msgid "Sort plug-in browser alphabetically"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Sort plugins list to default?"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Sort setting screens alphabetically"
 msgstr ""
 
@@ -8899,15 +10643,19 @@ msgstr "أسبانى"
 msgid "Split preview mode"
 msgstr "تقسيم وضعية المعاينه"
 
+<<<<<<< HEAD
 msgid "Splitscreen"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Sports"
 msgstr ""
 
 msgid "Standard"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Standart list"
@@ -8928,6 +10676,18 @@ msgstr "وضع الاستعداد/إعاده التشغيل"
 msgid "StandbyLED"
 msgstr "وضع الاستعداد"
 
+=======
+msgid "Standby"
+msgstr "وضع الاستعداد"
+
+msgid "Standby / Restart"
+msgstr "وضع الاستعداد/إعاده التشغيل"
+
+#, fuzzy
+msgid "Standby / restart"
+msgstr "وضع الاستعداد/إعاده التشغيل"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Start"
 msgstr "أبـدأ"
@@ -8936,10 +10696,13 @@ msgstr "أبـدأ"
 msgid "Start from the beginning"
 msgstr "أبدأ من البدايه"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Start instant recording"
 msgstr "هذا التسجيل"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Start offline decode"
 msgstr ""
 
@@ -8948,11 +10711,14 @@ msgid "Start recording?"
 msgstr "هذا التسجيل"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Start teletext"
 msgstr "أختبار البدأ"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Start test"
 msgstr "أختبار البدأ"
 
@@ -8996,6 +10762,7 @@ msgstr "إيقاف"
 msgid "Stop PiP"
 msgstr "إيقاف صوره داخل صوره"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Stop all current recordings"
 msgstr "هذا التسجيل"
@@ -9024,6 +10791,14 @@ msgstr "إيقاف الحدث الحالى وتعطيل الاحداث القا�
 #
 #, fuzzy
 msgid "Stop current event but not future events"
+=======
+#
+msgid "Stop current event and disable coming events"
+msgstr "إيقاف الحدث الحالى وتعطيل الاحداث القادمه"
+
+#
+msgid "Stop current event but not coming events"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "إقاف الحدث الحالى فقط وليس الاحداث القادمه"
 
 #
@@ -9035,9 +10810,12 @@ msgstr "إيقاف الاختبار"
 msgid "Stop playing this movie?"
 msgstr "إيقاف عرض هذا الفيلم؟"
 
+<<<<<<< HEAD
 msgid "Stop previous broadcasted service on return to movie list."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Stop recording"
 msgstr ""
 
@@ -9048,6 +10826,7 @@ msgstr ""
 msgid "Stop recording now"
 msgstr "هذا التسجيل"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Stop recording:"
 msgstr "هذا التسجيل"
@@ -9060,6 +10839,8 @@ msgstr "هذا التسجيل"
 msgid "Stop service on return to movie list"
 msgstr "نعم، العوده الى قائمة الافلام"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Stop test"
 msgstr "إيقاف الاختبار"
@@ -9080,9 +10861,12 @@ msgstr ""
 msgid "Stop timeshift while recording?"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Stop using as startup service"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Stopped"
 msgstr ""
 
@@ -9111,6 +10895,7 @@ msgstr ""
 msgid "Stream request"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Stream-tv"
 msgstr ""
 
@@ -9129,11 +10914,20 @@ msgstr ""
 msgid "Stripes"
 msgstr ""
 
+=======
+msgid "Strict DLNA"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Strongest position"
 msgstr "تخزين الموقع"
 
+<<<<<<< HEAD
 msgid "Subnet"
+=======
+msgid "Subservice mode"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -9142,11 +10936,14 @@ msgstr "الخدمات الفرعيه"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Subtitle"
 msgstr "العناوين الفرعيه"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Subtitle Quickmenu"
 msgstr "إختيار العناوين الفرعيه"
 
@@ -9195,11 +10992,14 @@ msgid "Subtitles"
 msgstr "العناوين الفرعيه"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Subtitles settings"
 msgstr "إختيار العناوين الفرعيه"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Sun"
 msgstr "الاحد"
 
@@ -9210,9 +11010,12 @@ msgstr "الاحد"
 msgid "Support at"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Swap PIP"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Swap PiP and main picture"
 msgstr "تحريك صوره داخل صوره الى الصوره الرئيسيه"
@@ -9237,6 +11040,7 @@ msgstr "الانتقال الى قائمة الملفات"
 msgid "Switch config"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Switch to HDMI in mode"
 msgstr "الانتقال الى قائمة الملفات"
@@ -9244,11 +11048,21 @@ msgstr "الانتقال الى قائمة الملفات"
 #, fuzzy
 msgid "Switch to TV mode"
 msgstr "الانتقال الى قائمة الملفات"
+=======
+msgid "Switch next channel"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #, fuzzy
 msgid "Switch to filelist"
 msgstr "الانتقال الى قائمة الملفات"
 
+<<<<<<< HEAD
+=======
+msgid "Switch to next channel in history"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Switch to next sub service"
@@ -9258,11 +11072,21 @@ msgstr "الانتقال الى الخدمه الفرعيه التاليه"
 msgid "Switch to playlist"
 msgstr "الانتقال الى قائمه الاغانى"
 
+<<<<<<< HEAD
+=======
+msgid "Switch to previous channel"
+msgstr ""
+
+msgid "Switch to previous channel in history"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Switch to previous sub service"
 msgstr "الانتقال الى الفرعيه السابقه"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Switch to radio mode"
 msgstr "الانتقال الى قائمة الملفات"
@@ -9283,6 +11107,8 @@ msgstr "عوده للفصل السابق"
 msgid "Switch to the previous channel in history"
 msgstr "عوده للفصل السابق"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Switchable tuner types:"
 msgstr ""
@@ -9290,9 +11116,12 @@ msgstr ""
 msgid "Symbol rate"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Symbolrate:"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Sync NTP every (minutes)"
 msgstr ""
 
@@ -9313,12 +11142,15 @@ msgstr "النـظام"
 msgid "System temperature: %s"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid ""
 "System temperature: %s%sC\n"
 "\n"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "System: "
 msgstr ""
 
@@ -9340,7 +11172,11 @@ msgstr ""
 msgid "TUNING"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "TV"
+=======
+msgid "TV button mode"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "TV physical address report"
@@ -9355,11 +11191,14 @@ msgstr ""
 msgid "Tags"
 msgstr "شعارات"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Teletext"
 msgstr "أمسح"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Teletext subtitle color"
 msgstr ""
 
@@ -9372,6 +11211,7 @@ msgstr ""
 msgid "Telnet Setup"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Telnet interface"
 msgstr "أختار واجهه"
@@ -9379,6 +11219,8 @@ msgstr "أختار واجهه"
 msgid "Telnet port"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Telnet setup"
 msgstr ""
 
@@ -9405,12 +11247,15 @@ msgstr "اختبر تكوين الشبكه الخاصه بالدريم بوكس.
 msgid "Test type"
 msgstr "نوع الاختبار"
 
+<<<<<<< HEAD
 msgid "Testscreens"
 msgstr ""
 
 msgid "Testscreens that are helpfull to fine-tune your display"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Text"
 msgstr ""
 
@@ -9446,13 +11291,18 @@ msgstr ""
 
 msgid ""
 "The Cool TV Guide plugin is not installed!\n"
+<<<<<<< HEAD
 "Dont bother with it and use the default ViX EPG guide instead."
+=======
+"Please install it."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, fuzzy, python-format
 msgid "The DVD standard doesn't support H.264 (HDTV) video streams. Do you want to create a %s %s format data DVD (which will not play in stand-alone DVD players) instead?"
 msgstr "نظام دى فى دى القياسى لا يدعم الفيديو H.264 (HDTV) .هل تريد عمل نسق معلومات دى فى دى للدريم بوكس بدلا من ذلك (هذا لن يعمل فى مشغلات دى فى دى المستقله ) ؟"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid ""
 "The DreamPlex plugin is not installed!\n"
@@ -9461,6 +11311,8 @@ msgstr ""
 "بلج إن الشبكه المحليه اللاسلكيه غير مثبت ! \n"
 "من فضلك ثبته"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "The EPGSearch plugin is not installed!\n"
 "Please install it."
@@ -9476,12 +11328,28 @@ msgid ""
 "Please install it."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid ""
+"The MediaPlayer plugin is not installed!\n"
+"Please install it."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "The PIN code has been changed successfully."
 msgstr ""
 
 msgid "The PIN codes you entered are different."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid ""
+"The USB stick was prepared to be bootable.\n"
+"Now you can download an NFI image file!"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "The backup failed. Please choose a different backup location."
 msgstr "فشل عمل نسخه إحتياطيه  ، من فضلك أختار مان آخر للنسخه الإحتياطيه  ."
 
@@ -9503,6 +11371,23 @@ msgstr ""
 "الدليل %s لا يمكن الكتابه فيه.\n"
 " تأكد من إختيار دليل بديل يمكن الكتابه فيه"
 
+<<<<<<< HEAD
+=======
+#, python-format
+msgid ""
+"The following device was found:\n"
+"\n"
+"%s\n"
+"\n"
+"Do you want to write the USB flasher to this stick?"
+msgstr ""
+"تم العثور على هذه الاجهزه:\n"
+"\n"
+"%s \n"
+"\n"
+"هل تريد كتابه شاحن الـusb على هذه العصا؟"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "The following files were found..."
 msgstr "تم العثور على هذه الملفات"
@@ -9510,6 +11395,12 @@ msgstr "تم العثور على هذه الملفات"
 msgid "The loopthrough setting is wrong."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "The md5sum validation failed, the file may be corrupted!"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid ""
 "The network wizard extension is not installed!\n"
@@ -9531,6 +11422,7 @@ msgstr "الرقم السرى الذى ادخلته خطأ"
 msgid "The results have been written to %s."
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "The service has been added to the favourites."
@@ -9540,6 +11432,8 @@ msgstr "تم إضافة القناه الى المفضله"
 msgid "The service has been added to the selected bouquet."
 msgstr "تم إضافة القناه الى الباقه المختاره."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid ""
 "The software management extension is not installed!\n"
@@ -9555,11 +11449,14 @@ msgstr "ملف المؤقت (timers.xml) فاسد ولا يمكن تحميله"
 msgid "The timer file (timers.xml) is corrupt and could not be loaded."
 msgstr "ملف المؤقت (timers.xml) فاسد ولا يمكن تحميله"
 
+<<<<<<< HEAD
 msgid ""
 "The unicable connection setting is wrong.\n"
 " Maybe recursive connection of tuners."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy, python-format
 msgid "The user interface of your %s %s is restarting"
@@ -9593,6 +11490,13 @@ msgstr ""
 msgid "The wizard can backup your current settings. Do you want to do a backup now?"
 msgstr "من خلال هذه النافذه يمكنك عمل نسخه إحتياطيه  للإعدادات الحاليه . هل تريد عمل نسخه إحتياطيه  الان ؟"
 
+<<<<<<< HEAD
+=======
+#, python-format
+msgid "The wizard found a configuration backup. Do you want to restore your old settings from %s?"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "The wizard is finished now."
 msgstr "إنتهاء نافذة الاعدادات الان ."
 
@@ -9610,9 +11514,12 @@ msgstr ""
 msgid "There are no updates available."
 msgstr "لا يوجد تحديثات متاحه ."
 
+<<<<<<< HEAD
 msgid "There has been an error, please try again later. If this issue persists, please check openvix.co.uk or world-of-satellite.com"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "There is no [webif] section in oscam.conf"
 msgstr ""
 
@@ -9643,9 +11550,12 @@ msgstr ""
 msgid "This allows you to change the number of rows shown."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This can be either the IP or name of the fallback receiver, not including the scheme or port number (e.g. either 'xxx.xxx.xxx.xxx' or 'name_second_box')."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "This option allows to reduce the block-noise in the picture. Obviously this is at the cost of the picture's sharpness."
 msgstr ""
 
@@ -9664,12 +11574,15 @@ msgstr ""
 msgid "This option allows you choose the background color of transparent picons."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This option allows you enable smoothing filter to control the dithering process."
 msgstr ""
 
 msgid "This option allows you enable the vertical scaler dejagging."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "This option allows you set the layout view (Text or Graphics)."
 msgstr ""
 
@@ -9682,12 +11595,15 @@ msgstr ""
 msgid "This option allows you to bypass HDMI EDID check"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This option allows you to change the Colorspace from Auto to RGB"
 msgstr ""
 
 msgid "This option allows you to change the virtual loudspeaker position."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "This option allows you to choose from the two channel lists that are available."
 msgstr ""
 
@@ -9700,6 +11616,7 @@ msgstr ""
 msgid "This option allows you to choose how to display 1080p 30Hz on your TV. (as not all TV's support these resolutions)"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This option allows you to choose how to display 2160p 24Hz on your TV. (as not all TV's support these resolutions)"
 msgstr ""
 
@@ -9715,6 +11632,11 @@ msgstr ""
 msgid "This option allows you to choose how to display SD progressive 24Hz on your TV. (as not all TV's support these resolutions)"
 msgstr ""
 
+=======
+msgid "This option allows you to choose how to display 720p 24Hz on your TV. (as not all TV's support these resolutions)"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "This option allows you to choose how to display elapsed time. As + or -"
 msgstr ""
 
@@ -9730,7 +11652,11 @@ msgstr ""
 msgid "This option allows you to choose how to display the remaining/elapsed time for media playback."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This option allows you to choose what the first button press jumps to in channel list screen, (so pressing '2' jumps to 'A' or '2' first), when 'Quick Actions' preset actions are perfomed. "
+=======
+msgid "This option allows you to choose what the first button press jumps to in channel list screen, (so pressing '2' jumps to 'A' or '2' first)"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "This option allows you to disable sorting of the menus"
@@ -9742,10 +11668,14 @@ msgstr ""
 msgid "This option allows you to disable sorting of the plugin browser."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This option allows you to enable 3D Surround Sound for an output."
 msgstr ""
 
 msgid "This option allows you to power on or off the display."
+=======
+msgid "This option allows you to enable 3D Surround Sound."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "This option allows you to set the layout view (Text or Graphics)."
@@ -9754,6 +11684,7 @@ msgstr ""
 msgid "This option allows you to show the SNR as a percentage (not all receivers support this)."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This option allows you to show the full menu path"
 msgstr ""
 
@@ -9763,6 +11694,11 @@ msgstr ""
 msgid "This option configures output for Auto Volume Level."
 msgstr ""
 
+=======
+msgid "This option allows you to view the old and new settings side by side."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "This option configures the general audio delay of Dolby Digital sound tracks."
 msgstr ""
 
@@ -9820,6 +11756,17 @@ msgstr ""
 msgid "This option sets up the picture sharpness, used when the picture is being upscaled."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#, python-format
+msgid ""
+"This plugin creates a USB stick which can be used to update the firmware of your %s %s without the need for a network or WLAN connection.\n"
+"First, a USB stick needs to be prepared so that it becomes bootable.\n"
+"In the next step, an NFI image file can be downloaded from the update server and saved on the USB stick.\n"
+"If you already have a prepared bootable USB stick, please insert it now. Otherwise plug in a USB stick with a minimum size of 64 MB!"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "This plugin is installed."
 msgstr "هذا البلج إن مثبت ."
 
@@ -9836,7 +11783,11 @@ msgstr "سيتم حذف هذا البلج إن ."
 msgid ""
 "This test checks for configured nameservers.\n"
 "If you get a \"unconfirmed\" message:\n"
+<<<<<<< HEAD
 "- please check your DHCP server, cabling and adapter setup\n"
+=======
+"- please check your DHCP, cabling and adapter setup\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "- if you configured your nameservers manually please verify your entries in the \"Nameserver\" configuration"
 msgstr ""
 "هذه التجربه ستفحص اسم خادم مكون :\n"
@@ -9861,7 +11812,11 @@ msgid ""
 "This test checks whether a valid IP address is found for your LAN adapter.\n"
 "If you get a \"unconfirmed\" message:\n"
 "- no valid IP address was found\n"
+<<<<<<< HEAD
 "- please check your DHCP server, cabling and adapter setup"
+=======
+"- please check your DHCP, cabling and adapter setup"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 "هذه التجربه ستحدد العثور على IP صالح فى محول الشبكه المحليه. \n"
 "إذا جاءتك رسالة :غير مؤكد: : \n"
@@ -9913,6 +11868,12 @@ msgstr ""
 msgid "Time"
 msgstr "وقت"
 
+<<<<<<< HEAD
+=======
+msgid "Time Update in Minutes"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Time Update in Minutes:"
 msgstr ""
 
@@ -9927,6 +11888,7 @@ msgstr ""
 msgid "Time to execute command or script"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Time update in minutes"
 msgstr ""
 
@@ -9941,6 +11903,11 @@ msgstr ""
 msgid "Timer"
 msgstr "وقت"
 
+=======
+msgid "Timeline font size"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Timer List"
 msgstr ""
 
@@ -9948,6 +11915,12 @@ msgstr ""
 msgid "Timer entry"
 msgstr "إدخال المؤقت"
 
+<<<<<<< HEAD
+=======
+msgid "Timer log"
+msgstr "سجل المؤقت"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Timer overlap in pm_timers.xml detected!\n"
 "Please recheck it!"
@@ -9960,6 +11933,14 @@ msgid ""
 msgstr ""
 
 #
+<<<<<<< HEAD
+=======
+#, fuzzy
+msgid "Timer overview"
+msgstr "إدخال المؤقت"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Timer record location"
 msgstr "موضع تسجيل المؤقت"
 
@@ -9993,9 +11974,12 @@ msgstr ""
 msgid "Timeshift"
 msgstr "تحول الوقت"
 
+<<<<<<< HEAD
 msgid "Timeshift is running. Select an action.\n"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Timeshift location"
 msgstr "موقع تحول الوقت"
@@ -10004,9 +11988,12 @@ msgstr "موقع تحول الوقت"
 msgid "Timeshift not possible!"
 msgstr "تحول الوقت غير ممكن"
 
+<<<<<<< HEAD
 msgid "Timeshift on a stream is not supported!"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Timeshift save failed!"
 msgstr ""
 
@@ -10022,7 +12009,11 @@ msgstr ""
 msgid "Timeshift settings"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Timeshift will get saved at the end of an event!"
+=======
+msgid "Timeshift will get saved at end of event!"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Timeshift-save action on zap"
@@ -10036,6 +12027,7 @@ msgstr "منطقه الوقت"
 msgid "Title"
 msgstr "عنوان"
 
+<<<<<<< HEAD
 #
 msgid "Title properties"
 msgstr "خصائص العنوان"
@@ -10062,6 +12054,27 @@ msgstr ""
 
 msgid "Toggle PIP-ZAP"
 msgstr ""
+=======
+#
+msgid "Title properties"
+msgstr "خصائص العنوان"
+
+#
+msgid "Titleset mode"
+msgstr ""
+
+#, python-format
+msgid ""
+"To update your %s %s firmware, please follow these steps:\n"
+"1) Turn off your box with the rear power switch and make sure the bootable USB stick is plugged in.\n"
+"2) Turn mains back on and hold the DOWN button on the front panel pressed for 10 seconds.\n"
+"3) Wait for bootup and follow instructions of the wizard."
+msgstr ""
+
+#
+msgid "Today"
+msgstr "اليوم"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Toggle Picture In Graphics"
 msgstr ""
@@ -10093,6 +12106,7 @@ msgstr "Toneburst A/B"
 msgid "Top and Bottom"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Total"
 msgstr ""
 
@@ -10113,6 +12127,27 @@ msgid "Total memory:"
 msgstr ""
 
 msgid "Total swap:"
+=======
+msgid "Top and bottom"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Total Memory:"
+msgstr ""
+
+msgid "Total Swap:"
+msgstr ""
+
+msgid "Total cards:"
+msgstr ""
+
+msgid "Total handled client ecm's"
+msgstr ""
+
+msgid "Total handled client emm's"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Total:"
@@ -10122,8 +12157,15 @@ msgstr ""
 msgid "Track"
 msgstr "مسار"
 
+<<<<<<< HEAD
 msgid "Transcoding: "
 msgstr ""
+=======
+#
+#, fuzzy
+msgid "Translation Information"
+msgstr "معلومات"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 #, fuzzy
@@ -10143,6 +12185,7 @@ msgstr "التردد"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Transponder Information"
 msgstr "معلومات"
 
@@ -10152,6 +12195,12 @@ msgid "Transponder type"
 msgstr "نوع التردد"
 
 msgid "Trash can"
+=======
+msgid "Transponder type"
+msgstr "نوع التردد"
+
+msgid "Trashcan"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Trashcan:"
@@ -10164,10 +12213,13 @@ msgstr ""
 msgid "Try to find used transponders in cable network.. please wait..."
 msgstr "محاولة إيجاد ترددات عامله فى كابل الشبكه. رجاء الانتظار..."
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Try to find used transponders in terrestrial network... please wait..."
 msgstr "محاولة إيجاد ترددات عامله فى كابل الشبكه. رجاء الانتظار..."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Trying to download a new packetlist. Please wait..."
 msgstr ""
@@ -10202,6 +12254,7 @@ msgstr "الموالف"
 msgid "Tuner configuration"
 msgstr "تهيئة الموالف"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Tuner is not supported"
 msgstr "غير مدعم"
@@ -10211,6 +12264,8 @@ msgstr "غير مدعم"
 msgid "Tuner not available."
 msgstr "تغذية التحديث غير متاحه"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Tuner settings"
 msgstr ""
 
@@ -10227,12 +12282,17 @@ msgstr "حالة الموالف"
 msgid "Tuner type"
 msgstr "نوع الموالف"
 
+<<<<<<< HEAD
 msgid "Tuning algorithm"
+=======
+msgid "Tuning step size"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Turkish"
 msgstr "تركى"
 
+<<<<<<< HEAD
 msgid "Turn off HDMI-IN PiP mode"
 msgstr ""
 
@@ -10253,6 +12313,8 @@ msgstr ""
 msgid "Turning step size"
 msgstr "تغيير مقاس الخطوه"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Two"
 msgstr "اثنين"
@@ -10275,16 +12337,31 @@ msgstr ""
 msgid "USALS"
 msgstr "USALS"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "USALS Calibration"
 msgstr "الذهل للموضع"
 
 msgid "Ukrainian"
+=======
+msgid "USALS calibration"
+msgstr ""
+
+#
+msgid "USB stick wizard"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Unattended upgrade without GUI and reboot system"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+msgid "Uncommitted DiSEqC command"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Undetermined"
 msgstr ""
 
@@ -10298,11 +12375,15 @@ msgid "Unencrypted"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Unhide parental control services"
 msgstr "تفعيل التحكم الابوى"
 
 msgid "Unicable / JESS"
+=======
+msgid "Unicable"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -10322,18 +12403,24 @@ msgstr ""
 msgid "Unknown"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Unmark service as a dedicated 3D service"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Unmount"
 msgstr ""
 
 msgid "Unsupported"
 msgstr "غير مدعم"
 
+<<<<<<< HEAD
 msgid "Up"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Update"
 msgstr "تحديث"
@@ -10399,9 +12486,12 @@ msgstr ""
 msgid "Uptime"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Usage setup"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Use"
 msgstr "استخدم"
@@ -10428,21 +12518,34 @@ msgstr ""
 msgid "Use USALS for this sat"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Use ViaSat EPG information when it is available."
 msgstr ""
 
 msgid "Use Virgin EPG information when it is available."
+=======
+msgid "Use Obh colored Buttons*"
+msgstr ""
+
+msgid "Use ViaSat EPG information when it is available."
+msgstr ""
+
+msgid "Use WOL"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
 msgid "Use a gateway"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Use circular LNB"
 msgstr "دائرى يسار"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Use fastscan channel names"
 msgstr ""
 
@@ -10477,10 +12580,17 @@ msgstr ""
 msgid "Use the Left/Right buttons on your remote to adjust the size of the user interface. Left button decreases the size, Right increases the size."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Use the Left/Right buttons on your remote to move the user interface left/right"
 msgstr ""
 
 msgid "Use the Left/Right buttons on your remote to move the user interface up/down"
+=======
+msgid "Use the Left/Right buttons on your remote to move the user interface up/down"
+msgstr ""
+
+msgid "Use the Left/Right buttons on your remote to move the user inyterface left/right"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Use the alternative or the conventional radio mode."
@@ -10489,11 +12599,14 @@ msgstr ""
 msgid "Use the alternative screen"
 msgstr ""
 
+<<<<<<< HEAD
 msgid ""
 "Use the deletion time to sort Trash folders.\n"
 "Most recently deleted at the top."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Use the network wizard to configure selected network adapter"
 msgstr "استخدم نافذة الأعدادت لتهيئة محول الشبكه المختار"
@@ -10520,10 +12633,15 @@ msgstr "استخدام إعدادات تعزيز الفيديو هذه ؟"
 msgid "Use timeshift seekbar while timeshifting?"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Use trash can in movie list"
 msgstr "قناه غير موجوده فى قائمة الخدمات"
+=======
+msgid "Use trash can in movielist"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Used service scan type"
@@ -10548,10 +12666,13 @@ msgid "User interface"
 msgstr ""
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "User interface settings"
 msgstr "استخدم الواجهه"
 
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "User interface visibility"
 msgstr "استخدم الواجهه"
 
@@ -10590,8 +12711,15 @@ msgstr "وصله فيديو كاسيت"
 msgid "VMGM (intro trailer)"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "VU+"
 msgstr ""
+=======
+#
+#, fuzzy, python-format
+msgid "Version:\t%s"
+msgstr "إصدار جديد:"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Version: "
 msgstr ""
@@ -10607,7 +12735,11 @@ msgstr "رأسى"
 msgid "Vertical turning speed"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "ViX EPG"
+=======
+msgid "Obh EPG"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Video Enhancement Settings"
@@ -10626,6 +12758,17 @@ msgstr "معاينة تعزيز الفيديو"
 msgid "Video enhancement setup"
 msgstr "ضبط تعزيز الفيديو"
 
+<<<<<<< HEAD
+=======
+#, fuzzy
+msgid "Video fine tuning"
+msgstr "الضبط الدقيق للفيديو"
+
+#, fuzzy
+msgid "Video fine-tuning"
+msgstr "الضبط الدقيق للفيديو"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Video input selection\n"
 "\n"
@@ -10644,6 +12787,15 @@ msgstr "إختيار وضعية الفيديو."
 msgid "Video output"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Video setup"
+msgstr ""
+
+msgid "Video wizard"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, python-format
 msgid "Video: %s fps"
 msgstr ""
@@ -10654,10 +12806,13 @@ msgstr ""
 msgid "Videoformat"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Videomode"
 msgstr "إختيار وضعية الفيديو."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Videosize"
 msgstr ""
 
@@ -10680,10 +12835,13 @@ msgstr "مشاهدة فيديو سى دى"
 msgid "View details"
 msgstr "مشاهدة تفاصيل"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "View extensions..."
 msgstr "مشاهدة الاضافات..."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "View list of available "
 msgstr ""
@@ -10750,12 +12908,18 @@ msgstr "مشاهدة فيديو سى دى"
 msgid "Virtuosso Image Xtreme"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Visual impaired commentary"
 msgstr ""
 
 #
 #, fuzzy
 msgid "Vix forum user name"
+=======
+#
+#, fuzzy
+msgid "Obh forum user name"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "بخث عن القنوات"
 
 #
@@ -10792,6 +12956,12 @@ msgstr "WPA2"
 msgid "WSS on 4:3"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Wait please while scanning for devices..."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Waiting"
 msgstr "جارى الانتظار"
@@ -10822,9 +12992,12 @@ msgstr ""
 msgid "Wakeup your %s %s from standby"
 msgstr "الذهاب لوضع الاستعداد"
 
+<<<<<<< HEAD
 msgid "Warning"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Warning: no LNB; using factory defaults."
 msgstr ""
 
@@ -10840,10 +13013,13 @@ msgstr "جارى التسجيل....."
 msgid "Web Interface"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Web interface"
 msgstr "استخدم الواجهه"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Wed"
 msgstr "الاربعاء"
@@ -10858,11 +13034,14 @@ msgstr "يوم الاسبوع"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Weekend"
 msgstr "يوم الاسبوع"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Weekly"
 msgstr "اسبوعى"
 
@@ -10911,7 +13090,11 @@ msgstr "ضبط الحدود"
 msgid "What Day of week ?"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "What action is required on completion of the timer? 'Auto' lets the box return to the state it had when the timer started. 'Do nothing', 'Go to standby' and 'Go to deep standby' do exactly that."
+=======
+msgid "What action is required on completion of the timer? 'Auto' lets the box return to the state it had when the timer started. 'Do nothing', 'Go to standby' and 'Go to deep standby' do ecaxtly that."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "What date of month ?"
@@ -10921,6 +13104,7 @@ msgstr ""
 msgid "What do you want to scan?"
 msgstr "ماذا تريد ان تبحث ؟"
 
+<<<<<<< HEAD
 msgid "When enabled enigma2 will load unlinked userbouquets. This means that userbouquets that are available, but not included in the bouquets.tv or bouquets.radio files, will still be loaded. This allows you for example to keep your own user bouquet while installed settings are upgraded"
 msgstr ""
 
@@ -10930,6 +13114,8 @@ msgstr ""
 msgid "When enabled the LNB toneburst will be forced"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "When enabled the online checker will also check for experimental versions"
 msgstr ""
 
@@ -10951,6 +13137,7 @@ msgstr ""
 msgid "When enabled, a warning will be displayed and the user will get an option to stop or to continue the timeshift."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "When enabled, a warning will be displayed that timeshift is not supported in an IP stream.."
 msgstr ""
 
@@ -10960,6 +13147,8 @@ msgstr ""
 msgid "When enabled, authentication is required to watch http streams."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "When enabled, channel numbering will start at '1' for every bouquet."
 msgstr ""
 
@@ -10987,9 +13176,12 @@ msgstr ""
 msgid "When enabled, graphical DVB subtitles will be displayed in yellow, instead of the original color."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "When enabled, http streams are descrambled on the server side. The (remote) client receiver does not have to do descrambling. Default on."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "When enabled, it is possible to leave the Movie Player with exit."
 msgstr ""
 
@@ -11002,9 +13194,12 @@ msgstr ""
 msgid "When enabled, pressing '0' will zap you to the first channel in your first bouquet and delete your zap-history."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "When enabled, reformat subtitles to match the width of the screen."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "When enabled, show channel numbers in the channel selection screen."
 msgstr ""
 
@@ -11029,6 +13224,12 @@ msgstr ""
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "When enabled, the original line breaks will be removed from the teletext subtitles."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "When enabled, the receiver will automatically use the audio track which you selected before."
 msgstr ""
 
@@ -11038,6 +13239,7 @@ msgstr ""
 msgid "When enabled, the receiver will select an AC3 track (when available)."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "When enabled, the receiver will select an AC3+ track (when available)."
 msgstr ""
 
@@ -11047,6 +13249,8 @@ msgstr ""
 msgid "When enabled, this setting has more weight than 'Preferred tuner'."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "When enabled, timeshift starts automatically in background after the specified time."
 msgstr ""
 
@@ -11065,10 +13269,17 @@ msgstr ""
 msgid "When nonzero, a recording will stop later than the ending time indicated by the EPG."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "When set the PIG will return to live after a movie has stopped playing."
 msgstr ""
 
 msgid "When set, each folder will show the previous state used. When off, the default values will be shown."
+=======
+msgid "When set each folder will show the previous state used, when off the default values will be shown."
+msgstr ""
+
+msgid "When set the PIG will return to live after a movie has stopped playing."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."
@@ -11082,11 +13293,19 @@ msgstr ""
 
 #, fuzzy, python-format
 msgid ""
+<<<<<<< HEAD
 "When you perform a factory reset, you will lose ALL of your configuration data\n"
 "(including bouquets, services, satellite data ...)\n"
 "After completion of the factory reset, your %s %s will restart automatically!\n"
 "\n"
 "Do you really want to do a factory reset?"
+=======
+"When you do a factory reset, you will lose ALL your configuration data\n"
+"(including bouquets, services, satellite data ...)\n"
+"After completion of factory reset, your %s %s will restart automatically!\n"
+"\n"
+"Really do a factory reset?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 "عند العوده الى ضبط المصنع ستفقد كل معلومات الضبط \n"
 "(بما فى ذلك الباقات والقنوات ومعلومات القمر...)\n"
@@ -11094,9 +13313,12 @@ msgstr ""
 "\n"
 "هل تريد فعلا العوده الى ضبط المصنع ؟"
 
+<<<<<<< HEAD
 msgid "When you use the remote fallback tuner for recording, the timer conflict detection can't properly detect conflicts. This option allows you to turn off the timer confict detection. This setting is only for advanced users; the default is 'yes'."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Where do you want to backup your settings?"
 msgstr "هل تريد فعلا عمل نسخه إحتياطيه  للاعدادات ؟"
 
@@ -11160,6 +13382,7 @@ msgstr ""
 msgid "Write failed!"
 msgstr "فشل الكتابه !"
 
+<<<<<<< HEAD
 msgid "Write to /tmp/positionersetup.log"
 msgstr ""
 
@@ -11172,12 +13395,18 @@ msgstr ""
 msgid "YES"
 msgstr ""
 
+=======
+msgid "XBox 360 support"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "YPbPr"
 msgstr "YPbPr"
 
 msgid "Year"
 msgstr "عام"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Yellow"
 msgstr "أصفر"
@@ -11188,13 +13417,21 @@ msgstr ""
 msgid "Yellow long"
 msgstr ""
 
+=======
+msgid "Yellow DVB subtitles"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Yes"
 msgstr "نعم"
 
+<<<<<<< HEAD
 msgid "Yes (save index in setup tuner)"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Yes to all"
 msgstr "نعم للجميع"
 
@@ -11204,10 +13441,13 @@ msgstr ""
 msgid "Yes, and delete this movie"
 msgstr "نعم، وامسح هذا الفيلم"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Yes, and return to the movie list"
 msgstr "نعم، العوده الى قائمة الافلام"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Yes, backup my settings!"
 msgstr "نعم ، أعمل نسخه إحتياطيه  للاعدادات"
@@ -11222,10 +13462,13 @@ msgstr ""
 msgid "Yes, but save timeshift as movie and stop recording"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Yes, delete this movie and return to the movie list"
 msgstr "نعم، العوده الى قائمة الافلام"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Yes, do a manual scan now"
 msgstr "نعم، أعمل بحث يدوى الان"
 
@@ -11238,6 +13481,7 @@ msgstr "نعم، أعمل بحث يدوى آخر الان"
 msgid "Yes, restore the settings now"
 msgstr "نعم، أستعد الاعدادات الان"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Yes, show delete time"
 msgstr "نعم، وامسح هذا الفيلم"
@@ -11246,6 +13490,10 @@ msgstr "نعم، وامسح هذا الفيلم"
 #, fuzzy
 msgid "Yes, show record time"
 msgstr "أضف مؤقت"
+=======
+msgid "Yes, returning to movie list"
+msgstr "نعم، العوده الى قائمة الافلام"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Yes, shut down now."
 msgstr "نعم أغلق الان."
@@ -11267,19 +13515,29 @@ msgid ""
 "\"%s\"?"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "You can Display MiniTV with or without OSD Menu"
 msgstr ""
 
 msgid "You can Display PIP with or without OSD Menu"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "You can cancel the installation."
 msgstr "تستطيع إلغاء التثبيت"
 
 msgid "You can cancel the removal."
 msgstr "تستطيع إلغاء الحذف"
 
+<<<<<<< HEAD
 msgid "You can continue watching TV while this is running."
+=======
+msgid "You can continue watching TV etc. while this is running."
+msgstr ""
+
+msgid "You can disable Telnet Server and use ssh to login."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "You can have the list sorted by time or alphanumerical."
@@ -11302,12 +13560,23 @@ msgstr "لايمكنك مسح هذه !"
 msgid "You didn't select a channel to record from."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "You have already sent this log, are you sure you want to resend it?\n"
+=======
+msgid "You have already sent this log, are you sure you want to resend this log:\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "You have chosen to backup your settings. Please press OK to start the backup now."
 msgstr "إذا أخترت عمل نسخه إحتياطيه  للاعدادات ، من فضلك أضغط موافق اتبدأ النسخه الإحتياطيه الان"
 
+<<<<<<< HEAD
+=======
+#
+msgid "You have chosen to create a new .NFI flasher bootable USB stick. This will repartition the USB stick and therefore all data on it will be erased."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "You have chosen to restore your settings. Enigma2 will restart after restore. Please press OK to start the restore now."
 msgstr "لقد أخترت أن تستعيد الاعدادات . سيتم إعادة تشغيل الاينجما2 بعد الاستعاده .أضغط موافق لتبدأ الاستعاده الان ."
 
@@ -11316,6 +13585,7 @@ msgid ""
 "What do you want to do ?"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "You have not selected any logs to delete."
 msgstr "أختار قائمة العرض المراد مسحها..."
@@ -11326,16 +13596,30 @@ msgstr ""
 msgid ""
 "You have not setup your user info in the setup screen\n"
 "Press MENU, enter your info, and then try again"
+=======
+msgid ""
+"You have not setup your user info in the setup screen\n"
+"Press MENU, and enter your info, then try again"
+msgstr ""
+
+msgid "You have selected no logs to delete."
+msgstr ""
+
+msgid "You have selected no logs to send."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
 msgid "You have to wait %s!"
 msgstr "يجب أن تنتظر %s !"
 
+<<<<<<< HEAD
 #, python-format
 msgid "You must switch to the service %s (%s - '%s')!\n"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "You need a PC connected to your %s %s. If you need further instructions, please visit the website http://www.dm7025.de.\n"
 "Your %s %s will now be halted. After you have performed the update instructions from the website, your new firmware will ask you to restore your settings."
@@ -11343,9 +13627,12 @@ msgstr ""
 "تحتاج الى كومبيوتر متصل بالدريم بوكس، لمزيد من الارشادات نرجو زيارة الموقعhttp://www.dm7025.de \n"
 "سوف يتم الان إغلاق الدريم بوكس.بعد النتهاء من تنفيذ تعليمات التحديث من صفحة الانترنت سوف يتم سؤالك إذا كنت تريد إستعادة الاعدادات."
 
+<<<<<<< HEAD
 msgid "You seem to be in timeshft, the service will briefly stop as timeshift stops."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "You seem to be in timeshift!"
 msgstr ""
 
@@ -11356,6 +13643,7 @@ msgid "You system does not support ext4"
 msgstr ""
 
 #, python-format
+<<<<<<< HEAD
 msgid "Your %s %s does not support PiP HD"
 msgstr ""
 
@@ -11364,6 +13652,8 @@ msgid "Your %s %s has no network access, please check your network settings and 
 msgstr ""
 
 #, python-format
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Your %s %s is not connected to the internet, please check your network settings and try again."
 msgstr ""
 
@@ -11409,15 +13699,26 @@ msgstr ""
 
 #, python-format
 msgid ""
+<<<<<<< HEAD
 "Your %s %s will be restarted after the installation of service.\n"
 "\n"
 "Do you want to install now ?"
+=======
+"Your %s %s will be restarted after the installation of service\n"
+"Ready to install \"%s\" ?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
 msgid ""
+<<<<<<< HEAD
 "Your %s %s will be restarted after the installation of the service\n"
 "Are you ready to install \"%s\" ?"
+=======
+"Your %s %s will be restarted after the installation of service.\n"
+"\n"
+"Do you want to install now ?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -11426,12 +13727,15 @@ msgid ""
 "Do you want to remove now ?"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid ""
 "Your %s %s will be restarted after the removal of the service\n"
 "Do you want to remove the service now ?"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Your STB will restart after pressing OK on your remote control."
 msgstr ""
 
@@ -11441,9 +13745,15 @@ msgstr "نجاح عمل نسخه إحتياطيه . سوف نشرح لك طري�
 msgid "Your collection exceeds the size of a single layer medium, you will need a blank dual layer DVD!"
 msgstr "هذه المجموعه تزيد عن حجم وسيط ذو طبقه واحده. أنت تحتاج الى دى فى دى ثنائى الطبقه خالى!"
 
+<<<<<<< HEAD
 #, fuzzy, python-format
 msgid ""
 "Your config file is not well formed:\n"
+=======
+#, python-format
+msgid ""
+"Your config file is not well-formed:\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "%s"
 msgstr ""
 "ملف التكوين غير جيد :\n"
@@ -11479,6 +13789,7 @@ msgstr ""
 msgid "Your network configuration has been activated."
 msgstr "تم تنشيط تكوين الشبكه"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Your network has finished restarting"
 msgstr "رجاء الانتظار.... جارى إعادة تشغيل الشبكه"
@@ -11487,6 +13798,8 @@ msgstr "رجاء الانتظار.... جارى إعادة تشغيل الشبك�
 msgid "Your network is restarting, Please wait..."
 msgstr "يتم الان إغلاق الدريم بوكس. من فضلك كن مستعدا..."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Your receiver does not have an internet connection"
 msgstr ""
 
@@ -11519,9 +13832,12 @@ msgstr "هل تريد التنقل الى القناه الاخيره قبل ض�
 msgid "Zap back to service before tuner setup?"
 msgstr "هل تريد التنقل الىالقناه الخيره قبل ضبط الموالف ؟"
 
+<<<<<<< HEAD
 msgid "Zap down"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Zap focus to Picture in Picture"
 msgstr ""
 
@@ -11531,30 +13847,39 @@ msgstr ""
 msgid "Zap mode"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Zap to"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Zap to channel (setup in menu)"
 msgstr ""
 
 msgid "Zap to channel and close (setup in menu)"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Zap up"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Zoom In/Out TV..."
 msgstr ""
 
 msgid "Zoom Off..."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Zoom from left"
 msgstr ""
 
 msgid "Zoom from right"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "[TimeShift] Restarting Timeshift!"
 msgstr ""
 
@@ -11582,15 +13907,57 @@ msgstr ""
 msgid "a gui to assign services/providers/caids to common interface modules"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "about to start"
 msgstr "على وشك البدأ"
 
 msgid "activatePiP"
 msgstr ""
+=======
+msgid "abort alternatives edit"
+msgstr "إلغاء تحرير البدائل"
+
+#
+msgid "abort bouquet edit"
+msgstr "الغاء تحرير الباقه"
+
+#
+msgid "abort favourites edit"
+msgstr "الغاء تحرير المفضله"
+
+msgid "about to start"
+msgstr "على وشك البدأ"
+
+msgid "activate network adapter configuration"
+msgstr "تنشيط تكوين محول الشبكه"
+
+msgid "add alternatives"
+msgstr "إضافة بدائل"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "add bookmark"
 msgstr "إضافة مرجعيه"
 
+<<<<<<< HEAD
+=======
+msgid "add bouquet"
+msgstr "إضافة باقه"
+
+msgid "add marker"
+msgstr "إضافة علامه"
+
+#
+msgid "add service to bouquet"
+msgstr "إضافه القناه الى الباقه"
+
+#
+msgid "add service to favourites"
+msgstr "إضافه القناه الى المفضله"
+
+msgid "add to parental protection"
+msgstr "أضف حمايه أبويه"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "address:"
 msgstr ""
 
@@ -11606,6 +13973,7 @@ msgstr ""
 msgid "advertisement/shopping"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "alpha then oldest"
 msgstr ""
 
@@ -11616,12 +13984,19 @@ msgid "alphabetic reverse"
 msgstr ""
 
 msgid "alpharev then newest"
+=======
+msgid "alphabetic"
+msgstr ""
+
+msgid "alphabetic reverse"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, fuzzy
 msgid "alternative"
 msgstr "إضافة بدائل"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "am"
@@ -11634,6 +14009,8 @@ msgstr ""
 msgid "are you sure you want to cancel all the changes"
 msgstr "هل أنت متأكد أنك تريد الخروج من هذه النافذه ؟"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "arts/culture (without music, general)"
 msgstr ""
 
@@ -11741,21 +14118,47 @@ msgstr ""
 msgid "comedy"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+msgid "complex"
+msgstr "مركب"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "confirmed"
 msgstr "تم التأكيد"
 
 msgid "connected"
 msgstr "تم الاتصال"
 
+<<<<<<< HEAD
+=======
+msgid "continue"
+msgstr "استمرار"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "cooking"
 msgstr ""
 
 msgid "copy"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "create directory"
 msgstr "إنشاء دليل"
 
+=======
+msgid "copy to bouquets"
+msgstr "نسخ الى الباقات"
+
+msgid "create directory"
+msgstr "إنشاء دليل"
+
+#, python-format
+msgid "currently installed image: %s"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "daily"
 msgstr "يومى"
@@ -11773,12 +14176,15 @@ msgstr "مسح"
 msgid "delete cut"
 msgstr "مسح القطع"
 
+<<<<<<< HEAD
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
 msgid "delete time - show record time (Trash ONLY)"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "descramble and record ecm"
 msgstr ""
 
@@ -11788,6 +14194,12 @@ msgstr ""
 msgid "disable"
 msgstr "تعطيل"
 
+<<<<<<< HEAD
+=======
+msgid "disable move mode"
+msgstr "تعطيل وضع التحريك"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "disabled"
 msgstr "تم التعطيل"
 
@@ -11827,6 +14239,12 @@ msgstr ""
 msgid "economics/social advisory"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "edit alternatives"
+msgstr "تحرير البدائل"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "education/science/factual topics (general)"
 msgstr ""
 
@@ -11836,16 +14254,46 @@ msgstr "فارغ"
 msgid "enable"
 msgstr "تفعيل"
 
+<<<<<<< HEAD
 msgid "enabled"
 msgstr "تم النفعيل"
 
+=======
+#
+msgid "enable bouquet edit"
+msgstr "تفعيل تحرير الباقه"
+
+#
+msgid "enable favourite edit"
+msgstr "تفعيل تحرير المفضله"
+
+#
+msgid "enable move mode"
+msgstr "تفعيل وضع التحريك"
+
+msgid "enabled"
+msgstr "تم النفعيل"
+
+msgid "end alternatives edit"
+msgstr "إنهاء تحرير البدائل"
+
+#
+msgid "end bouquet edit"
+msgstr "إنتهاء تحرير الباقه"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "end cut here"
 msgstr "إنتهاء القطع هنا"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "ene"
 msgstr "واحد"
+=======
+msgid "end favourites edit"
+msgstr "إنتهاء تحرير المفضله"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "enter number to jump to channel."
 msgstr ""
@@ -11856,15 +14304,19 @@ msgstr ""
 msgid "entertainment (6-14 year old)"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "epg cache backup"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "equal to"
 msgstr "مساوى لـــ"
 
 msgid "equestrian"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "error starting scanning"
 msgstr ""
 
@@ -11893,6 +14345,19 @@ msgstr ""
 
 msgid "exit DVD player or return to file browser"
 msgstr "الخروج من مشغل الدى فى دى أو العوده الى متصفح الملفات"
+=======
+msgid "exit DVD player or return to file browser"
+msgstr "الخروج من مشغل الدى فى دى أو العوده الى متصفح الملفات"
+
+msgid "exit mounts setup menu"
+msgstr ""
+
+msgid "exit network adapter configuration"
+msgstr "الخروج من تهيئة محول الشبكه"
+
+msgid "exit networkadapter setup menu"
+msgstr "الخروج من قائمه إعداد الشبكه"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "experimental film/video"
 msgstr ""
@@ -11900,9 +14365,12 @@ msgstr ""
 msgid "extensions."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "extra wide"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "failed"
 msgstr "فشل"
 
@@ -11915,6 +14383,12 @@ msgstr ""
 msgid "fast"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "file oscam.conf could not be found"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "fileformats (BMP, PNG, JPG, GIF)"
 msgstr ""
@@ -11928,6 +14402,12 @@ msgstr ""
 msgid "fine arts"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "fine-tune your display"
+msgstr "التوليف الدقيق للعرض"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "fitness & health"
 msgstr ""
 
@@ -11958,9 +14438,12 @@ msgstr ""
 msgid "free diskspace"
 msgstr "المساحه المتبقيه فى القرص"
 
+<<<<<<< HEAD
 msgid "from"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "full"
 msgstr ""
 
@@ -11996,7 +14479,11 @@ msgid "handled"
 msgstr ""
 
 msgid ""
+<<<<<<< HEAD
 "has been sent to the ViX team.\n"
+=======
+"has been sent to the Obh beta team.\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "please quote"
 msgstr ""
 
@@ -12044,6 +14531,13 @@ msgstr "الانتقال أماما للعنوان التالى"
 msgid "languages"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+msgid "leave movie player..."
+msgstr "اترك عارض الافلام .."
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "left"
 msgstr "يسار"
 
@@ -12065,9 +14559,12 @@ msgstr ""
 msgid "locked"
 msgstr "مغلق"
 
+<<<<<<< HEAD
 msgid "long"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "loopthrough to"
 msgstr ""
@@ -12113,6 +14610,21 @@ msgstr ""
 msgid "move"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "move down to last entry"
+msgstr "الانتقال لأسفل الى البند الاخير"
+
+msgid "move down to next entry"
+msgstr "الانتقال لاسفل الى البند التالى"
+
+msgid "move up to first entry"
+msgstr "الانتقال لاعلى الى البند الاول"
+
+msgid "move up to previous entry"
+msgstr "الانتقال لاعلى الى البند السابق"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "movie/drama (general)"
 msgstr ""
 
@@ -12131,11 +14643,14 @@ msgstr ""
 msgid "nature/animals/environment"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "ne"
 msgstr "واحد"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "never"
 msgstr "مطلقا"
 
@@ -12152,6 +14667,7 @@ msgid "news/weather report"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "nne"
 msgstr "لا احد"
@@ -12161,6 +14677,8 @@ msgid "nnw"
 msgstr "غير معروف"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "no"
 msgstr "لا."
 
@@ -12172,6 +14690,7 @@ msgstr ""
 msgid "no CI slots found"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "no channel list"
 msgstr ""
 
@@ -12180,6 +14699,8 @@ msgstr ""
 msgid "no delay"
 msgstr "مؤقت النوم"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "no module found"
 msgstr "لم يتم العثور على كامه"
@@ -12187,10 +14708,13 @@ msgstr "لم يتم العثور على كامه"
 msgid "no or unknown card inserted"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "no resource manager"
 msgstr "المتحكم فى الحزم"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "no storage devices found"
 msgstr ""
 
@@ -12216,9 +14740,12 @@ msgstr "غير مستخدمه"
 msgid "nothing connected"
 msgstr "لا شيئ متصل"
 
+<<<<<<< HEAD
 msgid "nw"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "of a DUAL layer medium used."
 msgstr "من وسيط ثنائى الطبقه مستخدم"
 
@@ -12243,6 +14770,7 @@ msgstr "على وسيط قراءه فقط"
 msgid "once"
 msgstr "مره واحده"
 
+<<<<<<< HEAD
 msgid "only 4K"
 msgstr ""
 
@@ -12261,6 +14789,21 @@ msgstr ""
 msgid ""
 "oscam.conf not found.\n"
 "Please enter username/password manually."
+=======
+msgid "only HD"
+msgstr ""
+
+msgid "open bouquetlist"
+msgstr ""
+
+msgid "open nameserver configuration"
+msgstr "فتح تكوين أسم الخادم"
+
+msgid "original"
+msgstr ""
+
+msgid "original language"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "packages selected."
@@ -12278,6 +14821,15 @@ msgstr ""
 msgid "pid:"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "play as picture in picture"
+msgstr ""
+
+msgid "play in mainwindow"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "please press OK when ready"
 msgstr "من فضلك أضغط موافق عندما تكون مستعد"
 
@@ -12287,9 +14839,12 @@ msgstr "رجاء الانتظار... جارى تحميل الصوره"
 msgid "please wait..."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "pm"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "popular culture/traditional arts"
 msgstr ""
 
@@ -12314,10 +14869,13 @@ msgstr "جارى التسجيل....."
 msgid "red"
 msgstr "أحمر"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "reliable"
 msgstr "تفعيل"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "religion"
 msgstr ""
 
@@ -12328,6 +14886,15 @@ msgstr ""
 msgid "remove after this position"
 msgstr "حذف بعد هذا المكان"
 
+<<<<<<< HEAD
+=======
+msgid "remove all alternatives"
+msgstr "حذف كل البدائل"
+
+msgid "remove all new found flags"
+msgstr "أحذف كل علامات وجد حديثا"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "remove before this position"
 msgstr "حذف قبل هذا المكان"
@@ -12339,12 +14906,35 @@ msgstr "حذف المرجعيه"
 msgid "remove directory"
 msgstr "حذف الدليل"
 
+<<<<<<< HEAD
+=======
+msgid "remove entry"
+msgstr "حذف"
+
+msgid "remove from parental protection"
+msgstr "حذف من الحمايه الابويه"
+
+#
+msgid "remove new found flag"
+msgstr "حذف الاعلام التى وجدت حديثا"
+
+msgid "remove selected satellite"
+msgstr "حذف القمر المختار"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "remove this mark"
 msgstr "حذف هذه العلامه"
 
 msgid "rename"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#, fuzzy
+msgid "rename entry"
+msgstr "حذف"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "repeat playlist"
 msgstr "إعادة قائمة الاغانى"
 
@@ -12389,11 +14979,14 @@ msgid "science fiction/fantasy/horror"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "se"
 msgstr "استخدم"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "second cable of motorized LNB"
 msgstr ""
 
@@ -12407,12 +15000,31 @@ msgstr "أختار"
 msgid "select CAId's"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+msgid "select menu entry"
+msgstr "أختار مدخل قائمه"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "serious music/classic music"
 msgstr ""
 
 msgid "serious/classical/religious/historical movie/drama"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "service PIN"
+msgstr ""
+
+msgid "set as startup service"
+msgstr ""
+
+msgid "setup PIN"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "share:"
 msgstr ""
 
@@ -12420,12 +15032,24 @@ msgstr ""
 msgid "show DVD main menu"
 msgstr "أعرض قائمة دى فى دى الرئيسيه"
 
+<<<<<<< HEAD
+=======
+msgid "show EPG..."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "show all cards"
 msgstr ""
 
 msgid "show all tags"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "show alternatives"
+msgstr "إظهار البدائل"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "show cards with uphop 0"
 msgstr ""
 
@@ -12462,12 +15086,29 @@ msgstr "إظهار تفاصيل الحدث"
 msgid "show mediaplayer on mainmenu"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+#, fuzzy
+msgid "show picons in service list"
+msgstr "قناه غير موجوده فى قائمة الخدمات"
+
+msgid "show program information..."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "show softwaremanager in plugin menu"
 msgstr ""
 
 msgid "show softwaremanager on blue button"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "show transponder info"
+msgstr "إظهار بيانات التردد"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "show/game show (general)"
 msgstr ""
 
@@ -12507,6 +15148,12 @@ msgstr ""
 msgid "sorting of playlists"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "special characters"
+msgstr "حروف خاصه"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "special events"
 msgstr ""
 
@@ -12516,6 +15163,7 @@ msgstr ""
 msgid "sports magazine"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "sse"
@@ -12524,6 +15172,8 @@ msgstr "استخدم"
 msgid "ssw"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "standard"
 msgstr "قياسى"
 
@@ -12539,7 +15189,11 @@ msgstr ""
 msgid "stereo"
 msgstr "ستيريو"
 
+<<<<<<< HEAD
 msgid "sw"
+=======
+msgid "stop using as startup service"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -12576,10 +15230,13 @@ msgstr "ملف قالب"
 msgid "tennis/squash"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "this bouquet is protected by a parental control pin"
 msgstr "هذه القناه محميه برقم سرى بواسطه التحكم الابوى"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "this recording"
 msgstr "هذا التسجيل"
 
@@ -12596,10 +15253,20 @@ msgstr ""
 msgid "tourism/travel"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "traditional (fast)"
 msgstr ""
 
 msgid "true"
+=======
+msgid "true"
+msgstr ""
+
+msgid "tuner is not supported"
+msgstr ""
+
+msgid "uShare Log"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "uShare Name"
@@ -12611,6 +15278,7 @@ msgstr ""
 msgid "uShare Setup"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "uShare name"
 msgstr "الحده"
@@ -12618,6 +15286,8 @@ msgstr "الحده"
 msgid "uShare port"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "uShare setup"
 msgstr ""
 
@@ -12658,6 +15328,12 @@ msgstr ""
 msgid "vertical"
 msgstr "رأسى"
 
+<<<<<<< HEAD
+=======
+msgid "view extensions..."
+msgstr "مشاهدة الاضافات..."
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "wait for ci..."
 msgstr "ci فى إنتظار"
@@ -12687,11 +15363,19 @@ msgstr "اسبوعى"
 msgid "west"
 msgstr "تحرك للغرب"
 
+<<<<<<< HEAD
 msgid "when asking questions about this log"
 msgstr ""
 
 msgid ""
 "when asking questions about this log\n"
+=======
+msgid "when asking question about this log"
+msgstr ""
+
+msgid ""
+"when asking question about this log\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "\n"
 "A copy has been sent to yourself."
 msgstr ""
@@ -12699,8 +15383,13 @@ msgstr ""
 msgid "white"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "wide"
 msgstr ""
+=======
+msgid "whitelist"
+msgstr "القائمه البيضاء"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "width"
 msgstr ""
@@ -12730,6 +15419,7 @@ msgstr ""
 msgid "with long OK press"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "with text"
 msgstr ""
 
@@ -12745,6 +15435,11 @@ msgstr "يعمل"
 msgid "wsw"
 msgstr ""
 
+=======
+msgid "working"
+msgstr "يعمل"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "yellow"
 msgstr "أصفر"
 
@@ -12766,6 +15461,7 @@ msgstr "تسجيل"
 msgid "zapped"
 msgstr "تم الانتقال"
 
+<<<<<<< HEAD
 #~ msgid "A recording is currently running. Please stop the recording before trying to start the satfinder."
 #~ msgstr "هناك تسجيل جارى حاليا . من فضلك أوقف التسجيل قبل محاولة بدأ مكتشف الأقمار."
 
@@ -12908,3 +15604,5 @@ msgstr "تم الانتقال"
 
 #~ msgid "whitelist"
 #~ msgstr "القائمه البيضاء"
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b

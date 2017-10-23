@@ -4,7 +4,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
+<<<<<<< HEAD
 "POT-Creation-Date: 2016-07-23 19:30+0200\n"
+=======
+"POT-Creation-Date: 2014-01-30 22:11+0100\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "PO-Revision-Date: 2014-01-22 23:31+0100\n"
 "Last-Translator: Andy Blackburn <andyblac@icloud.com>\n"
 "Language-Team: Polar Team/LT Team <baddi@oreind.is>\n"
@@ -69,6 +73,7 @@ msgstr ""
 "Ýtið á OK á fjarstýringunni til að halda áfram."
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid ""
 "\n"
@@ -76,6 +81,8 @@ msgid ""
 msgstr "Framganga keyrslu:"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy, python-format
 msgid ""
 "\n"
@@ -124,6 +131,7 @@ msgstr ""
 "\n"
 "Skoða, setja inn og taka út hugbúnaðar pakka."
 
+<<<<<<< HEAD
 #, fuzzy, python-format
 msgid " (Channel %s)"
 msgstr "Rás"
@@ -132,6 +140,8 @@ msgstr "Rás"
 msgid " (Partition %d)"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid " (PiP)"
 msgstr ""
 
@@ -141,6 +151,7 @@ msgstr ""
 msgid " (TV)"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid " (disabled)"
@@ -155,6 +166,8 @@ msgstr ""
 msgid " (lower than any auto)"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid " and"
 msgstr ""
 
@@ -164,6 +177,7 @@ msgid "%-H:%M"
 msgstr "%H:%M"
 
 #, python-format
+<<<<<<< HEAD
 msgid "%.0f GB"
 msgstr ""
 
@@ -179,6 +193,11 @@ msgstr ""
 msgid "%02d:%02d"
 msgstr ""
 
+=======
+msgid "%02d.%02d - %02d.%02d (%s%d min)"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #. TRANSLATORS: short time representation hour:minute
 #, python-format
 msgid "%2d:%02d"
@@ -216,11 +235,14 @@ msgstr ""
 msgid "%a %e/%m  %-H:%M"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "%d %B %Y"
 msgstr "%d.%B %Y"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, python-format
 msgid "%d GB"
 msgstr ""
@@ -289,12 +311,15 @@ msgid "%d minutes"
 msgstr ""
 
 #, python-format
+<<<<<<< HEAD
 msgid "%d pixel wide"
 msgid_plural "%d pixels wide"
 msgstr[0] ""
 msgstr[1] ""
 
 #, python-format
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "%d second"
 msgid_plural "%d seconds"
 msgstr[0] ""
@@ -307,10 +332,13 @@ msgid_plural "%d wireless networks found!"
 msgstr[0] "fann 1 þráðlaust net!"
 msgstr[1] "fann 1 þráðlaust net!"
 
+<<<<<<< HEAD
 #, python-format
 msgid "%d.%02d. %02d:%02d"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "%d.%B %Y"
 msgstr "%d.%B %Y"
@@ -377,10 +405,13 @@ msgid "%s/%s: %s"
 msgstr ""
 
 #, python-format
+<<<<<<< HEAD
 msgid "%s:%s"
 msgstr ""
 
 #, python-format
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "'%s' contains %d file(s) and %d sub-directories.\n"
 msgstr ""
 
@@ -409,11 +440,14 @@ msgstr ""
 msgid "* Only available if more than one interface is active."
 msgstr "* Bara virkt ef að fleira en eitt tæki er virkt."
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "* current animation"
 msgstr "virkja núverandi stillingar"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "/s"
 msgstr ""
 
@@ -494,6 +528,7 @@ msgstr ""
 msgid "1st Infobar timeout"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "2160p 24Hz"
 msgstr ""
 
@@ -509,6 +544,8 @@ msgstr ""
 msgid "2160p 60Hz"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "23.976"
 msgstr ""
 
@@ -541,16 +578,23 @@ msgstr ""
 msgid "3D Surround"
 msgstr "Hljóð"
 
+<<<<<<< HEAD
 msgid "3D Surround Speaker Position"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "3D setup"
 msgstr ""
 
 msgid "3X"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "480p 24Hz"
+=======
+msgid "3d mode"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -574,6 +618,7 @@ msgstr ""
 msgid "720p 24Hz"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "< Default >"
@@ -583,6 +628,8 @@ msgstr "Venjulegt"
 msgid "< Default with Picon >"
 msgstr "<Sjálfgefinn staður bíómynda>"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "<Current movielist location>"
 msgstr "<Núverandi staður bíómyndalista>"
 
@@ -601,6 +648,7 @@ msgstr "??"
 msgid "A"
 msgstr "A"
 
+<<<<<<< HEAD
 msgid ""
 "A background update check is in progress,\n"
 "please wait a few minutes and try again."
@@ -609,6 +657,8 @@ msgstr ""
 msgid "A background update check is in progress, please wait a few minutes and then try again."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "A background update check is in progress, please wait a few minutes and try again."
 msgstr ""
 
@@ -698,17 +748,36 @@ msgid ""
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid ""
 "A recording is currently in progress.\n"
+=======
+msgid ""
+"A recording is currently running.\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "What do you want to do?"
 msgstr ""
 "Upptaka er nú í gangi.\n"
 "Hvað viltu núna gera?"
 
+<<<<<<< HEAD
 msgid "A recording is currently running. Please stop the recording before trying to scan."
 msgstr ""
 
+=======
+#
+msgid "A recording is currently running. Please stop the recording before trying to configure the positioner."
+msgstr "Upptaka er nú í gangi. Stoppið vinsamlega upptökuna áður en að þú reynir að stilla staðsetjara."
+
+msgid "A recording is currently running. Please stop the recording before trying to scan."
+msgstr ""
+
+#
+msgid "A recording is currently running. Please stop the recording before trying to start the satfinder."
+msgstr "Upptaka er í gangi núna. Stoppaðu upptökuna áður en að þú byrjar gervihnattaleit."
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "A repeating timer or just once?"
 msgstr ""
 
@@ -733,7 +802,11 @@ msgstr ""
 #, fuzzy, python-format
 msgid ""
 "A sleep timer wants to set your\n"
+<<<<<<< HEAD
 "%s %s to standby. Proceed?"
+=======
+"%s %s to standby. Do that now?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 "Tímastilling vill setja %s %sið í\n"
 "biðstöðu. Viltu gera það núna?"
@@ -742,7 +815,11 @@ msgstr ""
 #, fuzzy, python-format
 msgid ""
 "A sleep timer wants to shut down\n"
+<<<<<<< HEAD
 "your %s %s. Proceed?"
+=======
+"your %s %s. Shutdown now?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 "Tímastilling vill slökkva á %s %sinu.\n"
 "Viltu gera það núna?"
@@ -758,6 +835,7 @@ msgstr ""
 "Tímastillt upptaka mistókst!\n"
 "Hætta og reyna aftur?\n"
 
+<<<<<<< HEAD
 msgid "AAC downmix"
 msgstr ""
 
@@ -767,6 +845,22 @@ msgstr ""
 msgid "AC3"
 msgstr ""
 
+=======
+msgid "A/V settings"
+msgstr ""
+
+#
+msgid "AA"
+msgstr "AA"
+
+msgid "AAC downmix"
+msgstr ""
+
+#
+msgid "AB"
+msgstr "AB"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "ACQUIRING TSID/ONID"
 msgstr ""
 
@@ -781,6 +875,7 @@ msgid "AV aspect is %s."
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "AV settings"
 msgstr "Breyta stillingum"
@@ -803,6 +898,11 @@ msgstr "hætta við að breyta fléttu"
 msgid "Abort favourites edit"
 msgstr "hætta við að breyta eftirlætis lista"
 
+=======
+msgid "Abort"
+msgstr "Hætta við"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "About"
 msgstr "Um"
 
@@ -813,17 +913,36 @@ msgstr "Um..."
 msgid "Accesspoint:"
 msgstr "Aðgangspunktur:"
 
+<<<<<<< HEAD
 msgid "Activate"
 msgstr ""
 
 msgid "Activate HbbTV (RedButton)"
+=======
+msgid "Action on long power button press"
+msgstr ""
+
+msgid "Action on short power button press"
+msgstr ""
+
+msgid "Activate"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Activate MAC address configuration"
 msgstr "virkja núverandi stillingar"
 
+=======
+msgid "Activate MAC-address configuration"
+msgstr "virkja núverandi stillingar"
+
+msgid "Activate PiP"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Activate Picture in Picture"
 msgstr "Virkja Mynd í Mynd"
@@ -833,10 +952,13 @@ msgstr "Virkja Mynd í Mynd"
 msgid "Activate current configuration"
 msgstr "virkja núverandi stillingar"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Activate network adapter configuration"
 msgstr "virkja stillingar netkorts"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Activate network settings"
 msgstr "Virkja netkerfis stillingar"
@@ -844,12 +966,15 @@ msgstr "Virkja netkerfis stillingar"
 msgid "Activate the configured network settings."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Activate timeshift end"
 msgstr ""
 
 msgid "Activate timeshift end and pause"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Active"
 msgstr ""
 
@@ -903,16 +1028,20 @@ msgstr "fara niður í næsta atriði"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Add alternatives"
 msgstr "bæta við valkosti"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Add bookmark"
 msgstr "bæta við bókamerki"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Add bouquet"
 msgstr "bæta rásavendi við"
 
@@ -923,6 +1052,8 @@ msgstr "bæta við foreldra lás"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Add directory to playlist"
 msgstr "bæta möppu við spilunarlista"
 
@@ -938,11 +1069,14 @@ msgstr "bæta rásum við spilunarlista"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Add marker"
 msgstr "bæta við merki"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Add provider"
 msgstr "bæta við sendanda"
 
@@ -963,6 +1097,7 @@ msgstr ""
 msgid "Add service"
 msgstr "bæta við rás"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Add service to bouquet"
@@ -972,6 +1107,8 @@ msgstr "bæta rás við fléttu"
 msgid "Add service to favourites"
 msgstr "bæta rás við eftirlætis lista"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Add timer"
 msgstr "Taka upp"
 
@@ -984,11 +1121,14 @@ msgstr "Bæta við rásavönd"
 msgid "Add to favourites"
 msgstr "Bæta við eftirlætisrásir"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Add to parental protection"
 msgstr "bæta við foreldra lás"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Add/Remove timer for current event"
 msgstr ""
 
@@ -1001,6 +1141,7 @@ msgstr ""
 msgid "Address"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Adjust the color settings so that all the color shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other test screens."
 msgstr "Stilltu lita stillingar þannig að öll litablæbrigði séu aðgreinanleg og eru eins björt og hægt er. Ef þú ert ánægður með árangurinn, ýttu þá á OK til að loka stillinga skjánum eða ýttu á númeralykil til að velja aðra prufumynd."
 
@@ -1009,6 +1150,14 @@ msgstr "Stilltu lita stillingar þannig að öll litablæbrigði séu aðgreinan
 msgid "Advanced"
 msgstr "meiri stillingar"
 
+=======
+msgid "Adjust 3D settings"
+msgstr ""
+
+msgid "Adjust the color settings so that all the color shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other test screens."
+msgstr "Stilltu lita stillingar þannig að öll litablæbrigði séu aðgreinanleg og eru eins björt og hægt er. Ef þú ert ánægður með árangurinn, ýttu þá á OK til að loka stillinga skjánum eða ýttu á númeralykil til að velja aðra prufumynd."
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Advanced options"
 msgstr "Sérfræði stillingar"
@@ -1028,6 +1177,12 @@ msgstr "Sérfræði íforrit"
 msgid "Advanced video enhancement setup"
 msgstr "Myndstillingar fyrir lengra komna"
 
+<<<<<<< HEAD
+=======
+msgid "Advanced video setup"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "After event"
 msgstr "Eftir atriði"
 
@@ -1045,6 +1200,7 @@ msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "All frequency"
 msgstr "Tíðni"
 
@@ -1063,6 +1219,12 @@ msgid "All satellites 3 (USALS)"
 msgstr ""
 
 msgid "All satellites 4 (USALS)"
+=======
+msgid "All resolutions"
+msgstr "Upplausn"
+
+msgid "All satellites"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Allocate"
@@ -1080,6 +1242,12 @@ msgstr ""
 msgid "Allow unstable (experimental) updates"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Allows more detailed information to be in the crash log"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Allows the %s %s to read the stored EPG data regularly."
 msgstr ""
 
@@ -1089,7 +1257,11 @@ msgstr ""
 msgid "Allows you to adjust the amount of time the resolution infomation display on screen."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Allows you to enable the debug logs. They contain very detailed information about everything the system does. Reboot required to enable this!"
+=======
+msgid "Allows you to enable the debug logs. They contain very detailed information about everything the system does."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Allows you to enable/disable displaying icons on the front panel."
@@ -1124,11 +1296,14 @@ msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Also on standby"
 msgstr "fara í biðstöðu"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Alternative"
 msgstr "bæta við valkosti"
 
@@ -1160,6 +1335,7 @@ msgstr ""
 msgid "An unknown error occurred!"
 msgstr "Óþekkt villa varð!"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Animation Setup"
@@ -1173,12 +1349,15 @@ msgstr ""
 msgid "Animations"
 msgstr "Upplýsingar"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Any activity"
 msgstr ""
 
 msgid "Arabic"
 msgstr "Arabíska"
 
+<<<<<<< HEAD
 #, python-format
 msgid "Are you ready to install \"%s\" ?"
 msgstr ""
@@ -1187,6 +1366,8 @@ msgstr ""
 msgid "Are you ready to remove \"%s\" ?"
 msgstr "Ertu viss um að þú viljir hætta í ráðgjafanum?"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Are you sure to remove this entry?"
 msgstr "Ertu viss um að þú viljir hætta í ráðgjafanum?"
@@ -1203,6 +1384,7 @@ msgid ""
 "the following backup:\n"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Are you sure you want to delete all the selected logs:\n"
 msgstr "Ertu viss um að þú viljir hætta í ráðgjafanum?"
@@ -1210,6 +1392,10 @@ msgstr "Ertu viss um að þú viljir hætta í ráðgjafanum?"
 #, fuzzy
 msgid "Are you sure you want to delete the EPG data from:\n"
 msgstr "Ertu viss um að þú viljir hætta í ráðgjafanum?"
+=======
+msgid "Are you sure you want to delete all selected logs:\n"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Are you sure you want to delete this log:\n"
 msgstr ""
@@ -1223,6 +1409,7 @@ msgstr "Ertu viss um að þú viljir hætta í ráðgjafanum?"
 msgid "Are you sure you want to exit this wizard?"
 msgstr "Ertu viss um að þú viljir hætta í ráðgjafanum?"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Are you sure you want to purge all deleted user bouquets?"
 msgstr "Ertu viss um að þú viljir hætta í ráðgjafanum?"
@@ -1248,6 +1435,11 @@ msgstr ""
 msgid "Are you sure you want to remove this entry?"
 msgstr "Ertu viss um að þú viljir hætta í ráðgjafanum?"
 
+=======
+msgid "Are you sure you want to reload the EPG data from:\n"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Are you sure you want to restart your network interfaces?\n"
 "\n"
@@ -1287,12 +1479,15 @@ msgstr ""
 msgid "Ask user"
 msgstr "Spyrja notanda"
 
+<<<<<<< HEAD
 msgid "Ask user (with default as 'no')"
 msgstr ""
 
 msgid "Ask user (with default as 'yes')"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Aspect ratio"
 msgstr ""
 
@@ -1312,6 +1507,7 @@ msgstr ""
 msgid "Attach a file"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Attention, this is repeated timer!\n"
 msgstr ""
 
@@ -1319,6 +1515,8 @@ msgstr ""
 msgid "Audio"
 msgstr "Hljóð PID"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Audio PID"
 msgstr "Hljóð PID"
 
@@ -1362,17 +1560,23 @@ msgstr "Sjálfvirkt"
 msgid "Auto Deep Standby"
 msgstr "Djúp biðstaða"
 
+<<<<<<< HEAD
 msgid "Auto EXIF Orientation rotation/flipping"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Auto Standby"
 msgstr "Biðstaða"
 
+<<<<<<< HEAD
 msgid "Auto Volume Level"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Auto chapter split every ? minutes (0=never)"
 msgstr "Skipta í kafla hverja ? mínútu (0=aldrei)"
 
@@ -1389,6 +1593,7 @@ msgstr ""
 msgid "Auto language selection"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Auto play blu-ray file"
 msgstr ""
 
@@ -1400,6 +1605,11 @@ msgstr "Sjálfvirk skipting á scarti"
 msgid "AutoTimer overview"
 msgstr "Innsláttur tímastilltra atriða"
 
+=======
+msgid "Auto scart switching"
+msgstr "Sjálfvirk skipting á scarti"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Automatic"
 msgstr "Sjálfvirkt"
 
@@ -1453,15 +1663,26 @@ msgstr ""
 msgid "B"
 msgstr "B"
 
+<<<<<<< HEAD
 msgid "BER:"
 msgstr ""
+=======
+msgid "BA"
+msgstr "BA"
+
+msgid "BB"
+msgstr "BB"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Back"
 msgstr "Til baka"
 
+<<<<<<< HEAD
 msgid "Back/Recall"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Background"
 msgstr "Bakgrunnur"
 
@@ -1525,9 +1746,12 @@ msgstr "Aðgerð þegar mynd er stoppuð"
 msgid "Behavior when a movie reaches the end"
 msgstr "Aðgerð þegar mynd er búin"
 
+<<<<<<< HEAD
 msgid "Big PiP"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Bitrate:"
 msgstr "Bitahraði:"
 
@@ -1546,9 +1770,12 @@ msgstr "Suð deyfing"
 msgid "Blue"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Blue long"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Bookmarks"
 msgstr "Bókamerki"
 
@@ -1570,15 +1797,22 @@ msgstr ""
 msgid "Brightness (Standby)"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid "Buffering %d%%"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Buffers:"
 msgstr ""
 
 #, python-format
+<<<<<<< HEAD
 msgid "Build:\t%s.%s%s (%s)\n"
+=======
+msgid "Build:\t%s"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -1611,6 +1845,7 @@ msgstr ""
 msgid "Button setup"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Button setup for"
 msgstr ""
 
@@ -1620,6 +1855,9 @@ msgid "ButtonSetup"
 msgstr "Uppsetning mótors"
 
 msgid "By Team ViX"
+=======
+msgid "By Team BH"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Bypass HDMI EDID Check"
@@ -1684,6 +1922,7 @@ msgstr ""
 msgid "CH"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid "CH%s"
 msgstr ""
@@ -1695,15 +1934,24 @@ msgstr ""
 msgid "CI (Common Interface) Setup"
 msgstr "Afruglara tengi"
 
+=======
+msgid "CHANGE BOUQUET"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "CI assignment"
 msgstr "CI stillingar"
 
 #, python-format
+<<<<<<< HEAD
 msgid "CPU speed:\t%s\n"
 msgstr ""
 
 #, python-format
 msgid "CPU:\t%s\n"
+=======
+msgid "CPU:\t%s"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "CVBS"
@@ -1756,6 +2004,7 @@ msgstr ""
 msgid "Cannot find any signal ..., aborting !"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Cannot move to the trash can"
 msgstr "Eyða fyrir leit"
@@ -1763,6 +2012,10 @@ msgstr "Eyða fyrir leit"
 #, fuzzy
 msgid "Capabilities: "
 msgstr "Stærð:"
+=======
+msgid "Cannot move to trash can"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Capacity: "
 msgstr "Stærð:"
@@ -1782,6 +2035,7 @@ msgstr ""
 msgid "Cardserial"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Cascade PiP"
 msgstr ""
 
@@ -1792,6 +2046,11 @@ msgstr ""
 msgid "Change PIN"
 msgstr "Breyta aðgangsorði fyrir uppsetningu"
 
+=======
+msgid "Center DVB subtitles"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Change bouquets in quickzap"
 msgstr "Skipta á milli rása flétta í rásastökki"
 
@@ -1799,20 +2058,42 @@ msgstr "Skipta á milli rása flétta í rásastökki"
 msgid "Change next timer"
 msgstr "Breyta skrefa stærð"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Change recording (add time)"
 msgstr "Vinsamlega breytið lokatíma upptöku"
+=======
+msgid "Change pin code"
+msgstr "Breyta aðgangskóða"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Change recording (duration)"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Change recording (end time)"
 msgstr "Vinsamlega breytið lokatíma upptöku"
+=======
+msgid "Change recording (endtime)"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Change repeat and delay settings?"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Change service PIN"
+msgstr "Breyta aðgangsorði fyrir rásir"
+
+msgid "Change service PINs"
+msgstr "Breyta aðgangsorðum fyrir rásir"
+
+msgid "Change setup PIN"
+msgstr "Breyta aðgangsorði fyrir uppsetningu"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Change step size"
 msgstr "Breyta skrefa stærð"
 
@@ -1824,9 +2105,21 @@ msgstr "Breyta skrefa stærð"
 msgid "Change to bouquet"
 msgstr "Bæta við rásavönd"
 
+<<<<<<< HEAD
 msgid "Channel"
 msgstr "Rás"
 
+=======
+msgid "Changelog"
+msgstr "Breytingaskrá"
+
+msgid "Channel"
+msgstr "Rás"
+
+msgid "Channel +/- button mode"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Channel 1 at start"
 msgstr ""
 
@@ -1836,6 +2129,7 @@ msgstr ""
 msgid "Channel List"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Channel down"
 msgstr "Rás"
@@ -1844,6 +2138,8 @@ msgstr "Rás"
 msgid "Channel info"
 msgstr "Rás"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Channel list context menu"
 msgstr ""
 
@@ -1876,10 +2172,13 @@ msgstr "Rása val"
 msgid "Channel selection settings"
 msgstr "Stillingar safns"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Channel up"
 msgstr "Rás"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Channel:"
 msgstr "Rás:"
 
@@ -1908,6 +2207,12 @@ msgstr ""
 msgid "Check the internet connection again"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Checking Feeds"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Checking Logs..."
 msgstr ""
 
@@ -1923,7 +2228,11 @@ msgstr ""
 
 #, python-format
 msgid ""
+<<<<<<< HEAD
 "Checking tuner %s\n"
+=======
+"Checking tuner %d\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "DiSEqC port %s for %s"
 msgstr ""
 
@@ -1931,7 +2240,11 @@ msgid "Children/Youth"
 msgstr ""
 
 #, python-format
+<<<<<<< HEAD
 msgid "Chipset:\tBCM%s\n"
+=======
+msgid "Chipset:\tBCM%s"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -1947,7 +2260,11 @@ msgstr ""
 msgid "Choose between Daily, Weekly, Weekdays or user defined."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Choose the location for crash and debug logs folder."
+=======
+msgid "Choose the location for crash and debug logs."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Choose the location where the EPG data will be stored when the %s %s is shut down. The location must be available at boot time."
@@ -1962,6 +2279,7 @@ msgstr ""
 msgid "Choose what you want the '0' button to do when PIP is active."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Choose whether AAC sound tracks should be transcoded."
 msgstr ""
 
@@ -1971,6 +2289,11 @@ msgstr ""
 msgid "Choose whether multi channel sound tracks should be output as PCM."
 msgstr ""
 
+=======
+msgid "Choose whether multi channel sound tracks should be downmixed to stereo."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Choose whether or not to show an icon when a motorised dish is moving."
 msgstr ""
 
@@ -1983,10 +2306,13 @@ msgstr ""
 msgid "Chose between record and ZAP."
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Circular LNB"
 msgstr "Hringpólun vinstri"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Circular left"
 msgstr "Hringpólun vinstri"
 
@@ -2024,9 +2350,12 @@ msgstr "hreinsa spilunarlista"
 msgid "Clients"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Clone TV screen to LCD"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Close"
 msgstr "Loka"
 
@@ -2081,6 +2410,12 @@ msgstr "Röðun skipana"
 msgid "Command type"
 msgstr "Röðun skipana"
 
+<<<<<<< HEAD
+=======
+msgid "Committed DiSEqC command"
+msgstr "Fyrsta DiSEqC rofa stýring"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Common Interface"
 msgstr "Afruglara tengi"
 
@@ -2132,6 +2467,7 @@ msgstr ""
 msgid "Configure how recording filenames are constructed."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Configure if and how crypto icons will be shown in the channel selection list."
 msgstr ""
 
@@ -2153,6 +2489,14 @@ msgstr ""
 msgid "Configure if the subtitle should switch between normal, italic, bold and bolditalic"
 msgstr ""
 
+=======
+msgid "Configure if and how service type icons will be shown."
+msgstr ""
+
+msgid "Configure if picons will be shown in the service list."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Configure interface"
 msgstr "Stilla netkort"
 
@@ -2228,6 +2572,15 @@ msgstr ""
 msgid "Configure the fourth subtitle language."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Configure the function of a long press of the power button."
+msgstr ""
+
+msgid "Configure the function of a short press of the power button."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Configure the function of the <  > buttons."
 msgstr ""
 
@@ -2237,10 +2590,13 @@ msgstr ""
 msgid "Configure the horizontal alignment of the subtitles."
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Configure the infobar fading speed"
 msgstr "Stilla netkort"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Configure the initial fast forward speed. When you press the fast forward button, winding will start at this speed."
 msgstr ""
 
@@ -2256,18 +2612,25 @@ msgstr ""
 msgid "Configure the minimum amount of disk space to be available for recordings. When the amount of space drops below this value, deleted items will be removed from the trash can."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Configure the minimum width before showing the 'i' icon, '0' is equal to not showing the icon at all."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Configure the nameserver (DNS)."
 msgstr ""
 
 msgid "Configure the netmask."
 msgstr ""
 
+<<<<<<< HEAD
 msgid ""
 "Configure the number of days after which items are automatically removed from the trash can.\n"
 "A setting of 0 disables this."
+=======
+msgid "Configure the number of days after which items are automatically removed from the trash can."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Configure the number of days old timers are kept before they are automatically removed from the timer list."
@@ -2288,7 +2651,11 @@ msgstr ""
 msgid "Configure the primary EPG language."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Configure the refresh rate of the screen. Multi means refresh rate depends on the source 24/50/60Hz"
+=======
+msgid "Configure the refresh rate of the screen."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Configure the second audio language."
@@ -2315,9 +2682,12 @@ msgstr "Stilltur stökk fyrir 7 og 9 takka"
 msgid "Configure the slow motion speeds."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Configure the source of the frontend data as shown on the infobars. 'Settings' is as stored on the settings. 'Tuner' is as reported by the tuner."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Configure the speed of the background deletion process. Lower speed will consume less hard disk drive performance."
 msgstr ""
 
@@ -2354,6 +2724,7 @@ msgstr ""
 msgid "Configure whether (and for how long) a second infobar will be shown when OK is pressed twice. The second infobar contains additional information about the current channel."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Configure whether or not an rotor position will be displayed on infobar"
 msgstr ""
 
@@ -2363,6 +2734,11 @@ msgstr ""
 msgid "Configure which tuner for recordings will be preferred, when more than one tuner is available."
 msgstr ""
 
+=======
+msgid "Configure which color format should be used on the SCART output."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Configure which tuner type will be preferred, when the same service is available on different types of tuners."
 msgstr ""
 
@@ -2404,6 +2780,7 @@ msgstr "Tengist við þráðlaust net"
 msgid "Connected clients"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Connected satellites"
@@ -2412,6 +2789,14 @@ msgstr "eyða völdum gervihnetti"
 msgid "Connected to"
 msgstr "Tengd við"
 
+=======
+msgid "Connected to"
+msgstr "Tengd við"
+
+msgid "Connected!"
+msgstr "Tengdur!"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Connected: "
 msgstr ""
 
@@ -2425,11 +2810,14 @@ msgid "Content does not fit on DVD!"
 msgstr "Innihald passar ekki á DVD!"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Context"
 msgstr "Áfram"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Continue"
 msgstr "Áfram"
 
@@ -2469,19 +2857,32 @@ msgstr ""
 msgid "Copy"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Copy to bouquets"
 msgstr "afrita til rásavanda"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Copying files"
 msgstr "Löng skráarnöfn"
 
+<<<<<<< HEAD
 #
 #, fuzzy, python-format
 msgid "Cores:\t%s\n"
 msgstr "Gerð:"
+=======
+#, python-format
+msgid "Cores:\t%s"
+msgstr ""
+
+#, fuzzy, python-format
+msgid "Could not connect to %s %s .NFI image feed server:"
+msgstr "Gat ekki tengt við %s %s .NFI stýrikerfis vefþjón:"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Could not find installed channel list."
 msgstr ""
@@ -2497,6 +2898,7 @@ msgstr "Gat ekki opnað mynd í mynd"
 msgid "Could not open the file %s!"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy, python-format
 msgid "Could not record due to a conflicting timer %s"
@@ -2504,6 +2906,14 @@ msgstr "Upptöku tími takmarkaður vegna annarar tímastillingar, %s"
 
 #, python-format
 msgid "Could not record due to an invalid service %s"
+=======
+#, python-format
+msgid "Could not record due to conflicting timer %s"
+msgstr ""
+
+#, python-format
+msgid "Could not record due to invalid service %s"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -2521,6 +2931,12 @@ msgstr "Búa til DVD-ISO"
 msgid "Create directory"
 msgstr "búa til möppu"
 
+<<<<<<< HEAD
+=======
+msgid "Create more detailed crash log"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Creating AP and SC Files"
 msgstr ""
 
@@ -2559,6 +2975,7 @@ msgstr ""
 msgid "Current device: "
 msgstr "Núverandi tæki: "
 
+<<<<<<< HEAD
 #, fuzzy, python-format
 msgid "Current mode: %s \n"
 msgstr "Núverandi tæki: "
@@ -2567,6 +2984,8 @@ msgstr "Núverandi tæki: "
 msgid "Current rotor position: "
 msgstr "Núverandi útgáfa:"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Current settings:"
 msgstr "Núverandi stilling:"
 
@@ -2583,6 +3002,12 @@ msgstr "Núverandi val:"
 msgid "Current version:"
 msgstr "Núverandi útgáfa:"
 
+<<<<<<< HEAD
+=======
+msgid "Currently installed image"
+msgstr "Núverandi stýrikerfi"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Custom"
 msgstr "Aðrar stillingar"
@@ -2629,9 +3054,12 @@ msgstr ""
 msgid "DMM normal"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "DTS"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "DUAL LAYER DVD"
 msgstr "Tveggja laga DVD"
 
@@ -2691,11 +3119,14 @@ msgstr "Danska"
 msgid "Date"
 msgstr "Dags"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "De-select"
 msgstr "Ekki velja"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Debug Logs"
 msgstr ""
 
@@ -2726,6 +3157,7 @@ msgstr "Upphafs stillingar"
 msgid "Defaults"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Delay after change voltage before switch command"
 msgstr ""
 
@@ -2788,6 +3220,14 @@ msgstr ""
 msgid "Delay in miliseconds before start of scrolling text on display."
 msgstr ""
 
+=======
+msgid "Delay before key repeat starts:"
+msgstr ""
+
+msgid "Delay for external subtitles"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Delay time"
 msgstr "Byrjunar tími"
@@ -2807,11 +3247,14 @@ msgid "Delete Confirmation"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Delete EPG"
 msgstr "Eyða"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Delete entry"
 msgstr "Eyða innslætti"
 
@@ -2839,6 +3282,14 @@ msgstr "eyða vistuðum spilunarlista"
 msgid "Delete timer"
 msgstr "eyða skrá"
 
+<<<<<<< HEAD
+=======
+#
+#, fuzzy
+msgid "Delete..."
+msgstr "eyða...."
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Deleted"
 msgstr ""
 
@@ -2860,10 +3311,14 @@ msgstr ""
 msgid "Descramble & record ECM' gives the option to descramble afterwards if descrambling on recording failed. 'Don't descramble, record ECM' save a scramble recording that can be descrambled on playback. 'Normal' means descramble the recording and don't record ECM."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Descramble receiving http streams"
 msgstr ""
 
 msgid "Descramble sending http streams"
+=======
+msgid "Descramble http streams"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -2877,6 +3332,7 @@ msgstr "Ekki velja"
 msgid "Details for plugin: "
 msgstr "Upplýsingar um íforrit:"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Detected devices:"
@@ -2887,6 +3343,18 @@ msgstr "Fann NIM:"
 msgid "Detected tuners:"
 msgstr "Fann NIM:"
 
+=======
+msgid "Detected Devices:"
+msgstr ""
+
+#
+msgid "Detected NIMs:"
+msgstr "Fann NIM:"
+
+msgid "Device Information"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Device mounts"
 msgstr ""
 
@@ -2903,6 +3371,7 @@ msgstr ""
 msgid "DiSEqC"
 msgstr "DiSEqC"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "DiSEqC 1.0 command"
 msgstr "Fyrsta DiSEqC rofa stýring"
@@ -2916,6 +3385,8 @@ msgstr "Fyrsta DiSEqC rofa stýring"
 msgid "DiSEqC 1.1 repeats"
 msgstr "DiSEqC endurtekning"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "DiSEqC A/B"
 msgstr "DiSEqC A/B"
@@ -2933,14 +3404,26 @@ msgid "DiSEqC port %s: %s"
 msgstr ""
 
 #
+<<<<<<< HEAD
+=======
+msgid "DiSEqC repeats"
+msgstr "DiSEqC endurtekning"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "DiSEqC-tester settings"
 msgstr "DiSEqC prufu stillingar"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Diction"
 msgstr "Lýsing"
+=======
+msgid "Dialing:"
+msgstr "Hringi:"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Digital contour removal"
@@ -2970,11 +3453,14 @@ msgid "Disable"
 msgstr "Gera óvirkt"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Disable Animations"
 msgstr "eyða skrá"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Disable Picture in Picture"
 msgstr "Gera Mynd í Mynd óvirka"
 
@@ -2983,11 +3469,14 @@ msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Disable move mode"
 msgstr "hætta í færslu stöðu"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Disable timer"
 msgstr "eyða skrá"
 
@@ -2995,9 +3484,22 @@ msgstr "eyða skrá"
 msgid "Disabled"
 msgstr "Óvirkt"
 
+<<<<<<< HEAD
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr ""
 
+=======
+#
+msgid "Disconnect"
+msgstr "Aftengja"
+
+msgid "Disk space to reserve for recordings (in GB)"
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Display 16:9 content as"
 msgstr "Sýna 16:9 innihald sem"
@@ -3032,11 +3534,14 @@ msgid "Do not record"
 msgstr "taka upp"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Do nothing"
 msgstr "ekki gera neitt"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Do you really want to check the filesystem?\n"
 "This could take a long time!"
@@ -3075,6 +3580,7 @@ msgid "Do you really want to exit?"
 msgstr "Viltu virkilega hætta?"
 
 msgid ""
+<<<<<<< HEAD
 "Do you really want to initialize this device?\n"
 "All the data on the device will be lost!"
 msgstr ""
@@ -3091,6 +3597,18 @@ msgstr "Viltu örugglega eyða möppunni %s af diskinum?"
 #, fuzzy
 msgid "Do you really want to permanently remove from the trash can ?"
 msgstr "Viltu örugglega eyða EYÐA íforriti \"%s\"?"
+=======
+"Do you really want to initialize the device?\n"
+"All data on the disk will be lost!"
+msgstr ""
+
+#, python-format
+msgid "Do you really want to permamently remove '%s' from trash can ?"
+msgstr ""
+
+msgid "Do you really want to permanently remove from trash can ?"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 #, python-format
@@ -3114,6 +3632,14 @@ msgid "Do you want to add any additional information ?"
 msgstr ""
 
 msgid ""
+<<<<<<< HEAD
+=======
+"Do you want to also install samba client ?\n"
+"This allows you to mount your windows shares on this device."
+msgstr ""
+
+msgid ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "Do you want to attach a text file to explain the log ?\n"
 "(choose 'No' to type message using virtual keyboard.)"
 msgstr ""
@@ -3122,6 +3648,7 @@ msgstr ""
 msgid "Do you want to burn this collection to DVD medium?"
 msgstr "Viltu brenna þessa skráar safn á DVD disk?"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Do you want to continue?"
@@ -3129,6 +3656,10 @@ msgstr "Að hverju viltu leita?"
 
 msgid ""
 "Do you want to delete all the selected files:\n"
+=======
+msgid ""
+"Do you want to delete all selected files:\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "(choose 'No' to only delete the currently selected file.)"
 msgstr ""
 
@@ -3140,15 +3671,25 @@ msgstr "Viltu leita að rásum?"
 msgid "Do you want to do another manual service scan?"
 msgstr "Viltu leita aftur handvirkt?"
 
+<<<<<<< HEAD
+=======
+#, python-format
+msgid "Do you want to download the image to %s ?"
+msgstr "Viltu hlaða niður stýrikerfinu á %s ?"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Do you want to install the package:\n"
 msgstr "Viltu setja inn pakkann:\n"
 
+<<<<<<< HEAD
 msgid ""
 "Do you want to install the samba client aswell?\n"
 "This will allow you to mount your windows shares on this device."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Do you want to play DVD in drive?"
 msgstr "Viltu spila DVD diskinn sem er í spilaranum?"
@@ -3174,12 +3715,20 @@ msgid "Do you want to restore your settings?"
 msgstr "Viltu setja inn stillingarnar þínar aftur?"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Do you want to resume playback?"
 msgstr "Viltu halda áfram að spila þetta?"
 
 msgid ""
 "Do you want to send all the selected files:\n"
+=======
+msgid "Do you want to resume this playback?"
+msgstr "Viltu halda áfram að spila þetta?"
+
+msgid ""
+"Do you want to send all selected files:\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "(choose 'No' to only send the currently selected file.)"
 msgstr ""
 
@@ -3192,9 +3741,12 @@ msgstr "Viltu setja inn stillingarnar þínar aftur?"
 msgid "Do you want to upgrade the package:\n"
 msgstr "Viltu uppfæra pakkann:\n"
 
+<<<<<<< HEAD
 msgid "Dobly Digital downmix is now"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Dolby Digital / DTS downmix"
 msgstr ""
 
@@ -3202,6 +3754,7 @@ msgid "Don't save"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Don't stop current event but disable future events"
 msgstr "Ekki stoppa núverandi atriði en hætta við næsta"
@@ -3219,6 +3772,11 @@ msgstr "eyða skrá"
 msgid "Don't zap and remove timer"
 msgstr "taka upp"
 
+=======
+msgid "Don't stop current event but disable coming events"
+msgstr "Ekki stoppa núverandi atriði en hætta við næsta"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy, python-format
 msgid "Done - Installed, upgraded or removed %d package (%s)"
@@ -3227,10 +3785,25 @@ msgstr[0] "Búin, setti inn, uppfærði eða tót út %d pakka með %d villum"
 msgstr[1] "Búin, setti inn, uppfærði eða tót út %d pakka með %d villum"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Down"
 msgstr "Hlaða niður"
 
+=======
+msgid "Download"
+msgstr "Hlaða niður"
+
+#, fuzzy, python-format
+msgid "Download %s from server"
+msgstr "Hleð niður %s frá vefþjón"
+
+#
+#, fuzzy
+msgid "Download .NFI-files for USB-flasher"
+msgstr "Hlaða niður .NFI skrár fyrir keyranlegt USB"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Download plugins"
 msgstr ""
 
@@ -3240,10 +3813,16 @@ msgstr "Hleð niður"
 msgid "Downloading plugin information. Please wait..."
 msgstr "Hala niður íforrits upplýsingum. Vinsamlega bíðið..."
 
+<<<<<<< HEAD
 #
 #, fuzzy, python-format
 msgid "Drivers:\t%s\n"
 msgstr "Ný útgáfa:"
+=======
+#, python-format
+msgid "Drivers:\t%s"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #, python-format
 msgid "Drivers: %s"
@@ -3306,6 +3885,7 @@ msgstr ""
 msgid "ERROR - failed to scan (%s)!"
 msgstr "VILLA - gat ekki leitað (%s)!"
 
+<<<<<<< HEAD
 msgid "ERROR:   Check is already running in background, please wait a few minutes and try again"
 msgstr ""
 
@@ -3322,6 +3902,8 @@ msgstr "Ekkert netkerfi fannst"
 msgid "ERROR: Check is already running in background"
 msgstr "%d verk eru í vinnslu í bakgrunni!"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "East"
 msgstr "Austur"
@@ -3340,18 +3922,28 @@ msgstr "Breyta"
 msgid "Edit DNS"
 msgstr "Breyta DNS"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Edit alternatives"
 msgstr "breyta valkosti"
+=======
+msgid "Edit bouquets list"
+msgstr "Breyta rásavanda lista"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Edit chapters of current title"
 msgstr "Breyta köflum núverandi titils"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Edit new entry"
 msgstr "Innsláttur tímastilltra atriða"
+=======
+msgid "Edit services list"
+msgstr "Breyta rása lista"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Edit settings"
@@ -3415,6 +4007,7 @@ msgstr ""
 msgid "Enable ViaSat EPG"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Enable Virgin EPG"
 msgstr ""
 
@@ -3452,6 +4045,11 @@ msgstr ""
 msgid "Enable move mode"
 msgstr "virkja færlsu stöðu"
 
+=======
+msgid "Enable debug logs"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Enable multiple bouquets"
 msgstr "Virkja marga rásavendi"
@@ -3460,23 +4058,37 @@ msgid "Enable panic button"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Enable parental protection"
 msgstr "bæta við foreldra lás"
+=======
+msgid "Enable parental control"
+msgstr "Virkja foreldra stýringu"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Enable teletext caching"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Enable the use of the tuners of a remote enigma2 receiver when no local tuner is available (e.g. when the tuner is occupied or service type is unavailable on the local tuner)."
 msgstr ""
 
 msgid "Enable timer conflict detection"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Enabled"
 msgstr "Virkt"
 
+<<<<<<< HEAD
+=======
+msgid "Enables a feature so that the receiver can decrypt streams (if the ECM data is included in the stream and a valid card is available)."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Encrypted: "
 msgstr "Kóðun:"
 
@@ -3498,6 +4110,7 @@ msgid "Encryption:"
 msgstr "Kóðun:"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "End"
 msgstr "Virkt"
@@ -3517,6 +4130,8 @@ msgid "End favourites edit"
 msgstr "hætta breytingum eftirlætis lista"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "End time"
 msgstr "Loka tími"
 
@@ -3524,10 +4139,17 @@ msgstr "Loka tími"
 msgid "English"
 msgstr "Enska"
 
+<<<<<<< HEAD
 msgid "Enigma2 Changes"
 msgstr ""
 
 msgid "Enigma2 skin selector"
+=======
+msgid "Enigma2 skin selector"
+msgstr ""
+
+msgid "Enimga2 Changes"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -3549,6 +4171,7 @@ msgstr ""
 msgid "Entitlements"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Epg/Guide"
 msgstr ""
 
@@ -3560,6 +4183,8 @@ msgstr ""
 msgid "Equal to"
 msgstr "jafnt og"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Error"
 msgstr "Villa"
@@ -3567,7 +4192,11 @@ msgstr "Villa"
 msgid "Error code"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Error downloading the change log."
+=======
+msgid "Error downloading change log."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Error executing plugin"
@@ -3604,6 +4233,7 @@ msgstr ""
 msgid "Event font size"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Event name first"
 msgstr ""
 
@@ -3618,6 +4248,11 @@ msgstr "Forskoða valmynd"
 msgid "Everyday"
 msgstr ""
 
+=======
+msgid "Event view"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Everywhere"
 msgstr ""
 
@@ -3645,7 +4280,11 @@ msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Exit MAC address configuration"
+=======
+msgid "Exit MAC-address configuration"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "fara úr nafnaþjóns stillingum"
 
 #
@@ -3667,21 +4306,27 @@ msgstr "hætta í spilara"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Exit mounts setup menu"
 msgstr "hætta í netkorts stillingum"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Exit movie list"
 msgstr "loka myndalista"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Exit movie player..."
 msgstr "hætta í spilara"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Exit movie player?"
 msgstr "hætta í spilara"
 
@@ -3692,6 +4337,7 @@ msgstr "fara úr nafnaþjóns stillingum"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Exit network adapter configuration"
 msgstr "fara úr netkorts stillingum"
 
@@ -3702,21 +4348,27 @@ msgstr "hætta í netkorts stillingum"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Exit network interface list"
 msgstr "fara út úr netkorta lista"
 
 msgid "Exit network wizard"
 msgstr "Hætta í netkerfis ráðgjafa"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Exit networkadapter setup menu"
 msgstr "hætta í netkorts stillingum"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Exit the wizard"
 msgstr "Hætta í ráðgjafa"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Exit/OK"
 msgstr "Hætta"
@@ -3729,6 +4381,11 @@ msgstr "Sérfræði"
 msgid "Extended"
 msgstr "Viðbótar stillingar..."
 
+=======
+msgid "Expert"
+msgstr "Sérfræði"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Extended Networksetup Plugin..."
 msgstr "Íforrit fyrir nánari stillingar netkerfis..."
 
@@ -3762,6 +4419,7 @@ msgstr "Viðbóta umsýsla"
 msgid "External"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "External PiP"
@@ -3769,11 +4427,15 @@ msgstr "Innra Flash minni"
 
 #, python-format
 msgid "External Storage %s"
+=======
+msgid "External (CF)"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "External subtitle color"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "External subtitle dialog colorisation"
 msgstr ""
 
@@ -3810,10 +4472,13 @@ msgstr ""
 msgid "F3 long"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "FAILED"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "FBC Unicable"
 msgstr "Unicable"
@@ -3839,6 +4504,11 @@ msgstr "FEC"
 msgid "FEC:"
 msgstr ""
 
+=======
+msgid "FEC"
+msgstr "FEC"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "FLASH"
 msgstr ""
 
@@ -3852,9 +4522,12 @@ msgstr ""
 msgid "Factory reset"
 msgstr "Verksmiðju stilling"
 
+<<<<<<< HEAD
 msgid "Fade the infobar when hiding"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Failed"
 msgstr "Tókst ekki"
@@ -3862,12 +4535,15 @@ msgstr "Tókst ekki"
 msgid "Failed to write /tmp/positionersetup.log: "
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Fallback remote receiver URL"
 msgstr ""
 
 msgid "Fallback remote receiver streaming port"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, python-format
 msgid "Fan %d"
 msgstr "Vifta %d"
@@ -3890,6 +4566,7 @@ msgstr "Hratt tímabil"
 msgid "Fast forward speeds"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Fastforward"
@@ -3910,6 +4587,11 @@ msgstr ""
 msgid "Feeds status:   Updating"
 msgstr ""
 
+=======
+msgid "Favourites"
+msgstr "Eftirlætis listar"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "File appears to be busy.\n"
 msgstr ""
 
@@ -3932,12 +4614,15 @@ msgstr "Staðsetning hnattar"
 msgid "Final position at index"
 msgstr "Staðsetning hnattar"
 
+<<<<<<< HEAD
 msgid "Final scroll delay"
 msgstr ""
 
 msgid "Find currently played service"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Fine movement"
@@ -3956,12 +4641,20 @@ msgid "Finished configuring your network"
 msgstr "Búið að stilla netkerfið"
 
 #
+<<<<<<< HEAD
+=======
+msgid "Finished restarting your network"
+msgstr "Búið að endurræsa netkerfið"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Finnish"
 msgstr "Finnska"
 
 msgid "Fixed"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Flashing"
 msgstr ""
 
@@ -3980,6 +4673,25 @@ msgstr ""
 msgid "Force ToneBurst"
 msgstr "Tónstýring"
 
+=======
+#
+msgid "Flash"
+msgstr "Forritun"
+
+msgid "Flashing"
+msgstr ""
+
+#
+msgid "Flashing failed"
+msgstr "Forritun tókt ekki"
+
+msgid "Following tasks will be done after you press OK!"
+msgstr "Eftirfarandi aðgerðir verða framkvæmdar eftir að þú ýtir á OK!"
+
+msgid "Fontsize"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Force de-interlace"
 msgstr "Stilla netkort"
@@ -3995,6 +4707,15 @@ msgstr ""
 msgid "Frame size in full view"
 msgstr "Stærð ramma í fullri stærð"
 
+<<<<<<< HEAD
+=======
+msgid "Free Memory:"
+msgstr ""
+
+msgid "Free Swap:"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Free To Air"
 msgstr ""
 
@@ -4004,9 +4725,12 @@ msgstr ""
 msgid "Free memory:"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Free swap:"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Free:"
 msgstr ""
 
@@ -4034,11 +4758,14 @@ msgid "Frequency steps"
 msgstr "Tíðniskref"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Frequency:"
 msgstr "Tíðni"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Fri"
 msgstr "Fös"
 
@@ -4049,14 +4776,23 @@ msgstr "Föstudagur"
 msgid "From :"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Front Display Panel"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, python-format
 msgid "Frontprocessor version: %d"
 msgstr "Útgáfa framheila: %d"
 
+<<<<<<< HEAD
+=======
+msgid "Ftpd service type: Vsftpd server"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Full screen"
 msgstr ""
 
@@ -4064,16 +4800,23 @@ msgid "Full transparency"
 msgstr ""
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Fulview resulution"
+=======
+msgid "Fullview resolution"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Staðsetning bíómynda"
 
 msgid "GB"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid "GStreamer:\t%s\n"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid ""
@@ -4104,6 +4847,15 @@ msgstr "Gerð"
 msgid "German"
 msgstr "Þýska"
 
+<<<<<<< HEAD
+=======
+msgid "Get latest experimental image"
+msgstr "Ná í nýjustu prufuútgáfu stýrikerfis"
+
+msgid "Get latest release image"
+msgstr "Ná í nýjasta útgefið stýrikerfi"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Getting Event Info failed!"
 msgstr ""
 
@@ -4119,6 +4871,7 @@ msgstr ""
 msgid "Go to first movie or top of list"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Go to next bouquet"
@@ -4152,6 +4905,8 @@ msgstr "fara upp í næsta atriði"
 msgid "Go to specific data/time"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Go up the list"
 msgstr ""
 
@@ -4173,10 +4928,37 @@ msgstr "Fara á 0"
 msgid "Goto index position"
 msgstr "Fara á staðsetningu"
 
+<<<<<<< HEAD
+=======
+msgid "Goto next bouquet"
+msgstr ""
+
+msgid "Goto next channel"
+msgstr ""
+
+msgid "Goto next event"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Goto position"
 msgstr "Fara á staðsetningu"
 
+<<<<<<< HEAD
+=======
+msgid "Goto previous bouquet"
+msgstr ""
+
+msgid "Goto previous channel"
+msgstr ""
+
+msgid "Goto previous event"
+msgstr ""
+
+msgid "Goto specific data/time"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "GotoX calibration"
@@ -4202,6 +4984,7 @@ msgstr ""
 msgid "Greek"
 msgstr "Gríska"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Green"
@@ -4219,6 +5002,11 @@ msgstr ""
 msgid "Grow from left"
 msgstr ""
 
+=======
+msgid "Grey"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Guard interval"
 msgstr "Guard interval"
 
@@ -4228,12 +5016,15 @@ msgstr ""
 msgid "HD list"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "HD1100/et7x00/et8500"
 msgstr ""
 
 msgid "HD2400"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "HDMI"
 msgstr ""
 
@@ -4243,6 +5034,7 @@ msgstr ""
 msgid "HDMI CEC Setup"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "HDMI Colorspace"
 msgstr "Lita kerfi"
@@ -4250,6 +5042,8 @@ msgstr "Lita kerfi"
 msgid "HDMIin"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Handle standby from TV"
 msgstr ""
 
@@ -4266,17 +5060,21 @@ msgstr "Uppsetning harða disks"
 msgid "Hard disk standby after"
 msgstr "Harði diskur í biðstöðu eftir"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Harddisk setup"
 msgstr "Uppsetning harða disks"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Hebrew"
 msgstr ""
 
 msgid "Height"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Help"
 msgstr ""
 
@@ -4284,6 +5082,9 @@ msgid "Help long"
 msgstr ""
 
 msgid "Helps setting up your antenna"
+=======
+msgid "Helps setting up your dish"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Hidden network"
@@ -4302,9 +5103,12 @@ msgstr ""
 msgid "Hide known extensions"
 msgstr "skoða íforrit..."
 
+<<<<<<< HEAD
 msgid "Hide parental locked services"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Hide player"
@@ -4325,6 +5129,7 @@ msgstr "Stigskipta upplýsingar"
 msgid "High bitrate support"
 msgstr "Háhraða stuðningur"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "History back"
@@ -4338,6 +5143,11 @@ msgstr ""
 msgid "History next"
 msgstr "Upptaka"
 
+=======
+msgid "History buttons mode"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "History zap..."
 msgstr ""
 
@@ -4379,6 +5189,7 @@ msgid "Hours Mins Secs"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "How many minutes do you want add to the recording?"
 msgstr "Í hvað margar mínútur viltu taka upp?"
@@ -4386,6 +5197,9 @@ msgstr "Í hvað margar mínútur viltu taka upp?"
 #
 #, fuzzy
 msgid "How many minutes do you want to record for?"
+=======
+msgid "How many minutes do you want to record?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Í hvað margar mínútur viltu taka upp?"
 
 #
@@ -4427,7 +5241,11 @@ msgstr ""
 msgid "Idle Time: "
 msgstr ""
 
+<<<<<<< HEAD
 msgid "If enabled the output resolution of the box will try to match the resolution of the video content"
+=======
+msgid "If enabled the output resolution of the box will try to match the resolution of the video contents resolution"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "If enabled the video will always be de-interlaced."
@@ -4479,9 +5297,14 @@ msgid "If the text is too long to be displayed on the front panel, it will be re
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid ""
 "If you can see this, something is wrong with\n"
+=======
+msgid ""
+"If you see this, something is wrong with\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "your scart connection. Press OK to return."
 msgstr ""
 "Ef þú sérð þetta þá er eitthvað að scart\n"
@@ -4498,6 +5321,12 @@ msgstr ""
 "Ekki hafa áhyggjur af björtum svæðum núna. Þeir verða stilltir næst.\n"
 "Ef stillingin er orðin eins og þér finnst best ýttu þá á OK."
 
+<<<<<<< HEAD
+=======
+msgid "Image Information"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Image Manager"
 msgstr ""
 
@@ -4515,6 +5344,12 @@ msgstr "Til að taka upp á tíma stillingu þá var sjónvarpið stillt á uppt
 msgid "In progress"
 msgstr "Í vinnslu"
 
+<<<<<<< HEAD
+=======
+msgid "Inadyn Log"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Inadyn Setup"
 msgstr ""
 
@@ -4530,7 +5365,11 @@ msgstr ""
 msgid "Include EIT in http streams"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Incorrect service type for PiP!"
+=======
+msgid "Incorrect type service for PiP!"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Increase time scale"
@@ -4547,6 +5386,7 @@ msgstr ""
 msgid "Info"
 msgstr "Upplýsingar"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Info (EPG)"
@@ -4557,15 +5397,20 @@ msgstr "Upplýsingar"
 msgid "Info (EPG) Long"
 msgstr "Upplýsingar"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Info button (long)"
 msgstr ""
 
 msgid "Info button (short)"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Info icon width"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "InfoBar EPG"
@@ -4579,12 +5424,15 @@ msgstr "Upplýsingar"
 msgid "Infobar EPG"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Infobar fade-out speed"
 msgstr ""
 
 msgid "Infobar frontend data source"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "InfobarEPG settings"
@@ -4609,11 +5457,14 @@ msgstr "Ógildur staður"
 msgid "Initial rewind speed"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Initial scroll delay"
 msgstr "Gæði tengingar:"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Initial signal quality"
 msgstr ""
 
@@ -4635,9 +5486,12 @@ msgstr ""
 msgid "Inotify Monitoring"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Inotify monitoring"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Input"
 msgstr "Inntak"
@@ -4663,10 +5517,13 @@ msgstr "Setja inn nýtt stýrikerfi með vafra"
 msgid "Install channel list"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Install extensions"
 msgstr "Setja inn viðbót."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Install extensions."
 msgstr "Setja inn viðbót."
 
@@ -4691,17 +5548,21 @@ msgid "Installation finished."
 msgstr "Uppsetning búin."
 
 #
+<<<<<<< HEAD
 #, fuzzy, python-format
 msgid "Installed:\t%s\n"
 msgstr "Setja inn"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Installing"
 msgstr "Set inn"
 
 msgid "Installing Service"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Installing service"
@@ -4712,6 +5573,8 @@ msgstr "Set inn"
 msgid "Instant record"
 msgstr "Skyndi upptaka..."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Instant record location"
 msgstr "Skyndi upptöku staðsetning"
 
@@ -4750,11 +5613,14 @@ msgstr "Innra Flash minni"
 msgid "Internal hdd only"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Internet"
 msgstr "Innra Flash minni"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Interval between keys when repeating:"
 msgstr ""
 
@@ -4805,9 +5671,14 @@ msgstr "Skoða vinnslu"
 msgid "Jump back 24 hours"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Jump first press in channel selection"
 msgstr "Sýna framvindu atriðis við rásaval"
+=======
+msgid "Jump first press in channel selection*"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Jump forward 24 hours"
 msgstr ""
@@ -4823,6 +5694,7 @@ msgstr ""
 msgid "Jump to end of list"
 msgstr "fara í enda listans"
 
+<<<<<<< HEAD
 msgid "Jump to prime time"
 msgstr ""
 
@@ -4833,6 +5705,16 @@ msgstr ""
 #, fuzzy
 msgid "Jump to the previous marked position"
 msgstr "stökkva til baka í fyrri titil"
+=======
+msgid "Jump to next marked position"
+msgstr ""
+
+msgid "Jump to previous marked position"
+msgstr ""
+
+msgid "Jump to prime time"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Just change channels"
 msgstr ""
@@ -4859,6 +5741,7 @@ msgstr "KA-SAT (9°E)"
 msgid "Keep service"
 msgstr "bæta við rás"
 
+<<<<<<< HEAD
 msgid "Keeps the movie list open whilst playing audio files."
 msgstr ""
 
@@ -4866,6 +5749,14 @@ msgstr ""
 #, fuzzy, python-format
 msgid "Kernel:\t%s\n"
 msgstr "Ný útgáfa:"
+=======
+msgid "Keeps MovieList open whilst playing audio files."
+msgstr ""
+
+#, python-format
+msgid "Kernel:\t%s"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #, python-format
 msgid "Kernel: %s"
@@ -4894,9 +5785,12 @@ msgstr "LAN tenging"
 msgid "LED Deep Standby"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "LED Display Panel"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "LED Normal"
 msgstr ""
 
@@ -4927,9 +5821,12 @@ msgstr "Tungumál"
 msgid "Language selection"
 msgstr "Val tungumáls"
 
+<<<<<<< HEAD
 msgid "Large"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Last Req."
 msgstr ""
 
@@ -4943,9 +5840,13 @@ msgstr "Síðasti hraði"
 
 #
 #, fuzzy, python-format
+<<<<<<< HEAD
 msgid ""
 "Last update:\t%s\n"
 "\n"
+=======
+msgid "Last update:\t%s"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Listi uppfærðra pakka"
 
 #
@@ -5065,17 +5966,23 @@ msgid_plural "List version %d, found %d channels"
 msgstr[0] ""
 msgstr[1] ""
 
+<<<<<<< HEAD
 msgid "List/Fav/PVR"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Listen to the radio..."
 msgstr "hlusta á útvarp...."
 
+<<<<<<< HEAD
 msgid "Lists reloaded!"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Lithuanian"
 msgstr "Litháíska"
@@ -5092,12 +5999,16 @@ msgstr ""
 msgid "Load playlist"
 msgstr "hlaða inn spilunarlista"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Load unlinked userbouquets"
 msgstr "Virkja marga rásavendi"
 
 msgid "Load-Save-Delete"
+=======
+msgid "Load/Save"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Local box"
@@ -5117,12 +6028,15 @@ msgstr "Staðsetning"
 msgid "Lock ratio"
 msgstr "Staðsetning"
 
+<<<<<<< HEAD
 msgid "Lock:"
 msgstr ""
 
 msgid "Log"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Log Manager"
 msgstr ""
 
@@ -5136,14 +6050,23 @@ msgstr ""
 msgid "Logs"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Logs folder location"
 msgstr "<Síðasti staður tímastillinga>"
+=======
+msgid "Logs location"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Logs manager"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Logs older than the specified number of days will be deleted."
+=======
+msgid "Logs older than the specified no of days will be deleted."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Logs settings"
@@ -5167,6 +6090,7 @@ msgstr "Ýtt lengi á hnapp"
 msgid "Longitude"
 msgstr "Lengdargráða"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Loop through to"
@@ -5175,17 +6099,27 @@ msgstr "tengt saman við"
 msgid "Lower Framerate save CPU Time"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Luxembourgish"
 msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "MAC address"
+=======
+msgid "MAC-address"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "IP Netfang"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "MAC address settings"
+=======
+msgid "MAC-address settings"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Stilling tækis"
 
 msgid "MAC:"
@@ -5226,11 +6160,14 @@ msgid "Manage your %s %s's software"
 msgstr "Stjórna hugbúnaði móttakarans"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Manual"
 msgstr "handvirkt"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Manual Scan"
 msgstr "Handvirk leitun"
 
@@ -5258,6 +6195,7 @@ msgstr "Mörk fyrir upptöku (mínútur)"
 msgid "Margin before recording (minutes)"
 msgstr "Mörk fyrir upptöku (mínútur)"
 
+<<<<<<< HEAD
 msgid "Mark service as a dedicated 3D service"
 msgstr ""
 
@@ -5269,6 +6207,8 @@ msgstr ""
 msgid "Max memory positions"
 msgstr "Vista staðsetningu"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Max. bitrate: "
 msgstr "Mesti bitahraði:"
@@ -5282,17 +6222,24 @@ msgstr ""
 msgid "Maxdown: "
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Maximum number of days"
+=======
+msgid "Maximum no of days"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Maximum total space used (MB)"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Maybe the reason that recording is currently running. Please stop the recording before trying to configure the positioner."
 msgstr "Upptaka er nú í gangi. Stoppið vinsamlega upptökuna áður en að þú reynir að stilla staðsetjara."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Media playback Remaining/Elapsed as"
 msgstr ""
 
@@ -5316,10 +6263,24 @@ msgstr "Diskur er ekki tómur!"
 msgid "Memory"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Memory Information"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Memory index"
 msgstr ""
 
 #
+<<<<<<< HEAD
+=======
+#, fuzzy
+msgid "Memory positions"
+msgstr "Vista staðsetningu"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Menu"
 msgstr "Valmynd"
 
@@ -5329,6 +6290,7 @@ msgstr ""
 msgid "Merging Timeshift files"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "MiniDLNA Setup"
 msgstr ""
 
@@ -5339,6 +6301,15 @@ msgid "MiniTV"
 msgstr ""
 
 msgid "MiniTV with OSD"
+=======
+msgid "MiniDLNA Log"
+msgstr ""
+
+msgid "MiniDLNA Setup"
+msgstr ""
+
+msgid "MiniDLNA setup"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -5355,12 +6326,15 @@ msgstr ""
 msgid "Mins Secs"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid ""
 "Misconfigured unicable connection from tuner %s to tuner %s!\n"
 "Tuner %s option \"connected to\" are disabled now"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Missing "
 msgstr ""
 
@@ -5382,11 +6356,14 @@ msgid "Model: "
 msgstr "Gerð:"
 
 #
+<<<<<<< HEAD
 #, fuzzy, python-format
 msgid "Model: %s %s\n"
 msgstr "Gerð:"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Modulation"
 msgstr "Mótun"
 
@@ -5415,6 +6392,7 @@ msgstr "mánuður"
 msgid "Mosquito noise reduction"
 msgstr "Mosquito suð deyfing"
 
+<<<<<<< HEAD
 msgid "Motor command retries"
 msgstr ""
 
@@ -5423,6 +6401,8 @@ msgstr ""
 msgid "Motor running timeout"
 msgstr "Hraði mótors"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Mount"
 msgstr ""
 
@@ -5438,9 +6418,12 @@ msgstr ""
 msgid "Move Left/Right"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Move PIP"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Move PiP to main picture"
@@ -5457,6 +6440,7 @@ msgid "Move down a page"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Move down to last entry"
 msgstr "fara niður í síðasta atriði"
@@ -5467,12 +6451,20 @@ msgid "Move down to next entry"
 msgstr "fara niður í næsta atriði"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Move east"
 msgstr "Færa austur"
 
 msgid "Move to home of list"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Move to other directory"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Move to position X"
@@ -5482,6 +6474,7 @@ msgid "Move up a page"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Move up to first entry"
 msgstr "fara upp í fyrsta atriði"
@@ -5492,6 +6485,8 @@ msgid "Move up to previous entry"
 msgstr "fara upp í næsta atriði"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Move west"
 msgstr "Færa vestur"
 
@@ -5573,15 +6568,19 @@ msgstr "Margar rásir"
 msgid "Multisat"
 msgstr "Margir gervihnettir"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Multisat all select"
 msgstr "Velja undirtexta"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Music/Ballet/Dance"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "N"
 msgstr "Nei"
@@ -5589,6 +6588,18 @@ msgstr "Nei"
 #
 msgid "N/A"
 msgstr "Ekki til"
+=======
+msgid "N/A"
+msgstr "Ekki til"
+
+#, fuzzy
+msgid "NFI image flashing"
+msgstr "NFI stýrikerfis forritun"
+
+#
+msgid "NFI image flashing completed. Press Yellow to Reboot!"
+msgstr "NFI forritun er lokið. Ýttu á gulan til að endurræsa!"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "NFS Setup"
 msgstr ""
@@ -5599,9 +6610,12 @@ msgstr ""
 msgid "NIM"
 msgstr "NIM"
 
+<<<<<<< HEAD
 msgid "NO"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "NTP"
 msgstr ""
 
@@ -5651,11 +6665,23 @@ msgstr "Netkerfi"
 msgid "Network ID"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Network Information"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Network MAC settings"
 msgstr "Virkja netkerfis stillingar"
 
+<<<<<<< HEAD
+=======
+msgid "Network Servers:"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Network Setup"
 msgstr "Stilla netkerfi"
@@ -5665,11 +6691,14 @@ msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Network menu"
 msgstr "Stilla netkerfi"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Network mounts"
 msgstr "Prufa nettengingu"
 
@@ -5678,12 +6707,17 @@ msgid "Network name (SSID)"
 msgstr "Netkerfis nafn (SSID)"
 
 #
+<<<<<<< HEAD
 msgid "Network scan"
 msgstr "Leita netkerfið allt"
 
 #, fuzzy
 msgid "Network servers:"
 msgstr "Prufa nettengingu:"
+=======
+msgid "Network scan"
+msgstr "Leita netkerfið allt"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Network setup"
@@ -5708,6 +6742,12 @@ msgstr "Nettenging:"
 msgid "New"
 msgstr "Nýtt"
 
+<<<<<<< HEAD
+=======
+msgid "New PIN"
+msgstr "Nýtt PIN númer"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "New profile: "
 msgstr ""
 
@@ -5721,9 +6761,12 @@ msgstr "Ný útgáfa:"
 msgid "News Current Affairs"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Next"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgctxt "now/next: 'next' event label"
 msgid "Next"
 msgstr ""
@@ -5748,6 +6791,7 @@ msgid "No Timeshift found to save as recording!"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "No active channel found."
 msgstr "%d rásir fundnar!"
@@ -5756,6 +6800,8 @@ msgid "No age block"
 msgstr ""
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "No backup needed"
 msgstr "Afritun óþörf"
 
@@ -5766,11 +6812,14 @@ msgid "No card inserted!"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "No connection"
 msgstr "Engin tenging"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "No data on transponder!\n"
 "(Timeout reading PAT)"
@@ -5786,6 +6835,13 @@ msgid "No description available."
 msgstr "Engin lýsing tiltæk."
 
 #
+<<<<<<< HEAD
+=======
+msgid "No details for this image file"
+msgstr "Engar upplýsingar um þetta stýrikerfi"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "No displayable files on this medium found!"
 msgstr "Engar skrár fundust á þessu tæki!"
 
@@ -5802,11 +6858,14 @@ msgid "No free index available"
 msgstr "Engin lýsing tiltæk."
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "No free tuner available!"
 msgstr "Engin lýsing tiltæk."
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "No free tuner!"
 msgstr "Enginn laus móttakari!"
 
@@ -5838,12 +6897,16 @@ msgstr ""
 msgid "No positioner capable frontend found."
 msgstr "Það fannst ekki móttakari sem styður staðsetjara."
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "No priority"
 msgstr "Forgangur"
 
 msgid "No satellite, terrestrial or cable tuner is configured. Please check your tuner setup."
+=======
+msgid "No satellites configured. Plese check your tuner setup."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -5861,9 +6924,12 @@ msgstr "engar rásir/sendar valdir"
 msgid "No standby"
 msgstr "ekki biðstaða"
 
+<<<<<<< HEAD
 msgid "No stream clients"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "No suitable sat tuner found!"
 msgstr ""
 
@@ -5894,6 +6960,30 @@ msgstr ""
 "Enginn móttakari er valinn!\n"
 "Stilltu móttakara áður er að þú ferð að leita að rásum."
 
+<<<<<<< HEAD
+=======
+msgid "No updates available. Please try again later."
+msgstr ""
+
+msgid ""
+"No valid service PIN found!\n"
+"Do you like to change the service PIN now?\n"
+"When you say 'No' here the service protection stay disabled!"
+msgstr ""
+"Enginn virkur kóði fyrir rásalæsingu fannst!\n"
+"Viltu búa til nýjan kóða núna?\n"
+"Ef þú svarar \"Nei\" þá er engin læsing virk!"
+
+msgid ""
+"No valid setup PIN found!\n"
+"Do you like to change the setup PIN now?\n"
+"When you say 'No' here the setup protection stay disabled!"
+msgstr ""
+"Enginn virkur kóði fyrir uppsetningu fannst!\n"
+"Viltu búa til nýjan kóða núna?\n"
+"Ef þú svarar \"Nei\" þá er engin læsing virk!"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "No wireless networks found! Searching..."
 msgstr "Ekkert þráðlaust net fannst! Leita..."
 
@@ -5922,8 +7012,12 @@ msgstr ""
 " Athugaðu hvort að það sé tengt samhæft þráðlaust netkort eða athugaðu með stillingar á því."
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "No, but restart from the beginning"
+=======
+msgid "No, but restart from begin"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Nei, en byrja frá byrjun"
 
 #
@@ -5959,11 +7053,14 @@ msgstr "Norður"
 msgid "Norwegian"
 msgstr "Norska"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Not Defined"
 msgstr "Stillt af notanda"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Not Flashing"
 msgstr ""
 
@@ -5974,10 +7071,13 @@ msgstr ""
 msgid "Not associated"
 msgstr "Ekki tengt"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Not configured"
 msgstr "ekki stillt"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%d MB required, %d MB available)"
@@ -6004,6 +7104,7 @@ msgid "Nothing"
 msgstr "ekki gera neitt"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Nothing connected"
 msgstr "ekkert tengt"
@@ -6018,6 +7119,8 @@ msgstr ""
 "Stilltu inn móttakarann áður en að þú byrjar rása leit."
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Nothing to scan!\n"
 "Please setup your tuner settings before you start a service scan."
@@ -6046,6 +7149,7 @@ msgstr ""
 msgid "Number of rows"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Number of rows to display"
 msgstr ""
 
@@ -6055,6 +7159,11 @@ msgstr ""
 msgid "OE-A Changes"
 msgstr ""
 
+=======
+msgid "OE Changes"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "OK"
 msgstr "OK"
@@ -6072,10 +7181,13 @@ msgstr "Leiðbeindu mér með uppfærsluna"
 msgid "ONID"
 msgstr "ONID"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "OSD"
 msgstr "SID"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "OSD 3D Setup"
 msgstr ""
 
@@ -6105,6 +7217,7 @@ msgstr "Á"
 msgid "On end of movie"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "On end of movie (as menu)"
 msgstr ""
 
@@ -6114,6 +7227,11 @@ msgstr ""
 msgid "On your remote, click on the button you want to change"
 msgstr ""
 
+=======
+msgid "On reaching the end of a file during playback, you can choose the box's behavior."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Once per day"
 msgstr ""
 
@@ -6138,6 +7256,7 @@ msgstr "Bara viðbætur."
 msgid "Only free scan"
 msgstr "Bara fríar rásir"
 
+<<<<<<< HEAD
 msgid "Only on startup"
 msgstr ""
 
@@ -6190,6 +7309,29 @@ msgstr "Breyta rása lista"
 msgid "OpenVPN setup"
 msgstr ""
 
+=======
+msgid "Open satellites list"
+msgstr ""
+
+msgid "Open service list"
+msgstr ""
+
+msgid "Open service list and select next channel"
+msgstr ""
+
+msgid "Open service list and select previous channel"
+msgstr ""
+
+msgid "Open the movie list"
+msgstr ""
+
+msgid "OpenVPN setup"
+msgstr ""
+
+msgid "OpenVpn Log"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "OpenVpn Setup"
 msgstr ""
 
@@ -6224,6 +7366,7 @@ msgstr ""
 msgid "PAL"
 msgstr "PAL"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "PCM Multichannel"
 msgstr "Rás"
@@ -6234,16 +7377,24 @@ msgstr "PCR PID"
 msgid "PDC"
 msgstr ""
 
+=======
+msgid "PCR PID"
+msgstr "PCR PID"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "PIDs"
 msgstr "PIDs"
 
+<<<<<<< HEAD
 msgid "PIP"
 msgstr ""
 
 msgid "PIP with OSD"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "PLP ID"
 msgstr ""
 
@@ -6283,9 +7434,12 @@ msgstr ""
 msgid "Pan&scan"
 msgstr "Pan&Scan"
 
+<<<<<<< HEAD
 msgid "Panic to"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Parent directory"
 msgstr "Hýsingar mappa"
@@ -6294,6 +7448,20 @@ msgstr "Hýsingar mappa"
 msgid "Parental control"
 msgstr "Foreldrastýring"
 
+<<<<<<< HEAD
+=======
+msgid "Parental control editor"
+msgstr ""
+
+#
+msgid "Parental control setup"
+msgstr "Uppsetning á foreldrastýringu"
+
+#
+msgid "Parental control type"
+msgstr "Gerð foreldrastýringar"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Password"
 msgstr "Aðgangsorð"
@@ -6316,10 +7484,13 @@ msgstr "Setja á pásu við enda myndar"
 msgid "Pause playback"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Pause/Continue playback"
 msgstr "Halda áfram að spila"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Peak load (max queued requests per workerthread)"
 msgstr ""
 
@@ -6360,6 +7531,13 @@ msgstr ""
 msgid "Persian"
 msgstr "Persneska"
 
+<<<<<<< HEAD
+=======
+#
+msgid "Phone number"
+msgstr "Síma númer"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "PiP"
 msgstr ""
 
@@ -6407,11 +7585,14 @@ msgstr "Spila DVD"
 msgid "Play Music..."
 msgstr "Spila tónlist..."
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Play as picture in picture"
 msgstr "Færa Mynd í Mynd"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Play audio in background"
 msgstr ""
 
@@ -6438,9 +7619,12 @@ msgstr "spila frá næsta merki eða atriði úr spilunarlista"
 msgid "Play from previous mark or playlist entry"
 msgstr "spila frá fyrra merki eða atriði úr spilunarlista"
 
+<<<<<<< HEAD
 msgid "Play in main window"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Play music..."
@@ -6461,6 +7645,7 @@ msgstr ""
 msgid "Play recorded movies..."
 msgstr "Spila uppteknar bíómyndir..."
 
+<<<<<<< HEAD
 msgid ""
 "Playback information missing\n"
 "Playback aborted to avoid crash\n"
@@ -6487,6 +7672,20 @@ msgstr "Vinsamlega breytið lokatíma upptöku"
 #, fuzzy
 msgid "Please choose CCcam reader"
 msgstr "Vinsamlega veldu viðbót..."
+=======
+msgid "Please add titles to the compilation."
+msgstr "Vinsamlega bætið við titlum við efnið."
+
+msgid "Please change recording endtime"
+msgstr "Vinsamlega breytið lokatíma upptöku"
+
+#
+msgid "Please check your network settings!"
+msgstr "Vinsamlega athugaðu stillingar netkerfis!"
+
+msgid "Please choose CCcam-Reader"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Please choose an extension..."
 msgstr "Vinsamlega veldu viðbót..."
@@ -6530,18 +7729,26 @@ msgid "Please enter a new filename"
 msgstr "Sláðu inn nýtt skráarnafn"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please enter a new name:"
 msgstr "Sláðu inn nýtt skráarnafn"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Please enter filename (empty = use current date)"
 msgstr "Sláðu inn skráarnafn (tómt = nota núverandi dag)"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please enter new description:"
 msgstr "Sláðu inn nýtt skráarnafn"
+=======
+msgid "Please enter name of the new directory"
+msgstr "Sláðu inn nafn á nýju möppunni"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 #, fuzzy
@@ -6552,6 +7759,7 @@ msgstr "Sláðu inn nýtt skráarnafn"
 msgid "Please enter the correct pin code"
 msgstr "Sláðu inn réttan kóða"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Please enter the name of the new directory"
@@ -6561,6 +7769,8 @@ msgstr "Sláðu inn nafn á nýju möppunni"
 msgid "Please enter the new PIN code"
 msgstr "Sláðu inn gamla PIN kóðann þinn"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Please enter the old PIN code"
 msgstr "Sláðu inn gamla PIN kóðann þinn"
 
@@ -6571,18 +7781,24 @@ msgstr "Fylgdu leiðbeiningum á skjá"
 msgid "Please note that the previously selected media could not be accessed and therefore the default directory is being used instead."
 msgstr "Vinsamlega athugið að áður valinn diskur er ekki tiltækur núna og þá verður notuð sjálfgefin mappa í staðinn."
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please open Picture in Picture first"
 msgstr "Gat ekki opnað mynd í mynd"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Please press OK to continue."
 msgstr "Ýttu á OK til að halda áfram."
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please re-enter the new PIN code"
 msgstr "Sláðu inn gamla PIN kóðann þinn"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Please select a default EPG type..."
 msgstr ""
 
@@ -6607,6 +7823,12 @@ msgstr "Velja undirrás til að taka upp..."
 msgid "Please select a subservice..."
 msgstr "Vinsamlega veldu undirrás..."
 
+<<<<<<< HEAD
+=======
+msgid "Please select an NFI file and press green key to flash!"
+msgstr "Vinsamlega veldu NFI stýrikerfi og ýttu á græna takkann til að setja inn!"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Please select medium to be scanned"
 msgstr "Vinsamlega veljið tæki sem á að leita"
@@ -6616,6 +7838,13 @@ msgid "Please select medium to use as backup location"
 msgstr "Vinsamlega veljið tæki til að nota sem afritunar stað"
 
 #
+<<<<<<< HEAD
+=======
+msgid "Please select tag to filter..."
+msgstr "Vinsamlega veldu merki til að sía út..."
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Please select the movie path..."
 msgstr "Veldu slóð að mynd..."
 
@@ -6630,11 +7859,14 @@ msgstr ""
 "Ýttu á OK til að halda áfram."
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please select the tag to filter..."
 msgstr "Vinsamlega veldu merki til að sía út..."
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Please select the wireless network that you want to connect to.\n"
 "\n"
@@ -6661,6 +7893,7 @@ msgstr "Vinsamlega settu upp móttakara D"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Please set up tuner E"
 msgstr "Vinsamlega settu upp móttakara B"
 
@@ -6696,6 +7929,8 @@ msgstr "Vinsamlega settu upp móttakara B"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Please setup your user interface by adjusting the values till the edges of the blue box are touching the edges of your TV.\n"
 "When you are ready press OK to continue."
@@ -6704,6 +7939,7 @@ msgstr ""
 "Ýttu þá á OK til að halda áfram."
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please use the UP/DOWN keys to select your language. Then press the OK button to select it."
 msgstr "Vinsamlega notið UP og NIÐUR takka til að velja tungumál. Ýttu svo á OK til að nota."
@@ -6712,6 +7948,10 @@ msgstr "Vinsamlega notið UP og NIÐUR takka til að velja tungumál. Ýttu svo 
 #, fuzzy
 msgid ""
 "Please use the direction keys to move the PiP window.\n"
+=======
+msgid ""
+"Please use direction keys to move the PiP window.\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "Press Bouquet +/- to resize the window.\n"
 "Press OK to go back to the TV mode or EXIT to cancel the moving."
 msgstr ""
@@ -6719,6 +7959,13 @@ msgstr ""
 "Ýttu á Bouquet +/- til að breyta stærð á glugga.\n"
 "Ýttu á OK til að fara aftur í venjulega stillingu eða EXIT til að hætta við."
 
+<<<<<<< HEAD
+=======
+#
+msgid "Please use the UP and DOWN keys to select your language. Afterwards press the OK button."
+msgstr "Vinsamlega notið UP og NIÐUR takka til að velja tungumál. Ýttu svo á OK til að nota."
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Please wait (downloading channel list)"
 msgstr ""
 
@@ -6726,6 +7973,7 @@ msgid "Please wait (updating packages)"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please wait while gathering EPG data..."
 msgstr "Vinsamlega bíðið á meðan við prufum net tengingu..."
@@ -6734,6 +7982,15 @@ msgstr "Vinsamlega bíðið á meðan við prufum net tengingu..."
 #, fuzzy
 msgid "Please wait while scanning for devices..."
 msgstr "Vinsamlega bíðið á meðan leit fer fram..."
+=======
+msgid "Please wait for activation of your network configuration..."
+msgstr "Vinsamlega bíðið eftir virkjun á netkerfis stillingum..."
+
+#
+#, fuzzy
+msgid "Please wait while gathering data..."
+msgstr "Vinsamlega bíðið á meðan við prufum net tengingu..."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Please wait while scanning is in progress..."
@@ -6752,10 +8009,19 @@ msgid "Please wait while we test your network..."
 msgstr "Vinsamlega bíðið á meðan við prufum net tengingu..."
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please wait while your network configuration is activated..."
 msgstr "Vinsamlega bíðið á meðan netkerfið er endurræst..."
 
+=======
+msgid "Please wait while your network is restarting..."
+msgstr "Vinsamlega bíðið á meðan netkerfið er endurræst..."
+
+msgid "Please wait whilst feeds state is checked."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Please wait..."
 msgstr "Vinsamlega bíðið..."
@@ -6766,10 +8032,13 @@ msgstr "Vinsamlega bíðið.. les inn lista..."
 msgid "Plugin Browser"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Plugin browser"
 msgstr "Íforrit"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Plugin details"
 msgstr ""
 
@@ -6788,11 +8057,14 @@ msgid "Polarisation"
 msgstr "Pólun"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Polarisation:"
 msgstr "Pólun"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Polarization"
 msgstr "Pólun"
 
@@ -6800,9 +8072,12 @@ msgstr "Pólun"
 msgid "Polish"
 msgstr "Pólska"
 
+<<<<<<< HEAD
 msgid "Popup"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Port"
 msgstr ""
 
@@ -6851,15 +8126,19 @@ msgid "Positioner"
 msgstr "Mótorstýring"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Positioner (selecting satellites)"
 msgstr "eyða völdum gervihnetti"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Positioner setup"
 msgstr "Uppsetning mótors"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Positioner setup log"
 msgstr "Uppsetning mótors"
@@ -6876,6 +8155,8 @@ msgid "Power long"
 msgstr "Tíma skrá"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Power threshold in mA"
 msgstr "Aflmörk í mA"
 
@@ -6884,16 +8165,27 @@ msgstr "Aflmörk í mA"
 msgid "PowerManager entry"
 msgstr "taka út nafnaþjón"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "PowerMenu"
 msgstr "Valmynd"
+=======
+msgid "PowerManager log"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 #, fuzzy
 msgid "PowerTimer List"
 msgstr "Breyta Tímastillingu"
 
+<<<<<<< HEAD
+=======
+msgid "PowerTimer Overview"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "PowerTimers"
 msgstr ""
 
@@ -6909,9 +8201,12 @@ msgstr "Fyrirfram forritaður sendir"
 msgid "Prefer AC3 track"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Prefer AC3+ track"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Prefer audio track stored by service"
 msgstr ""
 
@@ -6927,6 +8222,7 @@ msgstr ""
 msgid "Preferred tuner"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Preferred tuner DVB-C"
 msgstr ""
 
@@ -6947,15 +8243,24 @@ msgstr ""
 
 msgid "Preferred tuner for recordings"
 msgstr ""
+=======
+msgid "Prepare another USB stick for image flashing"
+msgstr "Undirbúa annan USB staut fyrir stýrikerfis forritun"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Preparing... Please wait"
 msgstr "Undirbý...vinsamlega bíðið"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Press '0' to toggle PiP mode"
 msgstr "Ýttu á OK til að velja á milli."
+=======
+msgid "Press '0' to toggle internal/external PiP."
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Press INFO on your remote control for additional information."
 msgstr "Ýttu á INFO á fjarstýringunni fyrir nánari upplýsingar."
@@ -6994,17 +8299,24 @@ msgid "Press OK to select a provider."
 msgstr "Ýttu á OK til að velja sendanda."
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Press OK to select satellites"
 msgstr "Ýttu á OK til að velja sendanda."
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Press OK to select/deselect a CAId."
 msgstr "Ýttu á OK til að velja eða ekki velja CAId."
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Press OK to set the MAC address."
+=======
+msgid "Press OK to set the MAC-address."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Ýttu á OK til að breyta stillingum."
 
 #
@@ -7012,6 +8324,7 @@ msgid "Press OK to start the scan"
 msgstr "Ýtið á OK til að byrja að leita"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Press OK to toggle the selection"
 msgstr "Ýttu á OK til að velja á milli."
@@ -7026,6 +8339,13 @@ msgstr ""
 #
 #, fuzzy
 msgid "Press yellow to set this interface as the default interface."
+=======
+msgid "Press OK to toggle the selection."
+msgstr "Ýttu á OK til að velja á milli."
+
+#
+msgid "Press yellow to set this interface as default interface."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Ýttu á gula til að hafa þetta netkort sem sjálfvalið."
 
 msgid "Preview"
@@ -7035,10 +8355,13 @@ msgstr "Forsýn"
 msgid "Preview menu"
 msgstr "Forskoða valmynd"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Previous"
 msgstr "Forsýn"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Primary DNS"
 msgstr "Aðal DNS"
@@ -7077,6 +8400,7 @@ msgid "Properties of current title"
 msgstr "Nánari upplýsingar um titil"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Protect configuration"
 msgstr "Stilling móttakara"
@@ -7115,10 +8439,13 @@ msgid "Protect screens"
 msgstr "Læsa rásum"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Protect services"
 msgstr "Læsa rásum"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Protect software update screen"
 msgstr "Hugbúnaðar uppfærsla"
@@ -7138,6 +8465,11 @@ msgstr "Forskoða valmynd"
 msgid "Protect vix menu"
 msgstr "Forskoða valmynd"
 
+=======
+msgid "Protect setup"
+msgstr "Læsa valmynd"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Protocol"
 msgstr ""
 
@@ -7168,9 +8500,12 @@ msgstr ""
 msgid "Providers: "
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Purge deleted user bouquets"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Put TV in standby"
 msgstr ""
 
@@ -7182,6 +8517,7 @@ msgstr ""
 msgid "Python frontend for /tmp/mmi.socket"
 msgstr "Python framendi fyrir /tmp/mmi.socket"
 
+<<<<<<< HEAD
 #, python-format
 msgid "Python:\t%s\n"
 msgstr ""
@@ -7191,13 +8527,18 @@ msgstr ""
 msgid "Question"
 msgstr "Upplausn"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Quick"
 msgstr "Hratt"
 
+<<<<<<< HEAD
 msgid "Quick Actions"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Quick zap"
@@ -7217,9 +8558,12 @@ msgstr "Loftnetsrás"
 msgid "RGB"
 msgstr "RGB"
 
+<<<<<<< HEAD
 msgid "Radio"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Random"
 msgstr "Handahóf"
@@ -7231,7 +8575,11 @@ msgstr ""
 msgid "Rating undefined"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Read user data from oscam.conf"
+=======
+msgid "Read Userdata from oscam.conf"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Reader"
@@ -7253,8 +8601,12 @@ msgid "Really close without saving settings?"
 msgstr "Viltu loka án þess að vista stillingar?"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Really delete completed timers?"
+=======
+msgid "Really delete done timers?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Viltu eyða liðnum tímastillingum?"
 
 #
@@ -7278,10 +8630,13 @@ msgstr "Viltu örugglega endurræsa núna?"
 msgid "Really shutdown now?"
 msgstr "Viltu örugglega slökkva núna?"
 
+<<<<<<< HEAD
 #, python-format
 msgid "Really store at index %2d for current position?"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Really upgrade the frontprocessor and reboot now?"
 msgstr ""
 
@@ -7295,6 +8650,7 @@ msgid "Reboot"
 msgstr "Endurræsi"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Rec"
 msgstr "Upptaka"
@@ -7304,6 +8660,8 @@ msgid "Reception Settings"
 msgstr "Stillingar safns"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Record"
 msgstr "Upptaka"
 
@@ -7329,10 +8687,17 @@ msgstr "Upptöku tími takmarkaður vegna annarar tímastillingar, %s"
 msgid "Recording"
 msgstr "Upptaka"
 
+<<<<<<< HEAD
 msgid "Recording and playback settings"
 msgstr ""
 
 msgid "Recording in progress"
+=======
+msgid "Recording in progress"
+msgstr ""
+
+msgid "Recording settings"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Recording type"
@@ -7356,6 +8721,7 @@ msgstr ""
 msgid "Red button..."
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Red colored"
@@ -7367,6 +8733,14 @@ msgstr ""
 msgid "Reduce time scale"
 msgstr ""
 
+=======
+msgid "Reduce time scale"
+msgstr ""
+
+msgid "Reenter new PIN"
+msgstr "Sláðu aftur inn nýtt PIN"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, python-format
 msgid ""
 "Reflash in progress\n"
@@ -7374,9 +8748,12 @@ msgid ""
 "This may take a few minutes"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Reflash recommended!"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Refresh every (in hours)"
 msgstr ""
 
@@ -7390,9 +8767,12 @@ msgstr "Hressingar tíðni val."
 msgid "Regard deep standby as standby"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Region"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Relative"
 msgstr ""
 
@@ -7401,7 +8781,11 @@ msgid "Reload"
 msgstr "Endurlesa"
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Reload blacklists"
+=======
+msgid "Reload black-/white lists"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Endurhlaða svart-/hvítlista"
 
 msgid "Reloading EPG Cache..."
@@ -7419,9 +8803,12 @@ msgstr ""
 msgid "Remember service PIN"
 msgstr "Muna eftir PIN númeri rásar"
 
+<<<<<<< HEAD
 msgid "Reminder, you have chosen to save timeshift file."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Remote box"
 msgstr ""
 
@@ -7451,6 +8838,7 @@ msgstr "taka út nafnaþjón"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Remove all alternatives"
 msgstr "taka út alla valkosti"
 
@@ -7473,6 +8861,11 @@ msgstr "taka foreldralæsingu af"
 msgid "Remove cable services"
 msgstr "Muna eftir PIN númeri rásar"
 
+=======
+msgid "Remove bookmark"
+msgstr "eyða bókamerki"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Remove completed timers after (days)"
 msgstr ""
 
@@ -7481,6 +8874,7 @@ msgid "Remove currently selected title"
 msgstr "Taka út þegar valinn titil"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Remove entry"
 msgstr "taka út"
@@ -7502,10 +8896,19 @@ msgstr ""
 msgid "Remove new found flag"
 msgstr "eyða merkingu um nýfundna rás"
 
+=======
+msgid "Remove finished."
+msgstr "Eyðingu lokið."
+
+msgid "Remove items from trash can after (days)"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Remove plugins"
 msgstr "Taka út íforrit"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Remove selected satellite"
 msgstr "eyða völdum gervihnetti"
@@ -7516,6 +8919,8 @@ msgid "Remove terrestrial services"
 msgstr "Sendandi á landi"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Remove timer"
 msgstr "Eyða tímastillingu"
 
@@ -7541,6 +8946,7 @@ msgid "Removing partition table"
 msgstr "Taka út titil"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Removing service"
 msgstr "bæta við rás"
@@ -7560,6 +8966,14 @@ msgstr ""
 msgid "Rename name and description for new events"
 msgstr ""
 
+=======
+msgid "Rename"
+msgstr "Endurnefna"
+
+msgid "Rename failed!"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Rename to:"
 msgstr ""
 
@@ -7585,6 +8999,7 @@ msgid "Repeating event currently recording... What do you want to do?"
 msgstr "Endurtaka atriði sem er í upptöku.. hvað viltu gera núna?"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr "Endurtaka atriði sem er í upptöku.. hvað viltu gera núna?"
@@ -7599,6 +9014,11 @@ msgstr ""
 msgid "Require authentication for http streams"
 msgstr ""
 
+=======
+msgid "Repeats"
+msgstr "Endurtekningar"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Required medium type:"
 msgstr "Þarf gerð disks:"
 
@@ -7647,6 +9067,12 @@ msgstr "Endurræsa gluggakerfi núna?"
 msgid "Restart GUI now?"
 msgstr "Endurræsa gluggakerfi núna?"
 
+<<<<<<< HEAD
+=======
+msgid "Restart enigma"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Restart network"
 msgstr "Endurræsi netkort"
@@ -7667,8 +9093,14 @@ msgstr "Setja inn"
 msgid "Restore backups"
 msgstr "Setja inn afrit"
 
+<<<<<<< HEAD
 msgid "Restore deleted user bouquets"
 msgstr ""
+=======
+#
+msgid "Restore is running..."
+msgstr "Set inn afrit..."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Restore system settings"
@@ -7701,6 +9133,7 @@ msgid "Reverse bouquet buttons"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Reverse list"
 msgstr "Breyta rása lista"
@@ -7718,6 +9151,13 @@ msgstr "Hraði hraðspólunar til baka"
 #, fuzzy
 msgid "Rewrap subtitles"
 msgstr "Undirtextar"
+=======
+msgid "Rewind speeds"
+msgstr "Hraði hraðspólunar til baka"
+
+msgid "Rewrap teletext subtitles"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Right"
@@ -7744,10 +9184,13 @@ msgstr "Vista staðsetningu"
 msgid "Rotor turning speed"
 msgstr "Hraði mótors"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Rotor: "
 msgstr "Höfundur:"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Run how often ?"
 msgstr ""
 
@@ -7758,9 +9201,12 @@ msgstr ""
 msgid "Russian"
 msgstr "Rússneska"
 
+<<<<<<< HEAD
 msgid "S"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "S-Video"
 msgstr "S-Video"
@@ -7777,9 +9223,12 @@ msgstr "SID"
 msgid "SINGLE LAYER DVD"
 msgstr "SINGLE LAYER DVD"
 
+<<<<<<< HEAD
 msgid "SNR:"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "SPDIF"
 msgstr ""
 
@@ -7787,6 +9236,12 @@ msgstr ""
 msgid "SSID:"
 msgstr "SSID:"
 
+<<<<<<< HEAD
+=======
+msgid "Samba Log"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Samba Setup"
 msgstr ""
 
@@ -7826,6 +9281,13 @@ msgstr "Uppsetning Gervihnattabúnaðar"
 msgid "Satellites"
 msgstr "Gervihnettir"
 
+<<<<<<< HEAD
+=======
+#
+msgid "Satfinder"
+msgstr "Gervihnattaleit"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Sats"
 msgstr "Gervihn."
 
@@ -7858,18 +9320,24 @@ msgstr ""
 msgid "Save playlist"
 msgstr "vista spilunarlista"
 
+<<<<<<< HEAD
 msgid "Save timeshift and zap"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Save timeshift as movie and continue recording"
 msgstr ""
 
 msgid "Save timeshift as movie and stop recording"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Save timeshift in movie dir and zap"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Saving EPG Cache..."
 msgstr ""
 
@@ -7883,9 +9351,12 @@ msgstr ""
 msgid "Scaler sharpness"
 msgstr "Skölunar skerpa"
 
+<<<<<<< HEAD
 msgid "Scaler vertical dejagging"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Scaling mode"
@@ -7917,10 +9388,13 @@ msgstr "Leita á fleiri SR"
 msgid "Scan files..."
 msgstr "Leita að skrám..."
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Scan options"
 msgstr "Sérfræði stillingar"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Scan wireless networks"
@@ -7968,7 +9442,11 @@ msgstr ""
 msgid "Search"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Search IMDb for information about the current event."
+=======
+msgid "Search IMDb for information about current event."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -7978,17 +9456,24 @@ msgstr "Leita austur"
 msgid "Search for similar events"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Search the epg for the current event."
+=======
+msgid "Search the epg for current event."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Search west"
 msgstr "Leita vestur"
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Search/WEB"
 msgstr "Hierarchy upplýsingar"
 
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Searching"
 msgstr "Hierarchy upplýsingar"
 
@@ -8009,11 +9494,14 @@ msgid "Searching west ..."
 msgstr "Leita vestur"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Second cable of motorized LNB"
 msgstr "annar kapall frá mótorstýrðu LNB"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Secondary DNS"
 msgstr "Vara DNS"
 
@@ -8053,19 +9541,28 @@ msgstr "veldu CAId"
 msgid "Select a wireless network"
 msgstr "Veldu þráðlaust net"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Select action"
 msgstr "Velja staðsetningu"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy, python-format
 msgid "Select action for timer %s:"
 msgstr "Veldu afrits skrár"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Select all"
 msgstr "Veldu"
+=======
+#, fuzzy
+msgid "Select an image to be downloaded"
+msgstr "Veldu stýrikerfi til að hlaða niður"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Select audio track"
@@ -8086,6 +9583,15 @@ msgstr "Veldu rás til að taka upp frá"
 msgid "Select copy destination for:"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Select default EPG type..."
+msgstr ""
+
+msgid "Select desired image from feed list"
+msgstr "Veldu stýrikerfi af listanum"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Select destination for:"
 msgstr ""
 
@@ -8105,6 +9611,15 @@ msgstr ""
 msgid "Select if timeshift should continue when set to record."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Select if you want the Subservice mode to be activated."
+msgstr ""
+
+msgid "Select if you want to use the Obh colored buttons (set to 'no' if you want to use (Multi Quick Button)."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Select input device"
 msgstr "Veldu inntaks tæki"
 
@@ -8122,11 +9637,14 @@ msgstr "Velja staðsetningu"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Select menu entry"
 msgstr "veldu valmynda atriði"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Select movie"
 msgstr "Veldu mynd"
 
@@ -8137,11 +9655,14 @@ msgstr "Veldu sendanda til að bæta við..."
 msgid "Select refresh rate"
 msgstr "Veldu hressingar tíðni"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Select satellites"
 msgstr "Einn gervihnöttur"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Select seekbar to be activated by arrow L/R (long) or << >> (long)."
 msgstr ""
 
@@ -8149,6 +9670,7 @@ msgstr ""
 msgid "Select service to add..."
 msgstr "Veldur rás til að bæta við..."
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Select slot"
@@ -8159,13 +9681,18 @@ msgstr "Velja staðsetningu"
 msgid "Select sort method:"
 msgstr "Veldu mynd stillingu"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Select target folder"
 msgstr "Velja úttaks möppu"
 
+<<<<<<< HEAD
 msgid "Select the desired function and click on \"OK\" to assign it. Use \"CH+/-\" to toggle between the lists. Select an assigned function and click on \"OK\" to de-assign it. Use \"Next/Previous\" to change the order of the assigned functions."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Select the movie path"
@@ -8188,6 +9715,15 @@ msgstr "Veldu mynd inngang með up/niður tökkum"
 msgid "Select video mode"
 msgstr "Veldu mynd stillingu"
 
+<<<<<<< HEAD
+=======
+msgid "Select what you want the Channel +/- buttons to activate."
+msgstr ""
+
+msgid "Select what you want the TV button to activate."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Select wireless network"
 msgstr "Veldu þráðlaust net"
@@ -8195,6 +9731,7 @@ msgstr "Veldu þráðlaust net"
 msgid "Select your provider, and press OK to start the scan"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Selecting satellites 1 (USALS)"
@@ -8205,6 +9742,8 @@ msgstr "Einn gervihnöttur"
 msgid "Selecting satellites 2 (USALS)"
 msgstr "Einn gervihnöttur"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Send"
 msgstr ""
 
@@ -8237,9 +9776,12 @@ msgstr "Serneska"
 msgid "Serial No"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Serial no"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Serv.Name"
 msgstr ""
 
@@ -8269,6 +9811,16 @@ msgstr ""
 msgid "Service font size"
 msgstr "Rása upplýsingar"
 
+<<<<<<< HEAD
+=======
+msgid "Service has been added to the favourites."
+msgstr "Rás hefur verið bætt við eftirlætis lista."
+
+#
+msgid "Service has been added to the selected bouquet."
+msgstr "Rás hefur verið bætt við valinn rásavöndul."
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Service info font size"
 msgstr ""
 
@@ -8322,6 +9874,7 @@ msgstr "Rásir"
 msgid "Services may be grouped in bouquets. When enabled, you can use more than one bouquet."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Set Framerate for MiniTV"
 msgstr ""
 
@@ -8335,6 +9888,11 @@ msgstr "Vinsamlega veldu undirrás..."
 msgid "Set default"
 msgstr "Venjulegt"
 
+=======
+msgid "Set System"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Set end time"
 msgstr "Stilla loka tíma"
@@ -8346,14 +9904,19 @@ msgid "Set fps for external subtitles"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Set interface as the default Interface"
+=======
+msgid "Set interface as default Interface"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Gera að sjálfgefnu korti"
 
 msgid "Set limits"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Set startup service"
 msgstr "bæta við rás"
@@ -8366,6 +9929,10 @@ msgstr "Kerfi"
 #
 #, fuzzy, python-format
 msgid "Set the MAC address of your %s %s.\n"
+=======
+#, fuzzy, python-format
+msgid "Set the MAC-address of your %s %s.\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Breyta nafnaþjóns stillingum %s %sins.\n"
 
 msgid "Set the channel for this timer."
@@ -8414,7 +9981,11 @@ msgstr ""
 msgid "Set the scrolling speed of text on the front display."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Set the time before checking video source for resolution/refresh rate infomation."
+=======
+msgid "Set the time before checking video source for resolution infomation."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Set the time delay before hiding the infobar."
@@ -8441,7 +10012,11 @@ msgstr ""
 msgid "Set voltage and 22KHz"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Sets the root folder of movie list, to remove the '..' from being shown in that folder."
+=======
+msgid "Sets the root folder of movie list, to remove the '..' from benign shown in that folder."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -8482,6 +10057,13 @@ msgstr "Gervihnatta búnaður"
 msgid "Setup your timezone."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#, python-format
+msgid "Shall the USB stick wizard proceed and program the image file %s into flash memory?"
+msgstr "Á USB stauts ráðgjafi  að halda áfram og setja stýrikerfi %s inn í minni móttakarans?"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Share Folder's"
 msgstr ""
 
@@ -8510,6 +10092,7 @@ msgstr ""
 msgid "Show 1080p 30fps as"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Show 2160p 24fps as"
 msgstr ""
 
@@ -8522,6 +10105,8 @@ msgstr ""
 msgid "Show 480/576p 24fps as"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show 720p 24fps as"
 msgstr ""
 
@@ -8547,12 +10132,15 @@ msgstr ""
 msgid "Show EPG for current channel..."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Show EPG for current service"
 msgstr ""
 
 msgid "Show EPG..."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show Games show"
 msgstr ""
 
@@ -8566,9 +10154,12 @@ msgstr "skoða íforrit..."
 msgid "Show Media playback Remaining/Elapsed as"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Show MiniTV in the Front Display"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show OE Log"
 msgstr ""
 
@@ -8576,6 +10167,7 @@ msgstr ""
 msgid "Show OScam Info in extensions?"
 msgstr "skoða íforrit..."
 
+<<<<<<< HEAD
 msgid "Show PIP"
 msgstr ""
 
@@ -8584,6 +10176,8 @@ msgstr ""
 msgid "Show PIP in the Front Display"
 msgstr "Sýna útvarpsspilara..."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show PVR status in Movie Player infobar"
 msgstr ""
 
@@ -8612,7 +10206,11 @@ msgstr ""
 msgid "Show VCR scart on main menu"
 msgstr "sýna aðalvalmynd DVD "
 
+<<<<<<< HEAD
 msgid "Show ViX spinning logo when the system is busy."
+=======
+msgid "Show Obh spinning logo when the system is busy."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -8620,21 +10218,27 @@ msgstr ""
 msgid "Show WLAN status"
 msgstr "Sýna WLAN stöðu"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Show alternatives"
 msgstr "súna valkosti"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show animation while busy"
 msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Show background behind subtitles"
 msgstr "bakgrunns mynd"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show background in Radio mode"
 msgstr "bakgrunns mynd"
 
@@ -8652,6 +10256,7 @@ msgstr "sýna upplýsingar um sendi"
 msgid "Show channel numbers in channel selection"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Show columns"
@@ -8662,6 +10267,8 @@ msgstr "sýna merkja valmynd"
 msgid "Show crypto icons"
 msgstr "Sýna rásir sem byrja á"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show crypto info in infobar"
 msgstr ""
 
@@ -8679,11 +10286,14 @@ msgstr ""
 msgid "Show event details"
 msgstr "sýna atriði nánar"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Show event info plugins"
 msgstr "sýna upplýsingalínu"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show event-progress in channel selection"
 msgstr "Sýna framvindu atriðis við rásaval"
 
@@ -8692,6 +10302,7 @@ msgstr "Sýna framvindu atriðis við rásaval"
 msgid "Show extended description"
 msgstr "sýna auka upplýsingar"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Show extension selection"
@@ -8717,6 +10328,11 @@ msgstr ""
 msgid "Show help"
 msgstr "sýna merkja valmynd"
 
+=======
+msgid "Show extensions..."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show icon for new/unseen items"
 msgstr ""
 
@@ -8762,6 +10378,7 @@ msgstr ""
 msgid "Show movie lengths in movielist"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Show movies"
@@ -8779,20 +10396,31 @@ msgstr ""
 #, fuzzy
 msgid "Show or hide the extended description, (skin dependant)."
 msgstr "sýna auka upplýsingar"
+=======
+msgid "Show network mounts ..."
+msgstr ""
+
+msgid "Show or hide the extended description, (skin dependent)."
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 #, fuzzy
 msgid "Show picon background color"
 msgstr "bakgrunnslitur"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Show picons in service list"
 msgstr "Rás ekki á rásalista"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Show positioner movement"
 msgstr "Sýna færslu mótors"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Show positioner position"
@@ -8807,6 +10435,8 @@ msgstr "Upplýsingar hugbúnaðar umsýslu"
 msgid "Show record indicator"
 msgstr "sýna upplýsingar um sendi"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show screensaver"
 msgstr ""
 
@@ -8817,6 +10447,7 @@ msgstr "sýna upplýsingar um sendi"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Show select audio track"
 msgstr "Veldu hljóð rás"
 
@@ -8833,6 +10464,13 @@ msgstr "Sýna rásir sem byrja á"
 #
 #, fuzzy
 msgid "Show service type icons"
+=======
+msgid "Show service type icons"
+msgstr "Sýna rásir sem byrja á"
+
+#
+msgid "Show services beginning with"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Sýna rásir sem byrja á"
 
 #
@@ -8850,6 +10488,7 @@ msgstr ""
 msgid "Show status icons in movie list"
 msgstr "Rás ekki á rásalista"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Show subservice selection"
@@ -8869,10 +10508,28 @@ msgstr "Sýna útvarpsspilara..."
 #, fuzzy
 msgid "Show the list of autotimers."
 msgstr "Sýna útvarpsspilara..."
+=======
+msgid "Show status icons in movielist"
+msgstr ""
+
+#
+#, fuzzy
+msgid "Show tag menu"
+msgstr "sýna merkja valmynd"
+
+msgid "Show the list of AutoTimers."
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Show the list of timers."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Show the media player..."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show the plugin browser.."
 msgstr ""
 
@@ -8886,24 +10543,31 @@ msgstr "Sýna sjónvarpsspilara..."
 msgid "Show time elapsed as positive"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Show time in 24 hour clock format."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show time remaining/elapsed"
 msgstr ""
 
 msgid "Show translation packages"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Show transponder info"
 msgstr "sýna upplýsingar um sendi"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show transponder remaining/elapsed as"
 msgstr ""
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "Show warning when in a stream"
 msgstr "Aðgerð þegar mynd er stoppuð"
 
@@ -8915,6 +10579,12 @@ msgid "Shows live tv or informations on LCD."
 msgstr ""
 
 msgid "Shows the icons when new/unseen, otherwise it will not show an icon."
+=======
+msgid "Show warning when timeshift is stopped"
+msgstr "Aðgerð þegar mynd er stoppuð"
+
+msgid "Shows the icons when new/unseen, else will not show an icon."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -8938,11 +10608,14 @@ msgstr ""
 msgid "Side by side"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Signal Finder"
 msgstr "Merki:"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Signal OK, proceeding"
 msgstr ""
 
@@ -8952,11 +10625,14 @@ msgstr "Styrkur merkis:"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Signal finder"
 msgstr "Gervihnattaleit"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Signal quality"
 msgstr "Gæði tengingar:"
 
@@ -8982,20 +10658,26 @@ msgid "Simple"
 msgstr "Einfalt"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Simple fade"
 msgstr "Einfalt"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Simple titleset (compatibility for legacy players)"
 msgstr "Einföld valmynd (virkar fyrir flesta spilara)"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Simple zoom"
 msgstr "Einfalt"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Single"
 msgstr "Einn"
 
@@ -9013,6 +10695,13 @@ msgid "Single step (GOP)"
 msgstr "Eitt skref (GOP)"
 
 #
+<<<<<<< HEAD
+=======
+msgid "Single transponder"
+msgstr "Einn sendir"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "SingleEPG settings"
 msgstr "Breyta stillingum"
@@ -9033,10 +10722,13 @@ msgstr ""
 msgid "Skin Setting"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid "Skin name:\t%s\n"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Skin setup"
 msgstr ""
 
@@ -9046,6 +10738,7 @@ msgstr "Skinn"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Skip back"
 msgstr "fara til baka"
 
@@ -9059,11 +10752,17 @@ msgstr "Læsa rásum"
 msgid "Skip forward"
 msgstr "fara áfram"
 
+=======
+msgid "Skip empty services"
+msgstr "Læsa rásum"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Skip internet connection check (disables automatic package installation)"
 msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Sleep"
 msgstr "Tímastilling"
 
@@ -9081,22 +10780,33 @@ msgstr ""
 msgid "Slide left to right"
 msgstr ""
 
+=======
+msgid "Sleep delay"
+msgstr "Tímastilling"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Slide picture in loop"
 msgstr "sýna myndir í aftur og aftur"
 
+<<<<<<< HEAD
 msgid "Slide right to left"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Slide show interval (sec.)"
 msgstr "Tími milli mynda (sek.)"
 
+<<<<<<< HEAD
 msgid "Slide top to bottom"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, python-format
 msgid "Slot %d"
@@ -9116,14 +10826,18 @@ msgstr "Hægt"
 msgid "Slow motion speeds"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Small"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Small progress"
 msgstr "Í vinnslu"
 
+<<<<<<< HEAD
 msgid "Smooth"
 msgstr ""
 
@@ -9131,6 +10845,12 @@ msgid "Social/Political/Economics"
 msgstr ""
 
 msgid "SoftCam and CI"
+=======
+msgid "Social/Political/Economics"
+msgstr ""
+
+msgid "SoftCam / CI"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Softcam setings"
@@ -9176,6 +10896,7 @@ msgstr "Upplýsingar hugbúnaðar umsýslu"
 msgid "Some plugins are not available:\n"
 msgstr "Sum íforrit eru ekki til:\n"
 
+<<<<<<< HEAD
 msgid "Sorry feeds are down for maintenance, please try again later. If this issue persists please check openvix.co.uk or world-of-satellite.com."
 msgstr ""
 
@@ -9195,6 +10916,24 @@ msgid "Sorry your MiniDLNA config is missing"
 msgstr ""
 
 msgid "Sorry your uShare config is missing"
+=======
+msgid "Sorry Inadyn Config is Missing"
+msgstr ""
+
+msgid "Sorry MiniDLNA Config is Missing"
+msgstr ""
+
+msgid "Sorry feeds are down for maintenance"
+msgstr ""
+
+msgid "Sorry feeds are down for maintenance, please try again later."
+msgstr ""
+
+msgid "Sorry feeds seem be in an unstable state, if you wish to use them please enable 'Allow unstable updates' in \"software update setup\"."
+msgstr ""
+
+msgid "Sorry uShare Config is Missing"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -9207,9 +10946,12 @@ msgstr ""
 msgid "Sorry, no details available!"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Sorry, this tuner is in use."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Sorry, your backup destination is not writeable.\n"
 "Please select a different one."
@@ -9221,6 +10963,7 @@ msgstr ""
 msgid "Sort EPG List"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Sort Trash by deletion time"
 msgstr ""
 
@@ -9241,15 +10984,23 @@ msgstr ""
 msgid "Sort list:"
 msgstr ""
 
+=======
+msgid "Sort list by"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Sort menu screens alphabetically"
 msgstr ""
 
 msgid "Sort plug-in browser alphabetically"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Sort plugins list to default?"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Sort setting screens alphabetically"
 msgstr ""
 
@@ -9280,9 +11031,12 @@ msgstr "Spænska"
 msgid "Split preview mode"
 msgstr "Skipta forsýn"
 
+<<<<<<< HEAD
 msgid "Splitscreen"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Sports"
 msgstr ""
 
@@ -9290,21 +11044,29 @@ msgid "Standard"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Standart list"
 msgstr "Byrja prófun"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Standby"
 msgstr "Biðstaða"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Standby / restart"
+=======
+msgid "Standby / Restart"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Biðstaða / Endurræsing"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Standby and Restart"
 msgstr "Biðstaða / Endurræsing"
 
@@ -9313,6 +11075,11 @@ msgstr "Biðstaða / Endurræsing"
 msgid "StandbyLED"
 msgstr "Biðstaða"
 
+=======
+msgid "Standby / restart"
+msgstr "Biðstaða / Endurræsing"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Start"
 msgstr ""
 
@@ -9320,11 +11087,14 @@ msgstr ""
 msgid "Start from the beginning"
 msgstr "Byrja frá byrjun"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Start instant recording"
 msgstr "þessi upptaka"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Start offline decode"
 msgstr ""
 
@@ -9334,11 +11104,14 @@ msgid "Start recording?"
 msgstr "þessi upptaka"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Start teletext"
 msgstr "Byrja prófun"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Start test"
 msgstr "Byrja prófun"
 
@@ -9385,6 +11158,7 @@ msgid "Stop PiP"
 msgstr "hætta með PiP"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Stop all current recordings"
 msgstr "þessi upptaka"
@@ -9417,6 +11191,13 @@ msgstr "Stoppa núverandi atriði og hætta við komandi atriði"
 #
 #, fuzzy
 msgid "Stop current event but not future events"
+=======
+msgid "Stop current event and disable coming events"
+msgstr "Stoppa núverandi atriði og hætta við komandi atriði"
+
+#
+msgid "Stop current event but not coming events"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Stoppa núverandi atriði en halda komandi atriðum"
 
 #
@@ -9428,13 +11209,17 @@ msgstr "hætta innslætti"
 msgid "Stop playing this movie?"
 msgstr "Stoppa spilun?"
 
+<<<<<<< HEAD
 msgid "Stop previous broadcasted service on return to movie list."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Stop recording"
 msgstr ""
 
 msgid "Stop recording and delete"
+<<<<<<< HEAD
 msgstr ""
 
 #
@@ -9456,6 +11241,14 @@ msgstr "þessi upptaka"
 #, fuzzy
 msgid "Stop service on return to movie list"
 msgstr "Já, fara til baka á mynda lista"
+=======
+msgstr ""
+
+#
+#, fuzzy
+msgid "Stop recording now"
+msgstr "þessi upptaka"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Stop test"
@@ -9480,9 +11273,12 @@ msgstr ""
 msgid "Stop timeshift while recording?"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Stop using as startup service"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Stopped"
 msgstr ""
 
@@ -9512,6 +11308,7 @@ msgstr ""
 msgid "Stream request"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Stream-tv"
 msgstr ""
 
@@ -9530,12 +11327,21 @@ msgstr ""
 msgid "Stripes"
 msgstr ""
 
+=======
+msgid "Strict DLNA"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Strongest position"
 msgstr "Vista staðsetningu"
 
+<<<<<<< HEAD
 msgid "Subnet"
+=======
+msgid "Subservice mode"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -9544,11 +11350,14 @@ msgstr "Undirþjónusta"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Subtitle"
 msgstr "Undirtextar"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Subtitle Quickmenu"
 msgstr "Velja undirtexta"
 
@@ -9597,11 +11406,14 @@ msgid "Subtitles"
 msgstr "Undirtextar"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Subtitles settings"
 msgstr "Velja undirtexta"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Sun"
 msgstr "Sun"
 
@@ -9612,9 +11424,12 @@ msgstr "Sunnudagur"
 msgid "Support at"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Swap PIP"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Swap PiP and main picture"
@@ -9641,6 +11456,7 @@ msgstr "skipta í skráarlista"
 msgid "Switch config"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Switch to HDMI in mode"
@@ -9650,12 +11466,22 @@ msgstr "skipta í skráarlista"
 #, fuzzy
 msgid "Switch to TV mode"
 msgstr "skipta í skráarlista"
+=======
+msgid "Switch next channel"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 #, fuzzy
 msgid "Switch to filelist"
 msgstr "skipta í skráarlista"
 
+<<<<<<< HEAD
+=======
+msgid "Switch to next channel in history"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Switch to next sub service"
@@ -9666,6 +11492,7 @@ msgstr "Skipta á næstu undirrás"
 msgid "Switch to playlist"
 msgstr "skipta í spilunar lista"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Switch to previous sub service"
@@ -9695,6 +11522,18 @@ msgstr "fara til baka á fyrri kafla"
 #, fuzzy
 msgid "Switch to the previous channel in history"
 msgstr "fara til baka á fyrri kafla"
+=======
+msgid "Switch to previous channel"
+msgstr ""
+
+msgid "Switch to previous channel in history"
+msgstr ""
+
+#
+#, fuzzy
+msgid "Switch to previous sub service"
+msgstr "Skipta á fyrri undirrás"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Switchable tuner types:"
 msgstr "Gerðir umskiptanlegra móttakara:"
@@ -9702,10 +11541,13 @@ msgstr "Gerðir umskiptanlegra móttakara:"
 msgid "Symbol rate"
 msgstr "Bitahraði"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Symbolrate:"
 msgstr "Bitahraði"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Sync NTP every (minutes)"
 msgstr ""
 
@@ -9726,12 +11568,15 @@ msgstr "Kerfi"
 msgid "System temperature: %s"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid ""
 "System temperature: %s%sC\n"
 "\n"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "System: "
 msgstr ""
 
@@ -9759,7 +11604,11 @@ msgstr "TSID"
 msgid "TUNING"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "TV"
+=======
+msgid "TV button mode"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "TV physical address report"
@@ -9777,11 +11626,14 @@ msgstr "Efnisyfirlit yfir safn"
 msgid "Tags"
 msgstr "Merki"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Teletext"
 msgstr "Eyða"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Teletext subtitle color"
 msgstr ""
 
@@ -9794,6 +11646,7 @@ msgstr ""
 msgid "Telnet Setup"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Telnet interface"
@@ -9802,6 +11655,8 @@ msgstr "Veldu netkort"
 msgid "Telnet port"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Telnet setup"
 msgstr ""
 
@@ -9831,12 +11686,15 @@ msgstr "Prófa stillingar netkorts í %s %sinu.\n"
 msgid "Test type"
 msgstr "Prufa gerð"
 
+<<<<<<< HEAD
 msgid "Testscreens"
 msgstr ""
 
 msgid "Testscreens that are helpfull to fine-tune your display"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Text"
 msgstr ""
 
@@ -9874,13 +11732,18 @@ msgstr ""
 
 msgid ""
 "The Cool TV Guide plugin is not installed!\n"
+<<<<<<< HEAD
 "Dont bother with it and use the default ViX EPG guide instead."
+=======
+"Please install it."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, fuzzy, python-format
 msgid "The DVD standard doesn't support H.264 (HDTV) video streams. Do you want to create a %s %s format data DVD (which will not play in stand-alone DVD players) instead?"
 msgstr "DVD staðallinn er ekki með möguleika á H.264 (HDTV). Viltu búa til Vu+ Ultimo gagna disk (sem ekki er hægt að venjulegum DVD spilara) í staðinn?"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid ""
@@ -9890,6 +11753,8 @@ msgstr ""
 "Þráðlausa netkortið er ekki tengt!\n"
 "Vinsamlega tengið það."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "The EPGSearch plugin is not installed!\n"
 "Please install it."
@@ -9905,12 +11770,30 @@ msgid ""
 "Please install it."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid ""
+"The MediaPlayer plugin is not installed!\n"
+"Please install it."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "The PIN code has been changed successfully."
 msgstr "Það tókst að breyta PIN kóðanum."
 
 msgid "The PIN codes you entered are different."
 msgstr "PIN númerin sem að þú slóst inn eru ekki eins."
 
+<<<<<<< HEAD
+=======
+msgid ""
+"The USB stick was prepared to be bootable.\n"
+"Now you can download an NFI image file!"
+msgstr ""
+"USB stauturinn var gerður ræsanlegur.\n"
+"Núna getur þú hlaðið niður NFI  stýrikerfis skrá!"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "The backup failed. Please choose a different backup location."
 msgstr "Afritun mistókst. Veldu annan stað fyrir afritið."
@@ -9933,12 +11816,36 @@ msgstr ""
 "Vertu viss um að velja möppu sem má skrifa í."
 
 #
+<<<<<<< HEAD
+=======
+#, python-format
+msgid ""
+"The following device was found:\n"
+"\n"
+"%s\n"
+"\n"
+"Do you want to write the USB flasher to this stick?"
+msgstr ""
+"Eftirfarandi tæki fannst:\n"
+"\n"
+"%s\n"
+"\n"
+"Viltu skrifa USB keyrslu skrá á þennan staut?"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "The following files were found..."
 msgstr "Eftirfarandi skrár fundust..."
 
 msgid "The loopthrough setting is wrong."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "The md5sum validation failed, the file may be corrupted!"
+msgstr "Md5sum prufun tókst ekki, skráin er sennilega skemmd!"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid ""
 "The network wizard extension is not installed!\n"
@@ -9962,6 +11869,7 @@ msgid "The results have been written to %s."
 msgstr "Útkoman hefur verið skrifuð á %s."
 
 #, fuzzy
+<<<<<<< HEAD
 msgid "The service has been added to the favourites."
 msgstr "Rás hefur verið bætt við eftirlætis lista."
 
@@ -9971,6 +11879,8 @@ msgid "The service has been added to the selected bouquet."
 msgstr "Rás hefur verið bætt við valinn rásavöndul."
 
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "The software management extension is not installed!\n"
 "Please install it."
@@ -9987,11 +11897,14 @@ msgstr "Atriða skrá (timer.xml) er skemmd og var ekki hægt að lesa hana."
 msgid "The timer file (timers.xml) is corrupt and could not be loaded."
 msgstr "Atriða skrá (timer.xml) er skemmd og var ekki hægt að lesa hana."
 
+<<<<<<< HEAD
 msgid ""
 "The unicable connection setting is wrong.\n"
 " Maybe recursive connection of tuners."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy, python-format
 msgid "The user interface of your %s %s is restarting"
@@ -10027,6 +11940,13 @@ msgstr ""
 msgid "The wizard can backup your current settings. Do you want to do a backup now?"
 msgstr "Ráðgjafinn getur tekið afrit af stillingum þínum. Viltu taka afrit núna?"
 
+<<<<<<< HEAD
+=======
+#, python-format
+msgid "The wizard found a configuration backup. Do you want to restore your old settings from %s?"
+msgstr "Ráðgjafinn fann afrit af stillingum. Viltu setja inn stillingar síðan %s?"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "The wizard is finished now."
 msgstr "Ráðgjafinn er búinn núna."
 
@@ -10044,9 +11964,12 @@ msgstr "Það er ekkert atriði sem að liggur fyrir."
 msgid "There are no updates available."
 msgstr "Það er engin uppfærsla tiltæk."
 
+<<<<<<< HEAD
 msgid "There has been an error, please try again later. If this issue persists, please check openvix.co.uk or world-of-satellite.com"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "There is no [webif] section in oscam.conf"
 msgstr ""
 
@@ -10079,9 +12002,12 @@ msgstr ""
 msgid "This allows you to change the number of rows shown."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This can be either the IP or name of the fallback receiver, not including the scheme or port number (e.g. either 'xxx.xxx.xxx.xxx' or 'name_second_box')."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "This option allows to reduce the block-noise in the picture. Obviously this is at the cost of the picture's sharpness."
 msgstr ""
 
@@ -10100,12 +12026,15 @@ msgstr ""
 msgid "This option allows you choose the background color of transparent picons."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This option allows you enable smoothing filter to control the dithering process."
 msgstr ""
 
 msgid "This option allows you enable the vertical scaler dejagging."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "This option allows you set the layout view (Text or Graphics)."
 msgstr ""
 
@@ -10118,12 +12047,15 @@ msgstr ""
 msgid "This option allows you to bypass HDMI EDID check"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This option allows you to change the Colorspace from Auto to RGB"
 msgstr ""
 
 msgid "This option allows you to change the virtual loudspeaker position."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "This option allows you to choose from the two channel lists that are available."
 msgstr ""
 
@@ -10136,6 +12068,7 @@ msgstr ""
 msgid "This option allows you to choose how to display 1080p 30Hz on your TV. (as not all TV's support these resolutions)"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This option allows you to choose how to display 2160p 24Hz on your TV. (as not all TV's support these resolutions)"
 msgstr ""
 
@@ -10151,6 +12084,11 @@ msgstr ""
 msgid "This option allows you to choose how to display SD progressive 24Hz on your TV. (as not all TV's support these resolutions)"
 msgstr ""
 
+=======
+msgid "This option allows you to choose how to display 720p 24Hz on your TV. (as not all TV's support these resolutions)"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "This option allows you to choose how to display elapsed time. As + or -"
 msgstr ""
 
@@ -10166,7 +12104,11 @@ msgstr ""
 msgid "This option allows you to choose how to display the remaining/elapsed time for media playback."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This option allows you to choose what the first button press jumps to in channel list screen, (so pressing '2' jumps to 'A' or '2' first), when 'Quick Actions' preset actions are perfomed. "
+=======
+msgid "This option allows you to choose what the first button press jumps to in channel list screen, (so pressing '2' jumps to 'A' or '2' first)"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "This option allows you to disable sorting of the menus"
@@ -10178,10 +12120,14 @@ msgstr ""
 msgid "This option allows you to disable sorting of the plugin browser."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This option allows you to enable 3D Surround Sound for an output."
 msgstr ""
 
 msgid "This option allows you to power on or off the display."
+=======
+msgid "This option allows you to enable 3D Surround Sound."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "This option allows you to set the layout view (Text or Graphics)."
@@ -10190,6 +12136,7 @@ msgstr ""
 msgid "This option allows you to show the SNR as a percentage (not all receivers support this)."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This option allows you to show the full menu path"
 msgstr ""
 
@@ -10199,6 +12146,11 @@ msgstr ""
 msgid "This option configures output for Auto Volume Level."
 msgstr ""
 
+=======
+msgid "This option allows you to view the old and new settings side by side."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "This option configures the general audio delay of Dolby Digital sound tracks."
 msgstr ""
 
@@ -10256,6 +12208,21 @@ msgstr ""
 msgid "This option sets up the picture sharpness, used when the picture is being upscaled."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#, fuzzy, python-format
+msgid ""
+"This plugin creates a USB stick which can be used to update the firmware of your %s %s without the need for a network or WLAN connection.\n"
+"First, a USB stick needs to be prepared so that it becomes bootable.\n"
+"In the next step, an NFI image file can be downloaded from the update server and saved on the USB stick.\n"
+"If you already have a prepared bootable USB stick, please insert it now. Otherwise plug in a USB stick with a minimum size of 64 MB!"
+msgstr ""
+"Þetta íforrit útbýr USB staut sem er hægt að nota til að uppfæta stýrikerfið í %s %sinu án þess að nota tölvu.\n"
+"Fyrst þarf að undirbúa USB stautinn þannig að hægt verði að ræsa frá honum.\n"
+"Næst þarf að hlaða niður NFI stýrikerfi frá uppfærslu vefþjóni sem er vistað á USB stautnum.\n"
+"Ef þú hefur nú þegar útbúið USB staut þá skaltu setja það í núna. Annars skaltu setja USB staut sem er minnst 64MB sem er hægt að nota!"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "This plugin is installed."
 msgstr "Þetta íforrit er uppsett."
 
@@ -10273,7 +12240,11 @@ msgstr "Þetta íforrit verður tekið út."
 msgid ""
 "This test checks for configured nameservers.\n"
 "If you get a \"unconfirmed\" message:\n"
+<<<<<<< HEAD
 "- please check your DHCP server, cabling and adapter setup\n"
+=======
+"- please check your DHCP, cabling and adapter setup\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "- if you configured your nameservers manually please verify your entries in the \"Nameserver\" configuration"
 msgstr ""
 "Þessi prufun athugar stillingar nafnaþjóns.\n"
@@ -10300,7 +12271,11 @@ msgid ""
 "This test checks whether a valid IP address is found for your LAN adapter.\n"
 "If you get a \"unconfirmed\" message:\n"
 "- no valid IP address was found\n"
+<<<<<<< HEAD
 "- please check your DHCP server, cabling and adapter setup"
+=======
+"- please check your DHCP, cabling and adapter setup"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 "Þessi prufun athugar hvort að gild IP tala fannst fyrir þitt netkort.\n"
 "Ef þú færð skilaboðin \"óstaðfest\":\n"
@@ -10353,6 +12328,12 @@ msgstr ""
 msgid "Time"
 msgstr "Tími"
 
+<<<<<<< HEAD
+=======
+msgid "Time Update in Minutes"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Time Update in Minutes:"
 msgstr ""
 
@@ -10367,6 +12348,7 @@ msgstr ""
 msgid "Time to execute command or script"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Time update in minutes"
 msgstr ""
 
@@ -10381,6 +12363,11 @@ msgstr ""
 msgid "Timer"
 msgstr "Tími"
 
+=======
+msgid "Timeline font size"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Timer List"
 msgstr ""
 
@@ -10389,6 +12376,13 @@ msgid "Timer entry"
 msgstr "Innsláttur tímastilltra atriða"
 
 #
+<<<<<<< HEAD
+=======
+msgid "Timer log"
+msgstr "Tíma skrá"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid ""
 "Timer overlap in pm_timers.xml detected!\n"
@@ -10405,6 +12399,14 @@ msgstr ""
 "Tímastillingar ná yfir hvorn annan!\n"
 "Vinsamlega athugið það!"
 
+<<<<<<< HEAD
+=======
+#
+#, fuzzy
+msgid "Timer overview"
+msgstr "Innsláttur tímastilltra atriða"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Timer record location"
 msgstr "Staður fyrir tímastilltar upptökur"
 
@@ -10437,9 +12439,12 @@ msgstr ""
 msgid "Timeshift"
 msgstr "Lifandi pása"
 
+<<<<<<< HEAD
 msgid "Timeshift is running. Select an action.\n"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Timeshift location"
 msgstr "Staður fyrir lifandi pásu"
 
@@ -10447,10 +12452,13 @@ msgstr "Staður fyrir lifandi pásu"
 msgid "Timeshift not possible!"
 msgstr "Tímabreyting ekki möguleg!"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Timeshift on a stream is not supported!"
 msgstr "móttakari er ekki studdur"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Timeshift save failed!"
 msgstr ""
 
@@ -10466,7 +12474,11 @@ msgstr ""
 msgid "Timeshift settings"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Timeshift will get saved at the end of an event!"
+=======
+msgid "Timeshift will get saved at end of event!"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Timeshift-save action on zap"
@@ -10488,10 +12500,22 @@ msgstr "Upplýsingar titils"
 msgid "Titleset mode"
 msgstr "Titla stillingar"
 
+<<<<<<< HEAD
+=======
+#, python-format
+msgid ""
+"To update your %s %s firmware, please follow these steps:\n"
+"1) Turn off your box with the rear power switch and make sure the bootable USB stick is plugged in.\n"
+"2) Turn mains back on and hold the DOWN button on the front panel pressed for 10 seconds.\n"
+"3) Wait for bootup and follow instructions of the wizard."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Today"
 msgstr "Í dag"
 
+<<<<<<< HEAD
 msgid "Toggle Digital downmix..."
 msgstr ""
 
@@ -10507,6 +12531,8 @@ msgstr ""
 msgid "Toggle PIP-ZAP"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Toggle Picture In Graphics"
 msgstr ""
 
@@ -10537,6 +12563,7 @@ msgstr "Tón stýring A/B"
 msgid "Top and Bottom"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Total"
 msgstr ""
 
@@ -10557,6 +12584,27 @@ msgid "Total memory:"
 msgstr ""
 
 msgid "Total swap:"
+=======
+msgid "Top and bottom"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Total Memory:"
+msgstr ""
+
+msgid "Total Swap:"
+msgstr ""
+
+msgid "Total cards:"
+msgstr ""
+
+msgid "Total handled client ecm's"
+msgstr ""
+
+msgid "Total handled client emm's"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Total:"
@@ -10566,8 +12614,15 @@ msgstr ""
 msgid "Track"
 msgstr "Spor"
 
+<<<<<<< HEAD
 msgid "Transcoding: "
 msgstr ""
+=======
+#
+#, fuzzy
+msgid "Translation Information"
+msgstr "Upplýsingar"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 #, fuzzy
@@ -10587,6 +12642,7 @@ msgstr "Sendir"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Transponder Information"
 msgstr "Upplýsingar"
 
@@ -10596,6 +12652,12 @@ msgid "Transponder type"
 msgstr "Gerð sendis"
 
 msgid "Trash can"
+=======
+msgid "Transponder type"
+msgstr "Gerð sendis"
+
+msgid "Trashcan"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Trashcan:"
@@ -10610,11 +12672,14 @@ msgid "Try to find used transponders in cable network.. please wait..."
 msgstr "Reyni að finna sendi í kapalkerfi.. vinsamlega bíðið..."
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Try to find used transponders in terrestrial network... please wait..."
 msgstr "Reyni að finna sendi í kapalkerfi.. vinsamlega bíðið..."
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Trying to download a new packetlist. Please wait..."
 msgstr "Reyni að hlaða niður nýjum pakka lista. Vinsamlega bíðið..."
 
@@ -10652,6 +12717,7 @@ msgstr "Móttakari"
 msgid "Tuner configuration"
 msgstr "Stilling móttakara"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Tuner is not supported"
 msgstr "móttakari er ekki studdur"
@@ -10660,6 +12726,8 @@ msgstr "móttakari er ekki studdur"
 msgid "Tuner not available."
 msgstr "Uppfærslur á fæðirásum ekki tiltækar."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Tuner settings"
 msgstr ""
 
@@ -10678,13 +12746,18 @@ msgstr "Móttakari"
 msgid "Tuner type"
 msgstr "Gerð móttakara"
 
+<<<<<<< HEAD
 msgid "Tuning algorithm"
+=======
+msgid "Tuning step size"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
 msgid "Turkish"
 msgstr "Tyrkneska"
 
+<<<<<<< HEAD
 msgid "Turn off HDMI-IN PiP mode"
 msgstr ""
 
@@ -10704,6 +12777,8 @@ msgstr ""
 msgid "Turning step size"
 msgstr "Breyta skrefa stærð"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Two"
 msgstr "Tveir"
@@ -10726,6 +12801,7 @@ msgstr ""
 msgid "USALS"
 msgstr "USALS"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "USALS Calibration"
@@ -10737,6 +12813,22 @@ msgstr ""
 msgid "Unattended upgrade without GUI and reboot system"
 msgstr ""
 
+=======
+msgid "USALS calibration"
+msgstr ""
+
+#
+msgid "USB stick wizard"
+msgstr "USB stauta stjóri"
+
+msgid "Unattended upgrade without GUI and reboot system"
+msgstr ""
+
+#
+msgid "Uncommitted DiSEqC command"
+msgstr "Uncommitted DiSEqC stýring"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Undetermined"
 msgstr ""
 
@@ -10750,6 +12842,7 @@ msgid "Unencrypted"
 msgstr "Opin rás"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Unhide parental control services"
 msgstr "Virkja foreldra stýringu"
@@ -10757,6 +12850,9 @@ msgstr "Virkja foreldra stýringu"
 #
 #, fuzzy
 msgid "Unicable / JESS"
+=======
+msgid "Unicable"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Unicable"
 
 #
@@ -10776,9 +12872,12 @@ msgstr "Venjulegt LNB"
 msgid "Unknown"
 msgstr "Óþekkt"
 
+<<<<<<< HEAD
 msgid "Unmark service as a dedicated 3D service"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Unmount"
 msgstr ""
 
@@ -10786,9 +12885,12 @@ msgstr ""
 msgid "Unsupported"
 msgstr "Ekki stutt"
 
+<<<<<<< HEAD
 msgid "Up"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Update"
 msgstr "Uppfæra"
@@ -10849,10 +12951,13 @@ msgstr ""
 msgid "Uptime"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Usage setup"
 msgstr "Breyta aðgangsorði fyrir uppsetningu"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Use"
 msgstr "Nota"
@@ -10879,6 +12984,7 @@ msgstr ""
 msgid "Use USALS for this sat"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Use ViaSat EPG information when it is available."
 msgstr ""
 
@@ -10893,6 +12999,20 @@ msgstr "Nota beini"
 #, fuzzy
 msgid "Use circular LNB"
 msgstr "hringpólun vinstri"
+=======
+msgid "Use Obh colored Buttons*"
+msgstr ""
+
+msgid "Use ViaSat EPG information when it is available."
+msgstr ""
+
+msgid "Use WOL"
+msgstr ""
+
+#
+msgid "Use a gateway"
+msgstr "Nota beini"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Use fastscan channel names"
 msgstr ""
@@ -10930,10 +13050,17 @@ msgstr ""
 msgid "Use the Left/Right buttons on your remote to adjust the size of the user interface. Left button decreases the size, Right increases the size."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Use the Left/Right buttons on your remote to move the user interface left/right"
 msgstr ""
 
 msgid "Use the Left/Right buttons on your remote to move the user interface up/down"
+=======
+msgid "Use the Left/Right buttons on your remote to move the user interface up/down"
+msgstr ""
+
+msgid "Use the Left/Right buttons on your remote to move the user inyterface left/right"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Use the alternative or the conventional radio mode."
@@ -10942,11 +13069,14 @@ msgstr ""
 msgid "Use the alternative screen"
 msgstr ""
 
+<<<<<<< HEAD
 msgid ""
 "Use the deletion time to sort Trash folders.\n"
 "Most recently deleted at the top."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "Use the network wizard to configure selected network adapter"
 msgstr "Nota ráðgjafa til að stilla valið netkort"
@@ -10976,9 +13106,14 @@ msgstr "Nota mynd endurbóta stillingar?"
 msgid "Use timeshift seekbar while timeshifting?"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "Use trash can in movie list"
 msgstr "Rás ekki á rásalista"
+=======
+msgid "Use trash can in movielist"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Used service scan type"
@@ -11004,11 +13139,14 @@ msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "User interface settings"
 msgstr "Nota netkort"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "User interface visibility"
 msgstr "Nota netkort"
 
@@ -11047,8 +13185,15 @@ msgstr "Vídeó scart"
 msgid "VMGM (intro trailer)"
 msgstr "VMGM (mynd sýnishorn)"
 
+<<<<<<< HEAD
 msgid "VU+"
 msgstr ""
+=======
+#
+#, fuzzy, python-format
+msgid "Version:\t%s"
+msgstr "Ný útgáfa:"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Version: "
 msgstr ""
@@ -11065,7 +13210,11 @@ msgstr "Lóðrétt"
 msgid "Vertical turning speed"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "ViX EPG"
+=======
+msgid "Obh EPG"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Video Enhancement Settings"
@@ -11086,6 +13235,19 @@ msgstr "Mynd endurbóta forsýn"
 msgid "Video enhancement setup"
 msgstr "Mynd endurbóta uppsetnging"
 
+<<<<<<< HEAD
+=======
+#
+#, fuzzy
+msgid "Video fine tuning"
+msgstr "Mynd fínstillingar"
+
+#
+#, fuzzy
+msgid "Video fine-tuning"
+msgstr "Mynd fínstillingar"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Video input selection\n"
 "\n"
@@ -11106,6 +13268,15 @@ msgstr "Mynd hams stilling."
 msgid "Video output"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Video setup"
+msgstr ""
+
+msgid "Video wizard"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, python-format
 msgid "Video: %s fps"
 msgstr ""
@@ -11116,11 +13287,14 @@ msgstr ""
 msgid "Videoformat"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Videomode"
 msgstr "Mynd hams stilling."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Videosize"
 msgstr ""
 
@@ -11143,10 +13317,13 @@ msgstr "Skoða Video CD..."
 msgid "View details"
 msgstr "Skoða nánar"
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "View extensions..."
 msgstr "skoða íforrit..."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "View list of available "
 msgstr "Skoða lista af tiltækum"
@@ -11222,12 +13399,18 @@ msgstr "Skoða Video CD..."
 msgid "Virtuosso Image Xtreme"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Visual impaired commentary"
 msgstr ""
 
 #
 #, fuzzy
 msgid "Vix forum user name"
+=======
+#
+#, fuzzy
+msgid "Obh forum user name"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Leita að rásum"
 
 #
@@ -11264,6 +13447,12 @@ msgstr "WPA2"
 msgid "WSS on 4:3"
 msgstr "WSS á 4:3"
 
+<<<<<<< HEAD
+=======
+msgid "Wait please while scanning for devices..."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Waiting"
 msgstr "Bíð"
@@ -11296,9 +13485,12 @@ msgstr ""
 msgid "Wakeup your %s %s from standby"
 msgstr "fara í biðstöðu"
 
+<<<<<<< HEAD
 msgid "Warning"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Warning: no LNB; using factory defaults."
 msgstr ""
 
@@ -11315,11 +13507,14 @@ msgid "Web Interface"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Web interface"
 msgstr "Nota netkort"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Wed"
 msgstr "Mið"
 
@@ -11333,11 +13528,14 @@ msgstr "Vikudagur"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Weekend"
 msgstr "Vikudagur"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Weekly"
 msgstr "vikulega"
 
@@ -11401,7 +13599,11 @@ msgstr ""
 msgid "What Day of week ?"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "What action is required on completion of the timer? 'Auto' lets the box return to the state it had when the timer started. 'Do nothing', 'Go to standby' and 'Go to deep standby' do exactly that."
+=======
+msgid "What action is required on completion of the timer? 'Auto' lets the box return to the state it had when the timer started. 'Do nothing', 'Go to standby' and 'Go to deep standby' do ecaxtly that."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "What date of month ?"
@@ -11411,6 +13613,7 @@ msgstr ""
 msgid "What do you want to scan?"
 msgstr "Að hverju viltu leita?"
 
+<<<<<<< HEAD
 msgid "When enabled enigma2 will load unlinked userbouquets. This means that userbouquets that are available, but not included in the bouquets.tv or bouquets.radio files, will still be loaded. This allows you for example to keep your own user bouquet while installed settings are upgraded"
 msgstr ""
 
@@ -11420,6 +13623,8 @@ msgstr ""
 msgid "When enabled the LNB toneburst will be forced"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "When enabled the online checker will also check for experimental versions"
 msgstr ""
 
@@ -11441,6 +13646,7 @@ msgstr ""
 msgid "When enabled, a warning will be displayed and the user will get an option to stop or to continue the timeshift."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "When enabled, a warning will be displayed that timeshift is not supported in an IP stream.."
 msgstr ""
 
@@ -11450,6 +13656,8 @@ msgstr ""
 msgid "When enabled, authentication is required to watch http streams."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "When enabled, channel numbering will start at '1' for every bouquet."
 msgstr ""
 
@@ -11477,9 +13685,12 @@ msgstr ""
 msgid "When enabled, graphical DVB subtitles will be displayed in yellow, instead of the original color."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "When enabled, http streams are descrambled on the server side. The (remote) client receiver does not have to do descrambling. Default on."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "When enabled, it is possible to leave the Movie Player with exit."
 msgstr ""
 
@@ -11492,9 +13703,12 @@ msgstr ""
 msgid "When enabled, pressing '0' will zap you to the first channel in your first bouquet and delete your zap-history."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "When enabled, reformat subtitles to match the width of the screen."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "When enabled, show channel numbers in the channel selection screen."
 msgstr ""
 
@@ -11519,6 +13733,12 @@ msgstr ""
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "When enabled, the original line breaks will be removed from the teletext subtitles."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "When enabled, the receiver will automatically use the audio track which you selected before."
 msgstr ""
 
@@ -11528,6 +13748,7 @@ msgstr ""
 msgid "When enabled, the receiver will select an AC3 track (when available)."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "When enabled, the receiver will select an AC3+ track (when available)."
 msgstr ""
 
@@ -11537,6 +13758,8 @@ msgstr ""
 msgid "When enabled, this setting has more weight than 'Preferred tuner'."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "When enabled, timeshift starts automatically in background after the specified time."
 msgstr ""
 
@@ -11555,10 +13778,17 @@ msgstr ""
 msgid "When nonzero, a recording will stop later than the ending time indicated by the EPG."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "When set the PIG will return to live after a movie has stopped playing."
 msgstr ""
 
 msgid "When set, each folder will show the previous state used. When off, the default values will be shown."
+=======
+msgid "When set each folder will show the previous state used, when off the default values will be shown."
+msgstr ""
+
+msgid "When set the PIG will return to live after a movie has stopped playing."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."
@@ -11573,20 +13803,31 @@ msgstr ""
 #
 #, fuzzy, python-format
 msgid ""
+<<<<<<< HEAD
 "When you perform a factory reset, you will lose ALL of your configuration data\n"
 "(including bouquets, services, satellite data ...)\n"
 "After completion of the factory reset, your %s %s will restart automatically!\n"
 "\n"
 "Do you really want to do a factory reset?"
+=======
+"When you do a factory reset, you will lose ALL your configuration data\n"
+"(including bouquets, services, satellite data ...)\n"
+"After completion of factory reset, your %s %s will restart automatically!\n"
+"\n"
+"Really do a factory reset?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 "Þegar þú velur verksmiðju stillingu þá missir þú út ALLAR stillingar\n"
 "(þar með talið rásavendi, rásir, gervihnattaupplýsingar...)\n"
 "Eftir að búið er að setja inn verksmiðju stillingar þá mun móttakarinn endurræsa sig.\n"
 "Ertu viss um að þú viljir setja inn verksmiðju stillingar?"
 
+<<<<<<< HEAD
 msgid "When you use the remote fallback tuner for recording, the timer conflict detection can't properly detect conflicts. This option allows you to turn off the timer confict detection. This setting is only for advanced users; the default is 'yes'."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Where do you want to backup your settings?"
 msgstr "Hvar viltu vista afritið?"
@@ -11655,6 +13896,7 @@ msgstr ""
 msgid "Write failed!"
 msgstr "Tókst ekki að skrifa!"
 
+<<<<<<< HEAD
 msgid "Write to /tmp/positionersetup.log"
 msgstr ""
 
@@ -11667,6 +13909,11 @@ msgstr ""
 msgid "YES"
 msgstr ""
 
+=======
+msgid "XBox 360 support"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "YPbPr"
 msgstr "YPbPr"
@@ -11675,6 +13922,7 @@ msgstr "YPbPr"
 msgid "Year"
 msgstr "Ár"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Yellow"
@@ -11686,13 +13934,21 @@ msgstr ""
 msgid "Yellow long"
 msgstr ""
 
+=======
+msgid "Yellow DVB subtitles"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Yes"
 msgstr "Já"
 
+<<<<<<< HEAD
 msgid "Yes (save index in setup tuner)"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Yes to all"
 msgstr "Já við allt"
 
@@ -11704,11 +13960,14 @@ msgid "Yes, and delete this movie"
 msgstr "Já, og eyða þessari bíómynd"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Yes, and return to the movie list"
 msgstr "Já, fara til baka á mynda lista"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Yes, backup my settings!"
 msgstr "Já, taka afrit að stilinunum!"
 
@@ -11724,11 +13983,14 @@ msgid "Yes, but save timeshift as movie and stop recording"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Yes, delete this movie and return to the movie list"
 msgstr "Já, fara til baka á mynda lista"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Yes, do a manual scan now"
 msgstr "Já, leita handvirkt núna"
 
@@ -11745,6 +14007,7 @@ msgid "Yes, restore the settings now"
 msgstr "Já, settu inn afritið núna"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Yes, show delete time"
 msgstr "Já, og eyða þessari bíómynd"
@@ -11752,6 +14015,10 @@ msgstr "Já, og eyða þessari bíómynd"
 #, fuzzy
 msgid "Yes, show record time"
 msgstr "Taka upp"
+=======
+msgid "Yes, returning to movie list"
+msgstr "Já, fara til baka á mynda lista"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Yes, shut down now."
@@ -11774,12 +14041,15 @@ msgid ""
 "\"%s\"?"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "You can Display MiniTV with or without OSD Menu"
 msgstr ""
 
 msgid "You can Display PIP with or without OSD Menu"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "You can cancel the installation."
 msgstr "Þú getur hætt við uppsetninguna."
@@ -11788,7 +14058,14 @@ msgstr "Þú getur hætt við uppsetninguna."
 msgid "You can cancel the removal."
 msgstr "Þú getur hætt við að fjarlægja."
 
+<<<<<<< HEAD
 msgid "You can continue watching TV while this is running."
+=======
+msgid "You can continue watching TV etc. while this is running."
+msgstr ""
+
+msgid "You can disable Telnet Server and use ssh to login."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "You can have the list sorted by time or alphanumerical."
@@ -11811,7 +14088,11 @@ msgstr "Þú getur ekki eytt þessu!"
 msgid "You didn't select a channel to record from."
 msgstr "Þú valdir ekki rás til að taka upp af."
 
+<<<<<<< HEAD
 msgid "You have already sent this log, are you sure you want to resend it?\n"
+=======
+msgid "You have already sent this log, are you sure you want to resend this log:\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -11819,6 +14100,13 @@ msgid "You have chosen to backup your settings. Please press OK to start the bac
 msgstr "Þú hefur valið að taka afrit af stillingum þínum. Ýttu á OK til að byrja að taka afrit núna."
 
 #
+<<<<<<< HEAD
+=======
+msgid "You have chosen to create a new .NFI flasher bootable USB stick. This will repartition the USB stick and therefore all data on it will be erased."
+msgstr "Þú hefur valið að búa til nýjan keyranlegan .NFI USB staut. Þetta veldur því að öllum gögnum af USB stautum verður eytt."
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "You have chosen to restore your settings. Enigma2 will restart after restore. Please press OK to start the restore now."
 msgstr "Þú hefur valið að setja inn eldra afrit. Enigma2 mun endurræsa eftir innsetningu. Ýttu á OK til að byrja að setja inn afritið núna."
 
@@ -11827,6 +14115,7 @@ msgid ""
 "What do you want to do ?"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "You have not selected any logs to delete."
@@ -11838,6 +14127,17 @@ msgstr ""
 msgid ""
 "You have not setup your user info in the setup screen\n"
 "Press MENU, enter your info, and then try again"
+=======
+msgid ""
+"You have not setup your user info in the setup screen\n"
+"Press MENU, and enter your info, then try again"
+msgstr ""
+
+msgid "You have selected no logs to delete."
+msgstr ""
+
+msgid "You have selected no logs to send."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -11845,10 +14145,13 @@ msgstr ""
 msgid "You have to wait %s!"
 msgstr "Þú þarf að bíða %s!"
 
+<<<<<<< HEAD
 #, python-format
 msgid "You must switch to the service %s (%s - '%s')!\n"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid ""
 "You need a PC connected to your %s %s. If you need further instructions, please visit the website http://www.dm7025.de.\n"
@@ -11857,9 +14160,12 @@ msgstr ""
 "Þú þarft að hafa tölvu tengda við %s %sið. Ef þú þarft nánari upplýsingar þá skoðaðu síðuna http://www.dm7025.de.\n"
 "%s %sið verður núna stoppað. Eftir að þú hefur uppfært samkvæmt leiðbeinungunum á síðunni þá mun nýja stýrikerfið biðja þig um að setja aftur inn afritið."
 
+<<<<<<< HEAD
 msgid "You seem to be in timeshft, the service will briefly stop as timeshift stops."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "You seem to be in timeshift!"
 msgstr ""
 
@@ -11870,6 +14176,7 @@ msgid "You system does not support ext4"
 msgstr ""
 
 #, python-format
+<<<<<<< HEAD
 msgid "Your %s %s does not support PiP HD"
 msgstr ""
 
@@ -11878,6 +14185,8 @@ msgid "Your %s %s has no network access, please check your network settings and 
 msgstr ""
 
 #, python-format
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Your %s %s is not connected to the internet, please check your network settings and try again."
 msgstr ""
 
@@ -11925,15 +14234,26 @@ msgstr ""
 
 #, python-format
 msgid ""
+<<<<<<< HEAD
 "Your %s %s will be restarted after the installation of service.\n"
 "\n"
 "Do you want to install now ?"
+=======
+"Your %s %s will be restarted after the installation of service\n"
+"Ready to install \"%s\" ?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
 msgid ""
+<<<<<<< HEAD
 "Your %s %s will be restarted after the installation of the service\n"
 "Are you ready to install \"%s\" ?"
+=======
+"Your %s %s will be restarted after the installation of service.\n"
+"\n"
+"Do you want to install now ?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -11942,12 +14262,15 @@ msgid ""
 "Do you want to remove now ?"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid ""
 "Your %s %s will be restarted after the removal of the service\n"
 "Do you want to remove the service now ?"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Your STB will restart after pressing OK on your remote control."
 msgstr ""
 
@@ -11961,7 +14284,11 @@ msgstr "Safn þitt er of stórt fyrir disk með einfalt lag. Þú þarft tóman 
 
 #, python-format
 msgid ""
+<<<<<<< HEAD
 "Your config file is not well formed:\n"
+=======
+"Your config file is not well-formed:\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "%s"
 msgstr ""
 
@@ -11999,6 +14326,7 @@ msgstr ""
 msgid "Your network configuration has been activated."
 msgstr "Stillingar netkerfis hafa verið gerðar virkar."
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Your network has finished restarting"
@@ -12009,6 +14337,8 @@ msgstr "Vinsamlega bíðið á meðan netkerfið er endurræst..."
 msgid "Your network is restarting, Please wait..."
 msgstr "%s %sið er að slökkva á sér. Vinsamlega bíðið..."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Your receiver does not have an internet connection"
 msgstr ""
 
@@ -12043,9 +14373,12 @@ msgstr "Fara aftur á rás fyrir stillingu á mótorstýringu?"
 msgid "Zap back to service before tuner setup?"
 msgstr "Fara aftur á rás fyrir stillingu móttakara?"
 
+<<<<<<< HEAD
 msgid "Zap down"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Zap focus to Picture in Picture"
 msgstr ""
 
@@ -12055,30 +14388,39 @@ msgstr ""
 msgid "Zap mode"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Zap to"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Zap to channel (setup in menu)"
 msgstr ""
 
 msgid "Zap to channel and close (setup in menu)"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Zap up"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Zoom In/Out TV..."
 msgstr ""
 
 msgid "Zoom Off..."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Zoom from left"
 msgstr ""
 
 msgid "Zoom from right"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "[TimeShift] Restarting Timeshift!"
 msgstr ""
 
@@ -12109,16 +14451,61 @@ msgid "a gui to assign services/providers/caids to common interface modules"
 msgstr "viðmót til að tengja rásir/sendendur/caid við afruglara í tengi fyrir afruglara"
 
 #
+<<<<<<< HEAD
 msgid "about to start"
 msgstr "er að byrja"
 
 msgid "activatePiP"
 msgstr ""
+=======
+msgid "abort alternatives edit"
+msgstr "hætta við að breyta valkostum"
+
+#
+msgid "abort bouquet edit"
+msgstr "hætta við að breyta fléttu"
+
+msgid "abort favourites edit"
+msgstr "hætta við að breyta eftirlætis lista"
+
+#
+msgid "about to start"
+msgstr "er að byrja"
+
+msgid "activate network adapter configuration"
+msgstr "virkja stillingar netkorts"
+
+#
+msgid "add alternatives"
+msgstr "bæta við valkosti"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "add bookmark"
 msgstr "bæta við bókamerki"
 
+<<<<<<< HEAD
+=======
+#
+msgid "add bouquet"
+msgstr "bæta rásavendi við"
+
+#
+msgid "add marker"
+msgstr "bæta við merki"
+
+#
+msgid "add service to bouquet"
+msgstr "bæta rás við fléttu"
+
+msgid "add service to favourites"
+msgstr "bæta rás við eftirlætis lista"
+
+#
+msgid "add to parental protection"
+msgstr "bæta við foreldra lás"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "address:"
 msgstr ""
 
@@ -12135,23 +14522,30 @@ msgstr ""
 msgid "advertisement/shopping"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "alpha then oldest"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "alphabetic"
 msgstr ""
 
 msgid "alphabetic reverse"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "alpharev then newest"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "alternative"
 msgstr "bæta við valkosti"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "am"
@@ -12164,6 +14558,8 @@ msgstr ""
 msgid "are you sure you want to cancel all the changes"
 msgstr "Ertu viss um að þú viljir hætta í ráðgjafanum?"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "arts/culture (without music, general)"
 msgstr ""
 
@@ -12280,6 +14676,13 @@ msgid "comedy"
 msgstr ""
 
 #
+<<<<<<< HEAD
+=======
+msgid "complex"
+msgstr "flókinn"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "confirmed"
 msgstr "staðfest"
 
@@ -12287,6 +14690,13 @@ msgstr "staðfest"
 msgid "connected"
 msgstr "tengt"
 
+<<<<<<< HEAD
+=======
+#
+msgid "continue"
+msgstr "halda áfram"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "cooking"
 msgstr ""
 
@@ -12294,9 +14704,23 @@ msgid "copy"
 msgstr ""
 
 #
+<<<<<<< HEAD
 msgid "create directory"
 msgstr "búa til möppu"
 
+=======
+msgid "copy to bouquets"
+msgstr "afrita til rásavanda"
+
+#
+msgid "create directory"
+msgstr "búa til möppu"
+
+#, python-format
+msgid "currently installed image: %s"
+msgstr "núverandi stýrikerfi: %s"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "daily"
 msgstr "daglega"
@@ -12315,12 +14739,15 @@ msgstr ""
 msgid "delete cut"
 msgstr "eyða klippingu"
 
+<<<<<<< HEAD
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
 msgid "delete time - show record time (Trash ONLY)"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "descramble and record ecm"
 msgstr ""
 
@@ -12332,6 +14759,13 @@ msgid "disable"
 msgstr "óvirkt"
 
 #
+<<<<<<< HEAD
+=======
+msgid "disable move mode"
+msgstr "hætta í færslu stöðu"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "disabled"
 msgstr "óvirkt"
 
@@ -12375,6 +14809,13 @@ msgstr ""
 msgid "economics/social advisory"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+msgid "edit alternatives"
+msgstr "breyta valkosti"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "education/science/factual topics (general)"
 msgstr ""
 
@@ -12387,10 +14828,25 @@ msgid "enable"
 msgstr "virkt"
 
 #
+<<<<<<< HEAD
+=======
+msgid "enable bouquet edit"
+msgstr "byrja féttu breytingu"
+
+msgid "enable favourite edit"
+msgstr "virkja breytingu eftirlætis lista"
+
+#
+msgid "enable move mode"
+msgstr "virkja færlsu stöðu"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "enabled"
 msgstr "virkt"
 
 #
+<<<<<<< HEAD
 msgid "end cut here"
 msgstr "enda klippingu hér"
 
@@ -12398,6 +14854,21 @@ msgstr "enda klippingu hér"
 #, fuzzy
 msgid "ene"
 msgstr "Gerð"
+=======
+msgid "end alternatives edit"
+msgstr "hætta breytingum valkosta"
+
+#
+msgid "end bouquet edit"
+msgstr "hætta að breyta fléttu"
+
+#
+msgid "end cut here"
+msgstr "enda klippingu hér"
+
+msgid "end favourites edit"
+msgstr "hætta breytingum eftirlætis lista"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "enter number to jump to channel."
 msgstr ""
@@ -12408,9 +14879,12 @@ msgstr ""
 msgid "entertainment (6-14 year old)"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "epg cache backup"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "equal to"
 msgstr "jafnt og"
@@ -12418,6 +14892,7 @@ msgstr "jafnt og"
 msgid "equestrian"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "error starting scanning"
 msgstr ""
 
@@ -12447,6 +14922,22 @@ msgstr ""
 #
 msgid "exit DVD player or return to file browser"
 msgstr "hætta í DVD spilara og fara til baka í skráarvafra"
+=======
+#
+msgid "exit DVD player or return to file browser"
+msgstr "hætta í DVD spilara og fara til baka í skráarvafra"
+
+msgid "exit mounts setup menu"
+msgstr ""
+
+#
+msgid "exit network adapter configuration"
+msgstr "fara úr netkorts stillingum"
+
+#
+msgid "exit networkadapter setup menu"
+msgstr "hætta í netkorts stillingum"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "experimental film/video"
 msgstr ""
@@ -12454,9 +14945,12 @@ msgstr ""
 msgid "extensions."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "extra wide"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "failed"
 msgstr ""
 
@@ -12469,6 +14963,12 @@ msgstr ""
 msgid "fast"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "file oscam.conf could not be found"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "fileformats (BMP, PNG, JPG, GIF)"
 msgstr "skráarform (BMP, PNG, JPG, GIF)"
@@ -12483,6 +14983,13 @@ msgstr ""
 msgid "fine arts"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+msgid "fine-tune your display"
+msgstr "fínstilla sjónvarpið"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "fitness & health"
 msgstr ""
 
@@ -12513,9 +15020,12 @@ msgstr "laust"
 msgid "free diskspace"
 msgstr "laust diskpláss"
 
+<<<<<<< HEAD
 msgid "from"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "full"
 msgstr ""
 
@@ -12554,7 +15064,11 @@ msgid "handled"
 msgstr ""
 
 msgid ""
+<<<<<<< HEAD
 "has been sent to the ViX team.\n"
+=======
+"has been sent to the Obh beta team.\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "please quote"
 msgstr ""
 
@@ -12607,6 +15121,13 @@ msgid "languages"
 msgstr ""
 
 #
+<<<<<<< HEAD
+=======
+msgid "leave movie player..."
+msgstr "hætta í spilara"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "left"
 msgstr "vinstri"
 
@@ -12630,9 +15151,12 @@ msgstr ""
 msgid "locked"
 msgstr "læst"
 
+<<<<<<< HEAD
 msgid "long"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "loopthrough to"
 msgstr "tengt saman við"
@@ -12683,6 +15207,25 @@ msgstr ""
 msgid "move"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+msgid "move down to last entry"
+msgstr "fara niður í síðasta atriði"
+
+#
+msgid "move down to next entry"
+msgstr "fara niður í næsta atriði"
+
+#
+msgid "move up to first entry"
+msgstr "fara upp í fyrsta atriði"
+
+#
+msgid "move up to previous entry"
+msgstr "fara upp í næsta atriði"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "movie/drama (general)"
 msgstr ""
 
@@ -12703,11 +15246,14 @@ msgid "nature/animals/environment"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "ne"
 msgstr "Einn"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "never"
 msgstr "aldrei"
 
@@ -12724,6 +15270,7 @@ msgid "news/weather report"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "nne"
 msgstr "engin"
@@ -12733,6 +15280,8 @@ msgid "nnw"
 msgstr "Óþekkt"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "no"
 msgstr "nei"
 
@@ -12744,6 +15293,7 @@ msgstr "ekkert CAId valið"
 msgid "no CI slots found"
 msgstr "fann engin CI tengi"
 
+<<<<<<< HEAD
 msgid "no channel list"
 msgstr ""
 
@@ -12752,6 +15302,8 @@ msgstr ""
 msgid "no delay"
 msgstr "Tímastilling"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "no module found"
 msgstr "fann ekki einingu"
@@ -12759,11 +15311,14 @@ msgstr "fann ekki einingu"
 msgid "no or unknown card inserted"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "no resource manager"
 msgstr "Hugbúnaðarpakka stjóri"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "no storage devices found"
 msgstr ""
 
@@ -12792,9 +15347,12 @@ msgstr "ekki notað"
 msgid "nothing connected"
 msgstr "ekkert tengt"
 
+<<<<<<< HEAD
 msgid "nw"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "of a DUAL layer medium used."
 msgstr "af tveggja laga DVD."
@@ -12822,6 +15380,7 @@ msgstr "á READ ONLY disk."
 msgid "once"
 msgstr "einu sinni"
 
+<<<<<<< HEAD
 msgid "only 4K"
 msgstr ""
 
@@ -12840,6 +15399,22 @@ msgstr ""
 msgid ""
 "oscam.conf not found.\n"
 "Please enter username/password manually."
+=======
+msgid "only HD"
+msgstr ""
+
+msgid "open bouquetlist"
+msgstr ""
+
+#
+msgid "open nameserver configuration"
+msgstr "opna nafnaþjóns stillingar"
+
+msgid "original"
+msgstr ""
+
+msgid "original language"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "packages selected."
@@ -12858,6 +15433,15 @@ msgstr ""
 msgid "pid:"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "play as picture in picture"
+msgstr ""
+
+msgid "play in mainwindow"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "please press OK when ready"
 msgstr "vinsamlega ýtið á OK þegar tilbúið"
@@ -12869,9 +15453,12 @@ msgstr "hleð inn mynd, vinsamlegast bíðið.."
 msgid "please wait..."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "pm"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "popular culture/traditional arts"
 msgstr ""
 
@@ -12899,11 +15486,14 @@ msgstr "tek upp...."
 msgid "red"
 msgstr "rauður"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "reliable"
 msgstr "virkt"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "religion"
 msgstr ""
 
@@ -12915,6 +15505,17 @@ msgid "remove after this position"
 msgstr "eyða fyrir aftan þetta"
 
 #
+<<<<<<< HEAD
+=======
+msgid "remove all alternatives"
+msgstr "taka út alla valkosti"
+
+#
+msgid "remove all new found flags"
+msgstr "eyða öllum merkingum um nýfundna rás"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "remove before this position"
 msgstr "eyða fyrir framan þetta"
 
@@ -12927,6 +15528,25 @@ msgid "remove directory"
 msgstr "eyða möppu"
 
 #
+<<<<<<< HEAD
+=======
+msgid "remove entry"
+msgstr "taka út"
+
+#
+msgid "remove from parental protection"
+msgstr "taka foreldralæsingu af"
+
+#
+msgid "remove new found flag"
+msgstr "eyða merkingu um nýfundna rás"
+
+#
+msgid "remove selected satellite"
+msgstr "eyða völdum gervihnetti"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "remove this mark"
 msgstr "taka út þetta merki"
 
@@ -12934,6 +15554,14 @@ msgid "rename"
 msgstr ""
 
 #
+<<<<<<< HEAD
+=======
+#, fuzzy
+msgid "rename entry"
+msgstr "taka út"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "repeat playlist"
 msgstr "endurtaka spilunarlista"
 
@@ -12983,11 +15611,14 @@ msgid "science fiction/fantasy/horror"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "se"
 msgstr "Nota"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "second cable of motorized LNB"
 msgstr "annar kapall frá mótorstýrðu LNB"
 
@@ -13003,12 +15634,31 @@ msgstr "veldu"
 msgid "select CAId's"
 msgstr "veldu CAId"
 
+<<<<<<< HEAD
+=======
+#
+msgid "select menu entry"
+msgstr "veldu valmynda atriði"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "serious music/classic music"
 msgstr ""
 
 msgid "serious/classical/religious/historical movie/drama"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "service PIN"
+msgstr "rása PIN"
+
+msgid "set as startup service"
+msgstr ""
+
+msgid "setup PIN"
+msgstr "valmynda PIN"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "share:"
 msgstr ""
 
@@ -13016,12 +15666,25 @@ msgstr ""
 msgid "show DVD main menu"
 msgstr "sýna aðalvalmynd DVD "
 
+<<<<<<< HEAD
+=======
+msgid "show EPG..."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "show all cards"
 msgstr ""
 
 msgid "show all tags"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+msgid "show alternatives"
+msgstr "súna valkosti"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "show cards with uphop 0"
 msgstr ""
 
@@ -13059,12 +15722,29 @@ msgstr "sýna atriði nánar"
 msgid "show mediaplayer on mainmenu"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#, fuzzy
+msgid "show picons in service list"
+msgstr "Rás ekki á rásalista"
+
+msgid "show program information..."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "show softwaremanager in plugin menu"
 msgstr ""
 
 msgid "show softwaremanager on blue button"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+msgid "show transponder info"
+msgstr "sýna upplýsingar um sendi"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "show/game show (general)"
 msgstr ""
 
@@ -13109,6 +15789,12 @@ msgstr ""
 msgid "sorting of playlists"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "special characters"
+msgstr "sérstafir"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "special events"
 msgstr ""
 
@@ -13119,6 +15805,7 @@ msgid "sports magazine"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "sse"
 msgstr "Nota"
@@ -13127,6 +15814,8 @@ msgid "ssw"
 msgstr ""
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "standard"
 msgstr "venjulegt"
 
@@ -13144,7 +15833,11 @@ msgstr ""
 msgid "stereo"
 msgstr "víðóma"
 
+<<<<<<< HEAD
 msgid "sw"
+=======
+msgid "stop using as startup service"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -13187,11 +15880,14 @@ msgid "tennis/squash"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "this bouquet is protected by a parental control pin"
 msgstr "þessi rás er læst með kóða"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "this recording"
 msgstr "þessi upptaka"
 
@@ -13209,10 +15905,20 @@ msgstr ""
 msgid "tourism/travel"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "traditional (fast)"
 msgstr ""
 
 msgid "true"
+=======
+msgid "true"
+msgstr ""
+
+msgid "tuner is not supported"
+msgstr "móttakari er ekki studdur"
+
+msgid "uShare Log"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "uShare Name"
@@ -13224,6 +15930,7 @@ msgstr ""
 msgid "uShare Setup"
 msgstr ""
 
+<<<<<<< HEAD
 #, fuzzy
 msgid "uShare name"
 msgstr "Stutt skráarnöfn"
@@ -13231,6 +15938,8 @@ msgstr "Stutt skráarnöfn"
 msgid "uShare port"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "uShare setup"
 msgstr ""
 
@@ -13272,6 +15981,12 @@ msgstr ""
 msgid "vertical"
 msgstr "lóðrétt"
 
+<<<<<<< HEAD
+=======
+msgid "view extensions..."
+msgstr "skoða íforrit..."
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "wait for ci..."
 msgstr "bíð eftir afruglara.."
@@ -13304,11 +16019,19 @@ msgstr "vikulega"
 msgid "west"
 msgstr "Færa vestur"
 
+<<<<<<< HEAD
 msgid "when asking questions about this log"
 msgstr ""
 
 msgid ""
 "when asking questions about this log\n"
+=======
+msgid "when asking question about this log"
+msgstr ""
+
+msgid ""
+"when asking question about this log\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "\n"
 "A copy has been sent to yourself."
 msgstr ""
@@ -13316,8 +16039,14 @@ msgstr ""
 msgid "white"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "wide"
 msgstr ""
+=======
+#
+msgid "whitelist"
+msgstr "hvíti listi"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "width"
 msgstr ""
@@ -13343,6 +16072,7 @@ msgstr ""
 msgid "with long OK press"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "with text"
 msgstr ""
 
@@ -13353,13 +16083,18 @@ msgstr "Gerðir umskiptanlegra móttakara:"
 msgid "wnw"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "working"
 msgstr "er að vinna"
 
+<<<<<<< HEAD
 msgid "wsw"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "yellow"
 msgstr "gulur"
@@ -13385,6 +16120,7 @@ msgstr "taka upp"
 msgid "zapped"
 msgstr "stokkið"
 
+<<<<<<< HEAD
 #
 #~ msgid "A recording is currently running. Please stop the recording before trying to start the satfinder."
 #~ msgstr "Upptaka er í gangi núna. Stoppaðu upptökuna áður en að þú byrjar gervihnattaleit."
@@ -13652,3 +16388,5 @@ msgstr "stokkið"
 #
 #~ msgid "whitelist"
 #~ msgstr "hvíti listi"
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b

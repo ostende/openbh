@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 from boxbranding import getImageVersion, getImageType, getMachineBrand, getMachineName
 from urllib import urlopen
 import socket
@@ -426,9 +429,15 @@ class PluginDownloadBrowser(Screen):
 				if self["list"].l.getCurrentSelection()[0].name.startswith('settings-'):
 					self.check_settings = True
 					self.startIpkgListInstalled(self.PLUGIN_PREFIX + 'settings-*')
+<<<<<<< HEAD
 				elif self["list"].l.getCurrentSelection()[0].name.startswith('bootlogo-'):
 					self.check_bootlogo = True
 					self.startIpkgListInstalled(self.PLUGIN_PREFIX + 'bootlogo-*')
+=======
+				elif self["list"].l.getCurrentSelection()[0].name.startswith('bootlogos-'):
+					self.check_bootlogo = True
+					self.startIpkgListInstalled(self.PLUGIN_PREFIX + 'bootlogos-*')
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 				else:
 					self.runSettingsInstall()
 			elif self.type == self.REMOVE:

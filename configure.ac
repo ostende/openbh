@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 AC_INIT([enigma2],[5.0],[http://www.world-of-satellite.com])
+=======
+AC_INIT([enigma2],[5.0],[http://www.vuplus-community.net])
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 AM_INIT_AUTOMAKE([dist-bzip2 no-define tar-pax -Wno-portability])
 AC_CONFIG_HEADERS([enigma2_config.h])
 
@@ -480,6 +484,10 @@ data/display128/Makefile
 data/display220/Makefile
 data/display400/Makefile
 data/display480/Makefile
+<<<<<<< HEAD
+=======
+data/display480/OBH-LCDskin/Makefile
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 data/display720/Makefile
 data/display720/Default_with_Analogue_Clock_Standby/Makefile
 data/display720/Default_with_Picon_and_Analogue_Clock_Standby/Makefile

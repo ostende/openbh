@@ -4,7 +4,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
+<<<<<<< HEAD
 "POT-Creation-Date: 2016-07-23 19:30+0200\n"
+=======
+"POT-Creation-Date: 2014-01-30 22:11+0100\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "PO-Revision-Date: 2014-01-22 23:31+0100\n"
 "Last-Translator: Andy Blackburn <andyblac@icloud.com>\n"
 "Language-Team: http://sat-ukraine.info/\n"
@@ -70,6 +74,7 @@ msgstr ""
 "Натисніть OK для продовження."
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid ""
 "\n"
@@ -77,6 +82,8 @@ msgid ""
 msgstr "Хід виконання:"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy, python-format
 msgid ""
 "\n"
@@ -124,6 +131,7 @@ msgstr ""
 "\n"
 "Переглянути, встановити або видалити наявні чи встановлені пакети."
 
+<<<<<<< HEAD
 #
 #, fuzzy, python-format
 msgid " (Channel %s)"
@@ -133,6 +141,8 @@ msgstr "Канал"
 msgid " (Partition %d)"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid " (PiP)"
 msgstr ""
 
@@ -142,6 +152,7 @@ msgstr ""
 msgid " (TV)"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid " (disabled)"
@@ -156,6 +167,8 @@ msgstr ""
 msgid " (lower than any auto)"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid " and"
 msgstr ""
 
@@ -165,6 +178,7 @@ msgid "%-H:%M"
 msgstr "%Г:%ХВ"
 
 #, python-format
+<<<<<<< HEAD
 msgid "%.0f GB"
 msgstr ""
 
@@ -180,6 +194,11 @@ msgstr ""
 msgid "%02d:%02d"
 msgstr "%2d:%02d"
 
+=======
+msgid "%02d.%02d - %02d.%02d (%s%d min)"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #. TRANSLATORS: short time representation hour:minute
 #, python-format
 msgid "%2d:%02d"
@@ -217,11 +236,14 @@ msgstr "%a %e/%m"
 msgid "%a %e/%m  %-H:%M"
 msgstr "%a %e/%m  %-H:%M"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "%d %B %Y"
 msgstr "%d.%B %Y"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, python-format
 msgid "%d GB"
 msgstr ""
@@ -290,12 +312,15 @@ msgid "%d minutes"
 msgstr ""
 
 #, python-format
+<<<<<<< HEAD
 msgid "%d pixel wide"
 msgid_plural "%d pixels wide"
 msgstr[0] ""
 msgstr[1] ""
 
 #, python-format
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "%d second"
 msgid_plural "%d seconds"
 msgstr[0] ""
@@ -308,10 +333,13 @@ msgid_plural "%d wireless networks found!"
 msgstr[0] "Безпровідна мережа"
 msgstr[1] "Безпровідна мережа"
 
+<<<<<<< HEAD
 #, fuzzy, python-format
 msgid "%d.%02d. %02d:%02d"
 msgstr "%2d:%02d:%02d"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "%d.%B %Y"
 msgstr "%d.%B %Y"
@@ -378,10 +406,13 @@ msgid "%s/%s: %s"
 msgstr ""
 
 #, python-format
+<<<<<<< HEAD
 msgid "%s:%s"
 msgstr ""
 
 #, python-format
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "'%s' contains %d file(s) and %d sub-directories.\n"
 msgstr ""
 
@@ -410,11 +441,14 @@ msgstr ""
 msgid "* Only available if more than one interface is active."
 msgstr "* Доступні тільки якщо більше ніж один інтерфейс активний."
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "* current animation"
 msgstr "Активувати поточну конфігурацію"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "/s"
 msgstr ""
 
@@ -495,6 +529,7 @@ msgstr ""
 msgid "1st Infobar timeout"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "2160p 24Hz"
 msgstr ""
 
@@ -510,6 +545,8 @@ msgstr ""
 msgid "2160p 60Hz"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "23.976"
 msgstr ""
 
@@ -536,16 +573,23 @@ msgstr ""
 msgid "3D Surround"
 msgstr "Звук"
 
+<<<<<<< HEAD
 msgid "3D Surround Speaker Position"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "3D setup"
 msgstr ""
 
 msgid "3X"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "480p 24Hz"
+=======
+msgid "3d mode"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -569,12 +613,15 @@ msgstr ""
 msgid "720p 24Hz"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "< Default >"
 msgstr ""
 
 msgid "< Default with Picon >"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "<Current movielist location>"
 msgstr ""
@@ -599,6 +646,7 @@ msgstr "??"
 msgid "A"
 msgstr "A"
 
+<<<<<<< HEAD
 msgid ""
 "A background update check is in progress,\n"
 "please wait a few minutes and try again."
@@ -607,6 +655,8 @@ msgstr ""
 msgid "A background update check is in progress, please wait a few minutes and then try again."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "A background update check is in progress, please wait a few minutes and try again."
 msgstr ""
 
@@ -695,17 +745,36 @@ msgid ""
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid ""
 "A recording is currently in progress.\n"
+=======
+msgid ""
+"A recording is currently running.\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "What do you want to do?"
 msgstr ""
 "В даний час йде запис.\n"
 "Що хочете зробити?"
 
+<<<<<<< HEAD
 msgid "A recording is currently running. Please stop the recording before trying to scan."
 msgstr ""
 
+=======
+#
+msgid "A recording is currently running. Please stop the recording before trying to configure the positioner."
+msgstr "В даний час йде запис. Зупиніть запис перед налаштуванням позиціонера."
+
+msgid "A recording is currently running. Please stop the recording before trying to scan."
+msgstr ""
+
+#
+msgid "A recording is currently running. Please stop the recording before trying to start the satfinder."
+msgstr "В даний час йде запис. Зупиніть запис перед стартом satfinder'а."
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "A repeating timer or just once?"
 msgstr ""
 
@@ -729,7 +798,11 @@ msgstr ""
 #, fuzzy, python-format
 msgid ""
 "A sleep timer wants to set your\n"
+<<<<<<< HEAD
 "%s %s to standby. Proceed?"
+=======
+"%s %s to standby. Do that now?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 "Таймер переведе ваш %s %s\n"
 "в режим очікування. Зробити це?"
@@ -738,7 +811,11 @@ msgstr ""
 #, fuzzy, python-format
 msgid ""
 "A sleep timer wants to shut down\n"
+<<<<<<< HEAD
 "your %s %s. Proceed?"
+=======
+"your %s %s. Shutdown now?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 "Таймер зараз вимкне\n"
 "ваш %s %s. Зробити це?"
@@ -755,6 +832,7 @@ msgstr ""
 "Таймер не в змозі виконати запис!\n"
 "Вибрати іншу TV-програму і спробувати знову?\n"
 
+<<<<<<< HEAD
 msgid "AAC downmix"
 msgstr ""
 
@@ -764,6 +842,22 @@ msgstr ""
 msgid "AC3"
 msgstr ""
 
+=======
+msgid "A/V settings"
+msgstr ""
+
+#
+msgid "AA"
+msgstr "AA"
+
+msgid "AAC downmix"
+msgstr ""
+
+#
+msgid "AB"
+msgstr "AB"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "ACQUIRING TSID/ONID"
 msgstr ""
 
@@ -778,15 +872,19 @@ msgid "AV aspect is %s."
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "AV settings"
 msgstr "редагування налаштувань"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Abort"
 msgstr "Скасувати"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Abort alternatives edit"
 msgstr "відмінити редагування вибраного"
@@ -802,6 +900,8 @@ msgid "Abort favourites edit"
 msgstr "відмінити редагування фаворитів"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "About"
 msgstr "Інформація"
 
@@ -813,17 +913,36 @@ msgstr "Інформація ресівера..."
 msgid "Accesspoint:"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Activate"
 msgstr ""
 
 msgid "Activate HbbTV (RedButton)"
+=======
+msgid "Action on long power button press"
+msgstr ""
+
+msgid "Action on short power button press"
+msgstr ""
+
+msgid "Activate"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Activate MAC address configuration"
 msgstr "Активувати поточну конфігурацію"
 
+=======
+msgid "Activate MAC-address configuration"
+msgstr "Активувати поточну конфігурацію"
+
+msgid "Activate PiP"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Activate Picture in Picture"
 msgstr "Ввімкнути PiP"
@@ -834,23 +953,29 @@ msgid "Activate current configuration"
 msgstr "Активувати поточну конфігурацію"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Activate network adapter configuration"
 msgstr "вийти з конфігурації мережевого адаптера"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Activate network settings"
 msgstr "Активувати налаштування мережі"
 
 msgid "Activate the configured network settings."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Activate timeshift end"
 msgstr ""
 
 msgid "Activate timeshift end and pause"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Active"
 msgstr ""
 
@@ -905,16 +1030,20 @@ msgstr "перемістити донизу до наступного запис
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Add alternatives"
 msgstr "додати вибране"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Add bookmark"
 msgstr "додати закладку"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Add bouquet"
 msgstr "додати пакет"
 
@@ -925,6 +1054,8 @@ msgstr "додати в батьківський контроль"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Add directory to playlist"
 msgstr "додати папку до плейлиста"
 
@@ -940,11 +1071,14 @@ msgstr "додати файли до плейлиста"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Add marker"
 msgstr "додати закладку"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Add provider"
 msgstr "дод. Провайдера"
 
@@ -966,6 +1100,7 @@ msgid "Add service"
 msgstr "дод. Канал"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Add service to bouquet"
 msgstr "додати канал до фаворитів"
@@ -976,6 +1111,8 @@ msgid "Add service to favourites"
 msgstr "додати канал до фаворитів"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Add timer"
 msgstr "Таймер"
 
@@ -991,11 +1128,14 @@ msgstr "Додати до списку"
 msgid "Add to favourites"
 msgstr "Додати до фаворитів"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Add to parental protection"
 msgstr "додати в батьківський контроль"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Add/Remove timer for current event"
 msgstr ""
 
@@ -1008,17 +1148,26 @@ msgstr ""
 msgid "Address"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Adjust 3D settings"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Adjust the color settings so that all the color shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other test screens."
 msgstr "Налаштуйте параметри кольору так щоб всі відтінки були відображені, але щоб залишались насиченими, настільки наскільки це можливо.Якщо результат вас задовільняє, натисніть ОК, щоб вийти з налаштувань, або на цифрові кнопки від 1 до 6, щоб вибрати інший тестовий екран."
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Advanced"
 msgstr "розширений"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Advanced options"
 msgstr "Додаткові Опції"
 
@@ -1039,6 +1188,12 @@ msgstr "Відновлення за датою"
 msgid "Advanced video enhancement setup"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Advanced video setup"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "After event"
 msgstr "Після виконання"
@@ -1059,6 +1214,7 @@ msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "All frequency"
 msgstr "Частота"
 
@@ -1077,6 +1233,12 @@ msgid "All satellites 3 (USALS)"
 msgstr ""
 
 msgid "All satellites 4 (USALS)"
+=======
+msgid "All resolutions"
+msgstr "Роздільча здатність"
+
+msgid "All satellites"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Allocate"
@@ -1094,6 +1256,12 @@ msgstr ""
 msgid "Allow unstable (experimental) updates"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Allows more detailed information to be in the crash log"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Allows the %s %s to read the stored EPG data regularly."
 msgstr ""
 
@@ -1103,7 +1271,11 @@ msgstr ""
 msgid "Allows you to adjust the amount of time the resolution infomation display on screen."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Allows you to enable the debug logs. They contain very detailed information about everything the system does. Reboot required to enable this!"
+=======
+msgid "Allows you to enable the debug logs. They contain very detailed information about everything the system does."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Allows you to enable/disable displaying icons on the front panel."
@@ -1139,11 +1311,14 @@ msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Also on standby"
 msgstr "перейти в режим очікування"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Alternative"
 msgstr "додати вибране"
 
@@ -1178,6 +1353,7 @@ msgstr ""
 msgid "An unknown error occurred!"
 msgstr "Виникла невідома помилка!"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Animation Setup"
@@ -1191,6 +1367,8 @@ msgstr ""
 msgid "Animations"
 msgstr "Інформація"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Any activity"
 msgstr ""
 
@@ -1198,6 +1376,7 @@ msgstr ""
 msgid "Arabic"
 msgstr "Арабський"
 
+<<<<<<< HEAD
 #, python-format
 msgid "Are you ready to install \"%s\" ?"
 msgstr ""
@@ -1207,6 +1386,8 @@ msgstr ""
 msgid "Are you ready to remove \"%s\" ?"
 msgstr "Ви дійсно хочете видалити %s?"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Are you sure to remove this entry?"
@@ -1225,6 +1406,7 @@ msgid ""
 "the following backup:\n"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Are you sure you want to delete all the selected logs:\n"
@@ -1234,6 +1416,10 @@ msgstr "Ви дійсно хочете видалити %s?"
 #, fuzzy
 msgid "Are you sure you want to delete the EPG data from:\n"
 msgstr "Ви дійсно хочете видалити %s?"
+=======
+msgid "Are you sure you want to delete all selected logs:\n"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Are you sure you want to delete this log:\n"
 msgstr ""
@@ -1249,15 +1435,19 @@ msgstr "Ви дійсно хочете видалити %s?"
 msgid "Are you sure you want to exit this wizard?"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Are you sure you want to purge all deleted user bouquets?"
 msgstr "Ви дійсно хочете видалити %s?"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Are you sure you want to reload the EPG data from:\n"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy, python-format
 msgid "Are you sure you want to remove all %d.%d%s%s services?"
 msgstr "Ви дійсно хочете видалити %s?"
@@ -1280,6 +1470,8 @@ msgid "Are you sure you want to remove this entry?"
 msgstr "Ви дійсно хочете видалити %s?"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Are you sure you want to restart your network interfaces?\n"
 "\n"
@@ -1322,12 +1514,15 @@ msgstr ""
 msgid "Ask user"
 msgstr "запитувати користувача"
 
+<<<<<<< HEAD
 msgid "Ask user (with default as 'no')"
 msgstr ""
 
 msgid "Ask user (with default as 'yes')"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Aspect ratio"
 msgstr ""
 
@@ -1343,12 +1538,15 @@ msgstr ""
 msgid "Attach a file"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Attention, this is repeated timer!\n"
 msgstr ""
 
 msgid "Audio"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Audio PID"
 msgstr ""
 
@@ -1395,17 +1593,23 @@ msgstr "Авто"
 msgid "Auto Deep Standby"
 msgstr "Вимкнути %s %s"
 
+<<<<<<< HEAD
 msgid "Auto EXIF Orientation rotation/flipping"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Auto Standby"
 msgstr "Режим очікування"
 
+<<<<<<< HEAD
 msgid "Auto Volume Level"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Auto chapter split every ? minutes (0=never)"
 msgstr "Автоматична розбивка на фрагмети в хвилинах (0=ні)"
@@ -1423,19 +1627,25 @@ msgstr ""
 msgid "Auto language selection"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Auto play blu-ray file"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Auto scart switching"
 msgstr "Авто переключення на скарт"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "AutoTimer overview"
 msgstr "Ввід таймера"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Automatic"
 msgstr "Автоматично"
 
@@ -1494,16 +1704,29 @@ msgstr ""
 msgid "B"
 msgstr "B"
 
+<<<<<<< HEAD
 msgid "BER:"
 msgstr ""
+=======
+#
+msgid "BA"
+msgstr "BA"
+
+#
+msgid "BB"
+msgstr "BB"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Back"
 msgstr "Назад"
 
+<<<<<<< HEAD
 msgid "Back/Recall"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Background"
 msgstr "Фон"
@@ -1580,9 +1803,12 @@ msgstr "Дія коли фільм закінчився"
 msgid "Behavior when a movie reaches the end"
 msgstr "Дія коли фільм доходить до кінця"
 
+<<<<<<< HEAD
 msgid "Big PiP"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Bitrate:"
 msgstr ""
@@ -1603,9 +1829,12 @@ msgstr ""
 msgid "Blue"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Blue long"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Bookmarks"
 msgstr "Закладки"
@@ -1629,15 +1858,22 @@ msgstr ""
 msgid "Brightness (Standby)"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid "Buffering %d%%"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Buffers:"
 msgstr ""
 
 #, python-format
+<<<<<<< HEAD
 msgid "Build:\t%s.%s%s (%s)\n"
+=======
+msgid "Build:\t%s"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -1675,6 +1911,7 @@ msgstr ""
 msgid "Button setup"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Button setup for"
 msgstr ""
 
@@ -1684,6 +1921,9 @@ msgid "ButtonSetup"
 msgstr "Налаштування позиціонера"
 
 msgid "By Team ViX"
+=======
+msgid "By Team BH"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Bypass HDMI EDID Check"
@@ -1749,28 +1989,38 @@ msgstr ""
 msgid "CH"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid "CH%s"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "CHANGE BOUQUET"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "CI (Common Interface) Setup"
 msgstr "CI-модуль"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "CI assignment"
 msgstr "Конфігурація CI"
 
 #, python-format
+<<<<<<< HEAD
 msgid "CPU speed:\t%s\n"
 msgstr ""
 
 #, python-format
 msgid "CPU:\t%s\n"
+=======
+msgid "CPU:\t%s"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -1826,6 +2076,7 @@ msgstr ""
 msgid "Cannot find any signal ..., aborting !"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Cannot move to the trash can"
@@ -1835,6 +2086,10 @@ msgstr "Очистити перед пошуком"
 #, fuzzy
 msgid "Capabilities: "
 msgstr "Емність: "
+=======
+msgid "Cannot move to trash can"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Capacity: "
@@ -1855,18 +2110,24 @@ msgstr ""
 msgid "Cardserial"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Cascade PiP"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Center DVB subtitles"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Change PIN"
 msgstr "Змінити PIN-код"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Change bouquets in quickzap"
 msgstr "Автоматична зміна списку каналів"
 
@@ -1876,21 +2137,43 @@ msgid "Change next timer"
 msgstr "Змінити PIN-код"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Change recording (add time)"
 msgstr "Будь ласка змініть час закінчення запису"
+=======
+msgid "Change pin code"
+msgstr "Змінити PIN-код"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Change recording (duration)"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Change recording (end time)"
 msgstr "Будь ласка змініть час закінчення запису"
+=======
+msgid "Change recording (endtime)"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Change repeat and delay settings?"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Change service PIN"
+msgstr ""
+
+msgid "Change service PINs"
+msgstr ""
+
+msgid "Change setup PIN"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Change step size"
 msgstr ""
@@ -1905,10 +2188,22 @@ msgstr "Змінити PIN-код"
 msgid "Change to bouquet"
 msgstr "Додати до списку"
 
+<<<<<<< HEAD
+=======
+msgid "Changelog"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Channel"
 msgstr "Канал"
 
+<<<<<<< HEAD
+=======
+msgid "Channel +/- button mode"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Channel 1 at start"
 msgstr ""
 
@@ -1918,6 +2213,7 @@ msgstr ""
 msgid "Channel List"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Channel down"
@@ -1928,6 +2224,8 @@ msgstr "Канал"
 msgid "Channel info"
 msgstr "Канал"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Channel list context menu"
 msgstr ""
 
@@ -1964,11 +2262,14 @@ msgid "Channel selection settings"
 msgstr "Налаштування проекту"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Channel up"
 msgstr "Канал"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Channel:"
 msgstr "Канал:"
 
@@ -2002,6 +2303,12 @@ msgstr ""
 msgid "Check the internet connection again"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Checking Feeds"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Checking Logs..."
 msgstr ""
 
@@ -2018,7 +2325,11 @@ msgstr ""
 
 #, python-format
 msgid ""
+<<<<<<< HEAD
 "Checking tuner %s\n"
+=======
+"Checking tuner %d\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "DiSEqC port %s for %s"
 msgstr ""
 
@@ -2026,7 +2337,11 @@ msgid "Children/Youth"
 msgstr ""
 
 #, python-format
+<<<<<<< HEAD
 msgid "Chipset:\tBCM%s\n"
+=======
+msgid "Chipset:\tBCM%s"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -2042,7 +2357,11 @@ msgstr ""
 msgid "Choose between Daily, Weekly, Weekdays or user defined."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Choose the location for crash and debug logs folder."
+=======
+msgid "Choose the location for crash and debug logs."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Choose the location where the EPG data will be stored when the %s %s is shut down. The location must be available at boot time."
@@ -2057,6 +2376,7 @@ msgstr ""
 msgid "Choose what you want the '0' button to do when PIP is active."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Choose whether AAC sound tracks should be transcoded."
 msgstr ""
 
@@ -2066,6 +2386,11 @@ msgstr ""
 msgid "Choose whether multi channel sound tracks should be output as PCM."
 msgstr ""
 
+=======
+msgid "Choose whether multi channel sound tracks should be downmixed to stereo."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Choose whether or not to show an icon when a motorised dish is moving."
 msgstr ""
 
@@ -2079,11 +2404,14 @@ msgid "Chose between record and ZAP."
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Circular LNB"
 msgstr "Кругова ліва"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Circular left"
 msgstr "Кругова ліва"
 
@@ -2127,9 +2455,12 @@ msgstr "очистити плейлист"
 msgid "Clients"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Clone TV screen to LCD"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Close"
 msgstr "закрити"
@@ -2196,6 +2527,13 @@ msgid "Command type"
 msgstr "Послідовність команд"
 
 #
+<<<<<<< HEAD
+=======
+msgid "Committed DiSEqC command"
+msgstr "Команда переключення DiSEqC"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Common Interface"
 msgstr "CI-модуль"
 
@@ -2253,6 +2591,7 @@ msgstr ""
 msgid "Configure how recording filenames are constructed."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Configure if and how crypto icons will be shown in the channel selection list."
 msgstr ""
 
@@ -2274,6 +2613,14 @@ msgstr ""
 msgid "Configure if the subtitle should switch between normal, italic, bold and bolditalic"
 msgstr ""
 
+=======
+msgid "Configure if and how service type icons will be shown."
+msgstr ""
+
+msgid "Configure if picons will be shown in the service list."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Configure interface"
 msgstr ""
@@ -2351,6 +2698,15 @@ msgstr ""
 msgid "Configure the fourth subtitle language."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Configure the function of a long press of the power button."
+msgstr ""
+
+msgid "Configure the function of a short press of the power button."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Configure the function of the <  > buttons."
 msgstr ""
 
@@ -2360,9 +2716,12 @@ msgstr ""
 msgid "Configure the horizontal alignment of the subtitles."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Configure the infobar fading speed"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Configure the initial fast forward speed. When you press the fast forward button, winding will start at this speed."
 msgstr ""
 
@@ -2378,18 +2737,25 @@ msgstr ""
 msgid "Configure the minimum amount of disk space to be available for recordings. When the amount of space drops below this value, deleted items will be removed from the trash can."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Configure the minimum width before showing the 'i' icon, '0' is equal to not showing the icon at all."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Configure the nameserver (DNS)."
 msgstr ""
 
 msgid "Configure the netmask."
 msgstr ""
 
+<<<<<<< HEAD
 msgid ""
 "Configure the number of days after which items are automatically removed from the trash can.\n"
 "A setting of 0 disables this."
+=======
+msgid "Configure the number of days after which items are automatically removed from the trash can."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Configure the number of days old timers are kept before they are automatically removed from the timer list."
@@ -2410,7 +2776,11 @@ msgstr ""
 msgid "Configure the primary EPG language."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Configure the refresh rate of the screen. Multi means refresh rate depends on the source 24/50/60Hz"
+=======
+msgid "Configure the refresh rate of the screen."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Configure the second audio language."
@@ -2440,9 +2810,12 @@ msgstr "Час перемотки кнопками '7'/'9' в сек."
 msgid "Configure the slow motion speeds."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Configure the source of the frontend data as shown on the infobars. 'Settings' is as stored on the settings. 'Tuner' is as reported by the tuner."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Configure the speed of the background deletion process. Lower speed will consume less hard disk drive performance."
 msgstr ""
 
@@ -2479,6 +2852,7 @@ msgstr ""
 msgid "Configure whether (and for how long) a second infobar will be shown when OK is pressed twice. The second infobar contains additional information about the current channel."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Configure whether or not an rotor position will be displayed on infobar"
 msgstr ""
 
@@ -2488,6 +2862,11 @@ msgstr ""
 msgid "Configure which tuner for recordings will be preferred, when more than one tuner is available."
 msgstr ""
 
+=======
+msgid "Configure which color format should be used on the SCART output."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Configure which tuner type will be preferred, when the same service is available on different types of tuners."
 msgstr ""
 
@@ -2536,6 +2915,7 @@ msgid "Connected clients"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Connected satellites"
 msgstr "видалити вибраний супутник"
@@ -2544,6 +2924,15 @@ msgstr "видалити вибраний супутник"
 msgid "Connected to"
 msgstr "Під'єднано до"
 
+=======
+msgid "Connected to"
+msgstr "Під'єднано до"
+
+#
+msgid "Connected!"
+msgstr "Під'єднано!"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Connected: "
 msgstr ""
 
@@ -2559,11 +2948,14 @@ msgid "Content does not fit on DVD!"
 msgstr "Інформація не поміститься на DVD!!"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Context"
 msgstr "Продовжити"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Continue"
 msgstr "Продовжити"
 
@@ -2607,6 +2999,7 @@ msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Copy to bouquets"
 msgstr "копіювати до пакетів"
 
@@ -2619,6 +3012,19 @@ msgstr "Перевірка файлової системи..."
 #, fuzzy, python-format
 msgid "Cores:\t%s\n"
 msgstr "Модель: "
+=======
+msgid "Copying files"
+msgstr "Перевірка файлової системи..."
+
+#, python-format
+msgid "Cores:\t%s"
+msgstr ""
+
+#
+#, fuzzy, python-format
+msgid "Could not connect to %s %s .NFI image feed server:"
+msgstr "Підключення з сервером %s %s .NFI Image не вдалось:"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Could not find installed channel list."
 msgstr ""
@@ -2636,6 +3042,7 @@ msgstr ""
 msgid "Could not open the file %s!"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy, python-format
 msgid "Could not record due to a conflicting timer %s"
@@ -2643,6 +3050,14 @@ msgstr "Час запису обмежено через конфлікт тай�
 
 #, python-format
 msgid "Could not record due to an invalid service %s"
+=======
+#, python-format
+msgid "Could not record due to conflicting timer %s"
+msgstr ""
+
+#, python-format
+msgid "Could not record due to invalid service %s"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -2661,6 +3076,12 @@ msgstr "Створити образ DVD-ISO"
 msgid "Create directory"
 msgstr "створити директорію"
 
+<<<<<<< HEAD
+=======
+msgid "Create more detailed crash log"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Creating AP and SC Files"
 msgstr ""
 
@@ -2703,6 +3124,7 @@ msgid "Current device: "
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy, python-format
 msgid "Current mode: %s \n"
 msgstr "Конфігурування"
@@ -2713,6 +3135,8 @@ msgid "Current rotor position: "
 msgstr "Актуальна версія:"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Current settings:"
 msgstr "Поточні налаштування:"
 
@@ -2732,6 +3156,12 @@ msgstr ""
 msgid "Current version:"
 msgstr "Актуальна версія:"
 
+<<<<<<< HEAD
+=======
+msgid "Currently installed image"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Custom"
@@ -2787,9 +3217,12 @@ msgstr ""
 msgid "DMM normal"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "DTS"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "DUAL LAYER DVD"
 msgstr ""
@@ -2852,11 +3285,14 @@ msgstr "Данська"
 msgid "Date"
 msgstr "Дата"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "De-select"
 msgstr "Зняти відм."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Debug Logs"
 msgstr ""
 
@@ -2888,6 +3324,7 @@ msgstr "Стандартні налаштування"
 msgid "Defaults"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Delay after change voltage before switch command"
 msgstr ""
 
@@ -2950,6 +3387,14 @@ msgstr ""
 msgid "Delay in miliseconds before start of scrolling text on display."
 msgstr ""
 
+=======
+msgid "Delay before key repeat starts:"
+msgstr ""
+
+msgid "Delay for external subtitles"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Delay time"
@@ -2970,11 +3415,14 @@ msgid "Delete Confirmation"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Delete EPG"
 msgstr "Видалити"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Delete entry"
 msgstr "видалити з плейлиста"
 
@@ -3002,6 +3450,14 @@ msgstr "видалити збережений плейлист"
 msgid "Delete timer"
 msgstr "видалити файл"
 
+<<<<<<< HEAD
+=======
+#
+#, fuzzy
+msgid "Delete..."
+msgstr "видалити..."
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Deleted"
 msgstr ""
 
@@ -3023,10 +3479,14 @@ msgstr ""
 msgid "Descramble & record ECM' gives the option to descramble afterwards if descrambling on recording failed. 'Don't descramble, record ECM' save a scramble recording that can be descrambled on playback. 'Normal' means descramble the recording and don't record ECM."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Descramble receiving http streams"
 msgstr ""
 
 msgid "Descramble sending http streams"
+=======
+msgid "Descramble http streams"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -3040,6 +3500,7 @@ msgstr "Зняти відм."
 msgid "Details for plugin: "
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Detected devices:"
@@ -3050,6 +3511,18 @@ msgstr "Виявлено тюнери:"
 msgid "Detected tuners:"
 msgstr "Виявлено тюнери:"
 
+=======
+msgid "Detected Devices:"
+msgstr ""
+
+#
+msgid "Detected NIMs:"
+msgstr "Виявлено тюнери:"
+
+msgid "Device Information"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Device mounts"
 msgstr ""
 
@@ -3067,6 +3540,7 @@ msgid "DiSEqC"
 msgstr "DiSEqC"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "DiSEqC 1.0 command"
 msgstr "Команда переключення DiSEqC"
@@ -3082,6 +3556,8 @@ msgid "DiSEqC 1.1 repeats"
 msgstr "DiSEqC повторювання"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "DiSEqC A/B"
 msgstr "DiSEqC A/B"
 
@@ -3098,14 +3574,26 @@ msgid "DiSEqC port %s: %s"
 msgstr ""
 
 #
+<<<<<<< HEAD
+=======
+msgid "DiSEqC repeats"
+msgstr "DiSEqC повторювання"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "DiSEqC-tester settings"
 msgstr "Тест налаштувань DiSEqC"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Diction"
 msgstr "Опис"
+=======
+msgid "Dialing:"
+msgstr "Набір:"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Digital contour removal"
@@ -3135,11 +3623,14 @@ msgid "Disable"
 msgstr "Вимкнуто"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Disable Animations"
 msgstr "видалити файл"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Disable Picture in Picture"
 msgstr "Вимкнути PiP"
 
@@ -3148,11 +3639,14 @@ msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Disable move mode"
 msgstr "вимкнути режим переміщення"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Disable timer"
 msgstr "видалити файл"
 
@@ -3160,9 +3654,22 @@ msgstr "видалити файл"
 msgid "Disabled"
 msgstr "Вимкнуто"
 
+<<<<<<< HEAD
 msgid "Disk space to reserve for recordings (in GB)"
 msgstr ""
 
+=======
+#
+msgid "Disconnect"
+msgstr "Від'єнати"
+
+msgid "Disk space to reserve for recordings (in GB)"
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Display 16:9 content as"
 msgstr "Показувати 16:9 як"
@@ -3197,11 +3704,14 @@ msgid "Do not record"
 msgstr "запис"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Do nothing"
 msgstr "не робити нічого"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Do you really want to check the filesystem?\n"
 "This could take a long time!"
@@ -3241,6 +3751,7 @@ msgid "Do you really want to exit?"
 msgstr "Ви дійсно хочете вийти?"
 
 msgid ""
+<<<<<<< HEAD
 "Do you really want to initialize this device?\n"
 "All the data on the device will be lost!"
 msgstr ""
@@ -3259,6 +3770,18 @@ msgstr "Ви дійсно хочете видалити директорію  %s
 #, fuzzy
 msgid "Do you really want to permanently remove from the trash can ?"
 msgstr "Ви дійсно бажаєте ВИДАЛИТИ додаток \"%s\"?"
+=======
+"Do you really want to initialize the device?\n"
+"All data on the disk will be lost!"
+msgstr ""
+
+#, python-format
+msgid "Do you really want to permamently remove '%s' from trash can ?"
+msgstr ""
+
+msgid "Do you really want to permanently remove from trash can ?"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 #, python-format
@@ -3284,6 +3807,14 @@ msgid "Do you want to add any additional information ?"
 msgstr ""
 
 msgid ""
+<<<<<<< HEAD
+=======
+"Do you want to also install samba client ?\n"
+"This allows you to mount your windows shares on this device."
+msgstr ""
+
+msgid ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "Do you want to attach a text file to explain the log ?\n"
 "(choose 'No' to type message using virtual keyboard.)"
 msgstr ""
@@ -3292,6 +3823,7 @@ msgstr ""
 msgid "Do you want to burn this collection to DVD medium?"
 msgstr "Ви хочете записати цей проект на DVD диск?"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Do you want to continue?"
@@ -3299,6 +3831,10 @@ msgstr "Що хочете сканувати?"
 
 msgid ""
 "Do you want to delete all the selected files:\n"
+=======
+msgid ""
+"Do you want to delete all selected files:\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "(choose 'No' to only delete the currently selected file.)"
 msgstr ""
 
@@ -3310,15 +3846,25 @@ msgstr "Хочете виконати пошук каналів?"
 msgid "Do you want to do another manual service scan?"
 msgstr "Хочете виконати ще один ручний пошук каналів?"
 
+<<<<<<< HEAD
+=======
+#, python-format
+msgid "Do you want to download the image to %s ?"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Do you want to install the package:\n"
 msgstr "Бажаєте встановити пакет:\n"
 
+<<<<<<< HEAD
 msgid ""
 "Do you want to install the samba client aswell?\n"
 "This will allow you to mount your windows shares on this device."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Do you want to play DVD in drive?"
 msgstr "Ви хочете відтворити DVD, який є в приводі?"
@@ -3344,12 +3890,20 @@ msgid "Do you want to restore your settings?"
 msgstr "Ви хочете відновити свої налаштування?"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Do you want to resume playback?"
 msgstr "Ви хочете продовжити відтворення?"
 
 msgid ""
 "Do you want to send all the selected files:\n"
+=======
+msgid "Do you want to resume this playback?"
+msgstr "Ви хочете продовжити відтворення?"
+
+msgid ""
+"Do you want to send all selected files:\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "(choose 'No' to only send the currently selected file.)"
 msgstr ""
 
@@ -3362,9 +3916,12 @@ msgstr "Ви хочете відновити свої налаштування?"
 msgid "Do you want to upgrade the package:\n"
 msgstr "Бажаєте оновити пакет:\n"
 
+<<<<<<< HEAD
 msgid "Dobly Digital downmix is now"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Dolby Digital / DTS downmix"
 msgstr ""
 
@@ -3372,6 +3929,7 @@ msgid "Don't save"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Don't stop current event but disable future events"
 msgstr "Не зупиняти поточне завдання, але відмінити слідуючі"
@@ -3389,6 +3947,11 @@ msgstr "видалити файл"
 msgid "Don't zap and remove timer"
 msgstr "запис"
 
+=======
+msgid "Don't stop current event but disable coming events"
+msgstr "Не зупиняти поточне завдання, але відмінити слідуючі"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy, python-format
 msgid "Done - Installed, upgraded or removed %d package (%s)"
@@ -3397,10 +3960,25 @@ msgstr[0] "Виконано - Встановлено, оновлено чи ви
 msgstr[1] "Виконано - Встановлено, оновлено чи видалено %d пакетів з %d помилками"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Down"
 msgstr "Завантажити"
 
+=======
+msgid "Download"
+msgstr "Завантажити"
+
+#, python-format
+msgid "Download %s from server"
+msgstr ""
+
+#
+#, fuzzy
+msgid "Download .NFI-files for USB-flasher"
+msgstr "Завантажити файли .NFI з USB-флеші"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Download plugins"
 msgstr ""
 
@@ -3412,10 +3990,16 @@ msgstr "Завантажується..."
 msgid "Downloading plugin information. Please wait..."
 msgstr "Завантаження інформації про додатки. Зачекайте..."
 
+<<<<<<< HEAD
 #
 #, fuzzy, python-format
 msgid "Drivers:\t%s\n"
 msgstr "Нова версія:"
+=======
+#, python-format
+msgid "Drivers:\t%s"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #, python-format
 msgid "Drivers: %s"
@@ -3480,6 +4064,7 @@ msgstr ""
 msgid "ERROR - failed to scan (%s)!"
 msgstr "ПОМИЛКА - сканування невдале (%s)!"
 
+<<<<<<< HEAD
 msgid "ERROR:   Check is already running in background, please wait a few minutes and try again"
 msgstr ""
 
@@ -3494,6 +4079,8 @@ msgstr ""
 msgid "ERROR: Check is already running in background"
 msgstr "%d завдання виконується у фоні!"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "East"
 msgstr "Схід"
@@ -3513,18 +4100,28 @@ msgid "Edit DNS"
 msgstr "Змінити DNS"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Edit alternatives"
 msgstr "редагувати вибрані канали"
+=======
+msgid "Edit bouquets list"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Edit chapters of current title"
 msgstr "Редагувати фрагменти цього розділу"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Edit new entry"
 msgstr "Ввід таймера"
+=======
+msgid "Edit services list"
+msgstr "Редагувати список каналів"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Edit settings"
@@ -3589,6 +4186,7 @@ msgstr ""
 msgid "Enable ViaSat EPG"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Enable Virgin EPG"
 msgstr ""
 
@@ -3628,6 +4226,12 @@ msgid "Enable move mode"
 msgstr "ввімкнути режим переміщення"
 
 #
+=======
+msgid "Enable debug logs"
+msgstr ""
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Enable multiple bouquets"
 msgstr "Відображати фаворитні списки"
 
@@ -3635,23 +4239,37 @@ msgid "Enable panic button"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Enable parental protection"
 msgstr "додати в батьківський контроль"
+=======
+msgid "Enable parental control"
+msgstr "Ввімкнути батьківський контроль"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Enable teletext caching"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Enable the use of the tuners of a remote enigma2 receiver when no local tuner is available (e.g. when the tuner is occupied or service type is unavailable on the local tuner)."
 msgstr ""
 
 msgid "Enable timer conflict detection"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Enabled"
 msgstr "Ввімкнено"
 
+<<<<<<< HEAD
+=======
+msgid "Enables a feature so that the receiver can decrypt streams (if the ECM data is included in the stream and a valid card is available)."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Encrypted: "
 msgstr ""
@@ -3675,6 +4293,7 @@ msgid "Encryption:"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "End"
 msgstr "Ввімкнено"
@@ -3695,6 +4314,8 @@ msgid "End favourites edit"
 msgstr "кінець редагування фаворитів"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "End time"
 msgstr "Час закінчення"
 
@@ -3702,10 +4323,17 @@ msgstr "Час закінчення"
 msgid "English"
 msgstr "Англійська"
 
+<<<<<<< HEAD
 msgid "Enigma2 Changes"
 msgstr ""
 
 msgid "Enigma2 skin selector"
+=======
+msgid "Enigma2 skin selector"
+msgstr ""
+
+msgid "Enimga2 Changes"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -3729,6 +4357,7 @@ msgstr ""
 msgid "Entitlements"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Epg/Guide"
 msgstr ""
 
@@ -3740,6 +4369,8 @@ msgstr ""
 msgid "Equal to"
 msgstr "так само як"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Error"
 msgstr "Помилка"
@@ -3747,7 +4378,11 @@ msgstr "Помилка"
 msgid "Error code"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Error downloading the change log."
+=======
+msgid "Error downloading change log."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -3785,6 +4420,7 @@ msgstr ""
 msgid "Event font size"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Event name first"
 msgstr ""
 
@@ -3799,6 +4435,11 @@ msgstr "Перегляд DVD-Меню"
 msgid "Everyday"
 msgstr ""
 
+=======
+msgid "Event view"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Everywhere"
 msgstr ""
 
@@ -3829,7 +4470,11 @@ msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Exit MAC address configuration"
+=======
+msgid "Exit MAC-address configuration"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "вийти з конфігурації DNS"
 
 #
@@ -3851,21 +4496,27 @@ msgstr "вийти з медіапрогравача"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Exit mounts setup menu"
 msgstr "вийти з меню конфігурації мережевого адаптера"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Exit movie list"
 msgstr "вийти з списку файлів"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Exit movie player..."
 msgstr "вийти з медіапрогравача"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Exit movie player?"
 msgstr "вийти з медіапрогравача"
 
@@ -3876,6 +4527,7 @@ msgstr "вийти з конфігурації DNS"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Exit network adapter configuration"
 msgstr "вийти з конфігурації мережевого адаптера"
 
@@ -3886,6 +4538,8 @@ msgstr "вийти з меню конфігурації мережевого а�
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Exit network interface list"
 msgstr "вийти з списку мережевих інтерфейсів"
 
@@ -3894,29 +4548,38 @@ msgid "Exit network wizard"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Exit networkadapter setup menu"
 msgstr "вийти з меню конфігурації мережевого адаптера"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Exit the wizard"
 msgstr "Вихід з помічника"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Exit/OK"
 msgstr "Вийти"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Expert"
 msgstr "Експерт"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Extended"
 msgstr "Розширені налаштування..."
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Extended Networksetup Plugin..."
 msgstr "Додаток Розширених параметрів мережі..."
 
@@ -3956,6 +4619,7 @@ msgstr ""
 msgid "External"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "External PiP"
@@ -3963,11 +4627,15 @@ msgstr "Внутрішня Флеш"
 
 #, python-format
 msgid "External Storage %s"
+=======
+msgid "External (CF)"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "External subtitle color"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "External subtitle dialog colorisation"
 msgstr ""
 
@@ -4024,13 +4692,21 @@ msgid ""
 "linked to %s"
 msgstr ""
 
+=======
+msgid "FAILED"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "FEC"
 msgstr "FEC"
 
+<<<<<<< HEAD
 msgid "FEC:"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "FLASH"
 msgstr ""
 
@@ -4044,9 +4720,12 @@ msgstr ""
 msgid "Factory reset"
 msgstr "Заводські налаштування"
 
+<<<<<<< HEAD
 msgid "Fade the infobar when hiding"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Failed"
 msgstr "Невдало"
@@ -4054,12 +4733,15 @@ msgstr "Невдало"
 msgid "Failed to write /tmp/positionersetup.log: "
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Fallback remote receiver URL"
 msgstr ""
 
 msgid "Fallback remote receiver streaming port"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, python-format
 msgid "Fan %d"
@@ -4084,6 +4766,7 @@ msgid "Fast forward speeds"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Fastforward"
 msgstr "перескочити вперед"
@@ -4104,6 +4787,11 @@ msgstr ""
 msgid "Feeds status:   Updating"
 msgstr ""
 
+=======
+msgid "Favourites"
+msgstr "Фаворити"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "File appears to be busy.\n"
 msgstr ""
 
@@ -4127,12 +4815,15 @@ msgstr "Йти на позицію"
 msgid "Final position at index"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Final scroll delay"
 msgstr ""
 
 msgid "Find currently played service"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Fine movement"
@@ -4151,16 +4842,31 @@ msgid "Finished configuring your network"
 msgstr "Конфігурацію вашої мережі завершено"
 
 #
+<<<<<<< HEAD
+=======
+msgid "Finished restarting your network"
+msgstr "Перезавантаження вашої мережі завершено"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Finnish"
 msgstr "Фінська"
 
 msgid "Fixed"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+msgid "Flash"
+msgstr "Запис"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Flashing"
 msgstr ""
 
 #
+<<<<<<< HEAD
 msgid "Following tasks will be done after you press OK!"
 msgstr ""
 
@@ -4176,6 +4882,17 @@ msgstr ""
 #, fuzzy
 msgid "Force ToneBurst"
 msgstr "Тоновий сигнал"
+=======
+msgid "Flashing failed"
+msgstr "Флешування невдале"
+
+#
+msgid "Following tasks will be done after you press OK!"
+msgstr ""
+
+msgid "Fontsize"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 #, fuzzy
@@ -4193,6 +4910,15 @@ msgstr ""
 msgid "Frame size in full view"
 msgstr "Повний розмір кадра"
 
+<<<<<<< HEAD
+=======
+msgid "Free Memory:"
+msgstr ""
+
+msgid "Free Swap:"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Free To Air"
 msgstr ""
 
@@ -4202,9 +4928,12 @@ msgstr ""
 msgid "Free memory:"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Free swap:"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Free:"
 msgstr ""
 
@@ -4232,11 +4961,14 @@ msgid "Frequency steps"
 msgstr "Кроки частоти"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Frequency:"
 msgstr "Частота"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Fri"
 msgstr "П'ятн"
 
@@ -4247,14 +4979,23 @@ msgstr "П'ятниця"
 msgid "From :"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Front Display Panel"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, python-format
 msgid "Frontprocessor version: %d"
 msgstr "Версія фронтпроцесора: %d"
 
+<<<<<<< HEAD
+=======
+msgid "Ftpd service type: Vsftpd server"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Full screen"
 msgstr ""
 
@@ -4263,16 +5004,23 @@ msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Fulview resulution"
+=======
+msgid "Fullview resolution"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Вибір таймера"
 
 msgid "GB"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid "GStreamer:\t%s\n"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid ""
@@ -4304,6 +5052,15 @@ msgstr "Жанр"
 msgid "German"
 msgstr "Німецька"
 
+<<<<<<< HEAD
+=======
+msgid "Get latest experimental image"
+msgstr ""
+
+msgid "Get latest release image"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Getting Event Info failed!"
 msgstr ""
 
@@ -4320,6 +5077,7 @@ msgstr ""
 msgid "Go to first movie or top of list"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Go to next bouquet"
@@ -4353,6 +5111,8 @@ msgstr "перемістити до попереднього запису"
 msgid "Go to specific data/time"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Go up the list"
 msgstr ""
 
@@ -4376,10 +5136,37 @@ msgstr "Йти до 0"
 msgid "Goto index position"
 msgstr "Йти на позицію"
 
+<<<<<<< HEAD
+=======
+msgid "Goto next bouquet"
+msgstr ""
+
+msgid "Goto next channel"
+msgstr ""
+
+msgid "Goto next event"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Goto position"
 msgstr "Йти на позицію"
 
+<<<<<<< HEAD
+=======
+msgid "Goto previous bouquet"
+msgstr ""
+
+msgid "Goto previous channel"
+msgstr ""
+
+msgid "Goto previous event"
+msgstr ""
+
+msgid "Goto specific data/time"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "GotoX calibration"
@@ -4405,6 +5192,7 @@ msgstr ""
 msgid "Greek"
 msgstr "Грецька"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Green"
@@ -4422,6 +5210,11 @@ msgstr ""
 msgid "Grow from left"
 msgstr ""
 
+=======
+msgid "Grey"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Guard interval"
 msgstr ""
 
@@ -4431,12 +5224,15 @@ msgstr ""
 msgid "HD list"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "HD1100/et7x00/et8500"
 msgstr ""
 
 msgid "HD2400"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "HDMI"
 msgstr ""
 
@@ -4446,6 +5242,7 @@ msgstr ""
 msgid "HDMI CEC Setup"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "HDMI Colorspace"
@@ -4454,6 +5251,8 @@ msgstr "Формат кольору"
 msgid "HDMIin"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Handle standby from TV"
 msgstr ""
 
@@ -4470,17 +5269,21 @@ msgstr "Налаштування HDD"
 msgid "Hard disk standby after"
 msgstr "Режим очікування HDD після"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Harddisk setup"
 msgstr "Налаштування HDD"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Hebrew"
 msgstr ""
 
 msgid "Height"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Help"
 msgstr ""
 
@@ -4488,6 +5291,9 @@ msgid "Help long"
 msgstr ""
 
 msgid "Helps setting up your antenna"
+=======
+msgid "Helps setting up your dish"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Hidden network"
@@ -4507,9 +5313,12 @@ msgstr ""
 msgid "Hide known extensions"
 msgstr "додаткове меню..."
 
+<<<<<<< HEAD
 msgid "Hide parental locked services"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Hide player"
@@ -4530,6 +5339,7 @@ msgstr "Ієрархічна Інформація"
 msgid "High bitrate support"
 msgstr "Підтримка високого бітрейту"
 
+<<<<<<< HEAD
 msgid "History back"
 msgstr ""
 
@@ -4541,6 +5351,11 @@ msgstr ""
 msgid "History next"
 msgstr "Запис"
 
+=======
+msgid "History buttons mode"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "History zap..."
 msgstr ""
 
@@ -4582,6 +5397,7 @@ msgid "Hours Mins Secs"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "How many minutes do you want add to the recording?"
 msgstr "Скільки хвилин Ви хочете записати?"
@@ -4589,6 +5405,9 @@ msgstr "Скільки хвилин Ви хочете записати?"
 #
 #, fuzzy
 msgid "How many minutes do you want to record for?"
+=======
+msgid "How many minutes do you want to record?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Скільки хвилин Ви хочете записати?"
 
 #
@@ -4630,7 +5449,11 @@ msgstr ""
 msgid "Idle Time: "
 msgstr ""
 
+<<<<<<< HEAD
 msgid "If enabled the output resolution of the box will try to match the resolution of the video content"
+=======
+msgid "If enabled the output resolution of the box will try to match the resolution of the video contents resolution"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "If enabled the video will always be de-interlaced."
@@ -4682,9 +5505,14 @@ msgid "If the text is too long to be displayed on the front panel, it will be re
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid ""
 "If you can see this, something is wrong with\n"
+=======
+msgid ""
+"If you see this, something is wrong with\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "your scart connection. Press OK to return."
 msgstr ""
 "Якщо Ви бачите це, значить щось неправильно з\n"
@@ -4702,6 +5530,12 @@ msgstr ""
 "Не турбуйтесь про яскраві відтінки зараз. Вони будуть налаштовані в наступному кроці.\n"
 "Якщо Ви задоволені результатом натисніть OK."
 
+<<<<<<< HEAD
+=======
+msgid "Image Information"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Image Manager"
 msgstr ""
 
@@ -4719,6 +5553,12 @@ msgstr "Щоб розпочати запис по таймеру, TV буде з
 msgid "In progress"
 msgstr "Виконується"
 
+<<<<<<< HEAD
+=======
+msgid "Inadyn Log"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Inadyn Setup"
 msgstr ""
 
@@ -4734,7 +5574,11 @@ msgstr ""
 msgid "Include EIT in http streams"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Incorrect service type for PiP!"
+=======
+msgid "Incorrect type service for PiP!"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Increase time scale"
@@ -4751,6 +5595,7 @@ msgstr ""
 msgid "Info"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Info (EPG)"
@@ -4761,15 +5606,20 @@ msgstr "Інфо панель"
 msgid "Info (EPG) Long"
 msgstr "Інфо панель"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Info button (long)"
 msgstr ""
 
 msgid "Info button (short)"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Info icon width"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "InfoBar EPG"
@@ -4783,12 +5633,15 @@ msgstr "Інфо панель"
 msgid "Infobar EPG"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Infobar fade-out speed"
 msgstr ""
 
 msgid "Infobar frontend data source"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "InfobarEPG settings"
@@ -4813,9 +5666,12 @@ msgstr "Неправильне розташування"
 msgid "Initial rewind speed"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Initial scroll delay"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Initial signal quality"
 msgstr ""
 
@@ -4836,9 +5692,12 @@ msgstr ""
 msgid "Inotify Monitoring"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Inotify monitoring"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Input"
 msgstr "Вхід"
@@ -4865,11 +5724,14 @@ msgid "Install channel list"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Install extensions"
 msgstr "Розширення"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Install extensions."
 msgstr ""
 
@@ -4895,11 +5757,14 @@ msgid "Installation finished."
 msgstr "Встановлення завершено."
 
 #
+<<<<<<< HEAD
 #, fuzzy, python-format
 msgid "Installed:\t%s\n"
 msgstr "Встановити"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Installing"
 msgstr "Встановлення"
 
@@ -4907,6 +5772,7 @@ msgid "Installing Service"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Installing service"
 msgstr "Встановлення"
@@ -4917,6 +5783,8 @@ msgid "Instant record"
 msgstr "миттєвий запис..."
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Instant record location"
 msgstr ""
 
@@ -4957,11 +5825,14 @@ msgstr "Внутрішня Флеш"
 msgid "Internal hdd only"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Internet"
 msgstr "Внутрішня Флеш"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Interval between keys when repeating:"
 msgstr ""
 
@@ -5011,7 +5882,11 @@ msgstr "Хід виконання"
 msgid "Jump back 24 hours"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Jump first press in channel selection"
+=======
+msgid "Jump first press in channel selection*"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Jump forward 24 hours"
@@ -5028,6 +5903,7 @@ msgstr ""
 msgid "Jump to end of list"
 msgstr "перейти до кінця списку"
 
+<<<<<<< HEAD
 msgid "Jump to prime time"
 msgstr ""
 
@@ -5038,6 +5914,16 @@ msgstr ""
 #, fuzzy
 msgid "Jump to the previous marked position"
 msgstr "перейти до попереднього епізоду"
+=======
+msgid "Jump to next marked position"
+msgstr ""
+
+msgid "Jump to previous marked position"
+msgstr ""
+
+msgid "Jump to prime time"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Just change channels"
 msgstr ""
@@ -5064,6 +5950,7 @@ msgstr "KA-SAT (9°E)"
 msgid "Keep service"
 msgstr "дод. Канал"
 
+<<<<<<< HEAD
 msgid "Keeps the movie list open whilst playing audio files."
 msgstr ""
 
@@ -5071,6 +5958,14 @@ msgstr ""
 #, fuzzy, python-format
 msgid "Kernel:\t%s\n"
 msgstr "Нова версія:"
+=======
+msgid "Keeps MovieList open whilst playing audio files."
+msgstr ""
+
+#, python-format
+msgid "Kernel:\t%s"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #, python-format
 msgid "Kernel: %s"
@@ -5099,9 +5994,12 @@ msgstr ""
 msgid "LED Deep Standby"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "LED Display Panel"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "LED Normal"
 msgstr ""
 
@@ -5132,9 +6030,12 @@ msgstr "Мова"
 msgid "Language selection"
 msgstr "Вибір мови"
 
+<<<<<<< HEAD
 msgid "Large"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Last Req."
 msgstr ""
 
@@ -5148,9 +6049,13 @@ msgstr "остання швидкість"
 
 #
 #, fuzzy, python-format
+<<<<<<< HEAD
 msgid ""
 "Last update:\t%s\n"
 "\n"
+=======
+msgid "Last update:\t%s"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Оновлення списку пакетів"
 
 #
@@ -5268,17 +6173,23 @@ msgid_plural "List version %d, found %d channels"
 msgstr[0] ""
 msgstr[1] ""
 
+<<<<<<< HEAD
 msgid "List/Fav/PVR"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Listen to the radio..."
 msgstr "слухати радіо..."
 
+<<<<<<< HEAD
 msgid "Lists reloaded!"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Lithuanian"
 msgstr "Литовська"
@@ -5295,12 +6206,16 @@ msgstr ""
 msgid "Load playlist"
 msgstr "завантажити плейлист"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Load unlinked userbouquets"
 msgstr "Відображати фаворитні списки"
 
 msgid "Load-Save-Delete"
+=======
+msgid "Load/Save"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Local box"
@@ -5320,12 +6235,15 @@ msgstr "Розташування"
 msgid "Lock ratio"
 msgstr "Розташування"
 
+<<<<<<< HEAD
 msgid "Lock:"
 msgstr ""
 
 msgid "Log"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Log Manager"
 msgstr ""
 
@@ -5339,15 +6257,24 @@ msgstr ""
 msgid "Logs"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Logs folder location"
 msgstr "Вибрати місце розташування"
+=======
+msgid "Logs location"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Logs manager"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Logs older than the specified number of days will be deleted."
+=======
+msgid "Logs older than the specified no of days will be deleted."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Logs settings"
@@ -5371,6 +6298,7 @@ msgstr "Утримування кнопки"
 msgid "Longitude"
 msgstr "Довгота"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Loop through to"
@@ -5379,17 +6307,27 @@ msgstr "зв'язаний з"
 msgid "Lower Framerate save CPU Time"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Luxembourgish"
 msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "MAC address"
+=======
+msgid "MAC-address"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "IP адреса"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "MAC address settings"
+=======
+msgid "MAC-address settings"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Налаштування адаптера"
 
 msgid "MAC:"
@@ -5431,11 +6369,14 @@ msgid "Manage your %s %s's software"
 msgstr "Управління ПЗ ресівера"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Manual"
 msgstr "вручну"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Manual Scan"
 msgstr "Ручний пошук"
 
@@ -5463,6 +6404,7 @@ msgstr "Відступ перед записом (в хвил.)"
 msgid "Margin before recording (minutes)"
 msgstr "Відступ перед записом (в хвил.)"
 
+<<<<<<< HEAD
 msgid "Mark service as a dedicated 3D service"
 msgstr ""
 
@@ -5474,6 +6416,8 @@ msgstr ""
 msgid "Max memory positions"
 msgstr "Зберегти позицію"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Max. bitrate: "
 msgstr ""
 
@@ -5486,17 +6430,24 @@ msgstr ""
 msgid "Maxdown: "
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Maximum number of days"
+=======
+msgid "Maximum no of days"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Maximum total space used (MB)"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Maybe the reason that recording is currently running. Please stop the recording before trying to configure the positioner."
 msgstr "В даний час йде запис. Зупиніть запис перед налаштуванням позиціонера."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Media playback Remaining/Elapsed as"
 msgstr ""
 
@@ -5520,10 +6471,24 @@ msgstr "Носій не порожній!"
 msgid "Memory"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Memory Information"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Memory index"
 msgstr ""
 
 #
+<<<<<<< HEAD
+=======
+#, fuzzy
+msgid "Memory positions"
+msgstr "Зберегти позицію"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Menu"
 msgstr "Меню"
 
@@ -5533,6 +6498,7 @@ msgstr ""
 msgid "Merging Timeshift files"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "MiniDLNA Setup"
 msgstr ""
 
@@ -5543,6 +6509,15 @@ msgid "MiniTV"
 msgstr ""
 
 msgid "MiniTV with OSD"
+=======
+msgid "MiniDLNA Log"
+msgstr ""
+
+msgid "MiniDLNA Setup"
+msgstr ""
+
+msgid "MiniDLNA setup"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -5558,12 +6533,15 @@ msgstr ""
 msgid "Mins Secs"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid ""
 "Misconfigured unicable connection from tuner %s to tuner %s!\n"
 "Tuner %s option \"connected to\" are disabled now"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Missing "
 msgstr ""
 
@@ -5585,11 +6563,14 @@ msgid "Model: "
 msgstr "Модель: "
 
 #
+<<<<<<< HEAD
 #, fuzzy, python-format
 msgid "Model: %s %s\n"
 msgstr "Модель: "
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Modulation"
 msgstr "Модуляція"
 
@@ -5618,6 +6599,7 @@ msgstr "місяць"
 msgid "Mosquito noise reduction"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Motor command retries"
 msgstr ""
 
@@ -5626,6 +6608,8 @@ msgstr ""
 msgid "Motor running timeout"
 msgstr "Швидкість обертання ротора"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Mount"
 msgstr ""
 
@@ -5641,9 +6625,12 @@ msgstr ""
 msgid "Move Left/Right"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Move PIP"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Move PiP to main picture"
@@ -5660,6 +6647,7 @@ msgid "Move down a page"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Move down to last entry"
 msgstr "перемістити донизу до останнього запису"
@@ -5670,12 +6658,20 @@ msgid "Move down to next entry"
 msgstr "перемістити донизу до наступного запису"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Move east"
 msgstr "Перемістити на схід"
 
 msgid "Move to home of list"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Move to other directory"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Move to position X"
@@ -5685,6 +6681,7 @@ msgid "Move up a page"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Move up to first entry"
 msgstr "перемістити вгору до першого запису"
@@ -5695,6 +6692,8 @@ msgid "Move up to previous entry"
 msgstr "перемістити до попереднього запису"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Move west"
 msgstr "Перемістити на захід"
 
@@ -5778,15 +6777,19 @@ msgstr ""
 msgid "Multisat"
 msgstr "Декілька супутників"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Multisat all select"
 msgstr "Вибір субтитрів"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Music/Ballet/Dance"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "N"
 msgstr "Ні"
@@ -5795,6 +6798,18 @@ msgstr "Ні"
 msgid "N/A"
 msgstr "N/A"
 
+=======
+msgid "N/A"
+msgstr "N/A"
+
+msgid "NFI image flashing"
+msgstr ""
+
+#
+msgid "NFI image flashing completed. Press Yellow to Reboot!"
+msgstr "Запис NFI іміджу завершено. Натисніть Жовту для перезавантаження"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "NFS Setup"
 msgstr ""
 
@@ -5804,9 +6819,12 @@ msgstr ""
 msgid "NIM"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "NO"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "NTP"
 msgstr ""
 
@@ -5856,11 +6874,23 @@ msgstr "Мережа"
 msgid "Network ID"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Network Information"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Network MAC settings"
 msgstr "Активувати налаштування мережі"
 
+<<<<<<< HEAD
+=======
+msgid "Network Servers:"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Network Setup"
 msgstr "Налаштування мережі"
@@ -5870,11 +6900,14 @@ msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Network menu"
 msgstr "Налаштування мережі"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Network mounts"
 msgstr "Тест мережевого з'єднання"
 
@@ -5886,11 +6919,14 @@ msgid "Network scan"
 msgstr "Мережевий пошук"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Network servers:"
 msgstr "Тест мережевого з'єднання"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Network setup"
 msgstr "Налаштування мережі"
 
@@ -5914,6 +6950,12 @@ msgstr "Мережа:"
 msgid "New"
 msgstr "Нові"
 
+<<<<<<< HEAD
+=======
+msgid "New PIN"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "New profile: "
 msgstr ""
 
@@ -5927,9 +6969,12 @@ msgstr "Нова версія:"
 msgid "News Current Affairs"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Next"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgctxt "now/next: 'next' event label"
 msgid "Next"
 msgstr ""
@@ -5956,6 +7001,7 @@ msgid "No Timeshift found to save as recording!"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "No active channel found."
 msgstr "%d каналів знайдено!"
@@ -5964,6 +7010,8 @@ msgid "No age block"
 msgstr ""
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "No backup needed"
 msgstr "Резервна копія не потрібна"
 
@@ -5971,12 +7019,16 @@ msgid "No cable tuner found!"
 msgstr ""
 
 msgid "No card inserted!"
+<<<<<<< HEAD
 msgstr ""
 
 #
 #, fuzzy
 msgid "No connection"
 msgstr "під'єднаний"
+=======
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid ""
@@ -5994,6 +7046,13 @@ msgid "No description available."
 msgstr "Опис відсутній"
 
 #
+<<<<<<< HEAD
+=======
+msgid "No details for this image file"
+msgstr "Нема деталей про цей імідж"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "No displayable files on this medium found!"
 msgstr "Потрібних файлів на цьому носії не знайдено!"
 
@@ -6011,11 +7070,14 @@ msgid "No free index available"
 msgstr "Опис відсутній"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "No free tuner available!"
 msgstr "Опис відсутній"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "No free tuner!"
 msgstr "Нема вільного тюнера!"
 
@@ -6046,12 +7108,16 @@ msgstr ""
 msgid "No positioner capable frontend found."
 msgstr "Не знайдено позиціонера."
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "No priority"
 msgstr "Черговість"
 
 msgid "No satellite, terrestrial or cable tuner is configured. Please check your tuner setup."
+=======
+msgid "No satellites configured. Plese check your tuner setup."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -6067,9 +7133,12 @@ msgstr ""
 msgid "No standby"
 msgstr "без режиму очікування"
 
+<<<<<<< HEAD
 msgid "No stream clients"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "No suitable sat tuner found!"
 msgstr ""
 
@@ -6101,6 +7170,32 @@ msgstr ""
 "Нема активного тюнера!\n"
 "Налаштуй параметри свого тюнера перед початком сканування."
 
+<<<<<<< HEAD
+=======
+msgid "No updates available. Please try again later."
+msgstr ""
+
+#
+msgid ""
+"No valid service PIN found!\n"
+"Do you like to change the service PIN now?\n"
+"When you say 'No' here the service protection stay disabled!"
+msgstr ""
+"Не знайдено PIN-код каналу!\n"
+"Хочете змінити PIN-код каналу?\n"
+"Якщо вибрати НІ, то захист каналу буде вимкнуто!"
+
+#
+msgid ""
+"No valid setup PIN found!\n"
+"Do you like to change the setup PIN now?\n"
+"When you say 'No' here the setup protection stay disabled!"
+msgstr ""
+"Не знайдено PIN-код налаштувань!\n"
+"Хочете змінити PIN-код налаштувань?\n"
+"Якщо вибрати НІ, то захист налаштувань буде вимкнуто!!"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "No wireless networks found! Searching..."
 msgstr ""
 
@@ -6129,8 +7224,12 @@ msgstr ""
 "Перевірте чи під'єднано сумісний WI-FI пристрій або ввімкніть ваш локальний мережевий інтерфейс."
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "No, but restart from the beginning"
+=======
+msgid "No, but restart from begin"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Ні, але відтворити фільм з початку"
 
 #
@@ -6166,11 +7265,14 @@ msgstr "Північ"
 msgid "Norwegian"
 msgstr "Норвежська"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Not Defined"
 msgstr "Визначені користувачем"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Not Flashing"
 msgstr ""
 
@@ -6181,11 +7283,14 @@ msgid "Not associated"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Not configured"
 msgstr "підтверджений"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%d MB required, %d MB available)"
 msgstr "Не достатньо вільного місця. Будь ласка звільніть місце на диску і спробуйте знов. (%d MB потрібно, %d MB вільно)"
@@ -6211,6 +7316,7 @@ msgid "Nothing"
 msgstr "не робити нічого"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Nothing connected"
 msgstr "нічого не під'єднано"
@@ -6225,6 +7331,8 @@ msgstr ""
 "Налаштуй параметри свого тюнера перед початком сканування."
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Nothing to scan!\n"
 "Please setup your tuner settings before you start a service scan."
@@ -6253,6 +7361,7 @@ msgstr ""
 msgid "Number of rows"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Number of rows to display"
 msgstr ""
 
@@ -6262,6 +7371,11 @@ msgstr ""
 msgid "OE-A Changes"
 msgstr ""
 
+=======
+msgid "OE Changes"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "OK"
 msgstr "OK"
@@ -6279,9 +7393,12 @@ msgstr "OK, допомогти мені в процесі оновлення"
 msgid "ONID"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "OSD"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "OSD 3D Setup"
 msgstr ""
 
@@ -6311,6 +7428,7 @@ msgstr "Ввімкнено"
 msgid "On end of movie"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "On end of movie (as menu)"
 msgstr ""
 
@@ -6320,6 +7438,11 @@ msgstr ""
 msgid "On your remote, click on the button you want to change"
 msgstr ""
 
+=======
+msgid "On reaching the end of a file during playback, you can choose the box's behavior."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Once per day"
 msgstr ""
 
@@ -6345,6 +7468,7 @@ msgstr ""
 msgid "Only free scan"
 msgstr "Тільки відкриті"
 
+<<<<<<< HEAD
 msgid "Only on startup"
 msgstr ""
 
@@ -6398,6 +7522,29 @@ msgstr "Редагувати список каналів"
 msgid "OpenVPN setup"
 msgstr ""
 
+=======
+msgid "Open satellites list"
+msgstr ""
+
+msgid "Open service list"
+msgstr ""
+
+msgid "Open service list and select next channel"
+msgstr ""
+
+msgid "Open service list and select previous channel"
+msgstr ""
+
+msgid "Open the movie list"
+msgstr ""
+
+msgid "OpenVPN setup"
+msgstr ""
+
+msgid "OpenVpn Log"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "OpenVpn Setup"
 msgstr ""
 
@@ -6432,6 +7579,7 @@ msgstr ""
 msgid "PAL"
 msgstr "PAL"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "PCM Multichannel"
@@ -6443,16 +7591,24 @@ msgstr ""
 msgid "PDC"
 msgstr ""
 
+=======
+msgid "PCR PID"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "PIDs"
 msgstr "Піди"
 
+<<<<<<< HEAD
 msgid "PIP"
 msgstr ""
 
 msgid "PIP with OSD"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "PLP ID"
 msgstr ""
 
@@ -6490,9 +7646,12 @@ msgstr ""
 msgid "Pan&scan"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Panic to"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Parent directory"
@@ -6502,6 +7661,20 @@ msgstr "Початкова директорія"
 msgid "Parental control"
 msgstr "Батьківський контроль"
 
+<<<<<<< HEAD
+=======
+msgid "Parental control editor"
+msgstr ""
+
+#
+msgid "Parental control setup"
+msgstr "Встановлення батьківського контролю"
+
+#
+msgid "Parental control type"
+msgstr "Тип батьківського контролю"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Password"
 msgstr "Пароль"
@@ -6524,11 +7697,14 @@ msgstr "Затримати фільм в кінці"
 msgid "Pause playback"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Pause/Continue playback"
 msgstr "Продовжити перегляд"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Peak load (max queued requests per workerthread)"
 msgstr ""
 
@@ -6570,6 +7746,13 @@ msgstr ""
 msgid "Persian"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+msgid "Phone number"
+msgstr "Телефонний номер"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "PiP"
 msgstr ""
 
@@ -6617,11 +7800,14 @@ msgstr "Відтворити DVD"
 msgid "Play Music..."
 msgstr "Відтворити аудіо"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Play as picture in picture"
 msgstr "Перемістити PiP"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Play audio in background"
 msgstr ""
 
@@ -6648,9 +7834,12 @@ msgstr "слід. закладка або запис плейлиста"
 msgid "Play from previous mark or playlist entry"
 msgstr "попер. закладка або запис плейлиста"
 
+<<<<<<< HEAD
 msgid "Play in main window"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Play music..."
@@ -6672,6 +7861,7 @@ msgstr ""
 msgid "Play recorded movies..."
 msgstr "відтворити записані передачі..."
 
+<<<<<<< HEAD
 msgid ""
 "Playback information missing\n"
 "Playback aborted to avoid crash\n"
@@ -6688,11 +7878,14 @@ msgstr "чорний список"
 msgid "Playpause"
 msgstr "пауза"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Please add titles to the compilation."
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please change the recording end time"
 msgstr "Будь ласка змініть час закінчення запису"
@@ -6701,6 +7894,17 @@ msgstr "Будь ласка змініть час закінчення запи�
 #, fuzzy
 msgid "Please choose CCcam reader"
 msgstr "Будь ласка виберіть..."
+=======
+msgid "Please change recording endtime"
+msgstr "Будь ласка змініть час закінчення запису"
+
+#
+msgid "Please check your network settings!"
+msgstr "Будь ласка перевірте налаштування вашої мережі!"
+
+msgid "Please choose CCcam-Reader"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Please choose an extension..."
@@ -6741,18 +7945,26 @@ msgid "Please enter a new filename"
 msgstr "Введіть нову назву файла"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please enter a new name:"
 msgstr "Введіть нову назву файла"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Please enter filename (empty = use current date)"
 msgstr "Введіть назву файла (пусто = актуальна дата)"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please enter new description:"
 msgstr "Введіть нову назву файла"
+=======
+msgid "Please enter name of the new directory"
+msgstr "Введіть назву нової директорії"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 #, fuzzy
@@ -6763,6 +7975,7 @@ msgstr "Введіть нову назву файла"
 msgid "Please enter the correct pin code"
 msgstr "Введіть правильний PIN-код"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Please enter the name of the new directory"
@@ -6773,6 +7986,8 @@ msgstr "Введіть назву нової директорії"
 msgid "Please enter the new PIN code"
 msgstr "Введіть правильний PIN-код"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Please enter the old PIN code"
 msgstr ""
 
@@ -6785,6 +8000,7 @@ msgid "Please note that the previously selected media could not be accessed and 
 msgstr "Будь ласка зверніть увагу, що до раніше вибраних носіїв не було доступу, і тому замість них використовується директорія за замовчуванням"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please open Picture in Picture first"
 msgstr "Перемістити PiP"
@@ -6798,6 +8014,11 @@ msgstr "Будь ласка натисніть OK для продовження.
 msgid "Please re-enter the new PIN code"
 msgstr "Введіть правильний PIN-код"
 
+=======
+msgid "Please press OK to continue."
+msgstr "Будь ласка натисніть OK для продовження."
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Please select a default EPG type..."
 msgstr ""
 
@@ -6822,6 +8043,12 @@ msgstr "Виберіть підсервіс для запису..."
 msgid "Please select a subservice..."
 msgstr "Виберіть підсервіс..."
 
+<<<<<<< HEAD
+=======
+msgid "Please select an NFI file and press green key to flash!"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Please select medium to be scanned"
@@ -6832,6 +8059,13 @@ msgid "Please select medium to use as backup location"
 msgstr "Будь-ласка, виберіть носій для розташування копії"
 
 #
+<<<<<<< HEAD
+=======
+msgid "Please select tag to filter..."
+msgstr "Будь-ласка, виберіть тег для фільтрації..."
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Please select the movie path..."
 msgstr "Виберіть шлях до фільму..."
 
@@ -6843,11 +8077,14 @@ msgid ""
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please select the tag to filter..."
 msgstr "Будь-ласка, виберіть тег для фільтрації..."
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Please select the wireless network that you want to connect to.\n"
 "\n"
@@ -6869,6 +8106,7 @@ msgstr "Налаштуйте тюнер C"
 msgid "Please set up tuner D"
 msgstr "Налаштуйте тюнер D"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Please set up tuner E"
@@ -6904,12 +8142,15 @@ msgstr "Налаштуйте тюнер B"
 msgid "Please set up tuner K"
 msgstr "Налаштуйте тюнер B"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Please setup your user interface by adjusting the values till the edges of the blue box are touching the edges of your TV.\n"
 "When you are ready press OK to continue."
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please use the UP/DOWN keys to select your language. Then press the OK button to select it."
 msgstr "Використовуйте кнопки ВВЕРХ і ВНИЗ, щоб вибрати Вашу мову. Після вибору натисніть OK."
@@ -6918,6 +8159,10 @@ msgstr "Використовуйте кнопки ВВЕРХ і ВНИЗ, щоб
 #, fuzzy
 msgid ""
 "Please use the direction keys to move the PiP window.\n"
+=======
+msgid ""
+"Please use direction keys to move the PiP window.\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "Press Bouquet +/- to resize the window.\n"
 "Press OK to go back to the TV mode or EXIT to cancel the moving."
 msgstr ""
@@ -6925,6 +8170,13 @@ msgstr ""
 "Натисніть +/-, для зміни розміру вікна.\n"
 "Натисніть OK, щоб повернутись в режим TV, або EXIT для відміни."
 
+<<<<<<< HEAD
+=======
+#
+msgid "Please use the UP and DOWN keys to select your language. Afterwards press the OK button."
+msgstr "Використовуйте кнопки ВВЕРХ і ВНИЗ, щоб вибрати Вашу мову. Після вибору натисніть OK."
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Please wait (downloading channel list)"
 msgstr ""
 
@@ -6932,6 +8184,7 @@ msgid "Please wait (updating packages)"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please wait while gathering EPG data..."
 msgstr "Будь-ласка почекайте поки перезавантажується мережа..."
@@ -6940,6 +8193,15 @@ msgstr "Будь-ласка почекайте поки перезавантаж
 #, fuzzy
 msgid "Please wait while scanning for devices..."
 msgstr "Будь-ласка почекайте виконується сканування..."
+=======
+msgid "Please wait for activation of your network configuration..."
+msgstr "Будь-ласка почекайте на активацію налаштувань мережі..."
+
+#
+#, fuzzy
+msgid "Please wait while gathering data..."
+msgstr "Будь-ласка почекайте поки перезавантажується мережа..."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Please wait while scanning is in progress..."
@@ -6958,10 +8220,19 @@ msgid "Please wait while we test your network..."
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Please wait while your network configuration is activated..."
 msgstr "Будь-ласка почекайте поки перезавантажується мережа..."
 
+=======
+msgid "Please wait while your network is restarting..."
+msgstr "Будь-ласка почекайте поки перезавантажується мережа..."
+
+msgid "Please wait whilst feeds state is checked."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Please wait..."
 msgstr "Будь-ласка почекайте..."
@@ -6973,11 +8244,14 @@ msgstr "Прохання зачекати... Завантаження списк
 msgid "Plugin Browser"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Plugin browser"
 msgstr "Додатки"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Plugin details"
 msgstr ""
 
@@ -6999,11 +8273,14 @@ msgid "Polarisation"
 msgstr "Поляризація"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Polarisation:"
 msgstr "Поляризація"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Polarization"
 msgstr "Поляризація"
 
@@ -7011,9 +8288,12 @@ msgstr "Поляризація"
 msgid "Polish"
 msgstr "Польська"
 
+<<<<<<< HEAD
 msgid "Popup"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Port"
 msgstr ""
 
@@ -7061,15 +8341,19 @@ msgid "Positioner"
 msgstr "Позиціонер"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Positioner (selecting satellites)"
 msgstr "видалити вибраний супутник"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Positioner setup"
 msgstr "Налаштування позиціонера"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Positioner setup log"
 msgstr "Налаштування позиціонера"
@@ -7086,6 +8370,8 @@ msgid "Power long"
 msgstr "Лог таймера"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Power threshold in mA"
 msgstr "Поріг потужності в  mA"
 
@@ -7094,16 +8380,27 @@ msgstr "Поріг потужності в  mA"
 msgid "PowerManager entry"
 msgstr "видалити DNS запис"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "PowerMenu"
 msgstr "Меню"
+=======
+msgid "PowerManager log"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 #, fuzzy
 msgid "PowerTimer List"
 msgstr "Редагування Таймера"
 
+<<<<<<< HEAD
+=======
+msgid "PowerTimer Overview"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "PowerTimers"
 msgstr ""
 
@@ -7119,6 +8416,7 @@ msgstr "Наперед визначений транспондер"
 msgid "Prefer AC3 track"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Prefer AC3+ track"
 msgstr ""
 
@@ -7156,13 +8454,35 @@ msgid "Preferred tuner DVB-T for recordings"
 msgstr ""
 
 msgid "Preferred tuner for recordings"
+=======
+msgid "Prefer audio track stored by service"
+msgstr ""
+
+msgid "Prefer graphical DVB subtitles"
+msgstr ""
+
+msgid "Prefer subtitles for hearing impaired"
+msgstr ""
+
+msgid "Prefer subtitles stored by service"
+msgstr ""
+
+msgid "Preferred tuner"
+msgstr ""
+
+msgid "Prepare another USB stick for image flashing"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
 msgid "Preparing... Please wait"
 msgstr "Йде приготування... Зачекайте будь ласка"
 
+<<<<<<< HEAD
 msgid "Press '0' to toggle PiP mode"
+=======
+msgid "Press '0' to toggle internal/external PiP."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Press INFO on your remote control for additional information."
@@ -7202,17 +8522,24 @@ msgid "Press OK to select a provider."
 msgstr "Натисніть ОК для пошуку"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Press OK to select satellites"
 msgstr "Натисніть ОК для пошуку"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Press OK to select/deselect a CAId."
 msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Press OK to set the MAC address."
+=======
+msgid "Press OK to set the MAC-address."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Натисніть ОК для редагування налаштувань"
 
 #
@@ -7220,6 +8547,7 @@ msgid "Press OK to start the scan"
 msgstr "Натисніть ОК щоб почати пошук"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Press OK to toggle the selection"
 msgstr "Натисніть ОК для редагування налаштувань"
@@ -7235,6 +8563,14 @@ msgstr ""
 #, fuzzy
 msgid "Press yellow to set this interface as the default interface."
 msgstr "Встановити інтерфейс як Інтерфейс за замовчуванням"
+=======
+msgid "Press OK to toggle the selection."
+msgstr ""
+
+#
+msgid "Press yellow to set this interface as default interface."
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Preview"
@@ -7245,11 +8581,14 @@ msgid "Preview menu"
 msgstr "Перегляд DVD-Меню"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Previous"
 msgstr "Перегляд DVD-Меню"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Primary DNS"
 msgstr "Первинний DNS"
 
@@ -7287,6 +8626,7 @@ msgid "Properties of current title"
 msgstr "Властивості поточного заголовку"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Protect configuration"
 msgstr "Конфігурація тюнера"
@@ -7323,10 +8663,13 @@ msgid "Protect screens"
 msgstr "Захист каналів"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Protect services"
 msgstr "Захист каналів"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Protect software update screen"
 msgstr "Оновлення пакетів"
@@ -7346,6 +8689,11 @@ msgstr "Перегляд DVD-Меню"
 msgid "Protect vix menu"
 msgstr "Перегляд DVD-Меню"
 
+=======
+msgid "Protect setup"
+msgstr "Налаштування захисту"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Protocol"
 msgstr ""
 
@@ -7376,9 +8724,12 @@ msgstr ""
 msgid "Providers: "
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Purge deleted user bouquets"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Put TV in standby"
 msgstr ""
 
@@ -7390,6 +8741,7 @@ msgstr ""
 msgid "Python frontend for /tmp/mmi.socket"
 msgstr "Python інтерфейс для /tmp/mmi.socket"
 
+<<<<<<< HEAD
 #, python-format
 msgid "Python:\t%s\n"
 msgstr ""
@@ -7399,13 +8751,18 @@ msgstr ""
 msgid "Question"
 msgstr "Роздільча здатність"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Quick"
 msgstr "Швидко"
 
+<<<<<<< HEAD
 msgid "Quick Actions"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Quick zap"
@@ -7425,9 +8782,12 @@ msgstr "RF вихід"
 msgid "RGB"
 msgstr "RGB"
 
+<<<<<<< HEAD
 msgid "Radio"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Random"
 msgstr "Випадково"
@@ -7439,7 +8799,11 @@ msgstr ""
 msgid "Rating undefined"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Read user data from oscam.conf"
+=======
+msgid "Read Userdata from oscam.conf"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Reader"
@@ -7461,8 +8825,12 @@ msgid "Really close without saving settings?"
 msgstr "Вийти без збереження налаштувань?"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Really delete completed timers?"
+=======
+msgid "Really delete done timers?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Видалити виконане завдання?"
 
 #
@@ -7486,10 +8854,13 @@ msgstr "Перезавантажити зараз?"
 msgid "Really shutdown now?"
 msgstr "Вимкнути зараз?"
 
+<<<<<<< HEAD
 #, python-format
 msgid "Really store at index %2d for current position?"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Really upgrade the frontprocessor and reboot now?"
 msgstr ""
 
@@ -7503,6 +8874,7 @@ msgid "Reboot"
 msgstr "Перезавантажити"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Rec"
 msgstr "Запис"
@@ -7513,6 +8885,8 @@ msgid "Reception Settings"
 msgstr "Налаштування проекту"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Record"
 msgstr "Запис"
 
@@ -7538,10 +8912,17 @@ msgstr "Час запису обмежено через конфлікт тай�
 msgid "Recording"
 msgstr "Запис"
 
+<<<<<<< HEAD
 msgid "Recording and playback settings"
 msgstr ""
 
 msgid "Recording in progress"
+=======
+msgid "Recording in progress"
+msgstr ""
+
+msgid "Recording settings"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Recording type"
@@ -7565,6 +8946,7 @@ msgstr ""
 msgid "Red button..."
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Red colored"
@@ -7574,6 +8956,12 @@ msgid "Red long"
 msgstr ""
 
 msgid "Reduce time scale"
+=======
+msgid "Reduce time scale"
+msgstr ""
+
+msgid "Reenter new PIN"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -7583,9 +8971,12 @@ msgid ""
 "This may take a few minutes"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Reflash recommended!"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Refresh every (in hours)"
 msgstr ""
 
@@ -7599,9 +8990,12 @@ msgstr "Вибір частоти оновлення"
 msgid "Regard deep standby as standby"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Region"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Relative"
 msgstr ""
 
@@ -7609,10 +9003,15 @@ msgstr ""
 msgid "Reload"
 msgstr "Оновити"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Reload blacklists"
 msgstr "чорний список"
+=======
+msgid "Reload black-/white lists"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Reloading EPG Cache..."
 msgstr ""
@@ -7629,9 +9028,12 @@ msgstr ""
 msgid "Remember service PIN"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Reminder, you have chosen to save timeshift file."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Remote box"
 msgstr ""
 
@@ -7661,6 +9063,7 @@ msgstr "видалити DNS запис"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Remove all alternatives"
 msgstr "видалити вибрані канали"
 
@@ -7684,6 +9087,11 @@ msgstr "видалити з батьківського контролю"
 msgid "Remove cable services"
 msgstr "Захист каналів"
 
+=======
+msgid "Remove bookmark"
+msgstr "видалити закладку"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Remove completed timers after (days)"
 msgstr ""
 
@@ -7692,6 +9100,7 @@ msgid "Remove currently selected title"
 msgstr "Видалити вибрану назву"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Remove entry"
 msgstr "видалити канал зі списку"
@@ -7705,19 +9114,28 @@ msgstr "Видалення завершено."
 msgid "Remove from parental protection"
 msgstr "видалити з батьківського контролю"
 
+=======
+msgid "Remove finished."
+msgstr "Видалення завершено."
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Remove items from trash can after (days)"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Remove new found flag"
 msgstr "видалити позначку new found "
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Remove plugins"
 msgstr "Видалення додатків"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Remove selected satellite"
 msgstr "видалити вибраний супутник"
@@ -7728,6 +9146,8 @@ msgid "Remove terrestrial services"
 msgstr "Наземний провайдер"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Remove timer"
 msgstr "Видалити таймер"
 
@@ -7753,6 +9173,7 @@ msgid "Removing partition table"
 msgstr "Видалити"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Removing service"
 msgstr "дод. Канал"
@@ -7772,6 +9193,14 @@ msgstr ""
 msgid "Rename name and description for new events"
 msgstr ""
 
+=======
+msgid "Rename"
+msgstr "Перейменувати"
+
+msgid "Rename failed!"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Rename to:"
 msgstr ""
 
@@ -7799,6 +9228,7 @@ msgstr ""
 "Що хочете зробити??"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Repeating the event currently recording... What do you want to do?"
 msgstr ""
@@ -7815,6 +9245,11 @@ msgstr ""
 msgid "Require authentication for http streams"
 msgstr ""
 
+=======
+msgid "Repeats"
+msgstr "Повторення"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Required medium type:"
 msgstr ""
@@ -7864,6 +9299,12 @@ msgstr "Перезавантажити GUI зараз?"
 msgid "Restart GUI now?"
 msgstr "Перезавантажити GUI зараз?"
 
+<<<<<<< HEAD
+=======
+msgid "Restart enigma"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Restart network"
 msgstr "Перезавантаження мережі"
@@ -7884,7 +9325,12 @@ msgstr "Відновлення"
 msgid "Restore backups"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Restore deleted user bouquets"
+=======
+#
+msgid "Restore is running..."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -7919,6 +9365,7 @@ msgid "Reverse bouquet buttons"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Reverse list"
 msgstr "Редагувати список каналів"
@@ -7936,6 +9383,13 @@ msgstr "Швидкість перемотування назад"
 #, fuzzy
 msgid "Rewrap subtitles"
 msgstr "Субтитри"
+=======
+msgid "Rewind speeds"
+msgstr "Швидкість перемотування назад"
+
+msgid "Rewrap teletext subtitles"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Right"
@@ -7962,11 +9416,14 @@ msgstr "Зберегти позицію"
 msgid "Rotor turning speed"
 msgstr "Швидкість обертання ротора"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Rotor: "
 msgstr "Автор"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Run how often ?"
 msgstr ""
 
@@ -7977,9 +9434,12 @@ msgstr ""
 msgid "Russian"
 msgstr "Російська"
 
+<<<<<<< HEAD
 msgid "S"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "S-Video"
 msgstr "S-Відео"
@@ -7997,9 +9457,12 @@ msgstr ""
 msgid "SINGLE LAYER DVD"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "SNR:"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "SPDIF"
 msgstr ""
 
@@ -8007,6 +9470,12 @@ msgstr ""
 msgid "SSID:"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Samba Log"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Samba Setup"
 msgstr ""
 
@@ -8048,6 +9517,13 @@ msgid "Satellites"
 msgstr "Супутники"
 
 #
+<<<<<<< HEAD
+=======
+msgid "Satfinder"
+msgstr "Рівень сигналу"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Sats"
 msgstr "Супутники"
 
@@ -8080,18 +9556,24 @@ msgstr ""
 msgid "Save playlist"
 msgstr "зберегти плейлист"
 
+<<<<<<< HEAD
 msgid "Save timeshift and zap"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Save timeshift as movie and continue recording"
 msgstr ""
 
 msgid "Save timeshift as movie and stop recording"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Save timeshift in movie dir and zap"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Saving EPG Cache..."
 msgstr ""
 
@@ -8105,9 +9587,12 @@ msgstr ""
 msgid "Scaler sharpness"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Scaler vertical dejagging"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Scaling mode"
@@ -8141,11 +9626,14 @@ msgstr "Сканування файлів..."
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Scan options"
 msgstr "Додаткові Опції"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Scan wireless networks"
 msgstr "Пошук WI-FI мереж"
 
@@ -8191,7 +9679,11 @@ msgstr ""
 msgid "Search"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Search IMDb for information about the current event."
+=======
+msgid "Search IMDb for information about current event."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -8201,7 +9693,11 @@ msgstr "Пошук на схід"
 msgid "Search for similar events"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Search the epg for the current event."
+=======
+msgid "Search the epg for current event."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -8210,11 +9706,14 @@ msgstr "Пошук на захід"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Search/WEB"
 msgstr "Пошук на схід"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Searching"
 msgstr "Пошук на схід"
 
@@ -8237,11 +9736,14 @@ msgid "Searching west ..."
 msgstr "Пошук на захід"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Second cable of motorized LNB"
 msgstr "другий кабель моторизованої LNB"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Secondary DNS"
 msgstr "Вторинний DNS"
 
@@ -8282,19 +9784,27 @@ msgid "Select a wireless network"
 msgstr "Пошук WI-FI мереж"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Select action"
 msgstr "Вибрати місце розташування"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy, python-format
 msgid "Select action for timer %s:"
 msgstr "Файли для копіювання"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Select all"
 msgstr "Вибрати"
+=======
+msgid "Select an image to be downloaded"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Select audio track"
@@ -8317,6 +9827,15 @@ msgstr "Виберіть канал для запису з"
 msgid "Select copy destination for:"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Select default EPG type..."
+msgstr ""
+
+msgid "Select desired image from feed list"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Select destination for:"
 msgstr ""
 
@@ -8336,6 +9855,15 @@ msgstr ""
 msgid "Select if timeshift should continue when set to record."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Select if you want the Subservice mode to be activated."
+msgstr ""
+
+msgid "Select if you want to use the Obh colored buttons (set to 'no' if you want to use (Multi Quick Button)."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Select input device"
 msgstr ""
 
@@ -8353,11 +9881,14 @@ msgstr "Вибрати місце розташування"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Select menu entry"
 msgstr "виберіть пункт меню"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Select movie"
 msgstr "Виберіть фільм"
 
@@ -8369,11 +9900,14 @@ msgstr "Вибір провайдера..."
 msgid "Select refresh rate"
 msgstr "Виберіть частоту оновлення"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Select satellites"
 msgstr "Один супутник"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Select seekbar to be activated by arrow L/R (long) or << >> (long)."
 msgstr ""
 
@@ -8383,6 +9917,7 @@ msgstr "Вибір каналу..."
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Select slot"
 msgstr "Вибрати місце розташування"
 
@@ -8399,6 +9934,11 @@ msgstr "Виберіть кінцеву папку"
 msgid "Select the desired function and click on \"OK\" to assign it. Use \"CH+/-\" to toggle between the lists. Select an assigned function and click on \"OK\" to de-assign it. Use \"Next/Previous\" to change the order of the assigned functions."
 msgstr ""
 
+=======
+msgid "Select target folder"
+msgstr "Виберіть кінцеву папку"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Select the movie path"
@@ -8421,6 +9961,7 @@ msgstr "Виберіть відео вхід кнопками вверх/вни�
 msgid "Select video mode"
 msgstr "Виберіть режим відео"
 
+<<<<<<< HEAD
 #
 msgid "Select wireless network"
 msgstr ""
@@ -8437,6 +9978,20 @@ msgstr "Один супутник"
 #, fuzzy
 msgid "Selecting satellites 2 (USALS)"
 msgstr "Один супутник"
+=======
+msgid "Select what you want the Channel +/- buttons to activate."
+msgstr ""
+
+msgid "Select what you want the TV button to activate."
+msgstr ""
+
+#
+msgid "Select wireless network"
+msgstr ""
+
+msgid "Select your provider, and press OK to start the scan"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Send"
 msgstr ""
@@ -8470,9 +10025,12 @@ msgstr "Сербська"
 msgid "Serial No"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Serial no"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Serv.Name"
 msgstr ""
 
@@ -8503,6 +10061,17 @@ msgstr ""
 msgid "Service font size"
 msgstr "Інформація"
 
+<<<<<<< HEAD
+=======
+#
+msgid "Service has been added to the favourites."
+msgstr "Канал додано до фаворитів."
+
+#
+msgid "Service has been added to the selected bouquet."
+msgstr "Канал додано до вибраного списку."
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Service info font size"
 msgstr ""
 
@@ -8556,6 +10125,7 @@ msgstr "Канали"
 msgid "Services may be grouped in bouquets. When enabled, you can use more than one bouquet."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Set Framerate for MiniTV"
 msgstr ""
 
@@ -8565,6 +10135,9 @@ msgid "Set as startup service"
 msgstr "Виберіть підсервіс..."
 
 msgid "Set default"
+=======
+msgid "Set System"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -8579,14 +10152,19 @@ msgid "Set fps for external subtitles"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Set interface as the default Interface"
+=======
+msgid "Set interface as default Interface"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Встановити інтерфейс як Інтерфейс за замовчуванням"
 
 msgid "Set limits"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Set startup service"
 msgstr "дод. Канал"
@@ -8599,6 +10177,10 @@ msgstr "Система"
 #
 #, fuzzy, python-format
 msgid "Set the MAC address of your %s %s.\n"
+=======
+#, fuzzy, python-format
+msgid "Set the MAC-address of your %s %s.\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Редагувати налаштування Nameserver вашого %s %s.\n"
 
 msgid "Set the channel for this timer."
@@ -8646,7 +10228,11 @@ msgstr ""
 msgid "Set the scrolling speed of text on the front display."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Set the time before checking video source for resolution/refresh rate infomation."
+=======
+msgid "Set the time before checking video source for resolution infomation."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Set the time delay before hiding the infobar."
@@ -8673,7 +10259,11 @@ msgstr ""
 msgid "Set voltage and 22KHz"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Sets the root folder of movie list, to remove the '..' from being shown in that folder."
+=======
+msgid "Sets the root folder of movie list, to remove the '..' from benign shown in that folder."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -8715,6 +10305,14 @@ msgstr "Налашування SAT обладнання"
 msgid "Setup your timezone."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+#, python-format
+msgid "Shall the USB stick wizard proceed and program the image file %s into flash memory?"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Share Folder's"
 msgstr ""
 
@@ -8743,6 +10341,7 @@ msgstr ""
 msgid "Show 1080p 30fps as"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Show 2160p 24fps as"
 msgstr ""
 
@@ -8755,6 +10354,8 @@ msgstr ""
 msgid "Show 480/576p 24fps as"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show 720p 24fps as"
 msgstr ""
 
@@ -8781,12 +10382,15 @@ msgstr ""
 msgid "Show EPG for current channel..."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Show EPG for current service"
 msgstr ""
 
 msgid "Show EPG..."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show Games show"
 msgstr ""
 
@@ -8801,9 +10405,12 @@ msgstr "додаткове меню..."
 msgid "Show Media playback Remaining/Elapsed as"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Show MiniTV in the Front Display"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show OE Log"
 msgstr ""
 
@@ -8812,6 +10419,7 @@ msgstr ""
 msgid "Show OScam Info in extensions?"
 msgstr "додаткове меню..."
 
+<<<<<<< HEAD
 msgid "Show PIP"
 msgstr ""
 
@@ -8820,6 +10428,8 @@ msgstr ""
 msgid "Show PIP in the Front Display"
 msgstr "Радіо-режим..."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show PVR status in Movie Player infobar"
 msgstr ""
 
@@ -8848,7 +10458,11 @@ msgstr ""
 msgid "Show VCR scart on main menu"
 msgstr "показати головне меню DVD"
 
+<<<<<<< HEAD
 msgid "Show ViX spinning logo when the system is busy."
+=======
+msgid "Show Obh spinning logo when the system is busy."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -8856,21 +10470,27 @@ msgstr ""
 msgid "Show WLAN status"
 msgstr "Показати WLAN статус"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Show alternatives"
 msgstr "показати вибрані канали"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show animation while busy"
 msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Show background behind subtitles"
 msgstr "фонове зображення"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show background in Radio mode"
 msgstr "фонове зображення"
 
@@ -8888,6 +10508,7 @@ msgstr "інформація транспондера"
 msgid "Show channel numbers in channel selection"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Show columns"
@@ -8898,6 +10519,8 @@ msgstr "показати меню"
 msgid "Show crypto icons"
 msgstr "Показати канали починаючи з"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show crypto info in infobar"
 msgstr ""
 
@@ -8916,11 +10539,14 @@ msgid "Show event details"
 msgstr "показати деталі"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Show event info plugins"
 msgstr "показати інфолінію"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show event-progress in channel selection"
 msgstr ""
 
@@ -8929,6 +10555,7 @@ msgstr ""
 msgid "Show extended description"
 msgstr "показати розширений опис"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Show extension selection"
@@ -8955,6 +10582,11 @@ msgstr ""
 msgid "Show help"
 msgstr "показати меню"
 
+=======
+msgid "Show extensions..."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show icon for new/unseen items"
 msgstr ""
 
@@ -9000,6 +10632,7 @@ msgstr ""
 msgid "Show movie lengths in movielist"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Show movies"
@@ -9017,6 +10650,13 @@ msgstr ""
 #, fuzzy
 msgid "Show or hide the extended description, (skin dependant)."
 msgstr "показати розширений опис"
+=======
+msgid "Show network mounts ..."
+msgstr ""
+
+msgid "Show or hide the extended description, (skin dependent)."
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 #, fuzzy
@@ -9024,6 +10664,7 @@ msgid "Show picon background color"
 msgstr "колір фону"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Show picons in service list"
 msgstr "Канал відсутній у списку сервісів"
@@ -9045,6 +10686,11 @@ msgstr ""
 msgid "Show record indicator"
 msgstr "інформація транспондера"
 
+=======
+msgid "Show positioner movement"
+msgstr "Показувати рух позиціонера"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show screensaver"
 msgstr ""
 
@@ -9055,6 +10701,7 @@ msgstr "інформація транспондера"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Show select audio track"
 msgstr "Виберіть аудіо доріжку"
 
@@ -9071,6 +10718,13 @@ msgstr "Показати канали починаючи з"
 #
 #, fuzzy
 msgid "Show service type icons"
+=======
+msgid "Show service type icons"
+msgstr "Показати канали починаючи з"
+
+#
+msgid "Show services beginning with"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Показати канали починаючи з"
 
 #
@@ -9089,6 +10743,7 @@ msgstr ""
 msgid "Show status icons in movie list"
 msgstr "Канал відсутній у списку сервісів"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Show subservice selection"
@@ -9108,10 +10763,28 @@ msgstr "Радіо-режим..."
 #, fuzzy
 msgid "Show the list of autotimers."
 msgstr "Радіо-режим..."
+=======
+msgid "Show status icons in movielist"
+msgstr ""
+
+#
+#, fuzzy
+msgid "Show tag menu"
+msgstr "показати меню"
+
+msgid "Show the list of AutoTimers."
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Show the list of timers."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Show the media player..."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show the plugin browser.."
 msgstr ""
 
@@ -9126,25 +10799,32 @@ msgstr "ТБ-режим..."
 msgid "Show time elapsed as positive"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Show time in 24 hour clock format."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show time remaining/elapsed"
 msgstr ""
 
 msgid "Show translation packages"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Show transponder info"
 msgstr "інформація транспондера"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Show transponder remaining/elapsed as"
 msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Show warning when in a stream"
 msgstr "Дія коли фільм закінчився"
 
@@ -9157,6 +10837,12 @@ msgid "Shows live tv or informations on LCD."
 msgstr ""
 
 msgid "Shows the icons when new/unseen, otherwise it will not show an icon."
+=======
+msgid "Show warning when timeshift is stopped"
+msgstr "Дія коли фільм закінчився"
+
+msgid "Shows the icons when new/unseen, else will not show an icon."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -9181,11 +10867,14 @@ msgstr ""
 msgid "Side by side"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Signal Finder"
 msgstr "Рівень сигналу"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Signal OK, proceeding"
 msgstr ""
 
@@ -9193,11 +10882,14 @@ msgstr ""
 msgid "Signal Strength:"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Signal finder"
 msgstr "Рівень сигналу"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Signal quality"
 msgstr ""
 
@@ -9221,20 +10913,26 @@ msgid "Simple"
 msgstr "Простий"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Simple fade"
 msgstr "Простий"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Simple titleset (compatibility for legacy players)"
 msgstr "Простий заголовок (сумісність з DVD плеєрами)"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Simple zoom"
 msgstr "Простий"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Single"
 msgstr "Один"
 
@@ -9252,6 +10950,13 @@ msgid "Single step (GOP)"
 msgstr "однокроковий (GOP)"
 
 #
+<<<<<<< HEAD
+=======
+msgid "Single transponder"
+msgstr "Один транспондер"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid "SingleEPG settings"
 msgstr "редагування налаштувань"
@@ -9272,10 +10977,13 @@ msgstr ""
 msgid "Skin Setting"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid "Skin name:\t%s\n"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Skin setup"
 msgstr ""
 
@@ -9285,6 +10993,7 @@ msgstr "Скіни"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Skip back"
 msgstr "перескочити назад"
 
@@ -9298,11 +11007,17 @@ msgstr "Захист каналів"
 msgid "Skip forward"
 msgstr "перескочити вперед"
 
+=======
+msgid "Skip empty services"
+msgstr "Захист каналів"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Skip internet connection check (disables automatic package installation)"
 msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Sleep"
 msgstr "Таймер Вимкнення"
 
@@ -9320,22 +11035,33 @@ msgstr ""
 msgid "Slide left to right"
 msgstr ""
 
+=======
+msgid "Sleep delay"
+msgstr "Таймер Вимкнення"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Slide picture in loop"
 msgstr "циклічне слайд-шоу"
 
+<<<<<<< HEAD
 msgid "Slide right to left"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Slide show interval (sec.)"
 msgstr "Інтервал слайдшоу (в сек.)"
 
+<<<<<<< HEAD
 msgid "Slide top to bottom"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, python-format
 msgid "Slot %d"
@@ -9355,14 +11081,18 @@ msgstr "Повільно"
 msgid "Slow motion speeds"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Small"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Small progress"
 msgstr "Виконується"
 
+<<<<<<< HEAD
 msgid "Smooth"
 msgstr ""
 
@@ -9370,6 +11100,12 @@ msgid "Social/Political/Economics"
 msgstr ""
 
 msgid "SoftCam and CI"
+=======
+msgid "Social/Political/Economics"
+msgstr ""
+
+msgid "SoftCam / CI"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Softcam setings"
@@ -9417,6 +11153,7 @@ msgstr ""
 msgid "Some plugins are not available:\n"
 msgstr "Деякі додатки не доступні:\n"
 
+<<<<<<< HEAD
 msgid "Sorry feeds are down for maintenance, please try again later. If this issue persists please check openvix.co.uk or world-of-satellite.com."
 msgstr ""
 
@@ -9436,6 +11173,24 @@ msgid "Sorry your MiniDLNA config is missing"
 msgstr ""
 
 msgid "Sorry your uShare config is missing"
+=======
+msgid "Sorry Inadyn Config is Missing"
+msgstr ""
+
+msgid "Sorry MiniDLNA Config is Missing"
+msgstr ""
+
+msgid "Sorry feeds are down for maintenance"
+msgstr ""
+
+msgid "Sorry feeds are down for maintenance, please try again later."
+msgstr ""
+
+msgid "Sorry feeds seem be in an unstable state, if you wish to use them please enable 'Allow unstable updates' in \"software update setup\"."
+msgstr ""
+
+msgid "Sorry uShare Config is Missing"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -9448,9 +11203,12 @@ msgstr ""
 msgid "Sorry, no details available!"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Sorry, this tuner is in use."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Sorry, your backup destination is not writeable.\n"
 "Please select a different one."
@@ -9462,6 +11220,7 @@ msgstr ""
 msgid "Sort EPG List"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Sort Trash by deletion time"
 msgstr ""
 
@@ -9482,15 +11241,23 @@ msgstr ""
 msgid "Sort list:"
 msgstr ""
 
+=======
+msgid "Sort list by"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Sort menu screens alphabetically"
 msgstr ""
 
 msgid "Sort plug-in browser alphabetically"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Sort plugins list to default?"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Sort setting screens alphabetically"
 msgstr ""
 
@@ -9521,9 +11288,12 @@ msgstr "Іспанська"
 msgid "Split preview mode"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Splitscreen"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Sports"
 msgstr ""
 
@@ -9531,21 +11301,29 @@ msgid "Standard"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Standart list"
 msgstr "Почати тест"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Standby"
 msgstr "Режим очікування"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Standby / restart"
+=======
+msgid "Standby / Restart"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Меню вимкнення"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Standby and Restart"
 msgstr "Меню вимкнення"
 
@@ -9554,6 +11332,11 @@ msgstr "Меню вимкнення"
 msgid "StandbyLED"
 msgstr "Режим очікування"
 
+=======
+msgid "Standby / restart"
+msgstr "Меню вимкнення"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Start"
 msgstr ""
 
@@ -9561,11 +11344,14 @@ msgstr ""
 msgid "Start from the beginning"
 msgstr "Почати з початку"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Start instant recording"
 msgstr "цей запис"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Start offline decode"
 msgstr ""
 
@@ -9575,11 +11361,14 @@ msgid "Start recording?"
 msgstr "цей запис"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Start teletext"
 msgstr "Почати тест"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Start test"
 msgstr "Почати тест"
 
@@ -9614,6 +11403,7 @@ msgstr "Крок на схід"
 #
 #, fuzzy
 msgid "Stepped west"
+<<<<<<< HEAD
 msgstr "Крок на схід"
 
 #
@@ -9658,6 +11448,25 @@ msgstr "Зупинити активне завдання і відмінити �
 #
 #, fuzzy
 msgid "Stop current event but not future events"
+=======
+msgstr "Крок на схід"
+
+#
+msgid "Stop"
+msgstr "Зупинити"
+
+#
+#, fuzzy
+msgid "Stop PiP"
+msgstr "вимкнути PiP"
+
+#
+msgid "Stop current event and disable coming events"
+msgstr "Зупинити активне завдання і відмінити наступне"
+
+#
+msgid "Stop current event but not coming events"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Зупинити активне завдання але не наступне"
 
 #
@@ -9669,9 +11478,12 @@ msgstr "зупинити вибране"
 msgid "Stop playing this movie?"
 msgstr "Зупинити відтворення цього фільму?"
 
+<<<<<<< HEAD
 msgid "Stop previous broadcasted service on return to movie list."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Stop recording"
 msgstr ""
 
@@ -9684,6 +11496,7 @@ msgid "Stop recording now"
 msgstr "цей запис"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Stop recording:"
 msgstr "цей запис"
@@ -9699,6 +11512,8 @@ msgid "Stop service on return to movie list"
 msgstr "Так, але повернутись до списку фільмів"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Stop test"
 msgstr "Зупинити тест"
 
@@ -9721,9 +11536,12 @@ msgstr ""
 msgid "Stop timeshift while recording?"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Stop using as startup service"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Stopped"
 msgstr ""
 
@@ -9754,6 +11572,7 @@ msgstr ""
 msgid "Stream request"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Stream-tv"
 msgstr ""
 
@@ -9772,12 +11591,21 @@ msgstr ""
 msgid "Stripes"
 msgstr ""
 
+=======
+msgid "Strict DLNA"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Strongest position"
 msgstr "Зберегти позицію"
 
+<<<<<<< HEAD
 msgid "Subnet"
+=======
+msgid "Subservice mode"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -9786,11 +11614,14 @@ msgstr "Підсервіси"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Subtitle"
 msgstr "Субтитри"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Subtitle Quickmenu"
 msgstr "Вибір субтитрів"
 
@@ -9839,11 +11670,14 @@ msgid "Subtitles"
 msgstr "Субтитри"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Subtitles settings"
 msgstr "Вибір субтитрів"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Sun"
 msgstr "Нед"
 
@@ -9854,9 +11688,12 @@ msgstr "Неділя"
 msgid "Support at"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Swap PIP"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Swap PiP and main picture"
@@ -9883,6 +11720,7 @@ msgstr "перейти до списку файлів"
 msgid "Switch config"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Switch to HDMI in mode"
@@ -9892,12 +11730,22 @@ msgstr "перейти до списку файлів"
 #, fuzzy
 msgid "Switch to TV mode"
 msgstr "перейти до списку файлів"
+=======
+msgid "Switch next channel"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 #, fuzzy
 msgid "Switch to filelist"
 msgstr "перейти до списку файлів"
 
+<<<<<<< HEAD
+=======
+msgid "Switch to next channel in history"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Switch to next sub service"
@@ -9908,6 +11756,7 @@ msgstr "перемкнути на наступний підсервіс"
 msgid "Switch to playlist"
 msgstr "перейти до плейлиста"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Switch to previous sub service"
@@ -9937,6 +11786,18 @@ msgstr "перейти до попереднього фрагменту"
 #, fuzzy
 msgid "Switch to the previous channel in history"
 msgstr "перейти до попереднього фрагменту"
+=======
+msgid "Switch to previous channel"
+msgstr ""
+
+msgid "Switch to previous channel in history"
+msgstr ""
+
+#
+#, fuzzy
+msgid "Switch to previous sub service"
+msgstr "перемкнути на попередній підсервіс"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Switchable tuner types:"
@@ -9945,9 +11806,12 @@ msgstr ""
 msgid "Symbol rate"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Symbolrate:"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Sync NTP every (minutes)"
 msgstr ""
 
@@ -9968,12 +11832,15 @@ msgstr "Система"
 msgid "System temperature: %s"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid ""
 "System temperature: %s%sC\n"
 "\n"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "System: "
 msgstr ""
 
@@ -9995,7 +11862,11 @@ msgstr ""
 msgid "TUNING"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "TV"
+=======
+msgid "TV button mode"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "TV physical address report"
@@ -10013,11 +11884,14 @@ msgstr "Вміст колекції"
 msgid "Tags"
 msgstr "Відмітки"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Teletext"
 msgstr "Видалити"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Teletext subtitle color"
 msgstr ""
 
@@ -10030,6 +11904,7 @@ msgstr ""
 msgid "Telnet Setup"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Telnet interface"
@@ -10038,6 +11913,8 @@ msgstr "Використовувати інтерфейс"
 msgid "Telnet port"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Telnet setup"
 msgstr ""
 
@@ -10067,12 +11944,15 @@ msgstr "Тест мережевого з'єднання Вашого %s %s'а.\n
 msgid "Test type"
 msgstr "Тест налаштувань DiSEqC"
 
+<<<<<<< HEAD
 msgid "Testscreens"
 msgstr ""
 
 msgid "Testscreens that are helpfull to fine-tune your display"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Text"
 msgstr ""
 
@@ -10108,7 +11988,11 @@ msgstr ""
 
 msgid ""
 "The Cool TV Guide plugin is not installed!\n"
+<<<<<<< HEAD
 "Dont bother with it and use the default ViX EPG guide instead."
+=======
+"Please install it."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -10116,6 +12000,7 @@ msgstr ""
 msgid "The DVD standard doesn't support H.264 (HDTV) video streams. Do you want to create a %s %s format data DVD (which will not play in stand-alone DVD players) instead?"
 msgstr "DVD-стандарт не підтримує H.264 (HDTV) відео. Ви хочете створити DVD з даними в %s %s-форматі (який не буде програватись в стандартних DVD програвачах)?"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid ""
@@ -10125,6 +12010,8 @@ msgstr ""
 "WI-FI додаток не встановлений!\n"
 "Будь ласка встановіть його."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "The EPGSearch plugin is not installed!\n"
 "Please install it."
@@ -10140,12 +12027,28 @@ msgid ""
 "Please install it."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid ""
+"The MediaPlayer plugin is not installed!\n"
+"Please install it."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "The PIN code has been changed successfully."
 msgstr ""
 
 msgid "The PIN codes you entered are different."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid ""
+"The USB stick was prepared to be bootable.\n"
+"Now you can download an NFI image file!"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "The backup failed. Please choose a different backup location."
 msgstr "Збереження невдале. Виберіть інше місце для розташування копії."
@@ -10167,12 +12070,36 @@ msgid ""
 msgstr ""
 
 #
+<<<<<<< HEAD
+=======
+#, python-format
+msgid ""
+"The following device was found:\n"
+"\n"
+"%s\n"
+"\n"
+"Do you want to write the USB flasher to this stick?"
+msgstr ""
+"Знайдено пристрій:\n"
+"\n"
+"%s\n"
+"\n"
+"Бажаєте записати USB-Флешер на цю флешку?"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "The following files were found..."
 msgstr "Слідуючі файли було знайдено..."
 
 msgid "The loopthrough setting is wrong."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "The md5sum validation failed, the file may be corrupted!"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid ""
@@ -10198,6 +12125,7 @@ msgstr "Результати були записані до %s."
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "The service has been added to the favourites."
 msgstr "Канал додано до фаворитів."
 
@@ -10208,6 +12136,8 @@ msgstr "Канал додано до вибраного списку."
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "The software management extension is not installed!\n"
 "Please install it."
@@ -10224,11 +12154,14 @@ msgstr "Файл таймера (timers.xml) є пошкодженим і не �
 msgid "The timer file (timers.xml) is corrupt and could not be loaded."
 msgstr "Файл таймера (timers.xml) є пошкодженим і не може бути виконаний."
 
+<<<<<<< HEAD
 msgid ""
 "The unicable connection setting is wrong.\n"
 " Maybe recursive connection of tuners."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy, python-format
 msgid "The user interface of your %s %s is restarting"
@@ -10263,6 +12196,13 @@ msgstr ""
 msgid "The wizard can backup your current settings. Do you want to do a backup now?"
 msgstr "Майстер може зберегти Ваші налаштування. Бажаєте зробити копію зараз?"
 
+<<<<<<< HEAD
+=======
+#, python-format
+msgid "The wizard found a configuration backup. Do you want to restore your old settings from %s?"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "The wizard is finished now."
 msgstr "Майстер завершив роботу."
@@ -10283,9 +12223,12 @@ msgstr ""
 msgid "There are no updates available."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "There has been an error, please try again later. If this issue persists, please check openvix.co.uk or world-of-satellite.com"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "There is no [webif] section in oscam.conf"
 msgstr ""
 
@@ -10318,9 +12261,12 @@ msgstr ""
 msgid "This allows you to change the number of rows shown."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This can be either the IP or name of the fallback receiver, not including the scheme or port number (e.g. either 'xxx.xxx.xxx.xxx' or 'name_second_box')."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "This option allows to reduce the block-noise in the picture. Obviously this is at the cost of the picture's sharpness."
 msgstr ""
 
@@ -10339,12 +12285,15 @@ msgstr ""
 msgid "This option allows you choose the background color of transparent picons."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This option allows you enable smoothing filter to control the dithering process."
 msgstr ""
 
 msgid "This option allows you enable the vertical scaler dejagging."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "This option allows you set the layout view (Text or Graphics)."
 msgstr ""
 
@@ -10357,12 +12306,15 @@ msgstr ""
 msgid "This option allows you to bypass HDMI EDID check"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This option allows you to change the Colorspace from Auto to RGB"
 msgstr ""
 
 msgid "This option allows you to change the virtual loudspeaker position."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "This option allows you to choose from the two channel lists that are available."
 msgstr ""
 
@@ -10375,6 +12327,7 @@ msgstr ""
 msgid "This option allows you to choose how to display 1080p 30Hz on your TV. (as not all TV's support these resolutions)"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This option allows you to choose how to display 2160p 24Hz on your TV. (as not all TV's support these resolutions)"
 msgstr ""
 
@@ -10390,6 +12343,11 @@ msgstr ""
 msgid "This option allows you to choose how to display SD progressive 24Hz on your TV. (as not all TV's support these resolutions)"
 msgstr ""
 
+=======
+msgid "This option allows you to choose how to display 720p 24Hz on your TV. (as not all TV's support these resolutions)"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "This option allows you to choose how to display elapsed time. As + or -"
 msgstr ""
 
@@ -10405,7 +12363,11 @@ msgstr ""
 msgid "This option allows you to choose how to display the remaining/elapsed time for media playback."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This option allows you to choose what the first button press jumps to in channel list screen, (so pressing '2' jumps to 'A' or '2' first), when 'Quick Actions' preset actions are perfomed. "
+=======
+msgid "This option allows you to choose what the first button press jumps to in channel list screen, (so pressing '2' jumps to 'A' or '2' first)"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "This option allows you to disable sorting of the menus"
@@ -10417,10 +12379,14 @@ msgstr ""
 msgid "This option allows you to disable sorting of the plugin browser."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This option allows you to enable 3D Surround Sound for an output."
 msgstr ""
 
 msgid "This option allows you to power on or off the display."
+=======
+msgid "This option allows you to enable 3D Surround Sound."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "This option allows you to set the layout view (Text or Graphics)."
@@ -10429,6 +12395,7 @@ msgstr ""
 msgid "This option allows you to show the SNR as a percentage (not all receivers support this)."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "This option allows you to show the full menu path"
 msgstr ""
 
@@ -10438,6 +12405,11 @@ msgstr ""
 msgid "This option configures output for Auto Volume Level."
 msgstr ""
 
+=======
+msgid "This option allows you to view the old and new settings side by side."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "This option configures the general audio delay of Dolby Digital sound tracks."
 msgstr ""
 
@@ -10495,6 +12467,17 @@ msgstr ""
 msgid "This option sets up the picture sharpness, used when the picture is being upscaled."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#, python-format
+msgid ""
+"This plugin creates a USB stick which can be used to update the firmware of your %s %s without the need for a network or WLAN connection.\n"
+"First, a USB stick needs to be prepared so that it becomes bootable.\n"
+"In the next step, an NFI image file can be downloaded from the update server and saved on the USB stick.\n"
+"If you already have a prepared bootable USB stick, please insert it now. Otherwise plug in a USB stick with a minimum size of 64 MB!"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "This plugin is installed."
 msgstr "Цей додаток встановлено"
@@ -10516,7 +12499,11 @@ msgstr "Цей додаток буде видалено"
 msgid ""
 "This test checks for configured nameservers.\n"
 "If you get a \"unconfirmed\" message:\n"
+<<<<<<< HEAD
 "- please check your DHCP server, cabling and adapter setup\n"
+=======
+"- please check your DHCP, cabling and adapter setup\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "- if you configured your nameservers manually please verify your entries in the \"Nameserver\" configuration"
 msgstr ""
 "Цей тест перевіряє правильність налаштувань Nameserver'ів.\n"
@@ -10543,7 +12530,11 @@ msgid ""
 "This test checks whether a valid IP address is found for your LAN adapter.\n"
 "If you get a \"unconfirmed\" message:\n"
 "- no valid IP address was found\n"
+<<<<<<< HEAD
 "- please check your DHCP server, cabling and adapter setup"
+=======
+"- please check your DHCP, cabling and adapter setup"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 "Цей тест перевірить чи знайдено дійсний IP-адрес для Вашого мережевого адаптера.\n"
 "Якщо побачите повідомлення \"unconfirmed\":\n"
@@ -10596,6 +12587,12 @@ msgstr ""
 msgid "Time"
 msgstr "Час"
 
+<<<<<<< HEAD
+=======
+msgid "Time Update in Minutes"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Time Update in Minutes:"
 msgstr ""
 
@@ -10610,6 +12607,7 @@ msgstr ""
 msgid "Time to execute command or script"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Time update in minutes"
 msgstr ""
 
@@ -10624,6 +12622,11 @@ msgstr ""
 msgid "Timer"
 msgstr "Час"
 
+=======
+msgid "Timeline font size"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Timer List"
 msgstr ""
 
@@ -10632,6 +12635,13 @@ msgid "Timer entry"
 msgstr "Ввід таймера"
 
 #
+<<<<<<< HEAD
+=======
+msgid "Timer log"
+msgstr "Лог таймера"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, fuzzy
 msgid ""
 "Timer overlap in pm_timers.xml detected!\n"
@@ -10649,6 +12659,14 @@ msgstr ""
 "Будь-ласка перевірте його!"
 
 #
+<<<<<<< HEAD
+=======
+#, fuzzy
+msgid "Timer overview"
+msgstr "Ввід таймера"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Timer record location"
 msgstr ""
 
@@ -10682,9 +12700,12 @@ msgstr ""
 msgid "Timeshift"
 msgstr "Timeshift"
 
+<<<<<<< HEAD
 msgid "Timeshift is running. Select an action.\n"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Timeshift location"
 msgstr ""
@@ -10693,9 +12714,12 @@ msgstr ""
 msgid "Timeshift not possible!"
 msgstr "Timeshift неможливий!"
 
+<<<<<<< HEAD
 msgid "Timeshift on a stream is not supported!"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Timeshift save failed!"
 msgstr ""
 
@@ -10711,7 +12735,11 @@ msgstr ""
 msgid "Timeshift settings"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Timeshift will get saved at the end of an event!"
+=======
+msgid "Timeshift will get saved at end of event!"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Timeshift-save action on zap"
@@ -10733,10 +12761,22 @@ msgstr "Властивості"
 msgid "Titleset mode"
 msgstr "Режим встановлення заголовку "
 
+<<<<<<< HEAD
+=======
+#, python-format
+msgid ""
+"To update your %s %s firmware, please follow these steps:\n"
+"1) Turn off your box with the rear power switch and make sure the bootable USB stick is plugged in.\n"
+"2) Turn mains back on and hold the DOWN button on the front panel pressed for 10 seconds.\n"
+"3) Wait for bootup and follow instructions of the wizard."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Today"
 msgstr "Сьогодні"
 
+<<<<<<< HEAD
 msgid "Toggle Digital downmix..."
 msgstr ""
 
@@ -10752,6 +12792,8 @@ msgstr ""
 msgid "Toggle PIP-ZAP"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Toggle Picture In Graphics"
 msgstr ""
 
@@ -10782,6 +12824,7 @@ msgstr "Тоновий сигнал A/B"
 msgid "Top and Bottom"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Total"
 msgstr ""
 
@@ -10802,6 +12845,27 @@ msgid "Total memory:"
 msgstr ""
 
 msgid "Total swap:"
+=======
+msgid "Top and bottom"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Total Memory:"
+msgstr ""
+
+msgid "Total Swap:"
+msgstr ""
+
+msgid "Total cards:"
+msgstr ""
+
+msgid "Total handled client ecm's"
+msgstr ""
+
+msgid "Total handled client emm's"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Total:"
@@ -10811,8 +12875,15 @@ msgstr ""
 msgid "Track"
 msgstr "Трек"
 
+<<<<<<< HEAD
 msgid "Transcoding: "
 msgstr ""
+=======
+#
+#, fuzzy
+msgid "Translation Information"
+msgstr "Інформація"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 #, fuzzy
@@ -10832,6 +12903,7 @@ msgstr "Транспондер"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Transponder Information"
 msgstr "Інформація"
 
@@ -10841,6 +12913,12 @@ msgid "Transponder type"
 msgstr "Тип Транспондера"
 
 msgid "Trash can"
+=======
+msgid "Transponder type"
+msgstr "Тип Транспондера"
+
+msgid "Trashcan"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Trashcan:"
@@ -10855,11 +12933,14 @@ msgid "Try to find used transponders in cable network.. please wait..."
 msgstr "Спроба знайти використовувані транспондери в кабельній мережі... Зачекайте будь ласка..."
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Try to find used transponders in terrestrial network... please wait..."
 msgstr "Спроба знайти використовувані транспондери в кабельній мережі... Зачекайте будь ласка..."
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Trying to download a new packetlist. Please wait..."
 msgstr "Спроба завантажити новий список пакетів. Зачекайте..."
 
@@ -10897,6 +12978,7 @@ msgstr "Тюнер"
 msgid "Tuner configuration"
 msgstr "Конфігурація тюнера"
 
+<<<<<<< HEAD
 msgid "Tuner is not supported"
 msgstr ""
 
@@ -10905,6 +12987,8 @@ msgstr ""
 msgid "Tuner not available."
 msgstr " доступні оновлення."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Tuner settings"
 msgstr ""
 
@@ -10924,13 +13008,18 @@ msgstr "Статус тюнера"
 msgid "Tuner type"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Tuning algorithm"
+=======
+msgid "Tuning step size"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
 msgid "Turkish"
 msgstr "Турецька"
 
+<<<<<<< HEAD
 msgid "Turn off HDMI-IN PiP mode"
 msgstr ""
 
@@ -10949,6 +13038,8 @@ msgstr ""
 msgid "Turning step size"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Two"
 msgstr "Два"
@@ -10971,6 +13062,7 @@ msgstr ""
 msgid "USALS"
 msgstr "USALS"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "USALS Calibration"
@@ -10982,6 +13074,22 @@ msgstr ""
 msgid "Unattended upgrade without GUI and reboot system"
 msgstr ""
 
+=======
+msgid "USALS calibration"
+msgstr ""
+
+#
+msgid "USB stick wizard"
+msgstr "Помічник USB пам'яті"
+
+msgid "Unattended upgrade without GUI and reboot system"
+msgstr ""
+
+#
+msgid "Uncommitted DiSEqC command"
+msgstr "Нейтральна DiSEqC команда"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Undetermined"
 msgstr ""
 
@@ -10997,11 +13105,15 @@ msgid "Unencrypted"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Unhide parental control services"
 msgstr "Ввімкнути батьківський контроль"
 
 msgid "Unicable / JESS"
+=======
+msgid "Unicable"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -11022,9 +13134,12 @@ msgstr "Універсальна LNB"
 msgid "Unknown"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Unmark service as a dedicated 3D service"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Unmount"
 msgstr ""
 
@@ -11032,9 +13147,12 @@ msgstr ""
 msgid "Unsupported"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Up"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Update"
 msgstr "Оновлення"
@@ -11094,9 +13212,12 @@ msgstr ""
 msgid "Uptime"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Usage setup"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Use"
 msgstr "Використовувати"
@@ -11123,21 +13244,34 @@ msgstr ""
 msgid "Use USALS for this sat"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Use ViaSat EPG information when it is available."
 msgstr ""
 
 msgid "Use Virgin EPG information when it is available."
+=======
+msgid "Use Obh colored Buttons*"
+msgstr ""
+
+msgid "Use ViaSat EPG information when it is available."
+msgstr ""
+
+msgid "Use WOL"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
 msgid "Use a gateway"
 msgstr "Використовувати шлюз"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Use circular LNB"
 msgstr "кругова ліва"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Use fastscan channel names"
 msgstr ""
 
@@ -11174,10 +13308,17 @@ msgstr ""
 msgid "Use the Left/Right buttons on your remote to adjust the size of the user interface. Left button decreases the size, Right increases the size."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Use the Left/Right buttons on your remote to move the user interface left/right"
 msgstr ""
 
 msgid "Use the Left/Right buttons on your remote to move the user interface up/down"
+=======
+msgid "Use the Left/Right buttons on your remote to move the user interface up/down"
+msgstr ""
+
+msgid "Use the Left/Right buttons on your remote to move the user inyterface left/right"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Use the alternative or the conventional radio mode."
@@ -11186,11 +13327,14 @@ msgstr ""
 msgid "Use the alternative screen"
 msgstr ""
 
+<<<<<<< HEAD
 msgid ""
 "Use the deletion time to sort Trash folders.\n"
 "Most recently deleted at the top."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "Use the network wizard to configure selected network adapter"
@@ -11221,10 +13365,15 @@ msgstr ""
 msgid "Use timeshift seekbar while timeshifting?"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Use trash can in movie list"
 msgstr "Канал відсутній у списку сервісів"
+=======
+msgid "Use trash can in movielist"
+msgstr ""
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Used service scan type"
@@ -11250,11 +13399,14 @@ msgstr ""
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "User interface settings"
 msgstr "Використовувати інтерфейс"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "User interface visibility"
 msgstr "Використовувати інтерфейс"
 
@@ -11293,8 +13445,15 @@ msgstr "VCR скарт"
 msgid "VMGM (intro trailer)"
 msgstr "VMGM (вступний трейлер)"
 
+<<<<<<< HEAD
 msgid "VU+"
 msgstr ""
+=======
+#
+#, fuzzy, python-format
+msgid "Version:\t%s"
+msgstr "Нова версія:"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "Version: "
 msgstr ""
@@ -11311,7 +13470,11 @@ msgstr "Вертикально"
 msgid "Vertical turning speed"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "ViX EPG"
+=======
+msgid "Obh EPG"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "Video Enhancement Settings"
@@ -11332,6 +13495,19 @@ msgstr ""
 msgid "Video enhancement setup"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+#, fuzzy
+msgid "Video fine tuning"
+msgstr "Налаштування зображення"
+
+#
+#, fuzzy
+msgid "Video fine-tuning"
+msgstr "Налаштування зображення"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid ""
 "Video input selection\n"
 "\n"
@@ -11352,6 +13528,15 @@ msgstr "Вибір Відео режиму"
 msgid "Video output"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "Video setup"
+msgstr ""
+
+msgid "Video wizard"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #, python-format
 msgid "Video: %s fps"
 msgstr ""
@@ -11362,11 +13547,14 @@ msgstr ""
 msgid "Videoformat"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Videomode"
 msgstr "Вибір Відео режиму"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Videosize"
 msgstr ""
 
@@ -11390,11 +13578,14 @@ msgid "View details"
 msgstr "Перегляд деталей"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "View extensions..."
 msgstr "додаткове меню..."
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "View list of available "
 msgstr "Перегляд списку доступних"
 
@@ -11470,12 +13661,18 @@ msgstr "Перегляд Video CD..."
 msgid "Virtuosso Image Xtreme"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Visual impaired commentary"
 msgstr ""
 
 #
 #, fuzzy
 msgid "Vix forum user name"
+=======
+#
+#, fuzzy
+msgid "Obh forum user name"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr "Пошук каналів"
 
 #
@@ -11512,6 +13709,12 @@ msgstr ""
 msgid "WSS on 4:3"
 msgstr "WSS na 4:3"
 
+<<<<<<< HEAD
+=======
+msgid "Wait please while scanning for devices..."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Waiting"
 msgstr "Очікування"
@@ -11544,9 +13747,12 @@ msgstr ""
 msgid "Wakeup your %s %s from standby"
 msgstr "перейти в режим очікування"
 
+<<<<<<< HEAD
 msgid "Warning"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Warning: no LNB; using factory defaults."
 msgstr ""
 
@@ -11564,11 +13770,14 @@ msgid "Web Interface"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Web interface"
 msgstr "Використовувати інтерфейс"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Wed"
 msgstr "Сер"
 
@@ -11582,11 +13791,14 @@ msgstr "День тижня"
 
 #
 #, fuzzy
+<<<<<<< HEAD
 msgid "Weekend"
 msgstr "День тижня"
 
 #
 #, fuzzy
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Weekly"
 msgstr "щотижня"
 
@@ -11641,7 +13853,11 @@ msgstr ""
 msgid "What Day of week ?"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "What action is required on completion of the timer? 'Auto' lets the box return to the state it had when the timer started. 'Do nothing', 'Go to standby' and 'Go to deep standby' do exactly that."
+=======
+msgid "What action is required on completion of the timer? 'Auto' lets the box return to the state it had when the timer started. 'Do nothing', 'Go to standby' and 'Go to deep standby' do ecaxtly that."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "What date of month ?"
@@ -11651,6 +13867,7 @@ msgstr ""
 msgid "What do you want to scan?"
 msgstr "Що хочете сканувати?"
 
+<<<<<<< HEAD
 msgid "When enabled enigma2 will load unlinked userbouquets. This means that userbouquets that are available, but not included in the bouquets.tv or bouquets.radio files, will still be loaded. This allows you for example to keep your own user bouquet while installed settings are upgraded"
 msgstr ""
 
@@ -11660,6 +13877,8 @@ msgstr ""
 msgid "When enabled the LNB toneburst will be forced"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "When enabled the online checker will also check for experimental versions"
 msgstr ""
 
@@ -11681,6 +13900,7 @@ msgstr ""
 msgid "When enabled, a warning will be displayed and the user will get an option to stop or to continue the timeshift."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "When enabled, a warning will be displayed that timeshift is not supported in an IP stream.."
 msgstr ""
 
@@ -11690,6 +13910,8 @@ msgstr ""
 msgid "When enabled, authentication is required to watch http streams."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "When enabled, channel numbering will start at '1' for every bouquet."
 msgstr ""
 
@@ -11717,9 +13939,12 @@ msgstr ""
 msgid "When enabled, graphical DVB subtitles will be displayed in yellow, instead of the original color."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "When enabled, http streams are descrambled on the server side. The (remote) client receiver does not have to do descrambling. Default on."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "When enabled, it is possible to leave the Movie Player with exit."
 msgstr ""
 
@@ -11732,9 +13957,12 @@ msgstr ""
 msgid "When enabled, pressing '0' will zap you to the first channel in your first bouquet and delete your zap-history."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "When enabled, reformat subtitles to match the width of the screen."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "When enabled, show channel numbers in the channel selection screen."
 msgstr ""
 
@@ -11759,6 +13987,12 @@ msgstr ""
 msgid "When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time)."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "When enabled, the original line breaks will be removed from the teletext subtitles."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "When enabled, the receiver will automatically use the audio track which you selected before."
 msgstr ""
 
@@ -11768,6 +14002,7 @@ msgstr ""
 msgid "When enabled, the receiver will select an AC3 track (when available)."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "When enabled, the receiver will select an AC3+ track (when available)."
 msgstr ""
 
@@ -11777,6 +14012,8 @@ msgstr ""
 msgid "When enabled, this setting has more weight than 'Preferred tuner'."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "When enabled, timeshift starts automatically in background after the specified time."
 msgstr ""
 
@@ -11795,10 +14032,17 @@ msgstr ""
 msgid "When nonzero, a recording will stop later than the ending time indicated by the EPG."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "When set the PIG will return to live after a movie has stopped playing."
 msgstr ""
 
 msgid "When set, each folder will show the previous state used. When off, the default values will be shown."
+=======
+msgid "When set each folder will show the previous state used, when off the default values will be shown."
+msgstr ""
+
+msgid "When set the PIG will return to live after a movie has stopped playing."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."
@@ -11813,11 +14057,19 @@ msgstr ""
 #
 #, fuzzy, python-format
 msgid ""
+<<<<<<< HEAD
 "When you perform a factory reset, you will lose ALL of your configuration data\n"
 "(including bouquets, services, satellite data ...)\n"
 "After completion of the factory reset, your %s %s will restart automatically!\n"
 "\n"
 "Do you really want to do a factory reset?"
+=======
+"When you do a factory reset, you will lose ALL your configuration data\n"
+"(including bouquets, services, satellite data ...)\n"
+"After completion of factory reset, your %s %s will restart automatically!\n"
+"\n"
+"Really do a factory reset?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 "При поверненні до заводських налаштувань, ви втратите усі налаштування\n"
 "(включаючи списки каналів, конфігурацію супутників...)\n"
@@ -11825,9 +14077,12 @@ msgstr ""
 "\n"
 "Ви дійсно бажаєте зробити це?"
 
+<<<<<<< HEAD
 msgid "When you use the remote fallback tuner for recording, the timer conflict detection can't properly detect conflicts. This option allows you to turn off the timer confict detection. This setting is only for advanced users; the default is 'yes'."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Where do you want to backup your settings?"
 msgstr "Де хочете зробити копію своїх налаштувань?"
@@ -11897,6 +14152,7 @@ msgstr ""
 msgid "Write failed!"
 msgstr "Записати невдалось!"
 
+<<<<<<< HEAD
 msgid "Write to /tmp/positionersetup.log"
 msgstr ""
 
@@ -11909,6 +14165,11 @@ msgstr ""
 msgid "YES"
 msgstr ""
 
+=======
+msgid "XBox 360 support"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "YPbPr"
 msgstr "YPbPr"
@@ -11917,6 +14178,7 @@ msgstr "YPbPr"
 msgid "Year"
 msgstr "Рік"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Yellow"
@@ -11928,13 +14190,21 @@ msgstr ""
 msgid "Yellow long"
 msgstr ""
 
+=======
+msgid "Yellow DVB subtitles"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Yes"
 msgstr "Так"
 
+<<<<<<< HEAD
 msgid "Yes (save index in setup tuner)"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "Yes to all"
 msgstr ""
@@ -11947,11 +14217,14 @@ msgid "Yes, and delete this movie"
 msgstr "Так, і видалити цей фільм"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Yes, and return to the movie list"
 msgstr "Так, але повернутись до списку фільмів"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Yes, backup my settings!"
 msgstr "Так, зробити копію моїх налаштувань!"
 
@@ -11967,11 +14240,14 @@ msgid "Yes, but save timeshift as movie and stop recording"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Yes, delete this movie and return to the movie list"
 msgstr "Так, але повернутись до списку фільмів"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Yes, do a manual scan now"
 msgstr "Так, розпочати ручний пошук"
 
@@ -11988,6 +14264,7 @@ msgid "Yes, restore the settings now"
 msgstr "Так, відновити мої налаштування зараз"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "Yes, show delete time"
 msgstr "Так, і видалити цей фільм"
@@ -11996,6 +14273,10 @@ msgstr "Так, і видалити цей фільм"
 #, fuzzy
 msgid "Yes, show record time"
 msgstr "Таймер"
+=======
+msgid "Yes, returning to movie list"
+msgstr "Так, але повернутись до списку фільмів"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 #
 msgid "Yes, shut down now."
@@ -12018,12 +14299,15 @@ msgid ""
 "\"%s\"?"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "You can Display MiniTV with or without OSD Menu"
 msgstr ""
 
 msgid "You can Display PIP with or without OSD Menu"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "You can cancel the installation."
 msgstr "Ви можете відмінити встановлення."
@@ -12032,7 +14316,14 @@ msgstr "Ви можете відмінити встановлення."
 msgid "You can cancel the removal."
 msgstr "Ви можете відмінити видалення"
 
+<<<<<<< HEAD
 msgid "You can continue watching TV while this is running."
+=======
+msgid "You can continue watching TV etc. while this is running."
+msgstr ""
+
+msgid "You can disable Telnet Server and use ssh to login."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "You can have the list sorted by time or alphanumerical."
@@ -12057,7 +14348,11 @@ msgstr "Ви не можете це видалити!"
 msgid "You didn't select a channel to record from."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "You have already sent this log, are you sure you want to resend it?\n"
+=======
+msgid "You have already sent this log, are you sure you want to resend this log:\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -12065,6 +14360,13 @@ msgid "You have chosen to backup your settings. Please press OK to start the bac
 msgstr "Ви вибрали копіювання ваших налаштувань. Натисніть OK для початку копіювання."
 
 #
+<<<<<<< HEAD
+=======
+msgid "You have chosen to create a new .NFI flasher bootable USB stick. This will repartition the USB stick and therefore all data on it will be erased."
+msgstr "Ви вибрали створення нового завантажувального USB носія. Це перерозподілить USB носій і видалить всі дані. "
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "You have chosen to restore your settings. Enigma2 will restart after restore. Please press OK to start the restore now."
 msgstr "Ви вибрали відновлення налаштувань. Enigma2 будет перезавантажена відразу після відновлення. Натисність ОК для відновлення."
 
@@ -12073,6 +14375,7 @@ msgid ""
 "What do you want to do ?"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "You have not selected any logs to delete."
@@ -12084,6 +14387,17 @@ msgstr ""
 msgid ""
 "You have not setup your user info in the setup screen\n"
 "Press MENU, enter your info, and then try again"
+=======
+msgid ""
+"You have not setup your user info in the setup screen\n"
+"Press MENU, and enter your info, then try again"
+msgstr ""
+
+msgid "You have selected no logs to delete."
+msgstr ""
+
+msgid "You have selected no logs to send."
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -12091,10 +14405,13 @@ msgstr ""
 msgid "You have to wait %s!"
 msgstr "Необхідно почекати %s!"
 
+<<<<<<< HEAD
 #, python-format
 msgid "You must switch to the service %s (%s - '%s')!\n"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid ""
 "You need a PC connected to your %s %s. If you need further instructions, please visit the website http://www.dm7025.de.\n"
@@ -12103,9 +14420,12 @@ msgstr ""
 "Вам потрібно з'єднати PC з Вашим Drembox'ом. Якщо необхідно більше інформації, будь ласка відвідайте сайт http://www.dm7025.de.\n"
 "Зараз Ваш Drembox буде вимкнено. Після виконання всіх інструкцій з сайта, Ваше нове програмне забезпечення запропонує відновити свої налаштування."
 
+<<<<<<< HEAD
 msgid "You seem to be in timeshft, the service will briefly stop as timeshift stops."
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "You seem to be in timeshift!"
 msgstr ""
 
@@ -12116,6 +14436,7 @@ msgid "You system does not support ext4"
 msgstr ""
 
 #, python-format
+<<<<<<< HEAD
 msgid "Your %s %s does not support PiP HD"
 msgstr ""
 
@@ -12124,6 +14445,8 @@ msgid "Your %s %s has no network access, please check your network settings and 
 msgstr ""
 
 #, python-format
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Your %s %s is not connected to the internet, please check your network settings and try again."
 msgstr ""
 
@@ -12162,15 +14485,26 @@ msgstr ""
 
 #, python-format
 msgid ""
+<<<<<<< HEAD
 "Your %s %s will be restarted after the installation of service.\n"
 "\n"
 "Do you want to install now ?"
+=======
+"Your %s %s will be restarted after the installation of service\n"
+"Ready to install \"%s\" ?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
 msgid ""
+<<<<<<< HEAD
 "Your %s %s will be restarted after the installation of the service\n"
 "Are you ready to install \"%s\" ?"
+=======
+"Your %s %s will be restarted after the installation of service.\n"
+"\n"
+"Do you want to install now ?"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #, python-format
@@ -12179,12 +14513,15 @@ msgid ""
 "Do you want to remove now ?"
 msgstr ""
 
+<<<<<<< HEAD
 #, python-format
 msgid ""
 "Your %s %s will be restarted after the removal of the service\n"
 "Do you want to remove the service now ?"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Your STB will restart after pressing OK on your remote control."
 msgstr ""
 
@@ -12198,7 +14535,11 @@ msgstr "Ваша колекція перевищує розмір стандар
 
 #, python-format
 msgid ""
+<<<<<<< HEAD
 "Your config file is not well formed:\n"
+=======
+"Your config file is not well-formed:\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "%s"
 msgstr ""
 
@@ -12235,6 +14576,7 @@ msgstr ""
 msgid "Your network configuration has been activated."
 msgstr "Конфігурація вашої мережі активована."
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "Your network has finished restarting"
@@ -12245,6 +14587,8 @@ msgstr "Будь-ласка почекайте поки перезавантаж
 msgid "Your network is restarting, Please wait..."
 msgstr "Ваш %s %s вимикається. Прохання зачекати..."
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Your receiver does not have an internet connection"
 msgstr ""
 
@@ -12279,9 +14623,12 @@ msgstr ""
 msgid "Zap back to service before tuner setup?"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Zap down"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Zap focus to Picture in Picture"
 msgstr ""
 
@@ -12291,30 +14638,39 @@ msgstr ""
 msgid "Zap mode"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Zap to"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Zap to channel (setup in menu)"
 msgstr ""
 
 msgid "Zap to channel and close (setup in menu)"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Zap up"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "Zoom In/Out TV..."
 msgstr ""
 
 msgid "Zoom Off..."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "Zoom from left"
 msgstr ""
 
 msgid "Zoom from right"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "[TimeShift] Restarting Timeshift!"
 msgstr ""
 
@@ -12346,6 +14702,7 @@ msgid "a gui to assign services/providers/caids to common interface modules"
 msgstr "GUI для призначення каналів/провайдерів/caid'ів для CI-модулів"
 
 #
+<<<<<<< HEAD
 msgid "about to start"
 msgstr "Як почати"
 
@@ -12356,6 +14713,55 @@ msgstr ""
 msgid "add bookmark"
 msgstr "додати закладку"
 
+=======
+msgid "abort alternatives edit"
+msgstr "відмінити редагування вибраного"
+
+#
+msgid "abort bouquet edit"
+msgstr "відмінити редагування пакету"
+
+#
+msgid "abort favourites edit"
+msgstr "відмінити редагування фаворитів"
+
+#
+msgid "about to start"
+msgstr "Як почати"
+
+#
+msgid "activate network adapter configuration"
+msgstr ""
+
+#
+msgid "add alternatives"
+msgstr "додати вибране"
+
+#
+msgid "add bookmark"
+msgstr "додати закладку"
+
+#
+msgid "add bouquet"
+msgstr "додати пакет"
+
+#
+msgid "add marker"
+msgstr "додати закладку"
+
+#
+msgid "add service to bouquet"
+msgstr "додати канал до фаворитів"
+
+#
+msgid "add service to favourites"
+msgstr "додати канал до фаворитів"
+
+#
+msgid "add to parental protection"
+msgstr "додати в батьківський контроль"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "address:"
 msgstr ""
 
@@ -12372,23 +14778,30 @@ msgstr ""
 msgid "advertisement/shopping"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "alpha then oldest"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "alphabetic"
 msgstr ""
 
 msgid "alphabetic reverse"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "alpharev then newest"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 #, fuzzy
 msgid "alternative"
 msgstr "додати вибране"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "am"
@@ -12402,6 +14815,8 @@ msgstr ""
 msgid "are you sure you want to cancel all the changes"
 msgstr "Ви дійсно хочете видалити %s?"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "arts/culture (without music, general)"
 msgstr ""
 
@@ -12518,6 +14933,13 @@ msgid "comedy"
 msgstr ""
 
 #
+<<<<<<< HEAD
+=======
+msgid "complex"
+msgstr "комплексний"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "confirmed"
 msgstr "підтверджений"
 
@@ -12525,6 +14947,13 @@ msgstr "підтверджений"
 msgid "connected"
 msgstr "під'єднаний"
 
+<<<<<<< HEAD
+=======
+#
+msgid "continue"
+msgstr "продовжити"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "cooking"
 msgstr ""
 
@@ -12532,9 +14961,23 @@ msgid "copy"
 msgstr ""
 
 #
+<<<<<<< HEAD
 msgid "create directory"
 msgstr "створити директорію"
 
+=======
+msgid "copy to bouquets"
+msgstr "копіювати до пакетів"
+
+#
+msgid "create directory"
+msgstr "створити директорію"
+
+#, python-format
+msgid "currently installed image: %s"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "daily"
 msgstr "щодня"
@@ -12553,12 +14996,15 @@ msgstr ""
 msgid "delete cut"
 msgstr "видалити вирізане"
 
+<<<<<<< HEAD
 msgid "delete time - show delete time (Trash ONLY)"
 msgstr ""
 
 msgid "delete time - show record time (Trash ONLY)"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "descramble and record ecm"
 msgstr ""
 
@@ -12570,6 +15016,13 @@ msgid "disable"
 msgstr "вимкнути"
 
 #
+<<<<<<< HEAD
+=======
+msgid "disable move mode"
+msgstr "вимкнути режим переміщення"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "disabled"
 msgstr "вимкнуто"
 
@@ -12613,6 +15066,13 @@ msgstr ""
 msgid "economics/social advisory"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+msgid "edit alternatives"
+msgstr "редагувати вибрані канали"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "education/science/factual topics (general)"
 msgstr ""
 
@@ -12625,17 +15085,48 @@ msgid "enable"
 msgstr "ввімкнути"
 
 #
+<<<<<<< HEAD
+=======
+msgid "enable bouquet edit"
+msgstr "ввімкнути редагування пакету"
+
+#
+msgid "enable favourite edit"
+msgstr "ввімкнути редагування фаворитів"
+
+#
+msgid "enable move mode"
+msgstr "ввімкнути режим переміщення"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "enabled"
 msgstr "ввімкнуто"
 
 #
+<<<<<<< HEAD
+=======
+msgid "end alternatives edit"
+msgstr "кінець редагування вибраного"
+
+#
+msgid "end bouquet edit"
+msgstr "кінець редагування пакету"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "end cut here"
 msgstr "кінець вирізання тут"
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "ene"
 msgstr "Жанр"
+=======
+msgid "end favourites edit"
+msgstr "кінець редагування фаворитів"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "enter number to jump to channel."
 msgstr ""
@@ -12646,9 +15137,12 @@ msgstr ""
 msgid "entertainment (6-14 year old)"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "epg cache backup"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "equal to"
 msgstr "так само як"
@@ -12656,6 +15150,7 @@ msgstr "так само як"
 msgid "equestrian"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "error starting scanning"
 msgstr ""
 
@@ -12685,6 +15180,22 @@ msgstr ""
 #
 msgid "exit DVD player or return to file browser"
 msgstr "вийти з DVD програвача"
+=======
+#
+msgid "exit DVD player or return to file browser"
+msgstr "вийти з DVD програвача"
+
+msgid "exit mounts setup menu"
+msgstr ""
+
+#
+msgid "exit network adapter configuration"
+msgstr "вийти з конфігурації мережевого адаптера"
+
+#
+msgid "exit networkadapter setup menu"
+msgstr "вийти з меню конфігурації мережевого адаптера"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "experimental film/video"
 msgstr ""
@@ -12692,9 +15203,12 @@ msgstr ""
 msgid "extensions."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "extra wide"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "failed"
 msgstr ""
 
@@ -12707,6 +15221,12 @@ msgstr ""
 msgid "fast"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "file oscam.conf could not be found"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "fileformats (BMP, PNG, JPG, GIF)"
 msgstr "формат файлів (BMP, PNG, JPG, GIF)"
@@ -12721,6 +15241,13 @@ msgstr ""
 msgid "fine arts"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+msgid "fine-tune your display"
+msgstr "налаштуйте зображення екрану"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "fitness & health"
 msgstr ""
 
@@ -12751,9 +15278,12 @@ msgstr "вільно"
 msgid "free diskspace"
 msgstr "вільного місця"
 
+<<<<<<< HEAD
 msgid "from"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "full"
 msgstr ""
 
@@ -12792,7 +15322,11 @@ msgid "handled"
 msgstr ""
 
 msgid ""
+<<<<<<< HEAD
 "has been sent to the ViX team.\n"
+=======
+"has been sent to the Obh beta team.\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "please quote"
 msgstr ""
 
@@ -12845,6 +15379,13 @@ msgid "languages"
 msgstr ""
 
 #
+<<<<<<< HEAD
+=======
+msgid "leave movie player..."
+msgstr "вийти з програвача..."
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "left"
 msgstr "Лівий канал"
 
@@ -12868,9 +15409,12 @@ msgstr ""
 msgid "locked"
 msgstr "сигнал"
 
+<<<<<<< HEAD
 msgid "long"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "loopthrough to"
 msgstr "зв'язаний з"
@@ -12921,6 +15465,25 @@ msgstr ""
 msgid "move"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+msgid "move down to last entry"
+msgstr "перемістити донизу до останнього запису"
+
+#
+msgid "move down to next entry"
+msgstr "перемістити донизу до наступного запису"
+
+#
+msgid "move up to first entry"
+msgstr "перемістити вгору до першого запису"
+
+#
+msgid "move up to previous entry"
+msgstr "перемістити до попереднього запису"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "movie/drama (general)"
 msgstr ""
 
@@ -12941,11 +15504,14 @@ msgid "nature/animals/environment"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "ne"
 msgstr "Один"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "never"
 msgstr "ніколи"
 
@@ -12962,6 +15528,7 @@ msgid "news/weather report"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "nne"
 msgstr "HDD не виявлено"
@@ -12972,6 +15539,8 @@ msgid "nnw"
 msgstr "невідомий"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "no"
 msgstr "Ні"
 
@@ -12983,6 +15552,7 @@ msgstr "CAId не вибрано"
 msgid "no CI slots found"
 msgstr "CI слот не знайдено"
 
+<<<<<<< HEAD
 msgid "no channel list"
 msgstr ""
 
@@ -12991,6 +15561,8 @@ msgstr ""
 msgid "no delay"
 msgstr "Таймер Вимкнення"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "no module found"
 msgstr "модуль не знайдено"
@@ -12998,11 +15570,14 @@ msgstr "модуль не знайдено"
 msgid "no or unknown card inserted"
 msgstr ""
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "no resource manager"
 msgstr "Управління пакетами"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "no storage devices found"
 msgstr ""
 
@@ -13032,9 +15607,12 @@ msgstr "не викорситувається"
 msgid "nothing connected"
 msgstr "нічого не під'єднано"
 
+<<<<<<< HEAD
 msgid "nw"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "of a DUAL layer medium used."
 msgstr "DUAL-Layer диску використано."
@@ -13062,6 +15640,7 @@ msgstr "на READ ONLY носії."
 msgid "once"
 msgstr "один раз"
 
+<<<<<<< HEAD
 msgid "only 4K"
 msgstr ""
 
@@ -13080,6 +15659,22 @@ msgstr ""
 msgid ""
 "oscam.conf not found.\n"
 "Please enter username/password manually."
+=======
+msgid "only HD"
+msgstr ""
+
+msgid "open bouquetlist"
+msgstr ""
+
+#
+msgid "open nameserver configuration"
+msgstr "відкрити конфігурацію nameserwera"
+
+msgid "original"
+msgstr ""
+
+msgid "original language"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "packages selected."
@@ -13098,6 +15693,15 @@ msgstr ""
 msgid "pid:"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "play as picture in picture"
+msgstr ""
+
+msgid "play in mainwindow"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "please press OK when ready"
 msgstr "Натисніть ОК коли буде виконано"
@@ -13109,9 +15713,12 @@ msgstr "Почекайте, йде завантаження зображення
 msgid "please wait..."
 msgstr ""
 
+<<<<<<< HEAD
 msgid "pm"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "popular culture/traditional arts"
 msgstr ""
 
@@ -13139,11 +15746,14 @@ msgstr "йде запис..."
 msgid "red"
 msgstr "червоний"
 
+<<<<<<< HEAD
 #
 #, fuzzy
 msgid "reliable"
 msgstr "ввімкнути"
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "religion"
 msgstr ""
 
@@ -13155,6 +15765,17 @@ msgid "remove after this position"
 msgstr "Видалити після цієї позиції"
 
 #
+<<<<<<< HEAD
+=======
+msgid "remove all alternatives"
+msgstr "видалити вибрані канали"
+
+#
+msgid "remove all new found flags"
+msgstr "очистити список нових каналів"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "remove before this position"
 msgstr "видалити перед цією позицією"
 
@@ -13167,6 +15788,25 @@ msgid "remove directory"
 msgstr "видалити директорію"
 
 #
+<<<<<<< HEAD
+=======
+msgid "remove entry"
+msgstr "видалити канал зі списку"
+
+#
+msgid "remove from parental protection"
+msgstr "видалити з батьківського контролю"
+
+#
+msgid "remove new found flag"
+msgstr "видалити позначку new found "
+
+#
+msgid "remove selected satellite"
+msgstr "видалити вибраний супутник"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "remove this mark"
 msgstr "видалити цю закладку"
 
@@ -13174,6 +15814,14 @@ msgid "rename"
 msgstr ""
 
 #
+<<<<<<< HEAD
+=======
+#, fuzzy
+msgid "rename entry"
+msgstr "видалити канал зі списку"
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "repeat playlist"
 msgstr "повторне програвання плейлиста"
 
@@ -13224,11 +15872,14 @@ msgid "science fiction/fantasy/horror"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "se"
 msgstr "Використовувати"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "second cable of motorized LNB"
 msgstr "другий кабель моторизованої LNB"
 
@@ -13244,12 +15895,31 @@ msgstr "вибрати"
 msgid "select CAId's"
 msgstr "вибрати CAId'и"
 
+<<<<<<< HEAD
+=======
+#
+msgid "select menu entry"
+msgstr "виберіть пункт меню"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "serious music/classic music"
 msgstr ""
 
 msgid "serious/classical/religious/historical movie/drama"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+msgid "service PIN"
+msgstr ""
+
+msgid "set as startup service"
+msgstr ""
+
+msgid "setup PIN"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "share:"
 msgstr ""
 
@@ -13257,12 +15927,25 @@ msgstr ""
 msgid "show DVD main menu"
 msgstr "показати головне меню DVD"
 
+<<<<<<< HEAD
+=======
+msgid "show EPG..."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "show all cards"
 msgstr ""
 
 msgid "show all tags"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+msgid "show alternatives"
+msgstr "показати вибрані канали"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "show cards with uphop 0"
 msgstr ""
 
@@ -13300,12 +15983,30 @@ msgstr "показати деталі"
 msgid "show mediaplayer on mainmenu"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+#, fuzzy
+msgid "show picons in service list"
+msgstr "Канал відсутній у списку сервісів"
+
+msgid "show program information..."
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "show softwaremanager in plugin menu"
 msgstr ""
 
 msgid "show softwaremanager on blue button"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+msgid "show transponder info"
+msgstr "інформація транспондера"
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "show/game show (general)"
 msgstr ""
 
@@ -13351,6 +16052,13 @@ msgstr ""
 msgid "sorting of playlists"
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#
+msgid "special characters"
+msgstr ""
+
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "special events"
 msgstr ""
 
@@ -13361,6 +16069,7 @@ msgid "sports magazine"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "sse"
 msgstr "Використовувати"
@@ -13369,6 +16078,8 @@ msgid "ssw"
 msgstr ""
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "standard"
 msgstr "стандартний"
 
@@ -13387,7 +16098,11 @@ msgstr ""
 msgid "stereo"
 msgstr "Стерео"
 
+<<<<<<< HEAD
 msgid "sw"
+=======
+msgid "stop using as startup service"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 #
@@ -13430,11 +16145,14 @@ msgid "tennis/squash"
 msgstr ""
 
 #
+<<<<<<< HEAD
 #, fuzzy
 msgid "this bouquet is protected by a parental control pin"
 msgstr "цей канал захищений PIN кодом"
 
 #
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "this recording"
 msgstr "цей запис"
 
@@ -13452,6 +16170,7 @@ msgstr ""
 msgid "tourism/travel"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "traditional (fast)"
 msgstr ""
 
@@ -13471,6 +16190,24 @@ msgid "uShare name"
 msgstr ""
 
 msgid "uShare port"
+=======
+msgid "true"
+msgstr ""
+
+msgid "tuner is not supported"
+msgstr ""
+
+msgid "uShare Log"
+msgstr ""
+
+msgid "uShare Name"
+msgstr ""
+
+msgid "uShare Port"
+msgstr ""
+
+msgid "uShare Setup"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgstr ""
 
 msgid "uShare setup"
@@ -13516,6 +16253,13 @@ msgid "vertical"
 msgstr "вертикальна (V)"
 
 #
+<<<<<<< HEAD
+=======
+msgid "view extensions..."
+msgstr "додаткове меню..."
+
+#
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 msgid "wait for ci..."
 msgstr "почекайте на CI..."
 
@@ -13547,11 +16291,19 @@ msgstr "щотижня"
 msgid "west"
 msgstr "Перемістити на захід"
 
+<<<<<<< HEAD
 msgid "when asking questions about this log"
 msgstr ""
 
 msgid ""
 "when asking questions about this log\n"
+=======
+msgid "when asking question about this log"
+msgstr ""
+
+msgid ""
+"when asking question about this log\n"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 "\n"
 "A copy has been sent to yourself."
 msgstr ""
@@ -13559,8 +16311,14 @@ msgstr ""
 msgid "white"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "wide"
 msgstr ""
+=======
+#
+msgid "whitelist"
+msgstr "білий список"
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 
 msgid "width"
 msgstr ""
@@ -13586,6 +16344,7 @@ msgstr ""
 msgid "with long OK press"
 msgstr ""
 
+<<<<<<< HEAD
 msgid "with text"
 msgstr ""
 
@@ -13595,13 +16354,18 @@ msgstr ""
 msgid "wnw"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "working"
 msgstr "працює"
 
+<<<<<<< HEAD
 msgid "wsw"
 msgstr ""
 
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 #
 msgid "yellow"
 msgstr "жовтий"
@@ -13627,6 +16391,7 @@ msgstr "запис"
 msgid "zapped"
 msgstr "Переключений"
 
+<<<<<<< HEAD
 #
 #~ msgid "A recording is currently running. Please stop the recording before trying to start the satfinder."
 #~ msgstr "В даний час йде запис. Зупиніть запис перед стартом satfinder'а."
@@ -13806,3 +16571,5 @@ msgstr "Переключений"
 #
 #~ msgid "whitelist"
 #~ msgstr "білий список"
+=======
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b

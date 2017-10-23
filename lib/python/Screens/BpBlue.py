@@ -24,11 +24,19 @@ class DeliteBluePanel(Screen):
         <widget name="lab2" position="139,172" size="190,24" font="Regular;20" halign="center" valign="center" zPosition="2" transparent="1"/>
     	<widget name="lab3" position="79,201" size="120,28" font="Regular;24" halign="left" zPosition="2" transparent="1"/> 
         <widget name="activecam" position="79,201" size="350,28" font="Regular;24" halign="left" zPosition="2" transparent="1"/>
+<<<<<<< HEAD
         <widget name="Ilab1" position="79,257" size="350,28" font="Regular;24" backgroundColor="blue" zPosition="2" transparent="1"/>
         <widget name="Ilab2" position="79,290" size="350,28" font="Regular;24" backgroundColor="green" zPosition="2" transparent="1"/>
         <widget name="Ilab3" position="79,315" size="350,28" font="Regular;24" backgroundColor="red" zPosition="2" transparent="1"/>
         <widget name="Ilab4" position="79,345" size="350,28" font="Regular;24" backgroundColor="blue" zPosition="2" transparent="1"/>
         <widget name="Ecmtext" position="79,380" size="440,300" font="Regular;24" backgroundColor="yellow" zPosition="2" transparent="1"/>
+=======
+        <widget name="Ilab1" position="79,257" size="350,28" font="Regular;24" zPosition="2" transparent="1"/>
+        <widget name="Ilab2" position="79,290" size="350,28" font="Regular;24" zPosition="2" transparent="1"/>
+        <widget name="Ilab3" position="79,315" size="350,28" font="Regular;24" zPosition="2" transparent="1"/>
+        <widget name="Ilab4" position="79,345" size="350,28" font="Regular;24" zPosition="2" transparent="1"/>
+        <widget name="Ecmtext" position="79,380" size="440,300" font="Regular;20" zPosition="2" transparent="1"/>
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
         <ePixmap position="145,650" size="140,40" pixmap="skin_default/buttons/red.png" alphatest="on" zPosition="1" />
         <ePixmap position="430,650" size="140,40" pixmap="skin_default/buttons/yellow.png" alphatest="on" zPosition="1" />
         <ePixmap position="715,650" size="140,40" pixmap="skin_default/buttons/blue.png" alphatest="on" zPosition="1" />
@@ -261,8 +269,13 @@ class BhsysInfo(Screen):
 		
 	def updateInfo(self):
 		rc = system("df -h > /tmp/syinfo.tmp")
+<<<<<<< HEAD
 		text = _("BOX\n") + _("Brand:") + "\tDreambox\n"
 		f = open("/proc/stb/info/model",'r')
+=======
+		text = _("BOX\n") + _("Brand:") + "\tVuplus\n"
+		f = open("/proc/stb/info/vumodel",'r')
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
  		text += _("Model:\t") + f.readline()
  		f.close()
 		f = open("/proc/stb/info/chipset",'r')
@@ -323,7 +336,11 @@ class BhEpgPanel(Screen):
 	def __init__(self, session):
 		Screen.__init__(self, session)
 		
+<<<<<<< HEAD
 		flist = [("EPGSettings"),("EPGImport")]
+=======
+		flist = [("EPGSettings"),("EPGImport"),("EPGImportFilter"),("CrossEPG"),("EPGSearch")]
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 		self["list"] = List(flist)
 
 		self["actions"] = ActionMap(["WizardActions", "ColorActions"],
@@ -337,12 +354,30 @@ class BhEpgPanel(Screen):
 	def KeyOk(self):
 		sel = self["list"].getCurrent()
 		if sel:
+<<<<<<< HEAD
 			if sel == "EPGSettings":
+=======
+			if sel == "CrossEPG":
+				from Plugins.SystemPlugins.CrossEPG.crossepg_main import crossepg_main
+				crossepg_main.setup(self.session)
+			elif sel == "EPGSettings":
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 				from Screens.Setup import Setup
 				self.session.open(Setup, "epgsettings")
 			elif sel == "EPGImport":
 				from Plugins.Extensions.EPGImport.plugin import main as xmltv
 				xmltv(self.session)
+<<<<<<< HEAD
+=======
+			elif sel == "EPGImportFilter":
+				from Plugins.Extensions.EPGImportFilter.plugin import main as epgimportfilter
+				epgimportfilter(self.session)
+			elif sel == "EPGSearch":
+				#from Plugins.Extensions.EPGSearch.plugin import main as epgsearch
+				#epgsearch(self.session)
+				from Plugins.Extensions.EPGSearch.EPGSearch import EPGSearch  as epgsearch
+				self.session.open(epgsearch)
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 			
 			
 	
@@ -361,4 +396,8 @@ class DeliteBp:
 	def callNabAction(self, *args):
 		if len(args):
 			(actionmap, context, action) = args
+<<<<<<< HEAD
 			actionmap.action(context, action)
+=======
+			actionmap.action(context, action)
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b

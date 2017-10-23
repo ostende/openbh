@@ -24,9 +24,15 @@ class DeliteGreenPanel(Screen):
 				{"template": [
 				MultiContentEntryText(pos = (125, 0), size = (650, 24), font=0, text = 0),
 				MultiContentEntryText(pos = (125, 24), size = (650, 24), font=1, text = 1),
+<<<<<<< HEAD
 				MultiContentEntryPixmapAlphaTest(pos = (6, 5), size = (120, 50), png = 2),
 				],
 				"fonts": [gFont("Regular", 28),gFont("Regular", 22)],
+=======
+				MultiContentEntryPixmapAlphaTest(pos = (6, 5), size = (100, 40), png = 2),
+				],
+				"fonts": [gFont("Regular", 24),gFont("Regular", 20)],
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 				"itemHeight": 50
 				}
 			</convert>
@@ -211,4 +217,8 @@ class DeliteScript(Screen):
 			mysel = mysel[0]
 			mysel2 = "/usr/script/" + mysel + ".sh"
 			mytitle = _("Black Hole E2 Script: ") + mysel
+<<<<<<< HEAD
 			self.session.open(Console, title=mytitle, cmdlist=[mysel2])
+=======
+			self.session.open(Console, title=mytitle, cmdlist=[mysel2])
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b

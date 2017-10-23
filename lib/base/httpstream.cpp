@@ -42,7 +42,11 @@ int eHttpStream::openUrl(const std::string &url, std::string &newurl)
 
 	close();
 
+<<<<<<< HEAD
 	std::string user_agent = "Enigma2 HbbTV/1.1.1 (+PVR+RTSP+DL;OpenViX;;;)";
+=======
+	std::string user_agent = "Enigma2 HbbTV/1.1.1 (+PVR+RTSP+DL;OpenBh;;;)";
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 	std::string extra_headers = "";
 	size_t pos = uri.find('#');
 	if (pos != std::string::npos)

@@ -4,6 +4,10 @@ dist_pkgdata_DATA = \
 	encoding.conf \
 	keymap.xml \
 	menu.xml \
+<<<<<<< HEAD
+=======
+	menuorder.bh \
+>>>>>>> 514bfa8cf42b97e71a5f543857143938de77914b
 	black.mvi \
 	rcpositions.xml \
 	setup.xml \
